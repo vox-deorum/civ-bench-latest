@@ -1,0 +1,13 @@
+experiment,seed,missing_rotations,n_missing
+claude-opus-5.5-standard-fixed-per-5,1,"0,1,2,4",4
+claude-opus-5.5-standard-fixed-per-5,2,"0,3,5,7",4
+claude-opus-5.5-standard-fixed-per-5,3,"2,3,4,6,7",5
+glm-5.3-standard-fixed-per-5,2,"0,5",2
+gpt-6-astra-standard-fixed-per-5,1,"0,1,2,4,6,7",6
+gpt-6-astra-standard-fixed-per-5,2,"0,2,3,5,6,7",6
+gpt-6-astra-standard-fixed-per-5,3,"2,3,4,6,7",5
+gpt-6-luna-standard-fixed,1,"0,1,2,4,5,6,7",7
+gpt-6-luna-standard-fixed,2,"0,1,2,3,4,5,6,7",8
+gpt-6-luna-standard-fixed,3,"0,1,2,3,4,5,6,7",8
+qwen-3.5-standard-fixed-per-5,3,2,1
+qwen-3.8-flash-next-standard-fixed-per-5,2,"0,7",2

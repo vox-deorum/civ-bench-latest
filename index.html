@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Controlled CivBench on Vox Populi 5.2.7, Civilization V</title>
+<link rel="stylesheet" href="assets/report.css">
+<script src="assets/report-help.js" defer></script>
+<script src="assets/report-common.js" defer></script>
+</head><body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<aside class="sidebar">
+<a class="site-title" href="index.html">Controlled CivBench on Vox Populi 5.2.7, Civilization V</a>
+<nav aria-label="Report navigation"><ul>
+<li><a href="index.html" aria-current="page">Overview</a></li>
+<li><a href="ratings.html">Ratings</a><ul>
+<li><a href="ratings.html#section-bt-main">Pairwise skill ratings</a></li>
+<li><a href="ratings.html#section-bt-strategy">Pairwise strategy ratings</a></li>
+<li><a href="ratings.html#section-matchup-strength">Adjusted-strength matchups</a></li>
+<li><a href="ratings.html#section-matchup-winrates">Victory matchups</a></li>
+</ul></li>
+<li><a href="performance.html">Performance</a><ul>
+<li><a href="performance.html#section-perf-usage-efficiency">Usage, cost, and skill</a></li>
+<li><a href="performance.html#section-perf-turn-predicted">Win-probability trends</a></li>
+<li><a href="performance.html#section-perf-experiment-completeness">Experiment coverage</a></li>
+</ul></li>
+<li><a href="controlled-seed/index.html">Matched Maps</a><ul>
+<li><a href="controlled-seed/index.html#seed-1">Seed 1</a></li>
+<li><a href="controlled-seed/index.html#seed-2">Seed 2</a></li>
+<li><a href="controlled-seed/index.html#seed-3">Seed 3</a></li>
+</ul></li>
+<li><a href="behavior.html">Behavior</a><ul>
+<li><a href="behavior.html#section-beh-flavors">Strategic settings</a></li>
+<li><a href="behavior.html#section-beh-diplomacy">Diplomatic behavior</a></li>
+<li><a href="behavior.html#section-beh-commitment">Strategic commitment</a></li>
+<li><a href="behavior.html#section-beh-policies">Policy paths</a></li>
+</ul></li>
+<li><a href="prediction.html">Prediction</a><ul>
+<li><a href="prediction.html#section-pred-metrics">Prediction quality</a></li>
+<li><a href="prediction.html#section-pred-compare">Estimator agreement</a></li>
+</ul></li>
+<li><a href="calibration.html">Calibration</a><ul>
+<li><a href="calibration.html#section-cal-reliability">Prediction reliability</a></li>
+<li><a href="calibration.html#section-cal-loss-progress">Prediction error over time</a></li>
+<li><a href="calibration.html#section-cal-civ-effects">Civilization strength effects</a></li>
+<li><a href="calibration.html#section-cal-cell-baseline">Starting-position baselines</a></li>
+</ul></li>
+</ul></nav></aside>
+<main class="content" id="main-content">
+<h1>Controlled CivBench on Vox Populi 5.2.7, Civilization V</h1>
+<p class="caption">A controlled version of CivBench (Chen et al., 2026). Each LLM strategists rotate through 3 standard maps (8 players), each game features 2 of the same LLM strategists + 6 Vox Populi AI players. Experimented with 2 conditions: having LLMs make a decision every turn (base); having them make a decision every 5 turns, or when an important event comes up (per-5).</p>
+<aside class="announcement" data-announcement="result">
+<p class="eyebrow">Latest score
+ &middot; <time datetime="2026-09-30">Sep 30, 2026</time>
+</p><p><strong>GPT-6-Luna-Simple</strong> scored <strong>1510 Elo</strong> (Per-5, #3).</p></aside>
+<aside class="announcement" data-announcement="testing">
+<p class="eyebrow">Currently being tested
+</p><p><strong>Opus-5.5-Simple-Per-5</strong> (11/24); <strong>GLM-5.3-Simple-Per-5</strong> (22/24); <strong>GPT-6-Astra-Simple-Per-5</strong> (7/24); <strong>GPT-6-Luna-Simple</strong> (1/24); <strong>Qwen-3.5-Simple-Per-5</strong> (23/24); <strong>Qwen-3.8-Flash-Next-Simple-Per-5</strong> (22/24)</p></aside>
+<aside class="announcement latest-game"><p class="eyebrow">Latest game · 2026-09-30 (<a href="games.html">All recent games</a>)</p><p>Qwen-3.8-Flash-Next-Simple | Per-5 · <a class="replay-link" href="saves/qwen-3.8-flash-next-standard-fixed-per-5/d64948db-5ccd-4e07-9ca4-ceb0cc172f39.Civ5Save" data-viewer="https://vox-deorum.github.io/vox-deorum-replay/" data-query="player0=Qwen-3.8-Flash-Next-Simple%20%7C%20Per-5&amp;player3=Qwen-3.8-Flash-Next-Simple%20%7C%20Per-5&amp;winner=1">▶ Watch replay</a></p><p>Player 0 (The Netherlands) | Player 3 (Spain) · Winner: Player 1 (The Ottomans, VPAI)</p></aside>
+<section aria-labelledby="overview-heading">
+<h2 id="overview-heading">Overview</h2>
+<div class="overview-grid">
+<article class="overview-card">
+<p class="eyebrow">Ratings</p>
+<h2>Pairwise skill ratings<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-bt-main-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-bt-main-overview">Estimates each player type&#x27;s relative skill from pairwise comparisons of model-adjusted strength within each game (Bradley-Terry Elo ratings).
+
+Module: ratings.bradley_terry
+
+group_by: player_type; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5</span></span></h2>
+<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1631 Elo</strong>; rating spread: <strong>320</strong> points.</p>
+<p><a href="ratings.html#section-bt-main">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Ratings</p>
+<h2>Victory matchups<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-matchup-winrates-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-matchup-winrates-overview">Shows wins per player appearance in shared games and final-score margins. The equal-chance victory rate is 1 divided by the number of players in each game (12.5% for eight players).
+
+Module: ratings.outcome_matchups
+
+table: panel; include_score_ratio: True; victory_rate_unit: wins per player; expected_win_rate: Equal chance: 1 / full game player count, averaged over player appearances.; p_value_win_rate: Binomial test against equal chance, available for fixed game sizes with one appearance of the player type per game.; display: vs_reference; score_ratio_margin: row minus column</span></span></h2>
+<p>DeepSeek-V4.1-Flash-Simple-Per-5 has the highest per-player matchup victory rate: <strong>22.9%</strong> (<strong>11/48</strong>; expected <strong>12.5%</strong> in 8-player games.)</p>
+<p><a href="ratings.html#section-matchup-winrates">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Prediction</p>
+<h2>Prediction quality<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-pred-metrics-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-pred-metrics-overview">Measures how well each estimator identifies likely winners and matches observed outcomes (discrimination and calibration).
+
+Module: prediction.evaluate
+
+metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></span></h2>
+<p>attention performs best on roc auc at <strong>0.8555</strong> using <strong>740</strong> games; scores range from <strong>0.8072</strong> to <strong>0.8555</strong>.</p>
+<p><a href="prediction.html#section-pred-metrics">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Performance</p>
+<h2>Usage, cost, and skill<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-perf-usage-efficiency-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-perf-usage-efficiency-overview">Compares cost and token use per player per game with skill, and measures Elo above or below the fitted usage-skill curve.
+
+Module: performance.usage_efficiency
+
+currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {&#x27;cost&#x27;: {&#x27;intercept&#x27;: 1442.8408524432111, &#x27;slope&#x27;: 64.85449783092801, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.3463421876104511}, &#x27;input&#x27;: {&#x27;intercept&#x27;: 923.0880421771247, &#x27;slope&#x27;: 78.9254691010527, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.04572683557507706}, &#x27;output&#x27;: {&#x27;intercept&#x27;: 1106.1182980728759, &#x27;slope&#x27;: 62.60546441895703, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.22907327859184723}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.6850018803823</span></span></h2>
+<p>Most cost-efficient: <strong>GLM-5.3-Simple-Per-5</strong> (<strong>+103 Elo</strong> vs the fitted curve). Least cost-efficient: <strong>Qwen-3.6-27B-Simple-Per-5</strong> (<strong>-115 Elo</strong> vs the fitted curve).</p>
+<p><a href="performance.html#section-perf-usage-efficiency">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Behavior</p>
+<h2>Strategic settings<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-beh-flavors-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-beh-flavors-overview">Shows how each strategist sets the in-game AI&#x27;s flavors (0 to 100, 50 is balanced), against the average of completed experiments on the same map and seat and in absolute terms.
+
+Module: behavior.flavors
+
+n_absolute_players: 1384; baseline: completed-experiment average; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 1248; n_baseline_experiments: 26; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship</span></span></h2>
+<p>Against the completed-experiment average, the largest departure is <strong>Qwen-3.8-Flash-Next-Simple | Per-5</strong> on <strong>recon</strong> (<strong>-26</strong>).</p>
+<p><a href="behavior.html#section-beh-flavors">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Behavior</p>
+<h2>Diplomatic behavior<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-beh-diplomacy-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-beh-diplomacy-overview">Describes diplomatic persona traits and the public and private stances strategists set toward rivals, including how often the two conflict.
+
+Module: behavior.diplomacy
+
+n_absolute_players: 1384; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns</span></span></h2>
+<p><strong>Friendliest</strong>: Nemotron-3-Super-Simple | Every-turn (+207.4 net) · <strong>Least friendly</strong>: MiniMax-M3-Simple | Per-5 (-37.3 net) · <strong>Most masked</strong>: DeepSeek-V4-Flash-Simple | Every-turn (4.4%)</p>
+<p><a href="behavior.html#section-beh-diplomacy">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Behavior</p>
+<h2>Strategic commitment<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-beh-commitment-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-beh-commitment-overview">Shows how often strategists act and revise their settings, how large and how lasting their changes are, and which grand strategy they hold.
+
+Module: behavior.commitment
+
+n_absolute_players: 1384; baseline: completed-experiment average; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 1248; n_baseline_experiments: 26; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns</span></span></h2>
+<p><strong>Domination</strong>: Gemma-4-Simple | Every-turn (43%) · <strong>Culture</strong>: MiniMax-M2.7-Simple | Every-turn (53%) · <strong>Diplomatic</strong>: GPT-OSS-120B-Simple | Every-turn (51%) · <strong>Science</strong>: GPT-6-Luna-Simple | Per-5 (76%)</p>
+<p><a href="behavior.html#section-beh-commitment">View details</a></p>
+</article>
+<article class="overview-card">
+<p class="eyebrow">Behavior</p>
+<h2>Policy paths<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-beh-policies-overview" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-beh-policies-overview">Shows which policy branches and ideologies each player type adopts, which it picks first in each tier, and how early, against the in-game AI on the same map and seat.
+
+Module: behavior.policies
+
+n_absolute_players: 1432; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1432; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order</span></span></h2>
+<p><strong>Freedom</strong>: Kimi-K2.7-Simple | Every-turn (29%) · <strong>Autocracy</strong>: Qwen-3.6-27B-Simple | Every-turn (33%) · <strong>Order</strong>: Qwen-3.5-Simple | Per-5 (59%)</p>
+<p><a href="behavior.html#section-beh-policies">View details</a></p>
+</article>
+</div></section>
+<section aria-label="Citation">
+<h2>Citation</h2>
+<h3>Paper</h3>
+<pre><code class="language-bibtex">@article{chen2026civbench,
+  title={CivBench: Progress-Based Evaluation for LLMs' Strategic Decision-Making in Civilization V},
+  author={Chen, John and Cheng, Sihan and Gurkan, Can and Lin, Mingyi},
+  journal={Conference on Language Modeling (COLM)},
+  year={2026}
+}
+</code></pre>
+<h3>Benchmark results</h3>
+<pre><code class="language-bibtex">@misc{civbench_results,
+  title={Controlled CivBench on Vox Populi 5.2.7, Civilization V},
+  url={https://github.com/vox-deorum/civ-bench}
+}
+</code></pre>
+</section>
+<footer class="report-footer">
+<p>Generated by <a href="https://github.com/vox-deorum/civ-bench">CivBench</a> (<a href="https://arxiv.org/abs/2604.07733">Chen, 2026</a>)</p>
+</footer>
+</main></body></html>

@@ -1,0 +1,7 @@
+experiment,file,total_cells,completed_cells,open_cells
+claude-opus-5.5-standard-fixed-per-5,seating/claude-opus-5.5-standard-fixed-per-5.seating.json,24,11,13
+glm-5.3-standard-fixed-per-5,seating/glm-5.3-standard-fixed-per-5.seating.json,24,22,2
+gpt-6-astra-standard-fixed-per-5,seating/gpt-6-astra-standard-fixed-per-5.seating.json,24,7,17
+gpt-6-luna-standard-fixed,seating/gpt-6-luna-standard-fixed.seating.json,24,1,23
+qwen-3.5-standard-fixed-per-5,seating/qwen-3.5-standard-fixed-per-5.seating.json,24,23,1
+qwen-3.8-flash-next-standard-fixed-per-5,seating/qwen-3.8-flash-next-standard-fixed-per-5.seating.json,24,22,2
