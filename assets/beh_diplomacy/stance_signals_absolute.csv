@@ -1,175 +1,175 @@
 row_kind,player_type,strategist,condition,row_label,metric,metric_group,mean,median,ci_lower,ci_upper,n_players,n_games,color_position
-group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,relationship_changes,Activity,5.082885758399091,5.097402597402597,4.351711803111956,5.7591266632234985,48,24,0.299021
+group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,relationship_changes,Activity,5.082885758399091,5.097402597402597,4.351711803111956,5.7591266632234985,48,24,0.298092
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_public_avg,Stance,7.710110416666667,5.5859000000000005,2.9549744270833336,11.678772499999997,48,24,0.577101
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_private_avg,Stance,15.926341666666666,16.83285,9.815835625000002,21.514519270833333,48,24,0.659263
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_net_avg,Stance,23.636458333333334,31.588250000000002,14.023077968749998,31.906633489583335,48,24,0.618182
-group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.8735416666666667,0.0,0.11104166666666666,1.7666770833333323,48,24,0.489056
-group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,3.5660416666666666,0.0,1.3043177083333335,6.392031249999999,48,24,0.777906
-group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,relationship_changes,Activity,3.977940092651791,3.716462888472925,3.438145346445103,4.614964786851576,48,24,0.286816
+group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.8735416666666667,0.0,0.11104166666666666,1.7666770833333323,48,24,0.488435
+group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,3.5660416666666666,0.0,1.3043177083333335,6.392031249999999,48,24,0.779138
+group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,relationship_changes,Activity,3.977940092651791,3.716462888472925,3.438145346445103,4.614964786851576,48,24,0.285857
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_public_avg,Stance,6.212677083333333,4.4411,1.796524218750001,10.238408385416665,48,24,0.562127
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_private_avg,Stance,7.351670833333333,4.4587,3.7176518750000027,10.950484739583333,48,24,0.573517
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_net_avg,Stance,13.564358333333333,10.49975,7.134245312500003,19.421163489583336,48,24,0.567822
-group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.19020833333333334,0.0,0.0,0.570625,48,24,0.43055
-group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,2.2687500000000003,0.0,0.1075,5.050833333333333,48,24,0.662521
-group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,relationship_changes,Activity,8.697908157266548,7.894415400400645,7.959702655997574,9.43116388228697,48,24,0.338952
+group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.19020833333333334,0.0,0.0,0.570625,48,24,0.429858
+group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,2.2687500000000003,0.0,0.1075,5.050833333333333,48,24,0.663287
+group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,relationship_changes,Activity,8.697908157266548,7.894415400400645,7.959702655997574,9.43116388228697,48,24,0.33812
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_public_avg,Stance,30.625349999999997,31.6154,24.972276197916667,36.04691130208334,48,24,0.806253
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_private_avg,Stance,25.291995833333335,21.71365,21.447922343749998,29.17252270833333,48,24,0.75292
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_net_avg,Stance,55.91733541666667,49.102050000000006,47.230435625,65.04909062499999,48,24,0.779587
-group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.03833333333333333,0.0,0.0,0.11499999999999999,48,24,0.417547
-group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.06604166666666667,0.0,0.0,0.198125,48,24,0.466606
-group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,relationship_changes,Activity,33.121102235355345,33.67182418629364,30.28074844212658,35.549982053094745,48,24,0.60873
+group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.03833333333333333,0.0,0.0,0.11499999999999999,48,24,0.416839
+group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.06604166666666667,0.0,0.0,0.198125,48,24,0.466581
+group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,relationship_changes,Activity,33.121102235355345,33.67182418629364,30.28074844212658,35.549982053094745,48,24,0.608552
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_public_avg,Stance,7.092970833333333,4.5454,3.2190926562500044,11.095108906250001,48,24,0.57093
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_private_avg,Stance,4.779368750000001,3.904,0.06206708333333694,9.319384322916665,48,24,0.547794
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_net_avg,Stance,11.872356250000001,8.22975,3.113506197916668,20.611467083333334,48,24,0.559362
-group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,2.2895833333333333,0.385,1.2442656250000002,3.4569791666666654,48,24,0.610294
-group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.23333333333333336,0.0,0.05375000000000001,0.46678124999999987,48,24,0.481485
-group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,relationship_changes,Activity,23.342481900287343,21.79278197208877,20.49425679594176,26.020685010592743,48,24,0.500715
+group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,2.2895833333333333,0.385,1.2442656250000002,3.4569791666666654,48,24,0.60982
+group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.23333333333333336,0.0,0.05375000000000001,0.46678124999999987,48,24,0.481521
+group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,relationship_changes,Activity,23.342481900287343,21.79278197208877,20.49425679594176,26.020685010592743,48,24,0.500276
 group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_public_avg,Stance,27.21649583333333,26.437350000000002,20.166467135416667,34.036672187499995,48,24,0.772165
 group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_private_avg,Stance,31.723529166666665,30.105449999999998,24.12983890625,38.61555119791666,48,24,0.817235
 group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_net_avg,Stance,58.940031250000004,55.46055,44.992065833333335,72.56925104166666,48,24,0.7947
-group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.41874999999999996,0.0,0.03207291666666667,1.0323072916666667,48,24,0.450118
-group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.03625,0.0,0.0,0.10874999999999997,48,24,0.463956
-group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,relationship_changes,Activity,10.948457614368607,10.084304852482488,9.487190001338014,12.435840048091944,48,24,0.363812
+group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.41874999999999996,0.0,0.03207291666666667,1.0323072916666667,48,24,0.449449
+group,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,GLM-5.2-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.03625,0.0,0.0,0.10874999999999997,48,24,0.463921
+group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,relationship_changes,Activity,10.948457614368607,10.084304852482488,9.487190001338014,12.435840048091944,48,24,0.36304
 group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_public_avg,Stance,16.57132916666667,10.56025,9.54919171875,23.46975223958333,48,24,0.665713
 group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_private_avg,Stance,16.1985,11.49035,9.593155156249999,23.213810677083334,48,24,0.661985
 group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_net_avg,Stance,32.769825000000004,22.691200000000002,19.615714947916672,45.665517395833334,48,24,0.663849
-group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.08062499999999999,0.0,0.0,0.24187499999999998,48,24,0.421168
-group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.010208333333333333,0.0,0.0,0.030625,48,24,0.46164
-group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,relationship_changes,Activity,17.577618385004552,16.82615629984051,15.769230048533515,19.481120189515323,48,24,0.437037
+group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.08062499999999999,0.0,0.0,0.24187499999999998,48,24,0.420464
+group,GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,GLM-5.2-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.010208333333333333,0.0,0.0,0.030625,48,24,0.461595
+group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,relationship_changes,Activity,17.577618385004552,16.82615629984051,15.769230048533515,19.481120189515323,48,24,0.436443
 group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_public_avg,Stance,5.1327895833333335,0.635,2.0205535937500003,8.280683124999998,48,24,0.551328
 group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_private_avg,Stance,5.127220833333333,5.64715,0.8893944791666694,9.60875640625,48,24,0.551272
 group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_net_avg,Stance,10.260014583333334,9.482,3.9666789583333366,16.58546578125,48,24,0.5513
-group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.6235416666666667,0.0,0.18875,1.0568854166666664,48,24,0.467651
-group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.4364583333333334,0.0,0.026458333333333334,0.9437031249999996,48,24,0.499552
-group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,relationship_changes,Activity,11.668634755354065,11.648886614441864,10.978931193132729,12.36403378475638,48,24,0.371767
+group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.6235416666666667,0.0,0.18875,1.0568854166666664,48,24,0.467004
+group,GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,GLM-5.3-Flash-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.4364583333333334,0.0,0.026458333333333334,0.9437031249999996,48,24,0.49966
+group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,relationship_changes,Activity,11.668634755354065,11.648886614441864,10.978931193132729,12.36403378475638,48,24,0.371014
 group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_public_avg,Stance,2.055391666666667,0.0,0.3503308854166669,3.9281016145833334,48,24,0.520554
 group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_private_avg,Stance,0.2564125,0.92085,-3.5252728645833327,3.6968554166666667,48,24,0.502564
 group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_net_avg,Stance,2.3118000000000003,4.1203,-2.110671614583333,6.759842239583334,48,24,0.511559
-group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.7993750000000001,0.0,0.23141145833333338,1.4359479166666662,48,24,0.482706
-group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.4272916666666667,0.0,0.02791666666666667,1.0684635416666663,48,24,0.498736
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,relationship_changes,Activity,18.195917688589816,18.022177706939218,16.502023633471016,19.97356799242067,44,22,0.443867
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_public_avg,Stance,13.569579545454543,9.9906,7.561923295454546,20.08390914772727,44,22,0.635696
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_private_avg,Stance,14.283018181818182,11.1448,8.006708977272726,21.351715568181817,44,22,0.64283
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_net_avg,Stance,27.852588636363635,28.74805,16.557667386363644,38.88737835227273,44,22,0.639263
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.038409090909090914,0.0,0.0009090909090909091,0.09931818181818185,44,22,0.417554
-group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,44,22,0.460732
-group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,relationship_changes,Activity,6.5558845568223445,6.008990983298785,5.3517300705457735,7.73594340729701,48,24,0.315291
+group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.7993750000000001,0.0,0.23141145833333338,1.4359479166666662,48,24,0.482077
+group,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,GLM-5.3-Flash-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.4272916666666667,0.0,0.02791666666666667,1.0684635416666663,48,24,0.498841
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,relationship_changes,Activity,18.307212314084456,18.31155977830562,16.69163809216754,19.940340250007733,48,24,0.444522
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_public_avg,Stance,13.878060416666665,10.11035,8.217353489583335,19.825114322916665,48,24,0.638781
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_private_avg,Stance,13.902156249999999,9.20455,7.763865833333333,20.27907203125,48,24,0.639022
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_net_avg,Stance,27.780206250000003,28.02505,17.438506249999996,38.37908197916666,48,24,0.638901
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.035208333333333335,0.0,0.0010416666666666667,0.09000000000000001,48,24,0.416571
+group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.460683
+group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,relationship_changes,Activity,6.5558845568223445,6.008990983298785,5.3517300705457735,7.73594340729701,48,24,0.314402
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_public_avg,Stance,12.219700000000001,6.1141,4.696605000000003,19.92149891188714,47,24,0.622197
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_private_avg,Stance,15.017497872340426,7.7858,6.130776497118796,24.526696012077288,47,24,0.650175
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_net_avg,Stance,27.23719787234043,17.4664,11.054542433510646,43.38573895235891,47,24,0.636186
-group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.01936170212765958,0.0,0.0,0.05562500000000001,47,24,0.415923
-group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,47,24,0.460732
+group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.01936170212765958,0.0,0.0,0.05562500000000001,47,24,0.415213
+group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,47,24,0.460683
 group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,relationship_changes,Activity,111.85120283434271,110.05742491208827,103.05742016401044,120.49978599743699,48,24,1.0
 group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_public_avg,Stance,38.285625,38.508799999999994,32.880595,44.130960781249996,48,24,0.882856
 group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_private_avg,Stance,13.129252083333332,4.2849,7.855696250000003,19.33278036458333,48,24,0.631293
 group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_net_avg,Stance,51.414868750000004,47.2678,41.59081520833333,62.493609010416655,48,24,0.757074
-group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.04416666666666667,0.0,0.009375,0.10461979166666666,48,24,0.418046
-group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.010625,0.0,0.004369791666666672,0.018541666666666665,48,24,0.461677
-group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,relationship_changes,Activity,33.513619883871996,33.080044955044954,31.218199865663482,35.9707607759646,48,24,0.613065
+group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.04416666666666667,0.0,0.009375,0.10461979166666666,48,24,0.417339
+group,GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,GPT-OSS-120B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.010625,0.0,0.004369791666666672,0.018541666666666665,48,24,0.461632
+group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,relationship_changes,Activity,33.513619883871996,33.080044955044954,31.218199865663482,35.9707607759646,48,24,0.612899
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_public_avg,Stance,19.671143750000002,17.5077,15.12713703125,24.575631562499996,48,24,0.696711
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_private_avg,Stance,4.000597916666667,1.8844500000000002,2.0218563541666668,6.0518071354166665,48,24,0.540006
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_net_avg,Stance,23.671739583333334,24.0455,17.635950625000003,30.349301354166666,48,24,0.618359
-group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.115,0.0,0.0261770833333334,0.2512604166666667,48,24,0.424111
-group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.23229166666666667,0.0,0.04163020833333336,0.5144479166666666,48,24,0.481393
-group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,relationship_changes,Activity,3.6966825351626373,3.4683239775461105,3.2397391494186256,4.2555550568995,48,24,0.283709
+group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.115,0.0,0.0261770833333334,0.2512604166666667,48,24,0.423411
+group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.23229166666666667,0.0,0.04163020833333336,0.5144479166666666,48,24,0.481428
+group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,relationship_changes,Activity,3.6966825351626373,3.4683239775461105,3.2397391494186256,4.2555550568995,48,24,0.282743
 group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_public_avg,Stance,-1.8744437499999995,0.0,-7.820994114583331,3.7364672916666652,48,24,0.481256
 group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_private_avg,Stance,-32.028247916666665,-37.96745,-42.109738593749995,-22.69448265625,48,24,0.179718
 group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_net_avg,Stance,-33.90269166666667,-42.90975,-47.26061510416666,-20.15054729166667,48,24,0.330487
-group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.414265
-group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.460732
-group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,relationship_changes,Activity,2.142835491454588,2.332285115303983,1.8433134114572365,2.4286500427366584,48,24,0.266545
+group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.413553
+group,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.460683
+group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,relationship_changes,Activity,2.142835491454588,2.332285115303983,1.8433134114572365,2.4286500427366584,48,24,0.265537
 group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_public_avg,Stance,-3.49870625,0.0,-7.772890260416662,0.022234947916666737,48,24,0.465013
 group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_private_avg,Stance,-31.463712500000003,-32.25825,-39.275834947916664,-22.475309322916672,48,24,0.185363
 group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_net_avg,Stance,-34.962418750000005,-35.311049999999994,-44.81339046874999,-25.304395364583335,48,24,0.325188
-group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.414265
-group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.460732
-group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,relationship_changes,Activity,19.8506823969893,20.649357900614184,17.838518860175586,21.983587847415794,48,24,0.462145
+group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.413553
+group,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.0,0.0,0.0,0.0,48,24,0.460683
+group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,relationship_changes,Activity,19.8506823969893,20.649357900614184,17.838518860175586,21.983587847415794,48,24,0.461612
 group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_public_avg,Stance,34.71186666666667,32.27575,27.87591916666667,41.01445359375,48,24,0.847119
 group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_private_avg,Stance,31.9419875,28.393,24.784167864583335,38.753681822916654,48,24,0.81942
 group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_net_avg,Stance,66.65385208333333,60.46225,54.355901770833334,79.65596984375,48,24,0.833269
-group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.6177083333333335,0.05,0.8422239583333333,2.536197916666666,48,24,0.55277
-group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.041041666666666664,0.0,0.0,0.10189583333333332,48,24,0.464382
-group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,relationship_changes,Activity,26.258391809738015,24.489156626506023,23.51704438798568,28.929302059885334,48,24,0.532924
+group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.6177083333333335,0.05,0.8422239583333333,2.536197916666666,48,24,0.552226
+group,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.041041666666666664,0.0,0.0,0.10189583333333332,48,24,0.464349
+group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,relationship_changes,Activity,26.258391809738015,24.489156626506023,23.51704438798568,28.929302059885334,48,24,0.532563
 group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_public_avg,Stance,41.03687291666666,41.79715,34.748504375,46.569366822916656,48,24,0.910369
 group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_private_avg,Stance,32.32454166666667,34.59155,26.24326541666667,38.211014166666665,48,24,0.823245
 group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_net_avg,Stance,73.36141666666667,73.8539,61.85854302083334,84.44932770833333,48,24,0.866807
-group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,3.304166666666667,0.73,1.7465156250000007,5.521265624999999,48,24,0.697161
-group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.2920833333333333,0.0,0.08141145833333338,0.5670885416666666,48,24,0.486711
-group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,relationship_changes,Activity,18.764715628462348,19.516162270372114,17.525151097545496,19.912675744023424,48,24,0.45015
+group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,3.304166666666667,0.73,1.7465156250000007,5.521265624999999,48,24,0.696792
+group,Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,Kimi-K2.7-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.2920833333333333,0.0,0.08141145833333338,0.5670885416666666,48,24,0.486767
+group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,relationship_changes,Activity,18.764715628462348,19.516162270372114,17.525151097545496,19.912675744023424,48,24,0.449588
 group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_public_avg,Stance,18.0087875,13.902149999999999,13.209163697916669,23.064741145833334,48,24,0.680088
 group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_private_avg,Stance,8.310614583333333,7.116,3.997839114583334,12.466192291666662,48,24,0.583106
 group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_net_avg,Stance,26.31940833333333,20.97065,17.521456406250003,34.980145781249995,48,24,0.631597
-group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.7264583333333334,0.3,1.4185520833333336,4.229390625,48,24,0.647699
-group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.07291666666666667,0.0,0.006458333333333333,0.19883333333333328,48,24,0.467217
-group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,relationship_changes,Activity,23.54807624140756,23.347732978880522,21.04324555412318,26.052486978782824,48,24,0.502986
+group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.7264583333333334,0.3,1.4185520833333336,4.229390625,48,24,0.64727
+group,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.07291666666666667,0.0,0.006458333333333333,0.19883333333333328,48,24,0.467195
+group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,relationship_changes,Activity,23.54807624140756,23.347732978880522,21.04324555412318,26.052486978782824,48,24,0.502553
 group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_public_avg,Stance,-1.371525,-1.0412,-5.741588854166666,2.7042744270833334,48,24,0.486285
 group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_private_avg,Stance,-2.0014729166666667,-0.52685,-6.697654583333333,2.6820081770833326,48,24,0.479985
 group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_net_avg,Stance,-3.373008333333333,-2.73965,-11.74525015625,4.30009046875,48,24,0.483135
-group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.7664583333333335,0.0,0.9953125000000002,2.590369791666667,48,24,0.565505
-group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.9097916666666667,0.0,0.3141614583333333,1.7043072916666664,48,24,0.541651
-group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,relationship_changes,Activity,8.784090262956719,8.987606670575207,7.694475057309253,9.863490993745112,48,24,0.339904
+group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.7664583333333335,0.0,0.9953125000000002,2.590369791666667,48,24,0.564977
+group,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,MiniMax-M2.7-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.9097916666666667,0.0,0.3141614583333333,1.7043072916666664,48,24,0.54193
+group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,relationship_changes,Activity,8.784090262956719,8.987606670575207,7.694475057309253,9.863490993745112,48,24,0.339074
 group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_public_avg,Stance,-13.359310416666666,-8.7522,-20.154428541666665,-7.53149640625,48,24,0.366407
 group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_private_avg,Stance,-13.592945833333333,-9.2059,-20.264167708333336,-7.814419739583334,48,24,0.364071
 group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_net_avg,Stance,-26.95225625,-15.96265,-39.45881229166667,-14.634818854166667,48,24,0.365239
-group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.5685416666666667,0.0,0.07641145833333393,1.19671875,48,24,0.462942
-group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.43124999999999997,0.0,0.10333333333333333,0.8226354166666666,48,24,0.499089
-group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,relationship_changes,Activity,11.23900258729879,8.353858784893266,9.377381577022504,13.447208052578732,48,24,0.367021
+group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.5685416666666667,0.0,0.07641145833333393,1.19671875,48,24,0.46229
+group,MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,MiniMax-M2.7-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.43124999999999997,0.0,0.10333333333333333,0.8226354166666666,48,24,0.499195
+group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,relationship_changes,Activity,11.23900258729879,8.353858784893266,9.377381577022504,13.447208052578732,48,24,0.366257
 group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_public_avg,Stance,-16.748229787234045,-13.6211,-26.214489239130433,-7.633870942028986,47,24,0.332518
 group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_private_avg,Stance,-20.554844680851065,-20.1812,-29.671675752775208,-11.264129724069148,47,24,0.294452
 group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_net_avg,Stance,-37.303065957446805,-42.5542,-55.5728103125,-19.03989873005319,47,24,0.313485
-group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.6965957446808511,0.0,0.21595561594202908,1.4054891304347823,47,24,0.473906
-group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.3074468085106384,0.0,0.0,0.7768152173913041,47,24,0.488077
-group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,relationship_changes,Activity,31.046174869332475,31.0376213592233,26.93362780949139,34.52563520907629,48,24,0.58581
+group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.6965957446808511,0.0,0.21595561594202908,1.4054891304347823,47,24,0.473267
+group,MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,MiniMax-M3-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.3074468085106384,0.0,0.0,0.7768152173913041,47,24,0.488139
+group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,relationship_changes,Activity,31.046174869332475,31.0376213592233,26.93362780949139,34.52563520907629,48,24,0.585577
 group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_public_avg,Stance,137.04091874999997,57.7,44.31612640625,309.4274225520833,48,24,1.0
 group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_private_avg,Stance,70.35212916666667,55.25215,42.617166718750006,121.89406494791658,48,24,1.0
 group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_net_avg,Stance,207.39305208333334,112.1535,86.00942776041664,427.7605771354167,48,24,1.0
-group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.4814583333333334,0.0,0.02875,1.0988541666666665,48,24,0.455486
-group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.020833333333333332,0.0,0.0,0.06083333333333333,48,24,0.462585
-group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,relationship_changes,Activity,15.645633790310015,14.849739982665511,14.339058622579026,17.02732347315562,48,24,0.415696
+group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,0.4814583333333334,0.0,0.02875,1.0988541666666665,48,24,0.454825
+group,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.020833333333333332,0.0,0.0,0.06083333333333333,48,24,0.462544
+group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,relationship_changes,Activity,15.645633790310015,14.849739982665511,14.339058622579026,17.02732347315562,48,24,0.415051
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_public_avg,Stance,44.850310416666666,44.37515,39.97178333333333,50.33508078125,48,24,0.948503
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_private_avg,Stance,42.43600416666666,44.433499999999995,36.365478906250004,48.460538750000005,48,24,0.92436
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_net_avg,Stance,87.28631875,92.03995,76.30667557291666,97.22206656249998,48,24,0.936432
-group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.11145833333333333,0.0,0.0,0.2791666666666667,48,24,0.423808
-group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.063125,0.0,0.0,0.16979166666666665,48,24,0.466346
-group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,relationship_changes,Activity,28.822363738120305,27.502623906705537,26.15043811681709,31.623843867255392,48,24,0.561246
+group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.11145833333333333,0.0,0.0,0.2791666666666667,48,24,0.423108
+group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.063125,0.0,0.0,0.16979166666666665,48,24,0.466321
+group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,relationship_changes,Activity,28.822363738120305,27.502623906705537,26.15043811681709,31.623843867255392,48,24,0.560954
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_public_avg,Stance,20.289918750000002,21.13375,10.425803645833335,30.14252682291667,48,24,0.702899
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_private_avg,Stance,16.911581249999998,20.547449999999998,7.748119010416669,25.568172708333332,48,24,0.669116
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_net_avg,Stance,37.201489583333334,41.897800000000004,19.860076770833334,56.190660625,48,24,0.686007
-group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.0566666666666666,0.0,0.3595572916666667,2.0634635416666662,48,24,0.504735
-group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.11562499999999999,0.0,0.018932291666666688,0.24252604166666666,48,24,0.471016
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,relationship_changes,Activity,22.216845930311013,22.255436220305803,20.714735900997148,23.95327258248842,46,23,0.488282
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_public_avg,Stance,8.724430434782608,11.5484,2.541287065217391,14.485234999999998,46,23,0.587244
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_private_avg,Stance,5.571273913043478,8.796299999999999,-0.2499054347826054,11.421930434782608,46,23,0.555713
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_net_avg,Stance,14.295695652173915,20.212899999999998,3.3248480434782617,25.446483750000002,46,23,0.571478
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.5621739130434782,0.0,0.15946739130434792,1.0775271739130432,46,23,0.462397
-group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.37999999999999995,0.0,0.022326086956521995,0.8918043478260864,46,23,0.49453
-group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,relationship_changes,Activity,38.93515237046447,39.23702643669503,35.8475740933612,41.83385393750066,48,24,0.672951
+group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.0566666666666666,0.0,0.3595572916666667,2.0634635416666662,48,24,0.504133
+group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.11562499999999999,0.0,0.018932291666666688,0.24252604166666666,48,24,0.471009
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,relationship_changes,Activity,21.67555261869859,21.936200889102487,19.921673034608542,23.608144678454572,48,24,0.481819
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_public_avg,Stance,8.980312499999998,11.5484,3.271449114583334,14.530471510416664,48,24,0.589803
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_private_avg,Stance,5.714827083333333,8.796299999999999,0.1376080208333364,11.474834270833334,48,24,0.557148
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_net_avg,Stance,14.695129166666668,20.212899999999998,3.2332006250000043,25.348684427083324,48,24,0.573476
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_masked_hostility_share,Mixed signals,0.53875,0.0,0.16286979166666674,1.0756354166666664,48,24,0.459736
+group,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.3641666666666666,0.0,0.010833333333333334,0.8339583333333332,48,24,0.493204
+group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,relationship_changes,Activity,38.93515237046447,39.23702643669503,35.8475740933612,41.83385393750066,48,24,0.67293
 group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_public_avg,Stance,12.122572916666668,8.913250000000001,3.1377044791666715,22.82452880208333,48,24,0.621226
 group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_private_avg,Stance,7.278745833333333,7.0984,-2.9975044270833338,17.903900833333324,48,24,0.572787
 group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_net_avg,Stance,19.40130625,15.8921,0.9788508854166668,38.09906208333333,48,24,0.597007
-group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,2.0264583333333337,0.725,1.164807291666667,3.028552083333332,48,24,0.587766
-group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.21958333333333332,0.0,0.04708333333333333,0.47262499999999985,48,24,0.480262
-group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,relationship_changes,Activity,18.711511580951512,18.840359783688335,17.432328524907412,20.094722981662265,48,24,0.449562
+group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,2.0264583333333337,0.725,1.164807291666667,3.028552083333332,48,24,0.587265
+group,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.21958333333333332,0.0,0.04708333333333333,0.47262499999999985,48,24,0.480293
+group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,relationship_changes,Activity,18.711511580951512,18.840359783688335,17.432328524907412,20.094722981662265,48,24,0.448998
 group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_public_avg,Stance,7.2385270833333335,8.2492,2.062583541666668,11.52775390625,48,24,0.572385
 group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_private_avg,Stance,1.2589145833333342,4.0241999999999996,-4.773743854166664,6.1724684895833315,48,24,0.512589
 group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_net_avg,Stance,8.497439583333332,13.8369,-2.7485698437500004,18.19212578125,48,24,0.542487
-group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.314791666666667,0.605,1.0870833333333338,3.772473958333333,48,24,0.612453
-group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.32666666666666666,0.0,0.06728645833333334,0.6763125,48,24,0.489787
-group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,relationship_changes,Activity,51.771595556049185,47.676994693629155,47.28560326637266,55.984578746657384,48,24,0.814742
+group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.314791666666667,0.605,1.0870833333333338,3.772473958333333,48,24,0.611981
+group,Qwen-3.6-27B-Simple-Per-5,Qwen-3.6-27B-Simple,Per-5,Qwen-3.6-27B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.32666666666666666,0.0,0.06728645833333334,0.6763125,48,24,0.489855
+group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,relationship_changes,Activity,51.771595556049185,47.676994693629155,47.28560326637266,55.984578746657384,48,24,0.815065
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_public_avg,Stance,26.204724999999996,25.8323,21.441416458333336,30.785226510416663,48,24,0.762047
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_private_avg,Stance,25.2853375,27.1067,21.332224687500002,29.240140625,48,24,0.752853
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_net_avg,Stance,51.49005208333333,51.199,43.349549635416665,59.707533906250006,48,24,0.75745
-group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.1329166666666668,0.305,0.681234375,1.6446354166666666,48,24,0.511263
-group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.15916666666666665,0.0,0.06666666666666667,0.2743958333333333,48,24,0.474889
-group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,relationship_changes,Activity,27.810044034735153,28.257815244116614,25.770093466696526,29.73053978842601,48,24,0.550064
+group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_masked_hostility_share,Mixed signals,1.1329166666666668,0.305,0.681234375,1.6446354166666666,48,24,0.510669
+group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,stance_masked_goodwill_share,Mixed signals,0.15916666666666665,0.0,0.06666666666666667,0.2743958333333333,48,24,0.474897
+group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,relationship_changes,Activity,27.810044034735153,28.257815244116614,25.770093466696526,29.73053978842601,48,24,0.549744
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_public_avg,Stance,13.420956249999998,10.5726,9.115198125000001,17.026676875,48,24,0.63421
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_private_avg,Stance,11.26945625,8.00165,6.6241745312499996,16.071643802083333,48,24,0.612695
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_net_avg,Stance,24.690410416666666,21.153100000000002,16.371666875000006,32.95370489583333,48,24,0.623452
-group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.0233333333333334,0.10999999999999999,1.2501666666666666,2.9529375,48,24,0.587499
-group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.8527083333333333,0.0,0.1137291666666667,1.8993333333333324,48,24,0.536574
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,relationship_changes,Activity,41.570990101465576,42.18009478672985,38.47281671210783,45.148589172807284,46,23,0.702067
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_public_avg,Stance,11.897989130434786,11.07975,8.952206521739132,15.572948260869568,46,23,0.61898
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_private_avg,Stance,14.390795652173912,12.1486,10.427429891304348,17.877629673913045,46,23,0.643908
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_net_avg,Stance,26.288784782608683,26.052300000000002,20.414696630434783,32.577267880434796,46,23,0.631444
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_masked_hostility_share,Mixed signals,3.0808695652173914,1.155,1.9061032608695656,4.247440217391304,46,23,0.678043
-group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,1.308695652173913,0.43499999999999994,0.8556249999999999,1.80683152173913,46,23,0.577131
+group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_masked_hostility_share,Mixed signals,2.0233333333333334,0.10999999999999999,1.2501666666666666,2.9529375,48,24,0.586997
+group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,0.8527083333333333,0.0,0.1137291666666667,1.8993333333333324,48,24,0.536832
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,relationship_changes,Activity,41.357987141838784,40.14532680871832,38.43476269442359,44.52176160203279,52,26,0.699758
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_public_avg,Stance,11.802509615384615,10.3498,9.368229326923078,14.738207788461537,52,26,0.618025
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_private_avg,Stance,13.942817307692309,12.1486,10.431151250000001,17.38872048076923,52,26,0.639428
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_net_avg,Stance,25.74532692307692,25.434350000000002,19.834666971153844,32.16473355769231,52,26,0.628727
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_masked_hostility_share,Mixed signals,3.1465384615384617,1.5550000000000002,2.1089038461538463,4.214370192307692,52,26,0.68328
+group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,stance_masked_goodwill_share,Mixed signals,1.2265384615384616,0.38999999999999996,0.8023846153846155,1.668899038461538,52,26,0.570216

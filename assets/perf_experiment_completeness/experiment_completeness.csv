@@ -1,5 +1,5 @@
 experiment,required_games,present_games,missing_games,completeness_pct,repeated_slots,excluded_games,failed_turn_count,avg_failure_count,failure_pct,warning
-claude-opus-5.5-standard-fixed-per-5,24,11,13,0.4583,0,0,1.0,0.0455,0.0001,13 missing slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
+claude-opus-5.5-standard-fixed-per-5,24,15,9,0.625,0,0,1.0,0.0333,0.0001,9 missing slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
 deepseek-v4-flash-standard-fixed,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 deepseek-v4-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 deepseek-v4.1-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
@@ -10,9 +10,9 @@ glm-5.2-standard-fixed,24,24,0,1.0,0,0,60.0,1.25,0.0033,60 failed decision turn(
 glm-5.2-standard-fixed-per-5,24,24,0,1.0,0,0,8.0,0.1667,0.0005,8 failed decision turn(s)
 glm-5.3-flash-standard-fixed,24,24,0,1.0,0,1,824.0,16.48,0.0437,1 game(s) excluded by decision failure cutoff; 824 failed decision turn(s)
 glm-5.3-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
-glm-5.3-standard-fixed-per-5,24,22,2,0.9167,0,0,1.0,0.0227,0.0001,2 missing slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
+glm-5.3-standard-fixed-per-5,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 gpt-6-astra-standard-fixed-per-5,24,7,17,0.2917,0,0,0.0,0.0,0.0,17 missing slot(s); cell repeat counts differ from expected 8
-gpt-6-luna-standard-fixed,24,1,23,0.0417,0,0,0.0,0.0,0.0,23 missing slot(s); cell repeat counts differ from expected 8
+gpt-6-luna-standard-fixed,24,9,15,0.375,0,0,0.0,0.0,0.0,15 missing slot(s); cell repeat counts differ from expected 8
 gpt-6-luna-standard-fixed-per-5,24,24,0,1.0,0,0,10.0,0.2083,0.0005,10 failed decision turn(s)
 kimi-k2.6-standard-fixed,24,24,0,1.0,0,0,5.0,0.1042,0.0003,5 failed decision turn(s)
 kimi-k2.7-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
@@ -26,10 +26,11 @@ null-standard-fixed,24,24,0,1.0,0,0,,,,decision-turn failure telemetry unavailab
 oss-120b-standard-fixed,24,24,0,1.0,0,0,35.0,0.7292,0.0019,35 failed decision turn(s)
 oss-120b-standard-fixed-per-5,24,24,0,1.0,0,0,4.0,0.0833,0.0002,4 failed decision turn(s)
 qwen-3.5-standard-fixed,24,24,0,1.0,0,0,4.0,0.0833,0.0002,4 failed decision turn(s)
-qwen-3.5-standard-fixed-per-5,24,23,1,0.9583,0,0,7.0,0.1522,0.0004,1 missing slot(s); cell repeat counts differ from expected 8; 7 failed decision turn(s)
+qwen-3.5-standard-fixed-per-5,24,24,0,1.0,0,0,7.0,0.1458,0.0004,7 failed decision turn(s)
 qwen-3.6-27b-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.6-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
-qwen-3.8-flash-next-standard-fixed-per-5,24,23,2,0.9167,1,0,1.0,0.0217,0.0001,2 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
+qwen-3.8-flash-next-standard-fixed,24,3,21,0.125,0,0,0.0,0.0,0.0,21 missing slot(s); cell repeat counts differ from expected 8
+qwen-3.8-flash-next-standard-fixed-per-5,24,26,0,1.0,2,0,1.0,0.0192,0.0,2 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
 vanilla-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok

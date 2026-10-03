@@ -1,5 +1,5 @@
 experiment,player_type,completed_games,required_games,completed_at
-claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple-Per-5,11,24,
+claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple-Per-5,15,24,
 deepseek-v4-flash-standard-fixed,DeepSeek-V4-Flash-Simple,24,24,2026-08-19T17:17:44.232000Z
 deepseek-v4-flash-standard-fixed-per-5,DeepSeek-V4-Flash-Simple-Per-5,24,24,2026-08-11T13:08:00.480000Z
 deepseek-v4.1-flash-standard-fixed-per-5,DeepSeek-V4.1-Flash-Simple-Per-5,24,24,2026-09-28T23:18:09.638000Z
@@ -10,9 +10,9 @@ glm-5.2-standard-fixed,GLM-5.2-Simple,24,24,2026-08-18T11:25:27.346000Z
 glm-5.2-standard-fixed-per-5,GLM-5.2-Simple-Per-5,24,24,2026-07-10T12:35:47.815000Z
 glm-5.3-flash-standard-fixed,GLM-5.3-Flash-Simple,24,24,2026-09-21T09:05:07.797000Z
 glm-5.3-flash-standard-fixed-per-5,GLM-5.3-Flash-Simple-Per-5,24,24,2026-09-06T17:21:52.560000Z
-glm-5.3-standard-fixed-per-5,GLM-5.3-Simple-Per-5,22,24,
+glm-5.3-standard-fixed-per-5,GLM-5.3-Simple-Per-5,24,24,2026-10-02T12:26:26.169000Z
 gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple-Per-5,7,24,
-gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,1,24,
+gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,9,24,
 gpt-6-luna-standard-fixed-per-5,GPT-6-Luna-Simple-Per-5,24,24,2026-09-30T12:28:15.905000Z
 kimi-k2.6-standard-fixed,Kimi-K2.6-Simple,24,24,2026-06-19T18:50:14.885000Z
 kimi-k2.7-standard-fixed,Kimi-K2.7-Simple,24,24,2026-07-10T03:50:36.218000Z
@@ -25,9 +25,10 @@ nemotron-3-standard-fixed-per-5,Nemotron-3-Super-Simple-Per-5,24,24,2026-09-01T0
 oss-120b-standard-fixed,GPT-OSS-120B-Simple,24,24,2026-09-22T15:46:08.859000Z
 oss-120b-standard-fixed-per-5,GPT-OSS-120B-Simple-Per-5,24,24,2026-07-17T23:08:36.079000Z
 qwen-3.5-standard-fixed,Qwen-3.5-Simple,24,24,2026-07-05T21:40:33.134000Z
-qwen-3.5-standard-fixed-per-5,Qwen-3.5-Simple-Per-5,23,24,
+qwen-3.5-standard-fixed-per-5,Qwen-3.5-Simple-Per-5,24,24,2026-10-01T14:21:34.501000Z
 qwen-3.6-27b-standard-fixed,Qwen-3.6-27B-Simple,24,24,2026-07-07T07:34:42.216000Z
 qwen-3.6-27b-standard-fixed-per-5,Qwen-3.6-27B-Simple-Per-5,24,24,2026-07-02T19:11:21.086000Z
 qwen-3.8-27b-standard-fixed,Qwen-3.8-27B-Simple,24,24,2026-09-08T11:29:06.023000Z
 qwen-3.8-27b-standard-fixed-per-5,Qwen-3.8-27B-Simple-Per-5,24,24,2026-09-16T17:40:37.901000Z
-qwen-3.8-flash-next-standard-fixed-per-5,Qwen-3.8-Flash-Next-Simple-Per-5,22,24,
+qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple,3,24,
+qwen-3.8-flash-next-standard-fixed-per-5,Qwen-3.8-Flash-Next-Simple-Per-5,24,24,2026-10-01T10:56:07.194000Z

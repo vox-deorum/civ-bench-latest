@@ -247,14 +247,14 @@ glm-5.3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.385610778766395,6,0.16666
 glm-5.3-standard-fixed-per-5,implicit,1,5,Denmark,-3.076292321005694,6,0.0,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,1,6,Austria,-2.0781219734246807,6,0.3333333333333333,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.5751184513681775,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.651333859038619,5,0.0,6,2,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.4055921879991127,5,0.0,6,2,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,2,France,-5.633019057044403,4,0.0,6,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,3,Spain,-5.9382052564991925,5,0.0,6,2,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.561280962378369,4,0.0,6,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,5,Brazil,-2.498164438031761,4,0.25,6,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,6,Arabia,-5.249541055964468,4,0.0,6,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,7,Poland,-1.3071266672242046,5,0.2,6,2,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.1879864648276883,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.0107765825090937,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,2,France,-6.106884877258957,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,3,Spain,-5.723506493591664,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.067429754179071,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,5,Brazil,-3.0835419336514227,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,6,Arabia,-5.285273763586104,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,7,Poland,-1.3729718403180968,6,0.1666666666666666,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,3,0,France,-4.523054481305889,6,0.0,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,3,1,The Zulus,-2.183429291558994,6,0.3333333333333333,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,3,2,China,-0.4911297243096986,6,0.6666666666666666,8,3,True,True
@@ -591,14 +591,14 @@ qwen-3.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.558138041138819,6,0.0,8
 qwen-3.5-standard-fixed-per-5,implicit,2,5,Brazil,-3.152447737071192,6,0.0,8,3,True,True
 qwen-3.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.344847677629143,6,0.0,8,3,True,True
 qwen-3.5-standard-fixed-per-5,implicit,2,7,Poland,-0.1192970860069439,6,0.6666666666666666,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,0,France,-4.523983050818691,5,0.0,7,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,1,The Zulus,-1.832077201267665,5,0.2,7,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,2,China,-0.5865754233503564,5,0.6,7,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,3,Egypt,-3.6397634830656,5,0.0,7,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,4,Mongolia,-6.034524259556648,6,0.0,7,2,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,5,Austria,-2.813281802042201,6,0.0,7,2,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,6,Morocco,-4.073391024174903,5,0.0,7,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.423082304171892,5,0.2,7,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,0,France,-4.531073923018511,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,1,The Zulus,-1.642145772632697,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,2,China,-0.5865754233503564,5,0.6,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,3,Egypt,-3.6397634830656,5,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.272019511457537,7,0.0,8,2,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,5,Austria,-2.6275063292802683,7,0.0,8,2,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.747537563171972,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.5184996045356667,6,0.1666666666666666,8,3,True,True
 qwen-3.6-27b-standard-fixed,implicit,1,0,Arabia,-5.06283850784448,6,0.0,8,3,True,True
 qwen-3.6-27b-standard-fixed,implicit,1,1,The Zulus,-2.926783454195478,6,0.1666666666666666,8,3,True,True
 qwen-3.6-27b-standard-fixed,implicit,1,2,China,-4.649755460064882,6,0.0,8,3,True,True
@@ -703,22 +703,22 @@ qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,4,Polynesia,-1.0144355972652
 qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,5,Denmark,-3.571714895389569,6,0.0,9,3,True,True
 qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,6,Austria,-2.4279343039763144,7,0.1428571428571428,9,3,True,True
 qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.523691333041813,7,0.2857142857142857,9,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.5604128535145785,4,0.25,6,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.307667821171804,5,0.6,6,2,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,2,France,-3.470221918823688,4,0.0,6,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,3,Spain,-2.3291556596938383,4,0.25,6,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.560239955826651,4,0.0,6,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,5,Brazil,-1.8906730903419613,4,0.25,6,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,6,Arabia,-4.08673151193231,5,0.0,6,2,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,7,Poland,-2.5715217876785226,6,0.0,6,1,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,0,France,-3.846102681660175,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,1,The Zulus,-2.1334214051112927,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,2,China,-1.0576547132576384,6,0.5,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,3,Egypt,-2.970017757180854,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,4,Mongolia,-4.663052398745611,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,5,Austria,-2.2404244383969973,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,6,Morocco,-4.141559380726425,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,7,Songhai,-4.323305459665247,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.6629085114505608,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.1295703863057032,6,0.6666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,2,France,-4.412767216885197,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,3,Spain,-2.6570142956357894,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.343457267431602,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,5,Brazil,-2.3540769907110755,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,6,Arabia,-3.550370229665301,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,7,Poland,-2.5715217876785226,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,0,France,-3.846102681660175,6,0.1666666666666666,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,1,The Zulus,-1.7853160988715575,7,0.2857142857142857,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,2,China,-1.2167245079597724,7,0.4285714285714285,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,3,Egypt,-2.7459349742058827,7,0.1428571428571428,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,4,Mongolia,-4.476194713280099,7,0.0,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,5,Austria,-2.532384692202708,7,0.1428571428571428,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,6,Morocco,-4.141559380726425,6,0.0,9,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,7,Songhai,-4.262583043630968,7,0.0,9,3,True,True
 vanilla-standard-fixed,implicit,1,0,Arabia,-6.126131990574823,8,0.0,8,2,True,True
 vanilla-standard-fixed,implicit,1,1,The Zulus,-3.924400291714467,8,0.0,8,2,True,True
 vanilla-standard-fixed,implicit,1,2,China,-4.406919330178477,8,0.0,8,2,True,True

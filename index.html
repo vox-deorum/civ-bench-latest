@@ -49,12 +49,12 @@
 <p class="caption">A controlled version of CivBench (Chen et al., 2026). Each LLM strategists rotate through 3 standard maps (8 players), each game features 2 of the same LLM strategists + 6 Vox Populi AI players. Experimented with 2 conditions: having LLMs make a decision every turn (base); having them make a decision every 5 turns, or when an important event comes up (per-5).</p>
 <aside class="announcement" data-announcement="result">
 <p class="eyebrow">Latest score
- &middot; <time datetime="2026-09-30">Sep 30, 2026</time>
-</p><p><strong>GPT-6-Luna-Simple</strong> scored <strong>1510 Elo</strong> (Per-5, #3).</p></aside>
+ &middot; <time datetime="2026-10-02">Oct 2, 2026</time>
+</p><p><strong>GLM-5.3-Simple</strong> scored <strong>1634 Elo</strong> (Per-5, #1).</p></aside>
 <aside class="announcement" data-announcement="testing">
 <p class="eyebrow">Currently being tested
-</p><p><strong>Opus-5.5-Simple-Per-5</strong> (11/24); <strong>GLM-5.3-Simple-Per-5</strong> (22/24); <strong>GPT-6-Astra-Simple-Per-5</strong> (7/24); <strong>GPT-6-Luna-Simple</strong> (1/24); <strong>Qwen-3.5-Simple-Per-5</strong> (23/24); <strong>Qwen-3.8-Flash-Next-Simple-Per-5</strong> (22/24)</p></aside>
-<aside class="announcement latest-game"><p class="eyebrow">Latest game · 2026-09-30 (<a href="games.html">All recent games</a>)</p><p>Qwen-3.8-Flash-Next-Simple | Per-5 · <a class="replay-link" href="saves/qwen-3.8-flash-next-standard-fixed-per-5/d64948db-5ccd-4e07-9ca4-ceb0cc172f39.Civ5Save" data-viewer="https://vox-deorum.github.io/vox-deorum-replay/" data-query="player0=Qwen-3.8-Flash-Next-Simple%20%7C%20Per-5&amp;player3=Qwen-3.8-Flash-Next-Simple%20%7C%20Per-5&amp;winner=1">▶ Watch replay</a></p><p>Player 0 (The Netherlands) | Player 3 (Spain) · Winner: Player 1 (The Ottomans, VPAI)</p></aside>
+</p><p><strong>Opus-5.5-Simple-Per-5</strong> (15/24); <strong>GPT-6-Astra-Simple-Per-5</strong> (7/24); <strong>GPT-6-Luna-Simple</strong> (9/24); <strong>Qwen-3.8-Flash-Next-Simple</strong> (3/24)</p></aside>
+<aside class="announcement latest-game"><p class="eyebrow">Latest game · 2026-10-02 (<a href="games.html">All recent games</a>)</p><p>Opus-5.5-Simple | Per-5 · <a class="replay-link" href="saves/claude-opus-5.5-standard-fixed-per-5/409c5862-9133-445a-a122-ab67013af40f.Civ5Save" data-viewer="https://vox-deorum.github.io/vox-deorum-replay/" data-query="player1=Opus-5.5-Simple%20%7C%20Per-5&amp;player4=Opus-5.5-Simple%20%7C%20Per-5&amp;winner=4">▶ Watch replay</a></p><p>Player 1 (The Zulus) | Player 4 (Polynesia, Won)</p></aside>
 <section aria-labelledby="overview-heading">
 <h2 id="overview-heading">Overview</h2>
 <div class="overview-grid">
@@ -65,7 +65,7 @@
 Module: ratings.bradley_terry
 
 group_by: player_type; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5</span></span></h2>
-<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1631 Elo</strong>; rating spread: <strong>320</strong> points.</p>
+<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1634 Elo</strong>; rating spread: <strong>322</strong> points.</p>
 <p><a href="ratings.html#section-bt-main">View details</a></p>
 </article>
 <article class="overview-card">
@@ -85,7 +85,7 @@ table: panel; include_score_ratio: True; victory_rate_unit: wins per player; exp
 Module: prediction.evaluate
 
 metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></span></h2>
-<p>attention performs best on roc auc at <strong>0.8555</strong> using <strong>740</strong> games; scores range from <strong>0.8072</strong> to <strong>0.8555</strong>.</p>
+<p>attention performs best on roc auc at <strong>0.8553</strong> using <strong>746</strong> games; scores range from <strong>0.8076</strong> to <strong>0.8553</strong>.</p>
 <p><a href="prediction.html#section-pred-metrics">View details</a></p>
 </article>
 <article class="overview-card">
@@ -94,8 +94,8 @@ metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></
 
 Module: performance.usage_efficiency
 
-currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {&#x27;cost&#x27;: {&#x27;intercept&#x27;: 1442.8408524432111, &#x27;slope&#x27;: 64.85449783092801, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.3463421876104511}, &#x27;input&#x27;: {&#x27;intercept&#x27;: 923.0880421771247, &#x27;slope&#x27;: 78.9254691010527, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.04572683557507706}, &#x27;output&#x27;: {&#x27;intercept&#x27;: 1106.1182980728759, &#x27;slope&#x27;: 62.60546441895703, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.22907327859184723}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.6850018803823</span></span></h2>
-<p>Most cost-efficient: <strong>GLM-5.3-Simple-Per-5</strong> (<strong>+103 Elo</strong> vs the fitted curve). Least cost-efficient: <strong>Qwen-3.6-27B-Simple-Per-5</strong> (<strong>-115 Elo</strong> vs the fitted curve).</p>
+currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {&#x27;cost&#x27;: {&#x27;intercept&#x27;: 1442.9739218513512, &#x27;slope&#x27;: 64.5210229938701, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.33348629637436356}, &#x27;input&#x27;: {&#x27;intercept&#x27;: 916.4790972145981, &#x27;slope&#x27;: 79.88524105069571, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.045388209495439424}, &#x27;output&#x27;: {&#x27;intercept&#x27;: 1101.962319867569, &#x27;slope&#x27;: 63.3327768875517, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.2283934768201077}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.7486454034206</span></span></h2>
+<p>Most cost-efficient: <strong>GLM-5.3-Simple-Per-5</strong> (<strong>+107 Elo</strong> vs the fitted curve). Least cost-efficient: <strong>Qwen-3.6-27B-Simple-Per-5</strong> (<strong>-115 Elo</strong> vs the fitted curve).</p>
 <p><a href="performance.html#section-perf-usage-efficiency">View details</a></p>
 </article>
 <article class="overview-card">
@@ -104,8 +104,8 @@ currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpric
 
 Module: behavior.flavors
 
-n_absolute_players: 1384; baseline: completed-experiment average; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 1248; n_baseline_experiments: 26; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship</span></span></h2>
-<p>Against the completed-experiment average, the largest departure is <strong>Qwen-3.8-Flash-Next-Simple | Per-5</strong> on <strong>recon</strong> (<strong>-26</strong>).</p>
+n_absolute_players: 1396; baseline: completed-experiment average; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 1396; n_baseline_experiments: 29; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship</span></span></h2>
+<p>Against the completed-experiment average, the largest departure is <strong>Qwen-3.6-27B-Simple | Every-turn</strong> on <strong>waterconnection</strong> (<strong>-31</strong>).</p>
 <p><a href="behavior.html#section-beh-flavors">View details</a></p>
 </article>
 <article class="overview-card">
@@ -114,7 +114,7 @@ n_absolute_players: 1384; baseline: completed-experiment average; n_relative_pla
 
 Module: behavior.diplomacy
 
-n_absolute_players: 1384; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns</span></span></h2>
+n_absolute_players: 1396; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns</span></span></h2>
 <p><strong>Friendliest</strong>: Nemotron-3-Super-Simple | Every-turn (+207.4 net) · <strong>Least friendly</strong>: MiniMax-M3-Simple | Per-5 (-37.3 net) · <strong>Most masked</strong>: DeepSeek-V4-Flash-Simple | Every-turn (4.4%)</p>
 <p><a href="behavior.html#section-beh-diplomacy">View details</a></p>
 </article>
@@ -124,7 +124,7 @@ n_absolute_players: 1384; baseline: matched in-game AI; baseline_experiments: va
 
 Module: behavior.commitment
 
-n_absolute_players: 1384; baseline: completed-experiment average; n_relative_players: 1384; n_unmatched_controlled_players: 0; n_baseline_players: 1248; n_baseline_experiments: 26; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns</span></span></h2>
+n_absolute_players: 1396; baseline: completed-experiment average; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 1396; n_baseline_experiments: 29; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns</span></span></h2>
 <p><strong>Domination</strong>: Gemma-4-Simple | Every-turn (43%) · <strong>Culture</strong>: MiniMax-M2.7-Simple | Every-turn (53%) · <strong>Diplomatic</strong>: GPT-OSS-120B-Simple | Every-turn (51%) · <strong>Science</strong>: GPT-6-Luna-Simple | Per-5 (76%)</p>
 <p><a href="behavior.html#section-beh-commitment">View details</a></p>
 </article>
@@ -134,8 +134,8 @@ n_absolute_players: 1384; baseline: completed-experiment average; n_relative_pla
 
 Module: behavior.policies
 
-n_absolute_players: 1432; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1432; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order</span></span></h2>
-<p><strong>Freedom</strong>: Kimi-K2.7-Simple | Every-turn (29%) · <strong>Autocracy</strong>: Qwen-3.6-27B-Simple | Every-turn (33%) · <strong>Order</strong>: Qwen-3.5-Simple | Per-5 (59%)</p>
+n_absolute_players: 1444; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1444; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order</span></span></h2>
+<p><strong>Freedom</strong>: Kimi-K2.7-Simple | Every-turn (29%) · <strong>Autocracy</strong>: Qwen-3.6-27B-Simple | Every-turn (33%) · <strong>Order</strong>: GLM-5.3-Flash-Simple | Per-5 / Kimi-K2.7-Simple | Every-turn / Qwen-3.5-Simple | Per-5 / Qwen-3.8-27B-Simple | Every-turn (58%)</p>
 <p><a href="behavior.html#section-beh-policies">View details</a></p>
 </article>
 </div></section>

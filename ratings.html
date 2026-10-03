@@ -54,7 +54,7 @@
 Module: ratings.bradley_terry
 
 group_by: player_type; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5</span></span></h2>
-<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1631 Elo</strong>; rating spread: <strong>320</strong> points.</p>
+<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1634 Elo</strong>; rating spread: <strong>322</strong> points.</p>
 <figure><iframe class="interactive-figure" style="height:890px;min-height:0" src="assets/bt_main/ratings.html" title="bt_main: ratings" loading="lazy"></iframe><figcaption class="caption">bt_main: ratings</figcaption><p class="interactive-figure-link"><a href="assets/bt_main/ratings.html">Open interactive figure (HTML)</a></p></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
@@ -70,24 +70,24 @@ Module: ratings.bradley_terry
 
 group_by: player_type, strategy; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5</span></span></h2>
 <p>Kimi-K2.7-Simple-Culture leads <strong>110</strong> player and condition combinations at <strong>1756 Elo</strong> across <strong>4</strong> groups.</p>
-<figure class="heat-figure"><figcaption>ratings.bradley_terry strategy ratings<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-bt-strategy-strategy-ratings" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-bt-strategy-strategy-ratings">Elo for each player type overall (General) and within each strategy, with Vanilla fixed at 1500. Colors run from red (below Vanilla) through yellow (level with Vanilla) to blue (above). Stars mark a z-test against Vanilla in the same column: * p&lt;0.05, ** p&lt;0.01, *** p&lt;0.001. Hover a cell for the standard error, appearances, and the strategy&#x27;s share of the row&#x27;s games.</span></span></figcaption><div class="table-scroll heat-scroll" role="region" tabindex="0"><table class="heatmap"><caption class="sr-only">ratings.bradley_terry strategy ratings</caption><thead><tr><th scope="col" class="row-label">Strategist | Condition</th><th scope="col" class="col-divider" data-col="1">General (all strategies)</th><th scope="col" data-col="2">Domination</th><th scope="col" data-col="3">Culture</th><th scope="col" data-col="4">Diplomatic</th><th scope="col" data-col="5">Science</th></tr></thead><tbody class="vanilla-body"><tr class="vanilla-row"><th scope="row" class="row-label">Null</th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fdba6c;color:#18202a" data-value="1311.69" data-tip="Null
+<figure class="heat-figure"><figcaption>ratings.bradley_terry strategy ratings<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-bt-strategy-strategy-ratings" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-bt-strategy-strategy-ratings">Elo for each player type overall (General) and within each strategy, with Vanilla fixed at 1500. Colors run from red (below Vanilla) through yellow (level with Vanilla) to blue (above). Stars mark a z-test against Vanilla in the same column: * p&lt;0.05, ** p&lt;0.01, *** p&lt;0.001. Hover a cell for the standard error, appearances, and the strategy&#x27;s share of the row&#x27;s games.</span></span></figcaption><div class="table-scroll heat-scroll" role="region" tabindex="0"><table class="heatmap"><caption class="sr-only">ratings.bradley_terry strategy ratings</caption><thead><tr><th scope="col" class="row-label">Strategist | Condition</th><th scope="col" class="col-divider" data-col="1">General (all strategies)</th><th scope="col" data-col="2">Domination</th><th scope="col" data-col="3">Culture</th><th scope="col" data-col="4">Diplomatic</th><th scope="col" data-col="5">Science</th></tr></thead><tbody class="vanilla-body"><tr class="vanilla-row"><th scope="row" class="row-label">Null</th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fdba6c;color:#18202a" data-value="1311.75" data-tip="Null
 General (all strategies)
 Elo	1311.7
 SE	20
 p vs Vanilla	&lt;0.001
-Appearances	48">1312***</td><td class="heat-cell heat-cell-value" style="background-color:#fed384;color:#18202a" data-value="1365.86" data-tip="Null
+Appearances	48">1312***</td><td class="heat-cell heat-cell-value" style="background-color:#fed384;color:#18202a" data-value="1365.63" data-tip="Null
 Domination
-Elo	1365.9
+Elo	1365.6
 SE	37
 p vs Vanilla	&lt;0.001
 Appearances	11
-Share of games	25%">1366***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#e95538;color:#ffffff" data-value="1136.52" data-tip="Null
+Share of games	25%">1366***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#e95538;color:#ffffff" data-value="1136.4" data-tip="Null
 Diplomatic
-Elo	1136.5
+Elo	1136.4
 SE	45
 p vs Vanilla	&lt;0.001
 Appearances	12
-Share of games	27%">1137***</td><td class="heat-cell heat-cell-value" style="background-color:#fee090;color:#18202a" data-value="1392.23" data-tip="Null
+Share of games	27%">1136***</td><td class="heat-cell heat-cell-value" style="background-color:#fee090;color:#18202a" data-value="1392.16" data-tip="Null
 Science
 Elo	1392.2
 SE	28
@@ -97,133 +97,133 @@ Share of games	48%">1392*</td></tr><tr class="vanilla-row"><th scope="row" class
 General (all strategies)
 Elo	1500.0
 SE	5
-Appearances	4296">1500</td><td class="heat-cell heat-cell-value" style="background-color:#feffc1;color:#18202a" data-value="1503.69" data-tip="Vanilla
+Appearances	4332">1500</td><td class="heat-cell heat-cell-value" style="background-color:#feffc1;color:#18202a" data-value="1503.93" data-tip="Vanilla
 Domination
-Elo	1503.7
+Elo	1503.9
 SE	4
-Appearances	1388
-Share of games	32%">1504</td><td class="heat-cell heat-cell-value" style="background-color:#f6fccf;color:#18202a" data-value="1530.94" data-tip="Vanilla
+Appearances	1405
+Share of games	32%">1504</td><td class="heat-cell heat-cell-value" style="background-color:#f6fbd0;color:#18202a" data-value="1531.46" data-tip="Vanilla
 Culture
-Elo	1530.9
+Elo	1531.5
 SE	7
-Appearances	342
-Share of games	8%">1531</td><td class="heat-cell heat-cell-value" style="background-color:#feffc0;color:#18202a" data-value="1502.58" data-tip="Vanilla
+Appearances	344
+Share of games	8%">1531</td><td class="heat-cell heat-cell-value" style="background-color:#ffffc0;color:#18202a" data-value="1501.62" data-tip="Vanilla
 Diplomatic
-Elo	1502.6
+Elo	1501.6
 SE	5
-Appearances	817
-Share of games	19%">1503</td><td class="heat-cell heat-cell-value" style="background-color:#fff4af;color:#18202a" data-value="1462.79" data-tip="Vanilla
+Appearances	822
+Share of games	19%">1502</td><td class="heat-cell heat-cell-value" style="background-color:#fff4af;color:#18202a" data-value="1462.99" data-tip="Vanilla
 Science
-Elo	1462.8
+Elo	1463.0
 SE	5
-Appearances	1749
-Share of games	41%">1463</td></tr></tbody><tbody><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GPT-OSS-120B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fee99d;color:#18202a" data-value="1423.18" data-tip="GPT-OSS-120B-Simple | Every-turn
+Appearances	1761
+Share of games	41%">1463</td></tr></tbody><tbody><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GPT-OSS-120B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fee99d;color:#18202a" data-value="1423.21" data-tip="GPT-OSS-120B-Simple | Every-turn
 General (all strategies)
 Elo	1423.2
 SE	17
 p vs Vanilla	&lt;0.001
-Appearances	48">1423***</td><td class="heat-cell heat-cell-value" style="background-color:#fff0a8;color:#18202a" data-value="1446.46" data-tip="GPT-OSS-120B-Simple | Every-turn
+Appearances	48">1423***</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1446.2" data-tip="GPT-OSS-120B-Simple | Every-turn
 Domination
-Elo	1446.5
+Elo	1446.2
 SE	35
-p vs Vanilla	0.103
+p vs Vanilla	0.100
 Appearances	10
-Share of games	21%">1446</td><td class="heat-cell heat-cell-value" style="background-color:#fdb76a;color:#18202a" data-value="1305.67" data-tip="GPT-OSS-120B-Simple | Every-turn
+Share of games	21%">1446</td><td class="heat-cell heat-cell-value" style="background-color:#fdb76a;color:#18202a" data-value="1305.61" data-tip="GPT-OSS-120B-Simple | Every-turn
 Culture
-Elo	1305.7
+Elo	1305.6
 SE	39
 p vs Vanilla	&lt;0.001
 Appearances	10
-Share of games	21%">1306***</td><td class="heat-cell heat-cell-value" style="background-color:#fff1aa;color:#18202a" data-value="1451.32" data-tip="GPT-OSS-120B-Simple | Every-turn
+Share of games	21%">1306***</td><td class="heat-cell heat-cell-value" style="background-color:#fff1aa;color:#18202a" data-value="1451.19" data-tip="GPT-OSS-120B-Simple | Every-turn
 Diplomatic
-Elo	1451.3
+Elo	1451.2
 SE	25
-p vs Vanilla	0.042
+p vs Vanilla	0.045
 Appearances	21
-Share of games	44%">1451*</td><td class="heat-cell heat-cell-value" style="background-color:#def2f8;color:#18202a" data-value="1610.56" data-tip="GPT-OSS-120B-Simple | Every-turn
+Share of games	44%">1451*</td><td class="heat-cell heat-cell-value" style="background-color:#def2f8;color:#18202a" data-value="1610.53" data-tip="GPT-OSS-120B-Simple | Every-turn
 Science
-Elo	1610.6
+Elo	1610.5
 SE	46
 p vs Vanilla	0.001
 Appearances	7
-Share of games	15%">1611**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GPT-OSS-120B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fedb8c;color:#18202a" data-value="1382.64" data-tip="GPT-OSS-120B-Simple | Per-5
+Share of games	15%">1611**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GPT-OSS-120B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fedb8c;color:#18202a" data-value="1382.67" data-tip="GPT-OSS-120B-Simple | Per-5
 General (all strategies)
-Elo	1382.6
+Elo	1382.7
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	48">1383***</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1477.08" data-tip="GPT-OSS-120B-Simple | Per-5
+Appearances	48">1383***</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1476.83" data-tip="GPT-OSS-120B-Simple | Per-5
 Domination
-Elo	1477.1
+Elo	1476.8
 SE	28
-p vs Vanilla	0.350
+p vs Vanilla	0.341
 Appearances	16
-Share of games	33%">1477</td><td class="heat-cell heat-cell-value" style="background-color:#fec87a;color:#18202a" data-value="1342.4" data-tip="GPT-OSS-120B-Simple | Per-5
+Share of games	33%">1477</td><td class="heat-cell heat-cell-value" style="background-color:#fec87a;color:#18202a" data-value="1342.34" data-tip="GPT-OSS-120B-Simple | Per-5
 Culture
-Elo	1342.4
+Elo	1342.3
 SE	38
 p vs Vanilla	&lt;0.001
 Appearances	9
-Share of games	19%">1342***</td><td class="heat-cell heat-cell-value" style="background-color:#fdb062;color:#18202a" data-value="1289.02" data-tip="GPT-OSS-120B-Simple | Per-5
+Share of games	19%">1342***</td><td class="heat-cell heat-cell-value" style="background-color:#fdb063;color:#18202a" data-value="1289.04" data-tip="GPT-OSS-120B-Simple | Per-5
 Diplomatic
 Elo	1289.0
 SE	30
 p vs Vanilla	&lt;0.001
 Appearances	16
-Share of games	33%">1289***</td><td class="heat-cell heat-cell-value" style="background-color:#feeba0;color:#18202a" data-value="1429.37" data-tip="GPT-OSS-120B-Simple | Per-5
+Share of games	33%">1289***</td><td class="heat-cell heat-cell-value" style="background-color:#feeba0;color:#18202a" data-value="1429.15" data-tip="GPT-OSS-120B-Simple | Per-5
 Science
-Elo	1429.4
+Elo	1429.2
 SE	43
-p vs Vanilla	0.436
+p vs Vanilla	0.431
 Appearances	7
-Share of games	15%">1429</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.1-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffab8;color:#18202a" data-value="1483.69" data-tip="GLM-5.1-Simple | Every-turn
+Share of games	15%">1429</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.1-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffab8;color:#18202a" data-value="1483.67" data-tip="GLM-5.1-Simple | Every-turn
 General (all strategies)
 Elo	1483.7
 SE	17
 p vs Vanilla	0.353
-Appearances	48">1484</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1508.43" data-tip="GLM-5.1-Simple | Every-turn
+Appearances	48">1484</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1508.17" data-tip="GLM-5.1-Simple | Every-turn
 Domination
-Elo	1508.4
+Elo	1508.2
 SE	28
-p vs Vanilla	0.866
+p vs Vanilla	0.881
 Appearances	16
-Share of games	33%">1508</td><td class="heat-cell heat-cell-value" style="background-color:#fee79a;color:#18202a" data-value="1416.19" data-tip="GLM-5.1-Simple | Every-turn
+Share of games	33%">1508</td><td class="heat-cell heat-cell-value" style="background-color:#fee79a;color:#18202a" data-value="1416.01" data-tip="GLM-5.1-Simple | Every-turn
 Culture
-Elo	1416.2
+Elo	1416.0
 SE	29
 p vs Vanilla	&lt;0.001
 Appearances	15
-Share of games	31%">1416***</td><td class="heat-cell heat-cell-value" style="background-color:#dd3d2d;color:#ffffff" data-value="1093.34" data-tip="GLM-5.1-Simple | Every-turn
+Share of games	31%">1416***</td><td class="heat-cell heat-cell-value" style="background-color:#dd3d2d;color:#ffffff" data-value="1093.17" data-tip="GLM-5.1-Simple | Every-turn
 Diplomatic
-Elo	1093.3
+Elo	1093.2
 SE	74
 p vs Vanilla	&lt;0.001
 Appearances	6
-Share of games	12%">1093***</td><td class="heat-cell heat-cell-value" style="background-color:#a7d6e7;color:#18202a" data-value="1722.62" data-tip="GLM-5.1-Simple | Every-turn
+Share of games	12%">1093***</td><td class="heat-cell heat-cell-value" style="background-color:#a7d6e7;color:#18202a" data-value="1722.45" data-tip="GLM-5.1-Simple | Every-turn
 Science
-Elo	1722.6
+Elo	1722.4
 SE	41
 p vs Vanilla	&lt;0.001
 Appearances	11
-Share of games	23%">1723***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.2-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#f4fbd3;color:#18202a" data-value="1537.11" data-tip="GLM-5.2-Simple | Every-turn
+Share of games	23%">1722***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.2-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#f4fbd3;color:#18202a" data-value="1537.09" data-tip="GLM-5.2-Simple | Every-turn
 General (all strategies)
 Elo	1537.1
 SE	17
 p vs Vanilla	0.037
-Appearances	48">1537*</td><td class="heat-cell heat-cell-value" style="background-color:#fee79b;color:#18202a" data-value="1417.71" data-tip="GLM-5.2-Simple | Every-turn
+Appearances	48">1537*</td><td class="heat-cell heat-cell-value" style="background-color:#fee79b;color:#18202a" data-value="1417.52" data-tip="GLM-5.2-Simple | Every-turn
 Domination
-Elo	1417.7
+Elo	1417.5
 SE	31
 p vs Vanilla	0.006
 Appearances	14
-Share of games	32%">1418**</td><td class="heat-cell heat-cell-value" style="background-color:#f2fad7;color:#18202a" data-value="1545.28" data-tip="GLM-5.2-Simple | Every-turn
+Share of games	32%">1418**</td><td class="heat-cell heat-cell-value" style="background-color:#f2fad7;color:#18202a" data-value="1545.05" data-tip="GLM-5.2-Simple | Every-turn
 Culture
-Elo	1545.3
+Elo	1545.1
 SE	27
-p vs Vanilla	0.607
+p vs Vanilla	0.625
 Appearances	16
-Share of games	36%">1545</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#dcf1f7;color:#18202a" data-value="1616.1" data-tip="GLM-5.2-Simple | Every-turn
+Share of games	36%">1545</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#dcf1f7;color:#18202a" data-value="1615.89" data-tip="GLM-5.2-Simple | Every-turn
 Science
-Elo	1616.1
+Elo	1615.9
 SE	29
 p vs Vanilla	&lt;0.001
 Appearances	14
@@ -232,108 +232,108 @@ General (all strategies)
 Elo	1495.8
 SE	17
 p vs Vanilla	0.813
-Appearances	48">1496</td><td class="heat-cell heat-cell-value" style="background-color:#f4fbd2;color:#18202a" data-value="1536.56" data-tip="GLM-5.2-Simple | Per-5
+Appearances	48">1496</td><td class="heat-cell heat-cell-value" style="background-color:#f5fbd2;color:#18202a" data-value="1536.24" data-tip="GLM-5.2-Simple | Per-5
 Domination
-Elo	1536.6
+Elo	1536.2
 SE	30
-p vs Vanilla	0.273
+p vs Vanilla	0.281
 Appearances	14
-Share of games	29%">1537</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1507.89" data-tip="GLM-5.2-Simple | Per-5
+Share of games	29%">1536</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1507.67" data-tip="GLM-5.2-Simple | Per-5
 Culture
-Elo	1507.9
+Elo	1507.7
 SE	26
-p vs Vanilla	0.393
+p vs Vanilla	0.378
 Appearances	16
-Share of games	33%">1508</td><td class="heat-cell heat-cell-value" style="background-color:#ea583a;color:#ffffff" data-value="1142.17" data-tip="GLM-5.2-Simple | Per-5
+Share of games	33%">1508</td><td class="heat-cell heat-cell-value" style="background-color:#ea583a;color:#ffffff" data-value="1141.99" data-tip="GLM-5.2-Simple | Per-5
 Diplomatic
-Elo	1142.2
+Elo	1142.0
 SE	71
 p vs Vanilla	&lt;0.001
 Appearances	5
-Share of games	10%">1142***</td><td class="heat-cell heat-cell-value" style="background-color:#eef9de;color:#18202a" data-value="1557.91" data-tip="GLM-5.2-Simple | Per-5
+Share of games	10%">1142***</td><td class="heat-cell heat-cell-value" style="background-color:#eef9de;color:#18202a" data-value="1557.69" data-tip="GLM-5.2-Simple | Per-5
 Science
-Elo	1557.9
+Elo	1557.7
 SE	30
 p vs Vanilla	0.002
 Appearances	13
-Share of games	27%">1558**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#d4edf5;color:#18202a" data-value="1631.36" data-tip="GLM-5.3-Simple | Per-5
+Share of games	27%">1558**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#d3ecf4;color:#18202a" data-value="1634.24" data-tip="GLM-5.3-Simple | Per-5
 General (all strategies)
-Elo	1631.4
+Elo	1634.2
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	44">1631***</td><td class="heat-cell heat-cell-value" style="background-color:#e3f4f2;color:#18202a" data-value="1596.01" data-tip="GLM-5.3-Simple | Per-5
+Appearances	48">1634***</td><td class="heat-cell heat-cell-value" style="background-color:#e3f4f3;color:#18202a" data-value="1597.23" data-tip="GLM-5.3-Simple | Per-5
 Domination
-Elo	1596.0
-SE	28
+Elo	1597.2
+SE	29
 p vs Vanilla	0.001
 Appearances	16
-Share of games	36%">1596**</td><td class="heat-cell heat-cell-value" style="background-color:#d0ebf3;color:#18202a" data-value="1640.07" data-tip="GLM-5.3-Simple | Per-5
+Share of games	33%">1597**</td><td class="heat-cell heat-cell-value" style="background-color:#c8e7f1;color:#18202a" data-value="1656.53" data-tip="GLM-5.3-Simple | Per-5
 Culture
-Elo	1640.1
-SE	32
-p vs Vanilla	&lt;0.001
-Appearances	11
-Share of games	25%">1640***</td><td class="heat-cell heat-cell-value" style="background-color:#e8f6e9;color:#18202a" data-value="1578.53" data-tip="GLM-5.3-Simple | Per-5
-Diplomatic
-Elo	1578.5
-SE	50
-p vs Vanilla	0.129
-Appearances	5
-Share of games	11%">1579</td><td class="heat-cell heat-cell-value" style="background-color:#cbe9f2;color:#18202a" data-value="1648.89" data-tip="GLM-5.3-Simple | Per-5
-Science
-Elo	1648.9
-SE	33
+Elo	1656.5
+SE	31
 p vs Vanilla	&lt;0.001
 Appearances	12
-Share of games	27%">1649***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Flash-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff7b2;color:#18202a" data-value="1471.35" data-tip="GLM-5.3-Flash-Simple | Every-turn
+Share of games	25%">1657***</td><td class="heat-cell heat-cell-value" style="background-color:#ecf8e2;color:#18202a" data-value="1566.08" data-tip="GLM-5.3-Simple | Per-5
+Diplomatic
+Elo	1566.1
+SE	39
+p vs Vanilla	0.105
+Appearances	7
+Share of games	15%">1566</td><td class="heat-cell heat-cell-value" style="background-color:#c5e6f0;color:#18202a" data-value="1661.54" data-tip="GLM-5.3-Simple | Per-5
+Science
+Elo	1661.5
+SE	32
+p vs Vanilla	&lt;0.001
+Appearances	13
+Share of games	27%">1662***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Flash-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff7b2;color:#18202a" data-value="1471.36" data-tip="GLM-5.3-Flash-Simple | Every-turn
 General (all strategies)
 Elo	1471.4
 SE	17
 p vs Vanilla	0.104
-Appearances	48">1471</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1445.86" data-tip="GLM-5.3-Flash-Simple | Every-turn
+Appearances	48">1471</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1445.75" data-tip="GLM-5.3-Flash-Simple | Every-turn
 Domination
-Elo	1445.9
+Elo	1445.8
 SE	30
-p vs Vanilla	0.053
+p vs Vanilla	0.051
 Appearances	14
-Share of games	29%">1446</td><td class="heat-cell heat-cell-value" style="background-color:#fffcba;color:#18202a" data-value="1488.83" data-tip="GLM-5.3-Flash-Simple | Every-turn
+Share of games	29%">1446</td><td class="heat-cell heat-cell-value" style="background-color:#fffcba;color:#18202a" data-value="1488.67" data-tip="GLM-5.3-Flash-Simple | Every-turn
 Culture
-Elo	1488.8
+Elo	1488.7
 SE	23
-p vs Vanilla	0.073
+p vs Vanilla	0.069
 Appearances	24
-Share of games	50%">1489</td><td class="heat-cell heat-cell-value" style="background-color:#fff9b7;color:#18202a" data-value="1480.96" data-tip="GLM-5.3-Flash-Simple | Every-turn
+Share of games	50%">1489</td><td class="heat-cell heat-cell-value" style="background-color:#fff9b7;color:#18202a" data-value="1480.82" data-tip="GLM-5.3-Flash-Simple | Every-turn
 Diplomatic
-Elo	1481.0
+Elo	1480.8
 SE	45
-p vs Vanilla	0.633
+p vs Vanilla	0.646
 Appearances	5
-Share of games	10%">1481</td><td class="heat-cell heat-cell-value" style="background-color:#fffab8;color:#18202a" data-value="1483.11" data-tip="GLM-5.3-Flash-Simple | Every-turn
+Share of games	10%">1481</td><td class="heat-cell heat-cell-value" style="background-color:#fffab8;color:#18202a" data-value="1482.92" data-tip="GLM-5.3-Flash-Simple | Every-turn
 Science
-Elo	1483.1
+Elo	1482.9
 SE	46
-p vs Vanilla	0.663
+p vs Vanilla	0.669
 Appearances	5
-Share of games	10%">1483</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeca3;color:#18202a" data-value="1435.84" data-tip="GLM-5.3-Flash-Simple | Per-5
+Share of games	10%">1483</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">GLM-5.3-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeca3;color:#18202a" data-value="1435.86" data-tip="GLM-5.3-Flash-Simple | Per-5
 General (all strategies)
-Elo	1435.8
+Elo	1435.9
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	48">1436***</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1445.65" data-tip="GLM-5.3-Flash-Simple | Per-5
+Appearances	48">1436***</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1445.36" data-tip="GLM-5.3-Flash-Simple | Per-5
 Domination
-Elo	1445.6
+Elo	1445.4
 SE	30
-p vs Vanilla	0.054
+p vs Vanilla	0.051
 Appearances	15
-Share of games	34%">1446</td><td class="heat-cell heat-cell-value" style="background-color:#fedd8d;color:#18202a" data-value="1385.52" data-tip="GLM-5.3-Flash-Simple | Per-5
+Share of games	34%">1445</td><td class="heat-cell heat-cell-value" style="background-color:#fedc8d;color:#18202a" data-value="1385.22" data-tip="GLM-5.3-Flash-Simple | Per-5
 Culture
-Elo	1385.5
+Elo	1385.2
 SE	25
 p vs Vanilla	&lt;0.001
 Appearances	23
-Share of games	52%">1386***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#c2e4f0;color:#18202a" data-value="1667.8" data-tip="GLM-5.3-Flash-Simple | Per-5
+Share of games	52%">1385***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#c2e4f0;color:#18202a" data-value="1667.53" data-tip="GLM-5.3-Flash-Simple | Per-5
 Science
-Elo	1667.8
+Elo	1667.5
 SE	49
 p vs Vanilla	&lt;0.001
 Appearances	6
@@ -342,543 +342,543 @@ General (all strategies)
 Elo	1473.6
 SE	17
 p vs Vanilla	0.133
-Appearances	48">1474</td><td class="heat-cell heat-cell-value" style="background-color:#fff9b6;color:#18202a" data-value="1478.99" data-tip="MiniMax-M2.7-Simple | Every-turn
+Appearances	48">1474</td><td class="heat-cell heat-cell-value" style="background-color:#fff9b6;color:#18202a" data-value="1478.88" data-tip="MiniMax-M2.7-Simple | Every-turn
 Domination
-Elo	1479.0
+Elo	1478.9
 SE	29
-p vs Vanilla	0.396
+p vs Vanilla	0.389
 Appearances	15
-Share of games	33%">1479</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1508.02" data-tip="MiniMax-M2.7-Simple | Every-turn
+Share of games	33%">1479</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec3;color:#18202a" data-value="1507.91" data-tip="MiniMax-M2.7-Simple | Every-turn
 Culture
-Elo	1508.0
+Elo	1507.9
 SE	22
-p vs Vanilla	0.309
+p vs Vanilla	0.296
 Appearances	26
-Share of games	57%">1508</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fee89c;color:#18202a" data-value="1419.16" data-tip="MiniMax-M2.7-Simple | Every-turn
+Share of games	57%">1508</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fee89b;color:#18202a" data-value="1418.97" data-tip="MiniMax-M2.7-Simple | Every-turn
 Science
-Elo	1419.2
+Elo	1419.0
 SE	48
-p vs Vanilla	0.363
+p vs Vanilla	0.359
 Appearances	5
-Share of games	11%">1419</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">MiniMax-M2.7-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff0a8;color:#18202a" data-value="1447.23" data-tip="MiniMax-M2.7-Simple | Per-5
+Share of games	11%">1419</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">MiniMax-M2.7-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff0a8;color:#18202a" data-value="1447.19" data-tip="MiniMax-M2.7-Simple | Per-5
 General (all strategies)
 Elo	1447.2
 SE	17
 p vs Vanilla	0.003
-Appearances	48">1447**</td><td class="heat-cell heat-cell-value" style="background-color:#fff1a9;color:#18202a" data-value="1450.31" data-tip="MiniMax-M2.7-Simple | Per-5
+Appearances	48">1447**</td><td class="heat-cell heat-cell-value" style="background-color:#fff1a9;color:#18202a" data-value="1450.07" data-tip="MiniMax-M2.7-Simple | Per-5
 Domination
-Elo	1450.3
+Elo	1450.1
 SE	28
-p vs Vanilla	0.058
+p vs Vanilla	0.056
 Appearances	15
-Share of games	33%">1450</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1434.58" data-tip="MiniMax-M2.7-Simple | Per-5
+Share of games	33%">1450</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1434.36" data-tip="MiniMax-M2.7-Simple | Per-5
 Culture
-Elo	1434.6
+Elo	1434.4
 SE	24
 p vs Vanilla	&lt;0.001
 Appearances	25
-Share of games	54%">1435***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#f6fbd0;color:#18202a" data-value="1531.63" data-tip="MiniMax-M2.7-Simple | Per-5
+Share of games	54%">1434***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#f6fbd0;color:#18202a" data-value="1531.4" data-tip="MiniMax-M2.7-Simple | Per-5
 Science
-Elo	1531.6
+Elo	1531.4
 SE	42
-p vs Vanilla	0.105
+p vs Vanilla	0.107
 Appearances	6
-Share of games	13%">1532</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">MiniMax-M3-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff0a8;color:#18202a" data-value="1447.48" data-tip="MiniMax-M3-Simple | Per-5
+Share of games	13%">1531</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">MiniMax-M3-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff0a8;color:#18202a" data-value="1447.48" data-tip="MiniMax-M3-Simple | Per-5
 General (all strategies)
 Elo	1447.5
 SE	18
 p vs Vanilla	0.004
-Appearances	48">1447**</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1434.96" data-tip="MiniMax-M3-Simple | Per-5
+Appearances	48">1447**</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1434.77" data-tip="MiniMax-M3-Simple | Per-5
 Domination
-Elo	1435.0
+Elo	1434.8
 SE	27
 p vs Vanilla	0.013
 Appearances	17
-Share of games	40%">1435*</td><td class="heat-cell heat-cell-value" style="background-color:#fff5b0;color:#18202a" data-value="1465.48" data-tip="MiniMax-M3-Simple | Per-5
+Share of games	40%">1435*</td><td class="heat-cell heat-cell-value" style="background-color:#fff5b0;color:#18202a" data-value="1465.28" data-tip="MiniMax-M3-Simple | Per-5
 Culture
-Elo	1465.5
+Elo	1465.3
 SE	23
-p vs Vanilla	0.007
+p vs Vanilla	0.006
 Appearances	25
-Share of games	60%">1465**</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-empty" aria-label="no data"></td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.7-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#e9f7e7;color:#18202a" data-value="1575.2" data-tip="Kimi-K2.7-Simple | Every-turn
+Share of games	60%">1465**</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-empty" aria-label="no data"></td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.7-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#e9f7e7;color:#18202a" data-value="1575.16" data-tip="Kimi-K2.7-Simple | Every-turn
 General (all strategies)
 Elo	1575.2
 SE	17
 p vs Vanilla	&lt;0.001
-Appearances	48">1575***</td><td class="heat-cell heat-cell-value" style="background-color:#e3f4f2;color:#18202a" data-value="1596.37" data-tip="Kimi-K2.7-Simple | Every-turn
+Appearances	48">1575***</td><td class="heat-cell heat-cell-value" style="background-color:#e3f4f2;color:#18202a" data-value="1596.09" data-tip="Kimi-K2.7-Simple | Every-turn
 Domination
-Elo	1596.4
+Elo	1596.1
 SE	37
 p vs Vanilla	0.013
 Appearances	9
-Share of games	19%">1596*</td><td class="heat-cell heat-cell-value" style="background-color:#96c8e0;color:#18202a" data-value="1755.97" data-tip="Kimi-K2.7-Simple | Every-turn
+Share of games	19%">1596*</td><td class="heat-cell heat-cell-value" style="background-color:#96c8e0;color:#18202a" data-value="1755.79" data-tip="Kimi-K2.7-Simple | Every-turn
 Culture
-Elo	1756.0
+Elo	1755.8
 SE	50
 p vs Vanilla	&lt;0.001
 Appearances	7
-Share of games	15%">1756***</td><td class="heat-cell heat-cell-value" style="background-color:#fff7b4;color:#18202a" data-value="1473.87" data-tip="Kimi-K2.7-Simple | Every-turn
+Share of games	15%">1756***</td><td class="heat-cell heat-cell-value" style="background-color:#fff7b4;color:#18202a" data-value="1473.8" data-tip="Kimi-K2.7-Simple | Every-turn
 Diplomatic
-Elo	1473.9
+Elo	1473.8
 SE	41
-p vs Vanilla	0.488
+p vs Vanilla	0.502
 Appearances	6
-Share of games	12%">1474</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1551.78" data-tip="Kimi-K2.7-Simple | Every-turn
+Share of games	12%">1474</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9da;color:#18202a" data-value="1551.55" data-tip="Kimi-K2.7-Simple | Every-turn
 Science
-Elo	1551.8
+Elo	1551.6
 SE	22
 p vs Vanilla	&lt;0.001
 Appearances	26
-Share of games	54%">1552***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.7-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fafdc9;color:#18202a" data-value="1518.06" data-tip="Kimi-K2.7-Simple | Per-5
+Share of games	54%">1552***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.7-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fafdc9;color:#18202a" data-value="1518.05" data-tip="Kimi-K2.7-Simple | Per-5
 General (all strategies)
 Elo	1518.1
 SE	17
 p vs Vanilla	0.309
-Appearances	48">1518</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1476.97" data-tip="Kimi-K2.7-Simple | Per-5
+Appearances	48">1518</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1476.78" data-tip="Kimi-K2.7-Simple | Per-5
 Domination
-Elo	1477.0
+Elo	1476.8
 SE	31
-p vs Vanilla	0.396
+p vs Vanilla	0.389
 Appearances	13
-Share of games	27%">1477</td><td class="heat-cell heat-cell-value" style="background-color:#f1fad8;color:#18202a" data-value="1547.68" data-tip="Kimi-K2.7-Simple | Per-5
+Share of games	27%">1477</td><td class="heat-cell heat-cell-value" style="background-color:#f1fad8;color:#18202a" data-value="1547.51" data-tip="Kimi-K2.7-Simple | Per-5
 Culture
-Elo	1547.7
+Elo	1547.5
 SE	36
-p vs Vanilla	0.650
+p vs Vanilla	0.663
 Appearances	10
-Share of games	21%">1548</td><td class="heat-cell heat-cell-value" style="background-color:#fee090;color:#18202a" data-value="1393.2" data-tip="Kimi-K2.7-Simple | Per-5
+Share of games	21%">1548</td><td class="heat-cell heat-cell-value" style="background-color:#fee090;color:#18202a" data-value="1393.05" data-tip="Kimi-K2.7-Simple | Per-5
 Diplomatic
-Elo	1393.2
+Elo	1393.0
 SE	38
 p vs Vanilla	0.004
 Appearances	9
-Share of games	19%">1393**</td><td class="heat-cell heat-cell-value" style="background-color:#e7f6ec;color:#18202a" data-value="1584.2" data-tip="Kimi-K2.7-Simple | Per-5
+Share of games	19%">1393**</td><td class="heat-cell heat-cell-value" style="background-color:#e7f6ec;color:#18202a" data-value="1583.98" data-tip="Kimi-K2.7-Simple | Per-5
 Science
-Elo	1584.2
+Elo	1584.0
 SE	27
 p vs Vanilla	&lt;0.001
 Appearances	16
-Share of games	33%">1584***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.6-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feffc1;color:#18202a" data-value="1504.45" data-tip="Kimi-K2.6-Simple | Every-turn
+Share of games	33%">1584***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Kimi-K2.6-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feffc1;color:#18202a" data-value="1504.41" data-tip="Kimi-K2.6-Simple | Every-turn
 General (all strategies)
 Elo	1504.4
 SE	17
-p vs Vanilla	0.799
-Appearances	48">1504</td><td class="heat-cell heat-cell-value" style="background-color:#fee79b;color:#18202a" data-value="1417.82" data-tip="Kimi-K2.6-Simple | Every-turn
+p vs Vanilla	0.800
+Appearances	48">1504</td><td class="heat-cell heat-cell-value" style="background-color:#fee79b;color:#18202a" data-value="1417.72" data-tip="Kimi-K2.6-Simple | Every-turn
 Domination
-Elo	1417.8
+Elo	1417.7
 SE	38
-p vs Vanilla	0.024
+p vs Vanilla	0.023
 Appearances	9
-Share of games	19%">1418*</td><td class="heat-cell heat-cell-value" style="background-color:#e4f4f1;color:#18202a" data-value="1593.95" data-tip="Kimi-K2.6-Simple | Every-turn
+Share of games	19%">1418*</td><td class="heat-cell heat-cell-value" style="background-color:#e4f5f1;color:#18202a" data-value="1593.7" data-tip="Kimi-K2.6-Simple | Every-turn
 Culture
-Elo	1593.9
+Elo	1593.7
 SE	40
-p vs Vanilla	0.118
+p vs Vanilla	0.122
 Appearances	8
-Share of games	17%">1594</td><td class="heat-cell heat-cell-value" style="background-color:#d5eef5;color:#18202a" data-value="1629.83" data-tip="Kimi-K2.6-Simple | Every-turn
+Share of games	17%">1594</td><td class="heat-cell heat-cell-value" style="background-color:#d5eef5;color:#18202a" data-value="1629.71" data-tip="Kimi-K2.6-Simple | Every-turn
 Diplomatic
-Elo	1629.8
+Elo	1629.7
 SE	41
 p vs Vanilla	0.002
 Appearances	7
-Share of games	15%">1630**</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1476.72" data-tip="Kimi-K2.6-Simple | Every-turn
+Share of games	15%">1630**</td><td class="heat-cell heat-cell-value" style="background-color:#fff8b5;color:#18202a" data-value="1476.5" data-tip="Kimi-K2.6-Simple | Every-turn
 Science
-Elo	1476.7
+Elo	1476.5
 SE	23
-p vs Vanilla	0.546
+p vs Vanilla	0.558
 Appearances	24
-Share of games	50%">1477</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4-Flash-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeba1;color:#18202a" data-value="1431.31" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
+Share of games	50%">1476</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4-Flash-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeba1;color:#18202a" data-value="1431.33" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
 General (all strategies)
 Elo	1431.3
 SE	17
 p vs Vanilla	&lt;0.001
-Appearances	48">1431***</td><td class="heat-cell heat-cell-value" style="background-color:#fee192;color:#18202a" data-value="1396.36" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
+Appearances	48">1431***</td><td class="heat-cell heat-cell-value" style="background-color:#fee191;color:#18202a" data-value="1396.11" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
 Domination
-Elo	1396.4
+Elo	1396.1
 SE	31
 p vs Vanilla	&lt;0.001
 Appearances	14
-Share of games	29%">1396***</td><td class="heat-cell heat-cell-value" style="background-color:#fee699;color:#18202a" data-value="1412.95" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
+Share of games	29%">1396***</td><td class="heat-cell heat-cell-value" style="background-color:#fee699;color:#18202a" data-value="1412.73" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
 Culture
-Elo	1413.0
+Elo	1412.7
 SE	31
 p vs Vanilla	&lt;0.001
 Appearances	12
-Share of games	25%">1413***</td><td class="heat-cell heat-cell-value" style="background-color:#a50026;color:#ffffff" data-value="964.056" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
+Share of games	25%">1413***</td><td class="heat-cell heat-cell-value" style="background-color:#a50026;color:#ffffff" data-value="963.865" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
 Diplomatic
-Elo	964.1
+Elo	963.9
 SE	111
 p vs Vanilla	&lt;0.001
 Appearances	5
-Share of games	10%">964***</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1552.13" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
+Share of games	10%">964***</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1551.95" data-tip="DeepSeek-V4-Flash-Simple | Every-turn
 Science
-Elo	1552.1
+Elo	1551.9
 SE	27
-p vs Vanilla	&lt;0.001
+p vs Vanilla	0.001
 Appearances	17
-Share of games	35%">1552***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff9b6;color:#18202a" data-value="1479.24" data-tip="DeepSeek-V4-Flash-Simple | Per-5
+Share of games	35%">1552**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff9b6;color:#18202a" data-value="1479.22" data-tip="DeepSeek-V4-Flash-Simple | Per-5
 General (all strategies)
 Elo	1479.2
 SE	17
 p vs Vanilla	0.238
-Appearances	48">1479</td><td class="heat-cell heat-cell-value" style="background-color:#fed989;color:#18202a" data-value="1377.15" data-tip="DeepSeek-V4-Flash-Simple | Per-5
+Appearances	48">1479</td><td class="heat-cell heat-cell-value" style="background-color:#fed989;color:#18202a" data-value="1376.9" data-tip="DeepSeek-V4-Flash-Simple | Per-5
 Domination
-Elo	1377.1
+Elo	1376.9
 SE	31
 p vs Vanilla	&lt;0.001
 Appearances	14
-Share of games	29%">1377***</td><td class="heat-cell heat-cell-value" style="background-color:#fafdc8;color:#18202a" data-value="1517.61" data-tip="DeepSeek-V4-Flash-Simple | Per-5
+Share of games	29%">1377***</td><td class="heat-cell heat-cell-value" style="background-color:#fafdc8;color:#18202a" data-value="1517.45" data-tip="DeepSeek-V4-Flash-Simple | Per-5
 Culture
-Elo	1517.6
+Elo	1517.5
 SE	26
-p vs Vanilla	0.620
+p vs Vanilla	0.603
 Appearances	16
-Share of games	33%">1518</td><td class="heat-cell heat-cell-value" style="background-color:#d6eef5;color:#18202a" data-value="1626.97" data-tip="DeepSeek-V4-Flash-Simple | Per-5
+Share of games	33%">1517</td><td class="heat-cell heat-cell-value" style="background-color:#d6eef5;color:#18202a" data-value="1626.85" data-tip="DeepSeek-V4-Flash-Simple | Per-5
 Diplomatic
-Elo	1627.0
+Elo	1626.9
 SE	47
-p vs Vanilla	0.009
+p vs Vanilla	0.008
 Appearances	6
-Share of games	12%">1627**</td><td class="heat-cell heat-cell-value" style="background-color:#feffc0;color:#18202a" data-value="1502.38" data-tip="DeepSeek-V4-Flash-Simple | Per-5
+Share of games	12%">1627**</td><td class="heat-cell heat-cell-value" style="background-color:#feffc0;color:#18202a" data-value="1502.19" data-tip="DeepSeek-V4-Flash-Simple | Per-5
 Science
-Elo	1502.4
+Elo	1502.2
 SE	32
-p vs Vanilla	0.222
+p vs Vanilla	0.226
 Appearances	12
-Share of games	25%">1502</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4.1-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffebd;color:#18202a" data-value="1496.51" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
+Share of games	25%">1502</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">DeepSeek-V4.1-Flash-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffebd;color:#18202a" data-value="1496.49" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
 General (all strategies)
 Elo	1496.5
 SE	17
-p vs Vanilla	0.841
-Appearances	48">1497</td><td class="heat-cell heat-cell-value" style="background-color:#fff2ab;color:#18202a" data-value="1453.4" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
+p vs Vanilla	0.840
+Appearances	48">1496</td><td class="heat-cell heat-cell-value" style="background-color:#fff2ab;color:#18202a" data-value="1453.37" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
 Domination
 Elo	1453.4
 SE	33
-p vs Vanilla	0.132
+p vs Vanilla	0.130
 Appearances	11
-Share of games	23%">1453</td><td class="heat-cell heat-cell-value" style="background-color:#fff4af;color:#18202a" data-value="1462.46" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
+Share of games	23%">1453</td><td class="heat-cell heat-cell-value" style="background-color:#fff4ae;color:#18202a" data-value="1462.28" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
 Culture
-Elo	1462.5
+Elo	1462.3
 SE	24
-p vs Vanilla	0.007
+p vs Vanilla	0.006
 Appearances	18
-Share of games	38%">1462**</td><td class="heat-cell heat-cell-value" style="background-color:#feeba1;color:#18202a" data-value="1430.62" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
+Share of games	38%">1462**</td><td class="heat-cell heat-cell-value" style="background-color:#feeba1;color:#18202a" data-value="1430.57" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
 Diplomatic
 Elo	1430.6
 SE	38
-p vs Vanilla	0.059
+p vs Vanilla	0.062
 Appearances	8
-Share of games	17%">1431</td><td class="heat-cell heat-cell-value" style="background-color:#d2ecf4;color:#18202a" data-value="1636.07" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
+Share of games	17%">1431</td><td class="heat-cell heat-cell-value" style="background-color:#d2ecf4;color:#18202a" data-value="1635.83" data-tip="DeepSeek-V4.1-Flash-Simple | Per-5
 Science
-Elo	1636.1
+Elo	1635.8
 SE	35
 p vs Vanilla	&lt;0.001
 Appearances	11
-Share of games	23%">1636***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.5-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff4ae;color:#18202a" data-value="1460.28" data-tip="Qwen-3.5-Simple | Every-turn
+Share of games	23%">1636***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.5-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff4ae;color:#18202a" data-value="1460.27" data-tip="Qwen-3.5-Simple | Every-turn
 General (all strategies)
 Elo	1460.3
 SE	17
 p vs Vanilla	0.022
-Appearances	48">1460*</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1433.47" data-tip="Qwen-3.5-Simple | Every-turn
+Appearances	48">1460*</td><td class="heat-cell heat-cell-value" style="background-color:#feeca2;color:#18202a" data-value="1433.2" data-tip="Qwen-3.5-Simple | Every-turn
 Domination
-Elo	1433.5
+Elo	1433.2
 SE	30
-p vs Vanilla	0.021
+p vs Vanilla	0.020
 Appearances	15
-Share of games	31%">1433*</td><td class="heat-cell heat-cell-value" style="background-color:#feeba0;color:#18202a" data-value="1429.97" data-tip="Qwen-3.5-Simple | Every-turn
+Share of games	31%">1433*</td><td class="heat-cell heat-cell-value" style="background-color:#feeba0;color:#18202a" data-value="1429.75" data-tip="Qwen-3.5-Simple | Every-turn
 Culture
-Elo	1430.0
+Elo	1429.8
 SE	25
 p vs Vanilla	&lt;0.001
 Appearances	19
-Share of games	40%">1430***</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec2;color:#18202a" data-value="1505.78" data-tip="Qwen-3.5-Simple | Every-turn
+Share of games	40%">1430***</td><td class="heat-cell heat-cell-value" style="background-color:#fdfec2;color:#18202a" data-value="1505.54" data-tip="Qwen-3.5-Simple | Every-turn
 Diplomatic
-Elo	1505.8
+Elo	1505.5
 SE	35
-p vs Vanilla	0.927
+p vs Vanilla	0.911
 Appearances	8
-Share of games	17%">1506</td><td class="heat-cell heat-cell-value" style="background-color:#eaf7e5;color:#18202a" data-value="1571.52" data-tip="Qwen-3.5-Simple | Every-turn
+Share of games	17%">1506</td><td class="heat-cell heat-cell-value" style="background-color:#eaf7e5;color:#18202a" data-value="1571.25" data-tip="Qwen-3.5-Simple | Every-turn
 Science
-Elo	1571.5
+Elo	1571.3
 SE	42
 p vs Vanilla	0.011
 Appearances	6
-Share of games	12%">1572*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.5-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeea5;color:#18202a" data-value="1439.7" data-tip="Qwen-3.5-Simple | Per-5
+Share of games	12%">1571*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.5-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fee99e;color:#18202a" data-value="1424.09" data-tip="Qwen-3.5-Simple | Per-5
 General (all strategies)
-Elo	1439.7
-SE	18
+Elo	1424.1
+SE	17
 p vs Vanilla	&lt;0.001
-Appearances	46">1440***</td><td class="heat-cell heat-cell-value" style="background-color:#fff6b2;color:#18202a" data-value="1470.24" data-tip="Qwen-3.5-Simple | Per-5
+Appearances	48">1424***</td><td class="heat-cell heat-cell-value" style="background-color:#fff6b1;color:#18202a" data-value="1467.32" data-tip="Qwen-3.5-Simple | Per-5
 Domination
-Elo	1470.2
+Elo	1467.3
 SE	27
-p vs Vanilla	0.216
+p vs Vanilla	0.176
 Appearances	17
-Share of games	37%">1470</td><td class="heat-cell heat-cell-value" style="background-color:#feeea5;color:#18202a" data-value="1441.7" data-tip="Qwen-3.5-Simple | Per-5
+Share of games	35%">1467</td><td class="heat-cell heat-cell-value" style="background-color:#fee79b;color:#18202a" data-value="1417" data-tip="Qwen-3.5-Simple | Per-5
 Culture
-Elo	1441.7
-SE	27
-p vs Vanilla	0.001
-Appearances	19
-Share of games	41%">1442**</td><td class="heat-cell heat-cell-value" style="background-color:#fa9a58;color:#18202a" data-value="1252.04" data-tip="Qwen-3.5-Simple | Per-5
+Elo	1417.0
+SE	26
+p vs Vanilla	&lt;0.001
+Appearances	20
+Share of games	42%">1417***</td><td class="heat-cell heat-cell-value" style="background-color:#fa9756;color:#18202a" data-value="1247.5" data-tip="Qwen-3.5-Simple | Per-5
 Diplomatic
-Elo	1252.0
+Elo	1247.5
 SE	54
 p vs Vanilla	&lt;0.001
 Appearances	5
-Share of games	11%">1252***</td><td class="heat-cell heat-cell-value" style="background-color:#dcf1f7;color:#18202a" data-value="1614.91" data-tip="Qwen-3.5-Simple | Per-5
+Share of games	10%">1247***</td><td class="heat-cell heat-cell-value" style="background-color:#f6fbd0;color:#18202a" data-value="1531.53" data-tip="Qwen-3.5-Simple | Per-5
 Science
-Elo	1614.9
-SE	53
-p vs Vanilla	0.004
-Appearances	5
-Share of games	11%">1615**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.6-27B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fede8e;color:#18202a" data-value="1387.92" data-tip="Qwen-3.6-27B-Simple | Every-turn
+Elo	1531.5
+SE	45
+p vs Vanilla	0.127
+Appearances	6
+Share of games	12%">1532</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.6-27B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fede8e;color:#18202a" data-value="1387.94" data-tip="Qwen-3.6-27B-Simple | Every-turn
 General (all strategies)
 Elo	1387.9
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	48">1388***</td><td class="heat-cell heat-cell-value" style="background-color:#fee191;color:#18202a" data-value="1395.51" data-tip="Qwen-3.6-27B-Simple | Every-turn
+Appearances	48">1388***</td><td class="heat-cell heat-cell-value" style="background-color:#fee191;color:#18202a" data-value="1395.35" data-tip="Qwen-3.6-27B-Simple | Every-turn
 Domination
-Elo	1395.5
+Elo	1395.4
 SE	28
 p vs Vanilla	&lt;0.001
 Appearances	17
-Share of games	38%">1396***</td><td class="heat-cell heat-cell-value" style="background-color:#fee79a;color:#18202a" data-value="1415.63" data-tip="Qwen-3.6-27B-Simple | Every-turn
+Share of games	38%">1395***</td><td class="heat-cell heat-cell-value" style="background-color:#fee79a;color:#18202a" data-value="1415.54" data-tip="Qwen-3.6-27B-Simple | Every-turn
 Culture
-Elo	1415.6
+Elo	1415.5
 SE	24
 p vs Vanilla	&lt;0.001
 Appearances	22
-Share of games	49%">1416***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fece7f;color:#18202a" data-value="1354" data-tip="Qwen-3.6-27B-Simple | Every-turn
+Share of games	49%">1416***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fece7f;color:#18202a" data-value="1353.86" data-tip="Qwen-3.6-27B-Simple | Every-turn
 Science
-Elo	1354.0
+Elo	1353.9
 SE	53
-p vs Vanilla	0.040
+p vs Vanilla	0.039
 Appearances	6
-Share of games	13%">1354*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.6-27B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fec97b;color:#18202a" data-value="1344.24" data-tip="Qwen-3.6-27B-Simple | Per-5
+Share of games	13%">1354*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.6-27B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fec97b;color:#18202a" data-value="1344.27" data-tip="Qwen-3.6-27B-Simple | Per-5
 General (all strategies)
-Elo	1344.2
+Elo	1344.3
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	48">1344***</td><td class="heat-cell heat-cell-value" style="background-color:#fee99d;color:#18202a" data-value="1422.57" data-tip="Qwen-3.6-27B-Simple | Per-5
+Appearances	48">1344***</td><td class="heat-cell heat-cell-value" style="background-color:#fee99d;color:#18202a" data-value="1422.3" data-tip="Qwen-3.6-27B-Simple | Per-5
 Domination
-Elo	1422.6
+Elo	1422.3
 SE	28
-p vs Vanilla	0.004
+p vs Vanilla	0.003
 Appearances	17
-Share of games	39%">1423**</td><td class="heat-cell heat-cell-value" style="background-color:#fdbf71;color:#18202a" data-value="1321.53" data-tip="Qwen-3.6-27B-Simple | Per-5
+Share of games	39%">1422**</td><td class="heat-cell heat-cell-value" style="background-color:#fdbf71;color:#18202a" data-value="1321.31" data-tip="Qwen-3.6-27B-Simple | Per-5
 Culture
-Elo	1321.5
+Elo	1321.3
 SE	27
 p vs Vanilla	&lt;0.001
 Appearances	20
-Share of games	45%">1322***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fdbe70;color:#18202a" data-value="1318.95" data-tip="Qwen-3.6-27B-Simple | Per-5
+Share of games	45%">1321***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fdbd70;color:#18202a" data-value="1318.72" data-tip="Qwen-3.6-27B-Simple | Per-5
 Science
-Elo	1318.9
+Elo	1318.7
 SE	42
 p vs Vanilla	&lt;0.001
 Appearances	7
-Share of games	16%">1319***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-27B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fafdc9;color:#18202a" data-value="1517.94" data-tip="Qwen-3.8-27B-Simple | Every-turn
+Share of games	16%">1319***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-27B-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fafdc9;color:#18202a" data-value="1517.93" data-tip="Qwen-3.8-27B-Simple | Every-turn
 General (all strategies)
 Elo	1517.9
 SE	17
 p vs Vanilla	0.301
-Appearances	48">1518</td><td class="heat-cell heat-cell-value" style="background-color:#feefa7;color:#18202a" data-value="1444.17" data-tip="Qwen-3.8-27B-Simple | Every-turn
+Appearances	48">1518</td><td class="heat-cell heat-cell-value" style="background-color:#feefa6;color:#18202a" data-value="1444.05" data-tip="Qwen-3.8-27B-Simple | Every-turn
 Domination
-Elo	1444.2
+Elo	1444.1
 SE	43
-p vs Vanilla	0.168
+p vs Vanilla	0.166
 Appearances	6
-Share of games	12%">1444</td><td class="heat-cell heat-cell-value" style="background-color:#d9f0f6;color:#18202a" data-value="1620.79" data-tip="Qwen-3.8-27B-Simple | Every-turn
+Share of games	12%">1444</td><td class="heat-cell heat-cell-value" style="background-color:#d9f0f6;color:#18202a" data-value="1620.67" data-tip="Qwen-3.8-27B-Simple | Every-turn
 Culture
-Elo	1620.8
+Elo	1620.7
 SE	28
 p vs Vanilla	0.002
 Appearances	19
-Share of games	40%">1621**</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1552.96" data-tip="Qwen-3.8-27B-Simple | Every-turn
+Share of games	40%">1621**</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1552.83" data-tip="Qwen-3.8-27B-Simple | Every-turn
 Diplomatic
-Elo	1553.0
+Elo	1552.8
 SE	29
-p vs Vanilla	0.086
+p vs Vanilla	0.081
 Appearances	13
-Share of games	27%">1553</td><td class="heat-cell heat-cell-value" style="background-color:#fee99e;color:#18202a" data-value="1424.53" data-tip="Qwen-3.8-27B-Simple | Every-turn
+Share of games	27%">1553</td><td class="heat-cell heat-cell-value" style="background-color:#fee99e;color:#18202a" data-value="1424.38" data-tip="Qwen-3.8-27B-Simple | Every-turn
 Science
-Elo	1424.5
+Elo	1424.4
 SE	34
-p vs Vanilla	0.262
+p vs Vanilla	0.258
 Appearances	10
-Share of games	21%">1425</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-27B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff2ab;color:#18202a" data-value="1455.37" data-tip="Qwen-3.8-27B-Simple | Per-5
+Share of games	21%">1424</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-27B-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff2ab;color:#18202a" data-value="1455.37" data-tip="Qwen-3.8-27B-Simple | Per-5
 General (all strategies)
 Elo	1455.4
 SE	17
 p vs Vanilla	0.011
-Appearances	48">1455*</td><td class="heat-cell heat-cell-value" style="background-color:#fff5b0;color:#18202a" data-value="1464.94" data-tip="Qwen-3.8-27B-Simple | Per-5
+Appearances	48">1455*</td><td class="heat-cell heat-cell-value" style="background-color:#fff5b0;color:#18202a" data-value="1464.86" data-tip="Qwen-3.8-27B-Simple | Per-5
 Domination
 Elo	1464.9
 SE	48
-p vs Vanilla	0.418
+p vs Vanilla	0.415
 Appearances	5
-Share of games	10%">1465</td><td class="heat-cell heat-cell-value" style="background-color:#fff6b2;color:#18202a" data-value="1470.3" data-tip="Qwen-3.8-27B-Simple | Per-5
+Share of games	10%">1465</td><td class="heat-cell heat-cell-value" style="background-color:#fff6b2;color:#18202a" data-value="1470.05" data-tip="Qwen-3.8-27B-Simple | Per-5
 Culture
-Elo	1470.3
+Elo	1470.1
 SE	28
-p vs Vanilla	0.036
+p vs Vanilla	0.034
 Appearances	15
-Share of games	31%">1470*</td><td class="heat-cell heat-cell-value" style="background-color:#fa9756;color:#18202a" data-value="1247.18" data-tip="Qwen-3.8-27B-Simple | Per-5
+Share of games	31%">1470*</td><td class="heat-cell heat-cell-value" style="background-color:#fa9756;color:#18202a" data-value="1247.13" data-tip="Qwen-3.8-27B-Simple | Per-5
 Diplomatic
-Elo	1247.2
+Elo	1247.1
 SE	39
 p vs Vanilla	&lt;0.001
 Appearances	11
-Share of games	23%">1247***</td><td class="heat-cell heat-cell-value" style="background-color:#f1fad9;color:#18202a" data-value="1548.06" data-tip="Qwen-3.8-27B-Simple | Per-5
+Share of games	23%">1247***</td><td class="heat-cell heat-cell-value" style="background-color:#f1fad8;color:#18202a" data-value="1547.88" data-tip="Qwen-3.8-27B-Simple | Per-5
 Science
-Elo	1548.1
+Elo	1547.9
 SE	26
 p vs Vanilla	0.001
 Appearances	17
-Share of games	35%">1548**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-Flash-Next-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffab7;color:#18202a" data-value="1482.21" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
+Share of games	35%">1548**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Qwen-3.8-Flash-Next-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fffebd;color:#18202a" data-value="1495.48" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
 General (all strategies)
-Elo	1482.2
-SE	17
-p vs Vanilla	0.315
-Appearances	46">1482</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1553.19" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
+Elo	1495.5
+SE	16
+p vs Vanilla	0.787
+Appearances	52">1495</td><td class="heat-cell heat-cell-value" style="background-color:#eff9dd;color:#18202a" data-value="1556.22" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
 Domination
-Elo	1553.2
+Elo	1556.2
 SE	32
-p vs Vanilla	0.121
+p vs Vanilla	0.101
 Appearances	12
-Share of games	28%">1553</td><td class="heat-cell heat-cell-value" style="background-color:#feea9f;color:#18202a" data-value="1427.38" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
+Share of games	24%">1556</td><td class="heat-cell heat-cell-value" style="background-color:#fff2ab;color:#18202a" data-value="1453.91" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
 Culture
-Elo	1427.4
-SE	23
+Elo	1453.9
+SE	21
 p vs Vanilla	&lt;0.001
-Appearances	23
-Share of games	53%">1427***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#d3ecf4;color:#18202a" data-value="1634.27" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
+Appearances	27
+Share of games	55%">1454***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#d8eff6;color:#18202a" data-value="1622.68" data-tip="Qwen-3.8-Flash-Next-Simple | Per-5
 Science
-Elo	1634.3
-SE	41
+Elo	1622.7
+SE	36
 p vs Vanilla	&lt;0.001
-Appearances	8
-Share of games	19%">1634***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Gemma-4-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fed989;color:#18202a" data-value="1377.38" data-tip="Gemma-4-Simple | Every-turn
+Appearances	10
+Share of games	20%">1623***</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Gemma-4-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fed989;color:#18202a" data-value="1377.41" data-tip="Gemma-4-Simple | Every-turn
 General (all strategies)
 Elo	1377.4
 SE	18
 p vs Vanilla	&lt;0.001
-Appearances	48">1377***</td><td class="heat-cell heat-cell-value" style="background-color:#fed485;color:#18202a" data-value="1367.25" data-tip="Gemma-4-Simple | Every-turn
+Appearances	48">1377***</td><td class="heat-cell heat-cell-value" style="background-color:#fed485;color:#18202a" data-value="1367.14" data-tip="Gemma-4-Simple | Every-turn
 Domination
-Elo	1367.2
+Elo	1367.1
 SE	26
 p vs Vanilla	&lt;0.001
 Appearances	20
-Share of games	44%">1367***</td><td class="heat-cell heat-cell-value" style="background-color:#fec97a;color:#18202a" data-value="1342.79" data-tip="Gemma-4-Simple | Every-turn
+Share of games	44%">1367***</td><td class="heat-cell heat-cell-value" style="background-color:#fec97a;color:#18202a" data-value="1342.62" data-tip="Gemma-4-Simple | Every-turn
 Culture
-Elo	1342.8
+Elo	1342.6
 SE	31
 p vs Vanilla	&lt;0.001
 Appearances	14
-Share of games	31%">1343***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fff7b3;color:#18202a" data-value="1473.07" data-tip="Gemma-4-Simple | Every-turn
+Share of games	31%">1343***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fff7b3;color:#18202a" data-value="1472.93" data-tip="Gemma-4-Simple | Every-turn
 Science
-Elo	1473.1
+Elo	1472.9
 SE	34
-p vs Vanilla	0.766
+p vs Vanilla	0.773
 Appearances	11
-Share of games	24%">1473</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Gemma-4-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff3ad;color:#18202a" data-value="1458.89" data-tip="Gemma-4-Simple | Per-5
+Share of games	24%">1473</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Gemma-4-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fff3ad;color:#18202a" data-value="1458.92" data-tip="Gemma-4-Simple | Per-5
 General (all strategies)
 Elo	1458.9
 SE	17
 p vs Vanilla	0.022
-Appearances	48">1459*</td><td class="heat-cell heat-cell-value" style="background-color:#f8fccd;color:#18202a" data-value="1525.82" data-tip="Gemma-4-Simple | Per-5
+Appearances	48">1459*</td><td class="heat-cell heat-cell-value" style="background-color:#f8fccd;color:#18202a" data-value="1525.62" data-tip="Gemma-4-Simple | Per-5
 Domination
-Elo	1525.8
+Elo	1525.6
 SE	27
-p vs Vanilla	0.413
+p vs Vanilla	0.422
 Appearances	18
-Share of games	39%">1526</td><td class="heat-cell heat-cell-value" style="background-color:#fece7f;color:#18202a" data-value="1353.67" data-tip="Gemma-4-Simple | Per-5
+Share of games	39%">1526</td><td class="heat-cell heat-cell-value" style="background-color:#fece7f;color:#18202a" data-value="1353.56" data-tip="Gemma-4-Simple | Per-5
 Culture
-Elo	1353.7
+Elo	1353.6
 SE	28
 p vs Vanilla	&lt;0.001
 Appearances	17
-Share of games	37%">1354***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1553.24" data-tip="Gemma-4-Simple | Per-5
+Share of games	37%">1354***</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1552.99" data-tip="Gemma-4-Simple | Per-5
 Science
-Elo	1553.2
+Elo	1553.0
 SE	33
 p vs Vanilla	0.007
 Appearances	11
-Share of games	24%">1553**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Accessed through Codex with reasoning effort &quot;high&quot;, which may be lower than &quot;high&quot; in the API.">GPT-6-Luna-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fcfec4;color:#18202a" data-value="1510.28" data-tip="GPT-6-Luna-Simple | Per-5
+Share of games	24%">1553**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Accessed through Codex with reasoning effort &quot;high&quot;, which may be lower than &quot;high&quot; in the API.">GPT-6-Luna-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#fcfec4;color:#18202a" data-value="1510.25" data-tip="GPT-6-Luna-Simple | Per-5
 General (all strategies)
-Elo	1510.3
+Elo	1510.2
 SE	17
-p vs Vanilla	0.567
-Appearances	48">1510</td><td class="heat-cell heat-cell-value" style="background-color:#eff9dc;color:#18202a" data-value="1553.79" data-tip="GPT-6-Luna-Simple | Per-5
+p vs Vanilla	0.568
+Appearances	48">1510</td><td class="heat-cell heat-cell-value" style="background-color:#f0f9db;color:#18202a" data-value="1553.6" data-tip="GPT-6-Luna-Simple | Per-5
 Domination
-Elo	1553.8
+Elo	1553.6
 SE	50
-p vs Vanilla	0.322
+p vs Vanilla	0.326
 Appearances	5
-Share of games	11%">1554</td><td class="heat-cell heat-cell-value" style="background-color:#f3fbd4;color:#18202a" data-value="1540.1" data-tip="GPT-6-Luna-Simple | Per-5
+Share of games	11%">1554</td><td class="heat-cell heat-cell-value" style="background-color:#f3fbd4;color:#18202a" data-value="1540" data-tip="GPT-6-Luna-Simple | Per-5
 Culture
-Elo	1540.1
+Elo	1540.0
 SE	46
-p vs Vanilla	0.844
+p vs Vanilla	0.854
 Appearances	5
-Share of games	11%">1540</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fafdc8;color:#18202a" data-value="1516.91" data-tip="GPT-6-Luna-Simple | Per-5
+Share of games	11%">1540</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#fafdc8;color:#18202a" data-value="1516.75" data-tip="GPT-6-Luna-Simple | Per-5
 Science
-Elo	1516.9
+Elo	1516.7
 SE	19
 p vs Vanilla	0.006
 Appearances	36
-Share of games	78%">1517**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Nemotron-3-Super-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeda4;color:#18202a" data-value="1439.47" data-tip="Nemotron-3-Super-Simple | Every-turn
+Share of games	78%">1517**</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Nemotron-3-Super-Simple | Every-turn</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeea4;color:#18202a" data-value="1439.48" data-tip="Nemotron-3-Super-Simple | Every-turn
 General (all strategies)
 Elo	1439.5
 SE	17
 p vs Vanilla	&lt;0.001
-Appearances	48">1439***</td><td class="heat-cell heat-cell-value" style="background-color:#fee496;color:#18202a" data-value="1405.9" data-tip="Nemotron-3-Super-Simple | Every-turn
+Appearances	48">1439***</td><td class="heat-cell heat-cell-value" style="background-color:#fee496;color:#18202a" data-value="1405.66" data-tip="Nemotron-3-Super-Simple | Every-turn
 Domination
-Elo	1405.9
+Elo	1405.7
 SE	31
 p vs Vanilla	0.002
 Appearances	13
-Share of games	27%">1406**</td><td class="heat-cell heat-cell-value" style="background-color:#fee495;color:#18202a" data-value="1405.13" data-tip="Nemotron-3-Super-Simple | Every-turn
+Share of games	27%">1406**</td><td class="heat-cell heat-cell-value" style="background-color:#fee495;color:#18202a" data-value="1404.93" data-tip="Nemotron-3-Super-Simple | Every-turn
 Culture
-Elo	1405.1
+Elo	1404.9
 SE	25
 p vs Vanilla	&lt;0.001
 Appearances	21
-Share of games	44%">1405***</td><td class="heat-cell heat-cell-value" style="background-color:#fffcba;color:#18202a" data-value="1489.05" data-tip="Nemotron-3-Super-Simple | Every-turn
+Share of games	44%">1405***</td><td class="heat-cell heat-cell-value" style="background-color:#fffcba;color:#18202a" data-value="1488.83" data-tip="Nemotron-3-Super-Simple | Every-turn
 Diplomatic
-Elo	1489.0
+Elo	1488.8
 SE	48
-p vs Vanilla	0.778
+p vs Vanilla	0.790
 Appearances	5
-Share of games	10%">1489</td><td class="heat-cell heat-cell-value" style="background-color:#f2fad8;color:#18202a" data-value="1546.24" data-tip="Nemotron-3-Super-Simple | Every-turn
+Share of games	10%">1489</td><td class="heat-cell heat-cell-value" style="background-color:#f2fad8;color:#18202a" data-value="1546.11" data-tip="Nemotron-3-Super-Simple | Every-turn
 Science
-Elo	1546.2
+Elo	1546.1
 SE	37
-p vs Vanilla	0.024
+p vs Vanilla	0.025
 Appearances	9
-Share of games	19%">1546*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Nemotron-3-Super-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeca2;color:#18202a" data-value="1434.58" data-tip="Nemotron-3-Super-Simple | Per-5
+Share of games	19%">1546*</td></tr><tr><th scope="row" class="row-label"><span tabindex="0" data-tip="Reasoning either has only an on setting, or was set to effort &quot;high&quot;.">Nemotron-3-Super-Simple | Per-5</span></th><td class="heat-cell heat-cell-value col-divider" style="background-color:#feeca2;color:#18202a" data-value="1434.6" data-tip="Nemotron-3-Super-Simple | Per-5
 General (all strategies)
 Elo	1434.6
 SE	17
 p vs Vanilla	&lt;0.001
-Appearances	48">1435***</td><td class="heat-cell heat-cell-value" style="background-color:#fed485;color:#18202a" data-value="1367.48" data-tip="Nemotron-3-Super-Simple | Per-5
+Appearances	48">1435***</td><td class="heat-cell heat-cell-value" style="background-color:#fed485;color:#18202a" data-value="1367.37" data-tip="Nemotron-3-Super-Simple | Per-5
 Domination
-Elo	1367.5
+Elo	1367.4
 SE	29
 p vs Vanilla	&lt;0.001
 Appearances	15
-Share of games	33%">1367***</td><td class="heat-cell heat-cell-value" style="background-color:#f7fccd;color:#18202a" data-value="1526.54" data-tip="Nemotron-3-Super-Simple | Per-5
+Share of games	33%">1367***</td><td class="heat-cell heat-cell-value" style="background-color:#f7fccd;color:#18202a" data-value="1526.36" data-tip="Nemotron-3-Super-Simple | Per-5
 Culture
-Elo	1526.5
+Elo	1526.4
 SE	28
-p vs Vanilla	0.880
+p vs Vanilla	0.862
 Appearances	15
-Share of games	33%">1527</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#feeaa0;color:#18202a" data-value="1428.81" data-tip="Nemotron-3-Super-Simple | Per-5
+Share of games	33%">1526</td><td class="heat-cell heat-cell-empty" aria-label="no data"></td><td class="heat-cell heat-cell-value" style="background-color:#feeaa0;color:#18202a" data-value="1428.75" data-tip="Nemotron-3-Super-Simple | Per-5
 Science
 Elo	1428.8
 SE	28
-p vs Vanilla	0.234
+p vs Vanilla	0.231
 Appearances	15
 Share of games	33%">1429</td></tr></tbody></table></div><ul class="focus-legend"><li><span class="swatch" style="background-color:#a50026"></span>964</li><li><span class="swatch" style="background-color:#f88e52"></span></li><li><span class="swatch" style="background-color:#ffffbf"></span>1500 (Vanilla)</li><li><span class="swatch" style="background-color:#90c3dd"></span></li><li><span class="swatch" style="background-color:#313695"></span>2036</li></ul><p class="caption"><a href="assets/bt_strategy/strategy_ratings.csv">full CSV</a></p></figure>
 <details class="downloads">
@@ -894,7 +894,7 @@ Share of games	33%">1429</td></tr></tbody></table></div><ul class="focus-legend"
 Module: ratings.matchups
 
 mode: both; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5; display: vs_reference</span></span></h2>
-<p>GLM-5.3-Simple-Per-5 has the highest observed strength win rate: <strong>66.3%</strong> against VPAI, across <strong>264</strong> player comparisons.</p>
+<p>GLM-5.3-Simple-Per-5 has the highest observed strength win rate: <strong>66.7%</strong> against VPAI, across <strong>288</strong> player comparisons.</p>
 <div class="view-group"><div class="view-switch" role="group" aria-label="Choose a view"><button type="button" class="view-button" data-view="strength-winrate" aria-controls="section-matchup-strength-view-strength-winrate" aria-pressed="true" data-tip="How often the row player type had higher adjusted strength.">Win rate</button><button type="button" class="view-button" data-view="strength-mean" aria-controls="section-matchup-strength-view-strength-mean" aria-pressed="false" data-tip="The average adjusted-strength gap, row minus column.">Mean difference</button></div><div class="view-panel" id="section-matchup-strength-view-strength-winrate" data-view="strength-winrate"><p class="view-heading"><strong>Win rate</strong></p><figure><iframe class="interactive-figure" style="height:856px;min-height:0" src="assets/matchup_strength/strength_winrate.html" title="matchup_strength: strength_winrate" loading="lazy"></iframe><figcaption class="caption">matchup_strength: strength_winrate</figcaption><p class="interactive-figure-link"><a href="assets/matchup_strength/strength_winrate.html">Open interactive figure (HTML)</a></p></figure></div><div class="view-panel" id="section-matchup-strength-view-strength-mean" data-view="strength-mean"><p class="view-heading"><strong>Mean difference</strong></p><figure><iframe class="interactive-figure" style="height:856px;min-height:0" src="assets/matchup_strength/strength_mean.html" title="matchup_strength: strength_mean" loading="lazy"></iframe><figcaption class="caption">matchup_strength: strength_mean</figcaption><p class="interactive-figure-link"><a href="assets/matchup_strength/strength_mean.html">Open interactive figure (HTML)</a></p></figure></div></div>
 <details class="downloads">
 <summary>Downloads and supporting files (7)</summary>
