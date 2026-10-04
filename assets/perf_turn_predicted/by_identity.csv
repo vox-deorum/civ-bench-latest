@@ -1,12 +1,13 @@
 player_type,strategist,condition,mean_predicted,n_rows,n_games
 GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,0.17687189493138133,19618,24
 Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,0.15433792052199014,19956,24
+Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,0.14840658153384131,18400,24
 GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,0.14092098858932575,18726,24
 Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,0.13899309783804528,19416,24
 GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,0.13548628130238036,19280,24
-Vanilla,Vanilla,Every-turn,0.1279861573459037,1791390,722
 GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,0.12779995708298397,20212,24
 Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,0.12766578467424106,19460,24
+Vanilla,Vanilla,Every-turn,0.12766366183839123,1846590,746
 DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,0.12624471090477046,19056,24
 Vanilla,Vanilla,Vanilla,0.1250000000080282,79168,24
 Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,0.1248874379493914,20302,24

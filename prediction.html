@@ -54,7 +54,7 @@
 Module: prediction.evaluate
 
 metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></span></h2>
-<p>attention performs best on roc auc at <strong>0.8553</strong> using <strong>746</strong> games; scores range from <strong>0.8076</strong> to <strong>0.8553</strong>.</p>
+<p>attention performs best on roc auc at <strong>0.8545</strong> using <strong>770</strong> games; scores range from <strong>0.8066</strong> to <strong>0.8545</strong>.</p>
 <p><strong>metrics</strong></p>
 <div class="table-scroll" role="region" tabindex="0">
 <table class="dataframe">
@@ -72,30 +72,30 @@ metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></
   <tbody>
     <tr>
       <td>score</td>
-      <td>2467688</td>
-      <td>746</td>
-      <td>0.80755</td>
-      <td>0.0911744</td>
-      <td>0.303049</td>
-      <td>0.655186</td>
+      <td>2541288</td>
+      <td>770</td>
+      <td>0.806588</td>
+      <td>0.091384</td>
+      <td>0.303654</td>
+      <td>0.654266</td>
     </tr>
     <tr>
       <td>attention</td>
-      <td>2467688</td>
-      <td>746</td>
-      <td>0.85533</td>
-      <td>0.0810071</td>
-      <td>0.266376</td>
-      <td>0.685261</td>
+      <td>2541288</td>
+      <td>770</td>
+      <td>0.854509</td>
+      <td>0.0812848</td>
+      <td>0.267131</td>
+      <td>0.684316</td>
     </tr>
     <tr>
       <td>xgboost</td>
-      <td>2467688</td>
-      <td>746</td>
-      <td>0.844152</td>
-      <td>0.085555</td>
-      <td>0.279248</td>
-      <td>0.680604</td>
+      <td>2541288</td>
+      <td>770</td>
+      <td>0.843815</td>
+      <td>0.0857789</td>
+      <td>0.279718</td>
+      <td>0.679666</td>
     </tr>
   </tbody>
 </table>
@@ -113,8 +113,8 @@ metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></
 
 Module: prediction.compare
 
-n_models: 3; n_rows: 2467688</span></span></h2>
-<p>attention and xgboost agree most on player rank (Spearman <strong>0.896</strong>); agreement ranges from <strong>0.854</strong> to <strong>0.896</strong> across <strong>2,467,688</strong> shared predictions.</p>
+n_models: 3; n_rows: 2541288</span></span></h2>
+<p>attention and xgboost agree most on player rank (Spearman <strong>0.896</strong>); agreement ranges from <strong>0.854</strong> to <strong>0.896</strong> across <strong>2,541,288</strong> shared predictions.</p>
 <figure><img src="assets/pred_compare/rank_agreement.png" alt="pred_compare: rank_agreement"><figcaption class="caption">pred_compare: rank_agreement</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (3)</summary>

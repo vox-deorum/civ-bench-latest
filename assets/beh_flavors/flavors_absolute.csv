@@ -1,38 +1,38 @@
 row_kind,player_type,strategist,condition,row_label,metric,metric_group,mean,sd,n_players,n_games,color_position,median,ci_lower,ci_upper,mean_max,mean_min
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_offense_avg,Military,41.7161393982808,24.864558031395617,1396,698,0.417161,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_defense_avg,Military,61.430327578796565,14.446170751185496,1396,698,0.614303,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_city_defense_avg,Military,58.8079323782235,14.018323997446123,1396,698,0.588079,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_mobilization_avg,Military,51.63611597421204,19.847839795307966,1396,698,0.516361,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_military_training_avg,Military,59.55404727793696,18.93253974723834,1396,698,0.59554,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_recon_avg,Military,45.35401783667621,13.590004911628892,1396,698,0.45354,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_ranged_avg,Military,53.44916138968481,17.460474242850317,1396,698,0.534492,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_mobile_avg,Military,46.509418911174784,18.213024763714312,1396,698,0.465094,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_nuke_avg,Nuclear,35.10572070393375,32.01639727106175,483,348,0.351057,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_use_nuke_avg,Nuclear,27.291720703933745,30.33724294935724,483,348,0.272917,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_avg,Naval and air,48.87484083094556,16.025867558090038,1396,698,0.488748,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_recon_avg,Naval and air,40.146603939828076,15.897593712229442,1396,698,0.401466,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_air_avg,Naval and air,40.035365368331924,25.358566002149068,1181,671,0.400354,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_antiair_avg,Naval and air,39.91478103302286,25.27015293378657,1181,671,0.399148,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_air_carrier_avg,Naval and air,26.114157070279422,22.880850600422963,1181,671,0.261142,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_airlift_avg,Naval and air,27.946217612193056,22.515799760086995,1181,671,0.279462,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_expansion_avg,Economy,42.164505229226364,14.525558991905278,1396,698,0.421645,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_growth_avg,Economy,65.9144846704871,11.486316419160838,1396,698,0.659145,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_tile_improvement_avg,Economy,63.18572528653294,10.523047195312065,1396,698,0.631857,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_infrastructure_avg,Economy,63.99095766475645,10.838493542156812,1396,698,0.63991,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_production_avg,Economy,75.9847297277937,12.987540304677855,1396,698,0.759847,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_gold_avg,Economy,70.7866168338109,12.546131347607046,1396,698,0.707866,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_science_avg,Economy,75.98458452722063,12.643322781481746,1396,698,0.759846,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_culture_avg,Economy,65.14545501432664,19.81659189802213,1396,698,0.651455,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_happiness_avg,Economy,70.8850509312321,12.343470592927755,1396,698,0.708851,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_growth_avg,Economy,40.28980451289398,16.813642327736357,1396,698,0.402898,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_tile_improvement_avg,Economy,38.69410702005731,16.867577417186563,1396,698,0.386941,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_water_connection_avg,Economy,43.170762464183376,15.022488041502944,1396,698,0.431708,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_great_people_avg,Other,64.99016217765042,17.25144240226838,1396,698,0.649902,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_wonder_avg,Other,43.676111318051575,24.23646325781049,1396,698,0.436761,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_religion_avg,Other,46.05264663323783,17.72353980396992,1396,698,0.460526,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_diplomacy_avg,Other,68.30251676217765,17.726515335384406,1396,698,0.683025,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_espionage_avg,Other,53.1611909025788,15.698222334600437,1396,698,0.531612,,,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_spaceship_avg,Other,40.816203223495705,22.60177602834744,1396,698,0.408162,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_offense_avg,Military,41.44945997229917,24.607334500748834,1444,722,0.414495,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_defense_avg,Military,61.31311849030471,14.306533084812836,1444,722,0.613131,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_city_defense_avg,Military,58.86025422437673,13.86378071802845,1444,722,0.588603,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_mobilization_avg,Military,51.378979362880884,19.667164714701705,1444,722,0.51379,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_military_training_avg,Military,59.24430339335181,18.74302062702678,1444,722,0.592443,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_recon_avg,Military,44.506663157894735,14.255850509085537,1444,722,0.445067,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_ranged_avg,Military,53.577094736842106,17.23999565187112,1444,722,0.535771,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_mobile_avg,Military,46.47825713296398,17.94194787331551,1444,722,0.464783,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_nuke_avg,Nuclear,34.920283232323236,31.765775009802965,495,357,0.349203,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_use_nuke_avg,Nuclear,27.02340202020202,30.12742974359242,495,357,0.270234,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_avg,Naval and air,48.87699542936288,15.7926944206319,1444,722,0.48877,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_recon_avg,Naval and air,40.22586371191136,15.675942256073283,1444,722,0.402259,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_air_avg,Naval and air,40.37893409648406,25.023802668274197,1223,695,0.403789,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_antiair_avg,Naval and air,40.33612902698283,24.973884899805952,1223,695,0.403361,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_air_carrier_avg,Naval and air,26.80559950940311,22.839336001525005,1223,695,0.268056,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_airlift_avg,Naval and air,28.66187211774325,22.47843873907905,1223,695,0.286619,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_expansion_avg,Economy,42.192405055401665,14.37981334886756,1444,722,0.421924,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_growth_avg,Economy,65.74339051246537,11.340179212645948,1444,722,0.657434,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_tile_improvement_avg,Economy,63.05722236842106,10.376536976229056,1444,722,0.630572,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_infrastructure_avg,Economy,63.61503781163435,10.857534494117903,1444,722,0.63615,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_production_avg,Economy,75.57465588642658,12.99205886916868,1444,722,0.755747,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_gold_avg,Economy,70.34091246537396,12.622758228025473,1444,722,0.703409,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_science_avg,Economy,75.69224286703601,12.567964904493476,1444,722,0.756922,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_culture_avg,Economy,65.14679480609418,19.552821568148765,1444,722,0.651468,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_happiness_avg,Economy,70.61514702216067,12.262229481554048,1444,722,0.706151,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_growth_avg,Economy,40.612889542936294,16.644767378496983,1444,722,0.406129,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_naval_tile_improvement_avg,Economy,39.11705837950139,16.751140375504395,1444,722,0.391171,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_water_connection_avg,Economy,43.38352409972299,14.824960893357463,1444,722,0.433835,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_great_people_avg,Other,64.82862998614958,17.014693305631244,1444,722,0.648286,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_wonder_avg,Other,43.655199168975074,24.026568162738027,1444,722,0.436552,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_religion_avg,Other,45.98646523545706,17.56083119915162,1444,722,0.459865,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_diplomacy_avg,Other,67.88628005540167,17.67538222719144,1444,722,0.678863,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_espionage_avg,Other,53.07656440443214,15.454839170441751,1444,722,0.530766,,,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavor_spaceship_avg,Other,41.14017534626039,22.29821166144655,1444,722,0.411402,,,,,
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,flavor_offense_avg,Military,50.43675833333333,,48,24,0.504368,48.0696,46.429234270833334,54.87358994791666,69.14583333333333,32.791666666666664
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,flavor_defense_avg,Military,63.47584791666666,,48,24,0.634758,63.054500000000004,61.814872239583345,65.29804239583333,84.10416666666667,48.1875
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,flavor_city_defense_avg,Military,58.47976458333334,,48,24,0.584798,58.2217,57.11433770833333,59.8883475,74.60416666666667,48.9375
@@ -781,6 +781,40 @@ group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Sup
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,flavor_diplomacy_avg,Other,67.97339375,,48,24,0.679734,68.7804,63.36704380208334,71.67404963541668,95.20833333333333,31.770833333333332
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,flavor_espionage_avg,Other,44.02450625,,48,24,0.440245,44.9829,39.865024166666664,47.56986109375,83.75,13.229166666666666
 group,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,flavor_spaceship_avg,Other,31.871770833333333,,48,24,0.318718,23.999299999999998,25.392574583333335,38.73741984375,70.3125,10.416666666666666
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_offense_avg,Military,33.693533333333335,,48,24,0.336935,30.9015,30.132615312500004,38.00148791666667,64.0625,12.270833333333334
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_defense_avg,Military,57.90428750000001,,48,24,0.579043,58.27875,55.42573484375,60.51903354166666,81.60416666666667,36.229166666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_city_defense_avg,Military,60.38194791666666,,48,24,0.603819,59.7171,58.196246406250005,62.78679296874999,82.75,43.333333333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_mobilization_avg,Military,43.900589583333335,,48,24,0.439006,45.26455,40.59109260416667,47.30478984375,69.89583333333333,20.583333333333332
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_military_training_avg,Military,50.235918749999996,,48,24,0.502359,51.0169,47.91332453125,52.51390234375,63.583333333333336,35.375
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_recon_avg,Military,19.862764583333334,,48,24,0.198628,16.35955,17.230610156250002,22.866074375,58.4375,8.3125
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_ranged_avg,Military,57.29782291666667,,48,24,0.572978,58.201049999999995,54.75029255208333,59.91775473958334,73.83333333333333,43.166666666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_mobile_avg,Military,45.571968749999996,,48,24,0.45572,47.87535,43.68822578125,47.27218859375001,55.604166666666664,31.3125
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_nuke_avg,Nuclear,27.456425,,12,9,0.274564,22.5,18.400949807692307,39.855872727272725,28.75,25.833333333333332
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_use_nuke_avg,Nuclear,16.223575,,12,9,0.162236,10.0,7.924790666666668,27.9,16.25,16.166666666666668
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_naval_avg,Naval and air,48.93965833333334,,48,24,0.489397,50.0781,47.09075447916666,50.76428255208334,64.25,32.645833333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_naval_recon_avg,Naval and air,42.531002083333334,,48,24,0.42531,43.188500000000005,40.863728125,44.07677635416666,51.708333333333336,22.395833333333332
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_air_avg,Naval and air,50.03975952380952,,42,24,0.500398,50.0,47.52747970363018,52.450906027777776,57.666666666666664,41.904761904761905
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_antiair_avg,Naval and air,52.18403333333334,,42,24,0.52184,51.1683,49.9914325,54.197999821428574,61.61904761904762,45.476190476190474
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_air_carrier_avg,Naval and air,46.24830238095238,,42,24,0.462483,50.0,42.98145163888889,49.003877042635665,49.04761904761905,40.714285714285715
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_airlift_avg,Naval and air,48.78539523809524,,42,24,0.487854,50.0,46.58005829533404,50.0,49.04761904761905,47.857142857142854
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_expansion_avg,Economy,43.003825,,48,24,0.430038,44.4028,41.00886333333333,45.110667447916676,92.1875,9.208333333333334
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_growth_avg,Economy,60.76740208333334,,48,24,0.607674,61.0958,59.96521864583334,61.60838973958334,67.5,52.229166666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_tile_improvement_avg,Economy,59.31992916666667,,48,24,0.593199,59.43485,58.67680338541666,59.99802072916666,64.95833333333333,53.833333333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_infrastructure_avg,Economy,52.68203541666667,,48,24,0.52682,52.936800000000005,51.87295078124999,53.46579588541666,56.4375,47.604166666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_production_avg,Economy,63.64834166666666,,48,24,0.636483,64.28115,62.196397968750006,65.02041125,75.72916666666667,53.75
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_gold_avg,Economy,57.37834375,,48,24,0.573783,58.383250000000004,55.74563546875001,58.93544875,73.60416666666667,47.1875
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_science_avg,Economy,67.18997291666668,,48,24,0.6719,66.6365,65.97804500000001,68.27749098958334,83.83333333333333,53.541666666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_culture_avg,Economy,65.18576041666667,,48,24,0.651858,64.47735,62.920729895833325,67.34672723958334,83.79166666666667,50.9375
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_happiness_avg,Economy,62.76544166666667,,48,24,0.627654,63.5094,61.227252343749996,64.27905671875,83.79166666666667,50.208333333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_naval_growth_avg,Economy,50.00927916666666,,48,24,0.500093,50.0,48.52071125,51.00046776041667,51.3125,48.958333333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_naval_tile_improvement_avg,Economy,51.41789375,,48,24,0.514179,50.0,50.46545494791667,52.31371140625,52.395833333333336,50.0
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_water_connection_avg,Economy,49.57134166666666,,48,24,0.495713,50.0,48.68787291666666,50.02615208333333,50.104166666666664,49.270833333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_great_people_avg,Other,60.130735416666674,,48,24,0.601307,59.75,58.64180765625001,61.623239375000004,72.75,48.604166666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_wonder_avg,Other,43.04700416666666,,48,24,0.43047,45.137100000000004,38.23688302083333,47.53783817708334,63.791666666666664,23.9375
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_religion_avg,Other,44.06168958333333,,48,24,0.440617,46.91445,41.00941208333334,47.10581838541666,53.208333333333336,37.458333333333336
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_diplomacy_avg,Other,55.78072916666667,,48,24,0.557807,56.077600000000004,52.988061979166666,58.50749187499999,73.77083333333333,45.0
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_espionage_avg,Other,50.61534375,,48,24,0.506153,50.9626,49.46206619791667,51.32248869791667,57.375,49.166666666666664
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,flavor_spaceship_avg,Other,50.562364583333334,,48,24,0.505624,50.0,49.72539880208334,51.310349739583344,58.395833333333336,45.3125
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,flavor_offense_avg,Military,39.820212500000004,,48,24,0.398202,24.1571,32.69555026041667,47.24000973958333,81.5625,8.520833333333334
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,flavor_defense_avg,Military,63.3000625,,48,24,0.633001,67.20904999999999,59.77186776041667,66.48014062499999,94.16666666666667,31.9375
 group,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,flavor_city_defense_avg,Military,60.68947708333334,,48,24,0.606895,63.31685,57.127314739583326,63.946633281249994,90.41666666666667,36.208333333333336

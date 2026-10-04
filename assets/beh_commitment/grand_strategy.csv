@@ -27,6 +27,13 @@ group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | 
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,48,24,grand_strategy_share_spaceship,Spaceship,,,0.15858509491928718,15.85850949192872,,,
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,48,24,gs_switches,,,,,0.26916143609286775,,,
 group,GPT-OSS-120B-Simple-Per-5,GPT-OSS-120B-Simple,Per-5,GPT-OSS-120B-Simple | Per-5,48,24,gs_pivot,,,,,224.97368421052633,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,gs_main,Culture,Culture,Culture 46%,0.45719486430536255,45.71948643053626,88.5499117466657,0.09336014195018871,219.64705882352942
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.17823112645307096,17.823112645307095,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.45719486430536255,45.71948643053626,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.08358358358358359,8.358358358358359,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,grand_strategy_share_spaceship,Spaceship,,,0.2809904256579829,28.099042565798285,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,gs_switches,,,,,0.09336014195018871,,,
+group,Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,Opus-5.5-Simple | Per-5,48,24,gs_pivot,,,,,219.64705882352942,,,
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,48,24,gs_main,Conquest,Conquest,Conquest 33%,0.3279349333495464,32.79349333495464,87.6757370922375,0.210228015989404,259.9166666666667
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,48,24,grand_strategy_share_conquest,Conquest,,,0.3279349333495464,32.79349333495464,,,
 group,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,GLM-5.1-Simple | Every-turn,48,24,grand_strategy_share_culture,Culture,,,0.28826018033446826,28.826018033446825,,,

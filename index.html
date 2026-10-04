@@ -49,12 +49,12 @@
 <p class="caption">A controlled version of CivBench (Chen et al., 2026). Each LLM strategists rotate through 3 standard maps (8 players), each game features 2 of the same LLM strategists + 6 Vox Populi AI players. Experimented with 2 conditions: having LLMs make a decision every turn (base); having them make a decision every 5 turns, or when an important event comes up (per-5).</p>
 <aside class="announcement" data-announcement="result">
 <p class="eyebrow">Latest score
- &middot; <time datetime="2026-10-02">Oct 2, 2026</time>
-</p><p><strong>GLM-5.3-Simple</strong> scored <strong>1634 Elo</strong> (Per-5, #1).</p></aside>
+ &middot; <time datetime="2026-10-04">Oct 4, 2026</time>
+</p><p><strong>Opus-5.5-Simple</strong> scored <strong>1594 Elo</strong> (Per-5, #2).</p></aside>
 <aside class="announcement" data-announcement="testing">
 <p class="eyebrow">Currently being tested
-</p><p><strong>Opus-5.5-Simple-Per-5</strong> (15/24); <strong>GPT-6-Astra-Simple-Per-5</strong> (7/24); <strong>GPT-6-Luna-Simple</strong> (9/24); <strong>Qwen-3.8-Flash-Next-Simple</strong> (3/24)</p></aside>
-<aside class="announcement latest-game"><p class="eyebrow">Latest game · 2026-10-02 (<a href="games.html">All recent games</a>)</p><p>Opus-5.5-Simple | Per-5 · <a class="replay-link" href="saves/claude-opus-5.5-standard-fixed-per-5/409c5862-9133-445a-a122-ab67013af40f.Civ5Save" data-viewer="https://vox-deorum.github.io/vox-deorum-replay/" data-query="player1=Opus-5.5-Simple%20%7C%20Per-5&amp;player4=Opus-5.5-Simple%20%7C%20Per-5&amp;winner=4">▶ Watch replay</a></p><p>Player 1 (The Zulus) | Player 4 (Polynesia, Won)</p></aside>
+</p><p><strong>GPT-6-Astra-Simple-Per-5</strong> (7/24); <strong>GPT-6-Luna-Simple</strong> (15/24); <strong>GPT-6.1-Sol-Simple-Per-5</strong> (2/24); <strong>Qwen-3.8-Flash-Next-Simple</strong> (9/24)</p></aside>
+<aside class="announcement latest-game"><p class="eyebrow">Latest game · 2026-10-04 (<a href="games.html">All recent games</a>)</p><p>GPT-6-Luna-Simple | Every-turn · <a class="replay-link" href="saves/gpt-6-luna-standard-fixed/2c5b664b-18c5-4033-8900-9c1166a7c627.Civ5Save" data-viewer="https://vox-deorum.github.io/vox-deorum-replay/" data-query="player6=GPT-6-Luna-Simple%20%7C%20Every-turn&amp;player7=GPT-6-Luna-Simple%20%7C%20Every-turn&amp;winner=6">▶ Watch replay</a></p><p>Player 6 (Arabia, Won) | Player 7 (Poland)</p></aside>
 <section aria-labelledby="overview-heading">
 <h2 id="overview-heading">Overview</h2>
 <div class="overview-grid">
@@ -65,7 +65,7 @@
 Module: ratings.bradley_terry
 
 group_by: player_type; strength_table: strength; adjust_stage: strength; strength_estimator: attention; estimator_model: attention_mlp; estimator_fit: pretrained; estimator_predict: in_sample; adjust_block: auto/start_cell; adjust_turn_progress_min: 0.2; adjust_weight: turn_progress; adjust_enforce_winner: True; adjust_civ_adjust: ols_logit; adjust_baseline_experiment: vanilla-standard-fixed; adjust_post_cell_normalize: none; adjust_cell_gain_bend: 0.5</span></span></h2>
-<p>GLM-5.3-Simple-Per-5 leads <strong>31</strong> identities at <strong>1634 Elo</strong>; rating spread: <strong>322</strong> points.</p>
+<p>GLM-5.3-Simple-Per-5 leads <strong>32</strong> identities at <strong>1634 Elo</strong>; rating spread: <strong>322</strong> points.</p>
 <p><a href="ratings.html#section-bt-main">View details</a></p>
 </article>
 <article class="overview-card">
@@ -75,7 +75,7 @@ group_by: player_type; strength_table: strength; adjust_stage: strength; strengt
 Module: ratings.outcome_matchups
 
 table: panel; include_score_ratio: True; victory_rate_unit: wins per player; expected_win_rate: Equal chance: 1 / full game player count, averaged over player appearances.; p_value_win_rate: Binomial test against equal chance, available for fixed game sizes with one appearance of the player type per game.; display: vs_reference; score_ratio_margin: row minus column</span></span></h2>
-<p>DeepSeek-V4.1-Flash-Simple-Per-5 has the highest per-player matchup victory rate: <strong>22.9%</strong> (<strong>11/48</strong>; expected <strong>12.5%</strong> in 8-player games.)</p>
+<p>Opus-5.5-Simple-Per-5 has the highest per-player matchup victory rate: <strong>27.1%</strong> (<strong>13/48</strong>; expected <strong>12.5%</strong> in 8-player games.)</p>
 <p><a href="ratings.html#section-matchup-winrates">View details</a></p>
 </article>
 <article class="overview-card">
@@ -85,7 +85,7 @@ table: panel; include_score_ratio: True; victory_rate_unit: wins per player; exp
 Module: prediction.evaluate
 
 metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></span></h2>
-<p>attention performs best on roc auc at <strong>0.8553</strong> using <strong>746</strong> games; scores range from <strong>0.8076</strong> to <strong>0.8553</strong>.</p>
+<p>attention performs best on roc auc at <strong>0.8545</strong> using <strong>770</strong> games; scores range from <strong>0.8066</strong> to <strong>0.8545</strong>.</p>
 <p><a href="prediction.html#section-pred-metrics">View details</a></p>
 </article>
 <article class="overview-card">
@@ -94,8 +94,8 @@ metrics: roc_auc, brier_score, log_loss, balanced_accuracy; n_models: 3</span></
 
 Module: performance.usage_efficiency
 
-currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {&#x27;cost&#x27;: {&#x27;intercept&#x27;: 1442.9739218513512, &#x27;slope&#x27;: 64.5210229938701, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.33348629637436356}, &#x27;input&#x27;: {&#x27;intercept&#x27;: 916.4790972145981, &#x27;slope&#x27;: 79.88524105069571, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.045388209495439424}, &#x27;output&#x27;: {&#x27;intercept&#x27;: 1101.962319867569, &#x27;slope&#x27;: 63.3327768875517, &#x27;n&#x27;: 29, &#x27;r_squared&#x27;: 0.2283934768201077}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.7486454034206</span></span></h2>
-<p>Most cost-efficient: <strong>GLM-5.3-Simple-Per-5</strong> (<strong>+107 Elo</strong> vs the fitted curve). Least cost-efficient: <strong>Qwen-3.6-27B-Simple-Per-5</strong> (<strong>-115 Elo</strong> vs the fitted curve).</p>
+currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {&#x27;cost&#x27;: {&#x27;intercept&#x27;: 1441.9160969832785, &#x27;slope&#x27;: 70.82723827641072, &#x27;n&#x27;: 30, &#x27;r_squared&#x27;: 0.4018791576026215}, &#x27;input&#x27;: {&#x27;intercept&#x27;: 929.1500568077244, &#x27;slope&#x27;: 78.62554613635585, &#x27;n&#x27;: 30, &#x27;r_squared&#x27;: 0.03811646766643484}, &#x27;output&#x27;: {&#x27;intercept&#x27;: 1221.2790332535012, &#x27;slope&#x27;: 43.50647797457705, &#x27;n&#x27;: 30, &#x27;r_squared&#x27;: 0.10198755780836999}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.604036752814</span></span></h2>
+<p>Most cost-efficient: <strong>GLM-5.3-Simple-Per-5</strong> (<strong>+99 Elo</strong> vs the fitted curve). Least cost-efficient: <strong>Qwen-3.6-27B-Simple-Per-5</strong> (<strong>-116 Elo</strong> vs the fitted curve).</p>
 <p><a href="performance.html#section-perf-usage-efficiency">View details</a></p>
 </article>
 <article class="overview-card">
@@ -104,7 +104,7 @@ currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpric
 
 Module: behavior.flavors
 
-n_absolute_players: 1396; baseline: completed-experiment average; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 1396; n_baseline_experiments: 29; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship</span></span></h2>
+n_absolute_players: 1444; baseline: completed-experiment average; n_relative_players: 1444; n_unmatched_controlled_players: 0; n_baseline_players: 1444; n_baseline_experiments: 30; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship</span></span></h2>
 <p>Against the completed-experiment average, the largest departure is <strong>Qwen-3.6-27B-Simple | Every-turn</strong> on <strong>waterconnection</strong> (<strong>-31</strong>).</p>
 <p><a href="behavior.html#section-beh-flavors">View details</a></p>
 </article>
@@ -114,7 +114,7 @@ n_absolute_players: 1396; baseline: completed-experiment average; n_relative_pla
 
 Module: behavior.diplomacy
 
-n_absolute_players: 1396; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns</span></span></h2>
+n_absolute_players: 1444; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1444; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns</span></span></h2>
 <p><strong>Friendliest</strong>: Nemotron-3-Super-Simple | Every-turn (+207.4 net) · <strong>Least friendly</strong>: MiniMax-M3-Simple | Per-5 (-37.3 net) · <strong>Most masked</strong>: DeepSeek-V4-Flash-Simple | Every-turn (4.4%)</p>
 <p><a href="behavior.html#section-beh-diplomacy">View details</a></p>
 </article>
@@ -124,7 +124,7 @@ n_absolute_players: 1396; baseline: matched in-game AI; baseline_experiments: va
 
 Module: behavior.commitment
 
-n_absolute_players: 1396; baseline: completed-experiment average; n_relative_players: 1396; n_unmatched_controlled_players: 0; n_baseline_players: 1396; n_baseline_experiments: 29; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns</span></span></h2>
+n_absolute_players: 1444; baseline: completed-experiment average; n_relative_players: 1444; n_unmatched_controlled_players: 0; n_baseline_players: 1444; n_baseline_experiments: 30; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns</span></span></h2>
 <p><strong>Domination</strong>: Gemma-4-Simple | Every-turn (43%) · <strong>Culture</strong>: MiniMax-M2.7-Simple | Every-turn (53%) · <strong>Diplomatic</strong>: GPT-OSS-120B-Simple | Every-turn (51%) · <strong>Science</strong>: GPT-6-Luna-Simple | Per-5 (76%)</p>
 <p><a href="behavior.html#section-beh-commitment">View details</a></p>
 </article>
@@ -134,7 +134,7 @@ n_absolute_players: 1396; baseline: completed-experiment average; n_relative_pla
 
 Module: behavior.policies
 
-n_absolute_players: 1444; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1444; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order</span></span></h2>
+n_absolute_players: 1492; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1492; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order</span></span></h2>
 <p><strong>Freedom</strong>: Kimi-K2.7-Simple | Every-turn (29%) · <strong>Autocracy</strong>: Qwen-3.6-27B-Simple | Every-turn (33%) · <strong>Order</strong>: GLM-5.3-Flash-Simple | Per-5 / Kimi-K2.7-Simple | Every-turn / Qwen-3.5-Simple | Per-5 / Qwen-3.8-27B-Simple | Every-turn (58%)</p>
 <p><a href="behavior.html#section-beh-policies">View details</a></p>
 </article>

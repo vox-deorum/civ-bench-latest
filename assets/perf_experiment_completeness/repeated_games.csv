@@ -1,3 +1,4 @@
 experiment,seed,seating_rotation,n_games,game_ids,keep_candidate_game_id,extra_game_ids
+gpt-6-luna-standard-fixed,2,2,2,"45becbc4-3e19-4aab-8255-8d5691271a19,37f290c7-4ae1-4f50-84ad-3ec809a20a62",45becbc4-3e19-4aab-8255-8d5691271a19,37f290c7-4ae1-4f50-84ad-3ec809a20a62
 qwen-3.8-flash-next-standard-fixed-per-5,1,3,2,"00d1a0c6-7c90-46c7-ac33-8f85e6f0fed8,04661991-b1d0-4f19-865d-24791778843b",00d1a0c6-7c90-46c7-ac33-8f85e6f0fed8,04661991-b1d0-4f19-865d-24791778843b
 qwen-3.8-flash-next-standard-fixed-per-5,3,6,2,"e16e8292-3bc7-41f4-8cd0-80a22869b35c,93acd0df-2efd-4fca-9788-56caceddba54",e16e8292-3bc7-41f4-8cd0-80a22869b35c,93acd0df-2efd-4fca-9788-56caceddba54

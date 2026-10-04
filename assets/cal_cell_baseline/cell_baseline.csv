@@ -1,4 +1,28 @@
 experiment,pathway,seed,player_id,civilization,cell_baseline,n_vanilla,win_rate,n_games,n_models,has_vanilla_baseline,vanilla_connected
+claude-opus-5.5-standard-fixed-per-5,implicit,1,0,Arabia,-5.878531066122835,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,1,The Zulus,-4.083901045923168,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,2,China,-4.850485289792053,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.5250079099709763,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1317499321530229,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-3.545108007832655,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,6,Austria,-2.647711431593252,6,0.1666666666666666,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.7591208364388768,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.3113785315086246,6,0.3333333333333333,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.4418756011792517,6,0.1666666666666666,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,2,France,-5.28945477190206,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,3,Spain,-5.019015122919043,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.626536814034306,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-2.524846720043969,6,0.3333333333333333,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.42615468796987,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.2595819610452557,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,0,France,-4.834879438068785,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.558996315278161,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,2,China,0.4072322798479215,6,0.8333333333333334,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,3,Egypt,-4.139632917781857,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.499743811195298,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,5,Austria,-1.6585431465740654,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.079316810530168,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,7,Songhai,-3.592533750083756,6,0.0,8,3,True,True
 deepseek-v4-flash-standard-fixed,implicit,1,0,Arabia,-5.608634225849589,6,0.0,8,3,True,True
 deepseek-v4-flash-standard-fixed,implicit,1,1,The Zulus,-3.393916134962982,6,0.0,8,3,True,True
 deepseek-v4-flash-standard-fixed,implicit,1,2,China,-4.78011251354,6,0.0,8,3,True,True
