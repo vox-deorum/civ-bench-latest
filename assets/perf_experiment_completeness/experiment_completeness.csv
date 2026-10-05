@@ -12,10 +12,10 @@ glm-5.2-standard-fixed-per-5,24,24,0,1.0,0,0,8.0,0.1667,0.0005,8 failed decision
 glm-5.3-flash-standard-fixed,24,24,0,1.0,0,1,824.0,16.48,0.0437,1 game(s) excluded by decision failure cutoff; 824 failed decision turn(s)
 glm-5.3-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 glm-5.3-standard-fixed-per-5,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
-gpt-6-astra-standard-fixed-per-5,24,7,17,0.2917,0,0,0.0,0.0,0.0,17 missing slot(s); cell repeat counts differ from expected 8
+gpt-6-astra-standard-fixed-per-5,24,8,16,0.3333,0,0,0.0,0.0,0.0,16 missing slot(s); cell repeat counts differ from expected 8
 gpt-6-luna-standard-fixed,24,18,7,0.7083,1,0,1.0,0.0278,0.0001,7 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
 gpt-6-luna-standard-fixed-per-5,24,24,0,1.0,0,0,10.0,0.2083,0.0005,10 failed decision turn(s)
-gpt-6.1-sol-standard-fixed-per-5,24,3,21,0.125,0,0,0.0,0.0,0.0,21 missing slot(s); cell repeat counts differ from expected 8
+gpt-6.1-sol-standard-fixed-per-5,24,4,20,0.1667,0,0,0.0,0.0,0.0,20 missing slot(s); cell repeat counts differ from expected 8
 kimi-k2.6-standard-fixed,24,24,0,1.0,0,0,5.0,0.1042,0.0003,5 failed decision turn(s)
 kimi-k2.7-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 kimi-k2.7-standard-fixed-per-5,24,24,0,1.0,0,0,9.0,0.1875,0.0005,9 failed decision turn(s)

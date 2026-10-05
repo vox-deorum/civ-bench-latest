@@ -1,4 +1,6 @@
 game_id,timestamp,date_utc,experiment,label,seed,seating_rotation,controlled,turns,map_type,map_size,game_speed,difficulty,n_players,victory_type,winner_player_id,winner_player_type,winner_civilization,winner_is_vanilla
+5dfeda95-fd22-4a74-9e26-06581da1b20c,1791216645818,2026-10-05,gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple | Per-5,1,0,True,404,Vox_Deorum,Standard,Standard,Prince,8,Science,0,GPT-6-Astra-Simple-Per-5,Carthage,False
+e35c1637-459c-43f0-ad56-7ebaff4880fa,1791183913653,2026-10-05,gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple | Per-5,2,1,True,367,Vox_Deorum,Standard,Standard,Prince,8,Cultural,4,GPT-6.1-Sol-Simple-Per-5,The Aztecs,False
 9e423697-81c5-4a0d-b66f-ae11f74c397a,1791175899702,2026-10-05,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-Simple | Per-5,1,3,True,426,Vox_Deorum,Standard,Standard,Prince,8,Science,0,Vanilla,Arabia,True
 5fada895-50d3-4e9c-bc97-b213ab884bea,1791173979788,2026-10-05,qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple | Every-turn,1,7,True,453,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,6,Qwen-3.8-Flash-Next-Simple,Austria,False
 62516273-7e2b-459a-976d-1a36dc9306c1,1791173554909,2026-10-05,qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple | Every-turn,3,7,True,449,Continents,Standard,Standard,Prince,8,Science,2,Vanilla,China,True

@@ -6,9 +6,19 @@
 
 Civilization V is a strategy game where you lead a nation from its first village to the space age. A single game takes hundreds of turns, and the winner is often decided by choices made long before the end. That makes it a good test of whether an AI can plan ahead.
 
-**19** AI models · **30** setups tested · **811** games played · **411** turns per game · **3** fixed starts
+**19** AI models · **30** setups tested · **813** games played · **411** turns per game · **3** fixed starts
+
+### Latest news
 
 Leading right now: **GLM-5.3**, deciding every 5 turns, rated **1634**.
+
+> **Latest score · Oct 4, 2026**
+>
+> **Opus-5.5** scored **1594 Elo** (Per-5, #2).
+
+> **Currently being tested**
+>
+> **Sonnet-5.5** (every 5 turns) (1/24); **GPT-6-Astra** (every 5 turns) (8/24); **GPT-6-Luna** (every turn) (17/24); **GPT-6.1-Sol** (every 5 turns) (4/24); **Qwen-3.8-Flash-Next** (every turn) (12/24)
 
 ### Who plays best?
 
@@ -48,14 +58,6 @@ Three pieces of software make these games possible. You do not need to play any 
 - **Diplomacy**: **Friendliest**: **Nemotron-3-Super** (every turn) (+207.4 net) · **Least friendly**: **MiniMax-M3** (every 5 turns) (-37.3 net) · **Most masked**: **DeepSeek-V4-Flash** (every turn) (4.4%) [Details](#section-beh-diplomacy)
 - **Ways to win**: Who aims for each kind of win most often. Domination: **Gemma-4** (every turn), 43%; Culture: **MiniMax-M2.7** (every turn), 53%; Diplomacy: **GPT-OSS-120B** (every turn), 51%; Science: **GPT-6-Luna** (every 5 turns), 76%. [Details](#section-beh-commitment)
 - **Politics**: **Freedom**: **Kimi-K2.7** (every turn) (29%) · **Autocracy**: **Qwen-3.6-27B** (every turn) (33%) · **Order**: **GLM-5.3-Flash** (every 5 turns) / **Kimi-K2.7** (every turn) / **Qwen-3.5** (every 5 turns) / **Qwen-3.8-27B** (every turn) (58%) [Details](#section-beh-policies)
-
-> **Latest score · Oct 4, 2026**
->
-> **Opus-5.5-Simple** scored **1594 Elo** (Per-5, #2).
-
-> **Currently being tested**
->
-> **Sonnet-Simple-Per-5** (1/24); **GPT-6-Astra-Simple-Per-5** (7/24); **GPT-6-Luna-Simple** (17/24); **GPT-6.1-Sol-Simple-Per-5** (3/24); **Qwen-3.8-Flash-Next-Simple** (12/24)
 
 ## Contents
 
@@ -299,11 +301,11 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 
 *Reports completed, missing, and repeated games across the planned map, seat, and condition combinations, including decision-turn failures.*
 
-*strength_table: strength; coverage: {'missing_slots': 80, 'repeated_slots': 3, 'failed_decision_turns': 1001, 'excluded_games': 1, 'experiments_with_warnings': 24}; seating: {'files_generated': 5, 'open_cells': 80, 'warnings': []}*
+*strength_table: strength; coverage: {'missing_slots': 78, 'repeated_slots': 3, 'failed_decision_turns': 1001, 'excluded_games': 1, 'experiments_with_warnings': 24}; seating: {'files_generated': 5, 'open_cells': 78, 'warnings': []}*
 
 </details>
 
-**811/888** planned games (**91.3%**) are present across **37** experiment(s). **32/37** experiment(s) have every planned game.
+**813/888** planned games (**91.6%**) are present across **37** experiment(s). **32/37** experiment(s) have every planned game.
 
 **experiment_completeness**
 
@@ -322,10 +324,10 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 | glm-5.3-flash-standard-fixed             |               24 |              24 |               0 |             1      |                0 |                1 | 824                 | 16.48               | 0.0437        | 1 game(s) excluded by decision failure cutoff; 824 failed decision turn(s)                                  |
 | glm-5.3-flash-standard-fixed-per-5       |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                                          |
 | glm-5.3-standard-fixed-per-5             |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                                   |
-| gpt-6-astra-standard-fixed-per-5         |               24 |               7 |              17 |             0.2917 |                0 |                0 | 0                   | 0                   | 0             | 17 missing slot(s); cell repeat counts differ from expected 8                                               |
+| gpt-6-astra-standard-fixed-per-5         |               24 |               8 |              16 |             0.3333 |                0 |                0 | 0                   | 0                   | 0             | 16 missing slot(s); cell repeat counts differ from expected 8                                               |
 | gpt-6-luna-standard-fixed                |               24 |              18 |               7 |             0.7083 |                1 |                0 | 1                   | 0.0278              | 0.0001        | 7 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s) |
 | gpt-6-luna-standard-fixed-per-5          |               24 |              24 |               0 |             1      |                0 |                0 | 10                  | 0.2083              | 0.0005        | 10 failed decision turn(s)                                                                                  |
-| gpt-6.1-sol-standard-fixed-per-5         |               24 |               3 |              21 |             0.125  |                0 |                0 | 0                   | 0                   | 0             | 21 missing slot(s); cell repeat counts differ from expected 8                                               |
+| gpt-6.1-sol-standard-fixed-per-5         |               24 |               4 |              20 |             0.1667 |                0 |                0 | 0                   | 0                   | 0             | 20 missing slot(s); cell repeat counts differ from expected 8                                               |
 | kimi-k2.6-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 5                   | 0.1042              | 0.0003        | 5 failed decision turn(s)                                                                                   |
 | kimi-k2.7-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                                          |
 | kimi-k2.7-standard-fixed-per-5           |               24 |              24 |               0 |             1      |                0 |                0 | 9                   | 0.1875              | 0.0005        | 9 failed decision turn(s)                                                                                   |
@@ -1222,7 +1224,7 @@ Starting-position baselines range from **-6.182** to **+0.945** log-odds across 
 
 [Browse recent games](games.html)
 
-Latest game: 2026-10-05 · Sonnet-Simple | Per-5. Player 2 (China) | Player 5 (Denmark) · Winner: Player 0 (Arabia, VPAI)
+Latest game: 2026-10-05 · GPT-6-Astra-Simple | Per-5. Player 0 (Carthage, Won) | Player 1 (Songhai)
 
 - [Table: games (CSV)](assets/game_log/games.csv)
 - [Table: game_players (CSV)](assets/game_log/game_players.csv)

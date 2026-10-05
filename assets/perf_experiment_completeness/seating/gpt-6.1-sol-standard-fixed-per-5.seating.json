@@ -122,16 +122,20 @@
         "gameID": "f052a2ae-f409-4ed1-acb6-8ec139563602"
       }
     },
+    "1": {
+      "1": {
+        "status": "completed",
+        "gameID": "e35c1637-459c-43f0-ad56-7ebaff4880fa"
+      },
+      "2": {
+        "status": "completed",
+        "gameID": "392bb0d6-da55-4db9-a511-7a53ead6ed8f"
+      }
+    },
     "4": {
       "1": {
         "status": "completed",
         "gameID": "8f89e59b-a3cc-4d09-9562-655099a3dddb"
-      }
-    },
-    "1": {
-      "2": {
-        "status": "completed",
-        "gameID": "392bb0d6-da55-4db9-a511-7a53ead6ed8f"
       }
     }
   },
