@@ -146,8 +146,8 @@ estimator: attention; strength_table: strength; by: player_type; aggregate: mean
 
 Module: performance.experiment_completeness
 
-strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeated_slots&#x27;: 3, &#x27;failed_decision_turns&#x27;: 1001, &#x27;excluded_games&#x27;: 1, &#x27;experiments_with_warnings&#x27;: 23}; seating: {&#x27;files_generated&#x27;: 4, &#x27;open_cells&#x27;: 63, &#x27;warnings&#x27;: []}</span></span></h2>
-<p><strong>804/864</strong> planned games (<strong>93.1%</strong>) are present across <strong>36</strong> experiment(s). <strong>32/36</strong> experiment(s) have every planned game.</p>
+strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 80, &#x27;repeated_slots&#x27;: 3, &#x27;failed_decision_turns&#x27;: 1001, &#x27;excluded_games&#x27;: 1, &#x27;experiments_with_warnings&#x27;: 24}; seating: {&#x27;files_generated&#x27;: 5, &#x27;open_cells&#x27;: 80, &#x27;warnings&#x27;: []}</span></span></h2>
+<p><strong>811/888</strong> planned games (<strong>91.3%</strong>) are present across <strong>37</strong> experiment(s). <strong>32/37</strong> experiment(s) have every planned game.</p>
 <p><strong>experiment_completeness</strong></p>
 <div class="table-scroll" role="region" tabindex="0">
 <table class="dataframe">
@@ -179,6 +179,19 @@ strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeat
       <td>0.0208</td>
       <td>0.0001</td>
       <td>1 failed decision turn(s)</td>
+    </tr>
+    <tr>
+      <td>claude-sonnet-5.5-standard-fixed-per-5</td>
+      <td>24</td>
+      <td>1</td>
+      <td>23</td>
+      <td>0.0417</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>23 missing slot(s); cell repeat counts differ from expected 8</td>
     </tr>
     <tr>
       <td>deepseek-v4-flash-standard-fixed</td>
@@ -339,15 +352,15 @@ strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeat
     <tr>
       <td>gpt-6-luna-standard-fixed</td>
       <td>24</td>
-      <td>16</td>
-      <td>9</td>
-      <td>0.625</td>
+      <td>18</td>
+      <td>7</td>
+      <td>0.7083</td>
       <td>1</td>
       <td>0</td>
       <td>1</td>
-      <td>0.0312</td>
+      <td>0.0278</td>
       <td>0.0001</td>
-      <td>9 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)</td>
+      <td>7 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)</td>
     </tr>
     <tr>
       <td>gpt-6-luna-standard-fixed-per-5</td>
@@ -365,15 +378,15 @@ strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeat
     <tr>
       <td>gpt-6.1-sol-standard-fixed-per-5</td>
       <td>24</td>
-      <td>2</td>
-      <td>22</td>
-      <td>0.0833</td>
+      <td>3</td>
+      <td>21</td>
+      <td>0.125</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>22 missing slot(s); cell repeat counts differ from expected 8</td>
+      <td>21 missing slot(s); cell repeat counts differ from expected 8</td>
     </tr>
     <tr>
       <td>kimi-k2.6-standard-fixed</td>
@@ -599,15 +612,15 @@ strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeat
     <tr>
       <td>qwen-3.8-flash-next-standard-fixed</td>
       <td>24</td>
-      <td>9</td>
-      <td>15</td>
-      <td>0.375</td>
+      <td>12</td>
+      <td>12</td>
+      <td>0.5</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>15 missing slot(s); cell repeat counts differ from expected 8</td>
+      <td>12 missing slot(s); cell repeat counts differ from expected 8</td>
     </tr>
     <tr>
       <td>qwen-3.8-flash-next-standard-fixed-per-5</td>
@@ -1266,13 +1279,14 @@ strength_table: strength; coverage: {&#x27;missing_slots&#x27;: 63, &#x27;repeat
 </div>
 <p class="caption"><a href="assets/perf_experiment_completeness/decision_turn_failures.csv">full CSV</a></p>
 <details class="downloads">
-<summary>Downloads and supporting files (9)</summary>
+<summary>Downloads and supporting files (10)</summary>
 <ul>
 <li><a href="assets/perf_experiment_completeness/repeated_games.csv">Table: repeated_games (CSV)</a></li>
 <li><a href="assets/perf_experiment_completeness/experiment_completeness_gaps.csv">Table: experiment_completeness_gaps (CSV)</a></li>
 <li><a href="assets/perf_experiment_completeness/cell_repeat_issues.csv">Table: cell_repeat_issues (CSV)</a></li>
 <li><a href="assets/perf_experiment_completeness/condition_progress.csv">Table: condition_progress (CSV)</a></li>
 <li><a href="assets/perf_experiment_completeness/seating_index.csv">Table: seating_index (CSV)</a></li>
+<li><a href="assets/perf_experiment_completeness/seating/claude-sonnet-5.5-standard-fixed-per-5.seating.json">claude-sonnet-5.5-standard-fixed-per-5.seating.json</a></li>
 <li><a href="assets/perf_experiment_completeness/seating/gpt-6-astra-standard-fixed-per-5.seating.json">gpt-6-astra-standard-fixed-per-5.seating.json</a></li>
 <li><a href="assets/perf_experiment_completeness/seating/gpt-6-luna-standard-fixed.seating.json">gpt-6-luna-standard-fixed.seating.json</a></li>
 <li><a href="assets/perf_experiment_completeness/seating/gpt-6.1-sol-standard-fixed-per-5.seating.json">gpt-6.1-sol-standard-fixed-per-5.seating.json</a></li>

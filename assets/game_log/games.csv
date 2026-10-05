@@ -1,4 +1,11 @@
 game_id,timestamp,date_utc,experiment,label,seed,seating_rotation,controlled,turns,map_type,map_size,game_speed,difficulty,n_players,victory_type,winner_player_id,winner_player_type,winner_civilization,winner_is_vanilla
+9e423697-81c5-4a0d-b66f-ae11f74c397a,1791175899702,2026-10-05,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-Simple | Per-5,1,3,True,426,Vox_Deorum,Standard,Standard,Prince,8,Science,0,Vanilla,Arabia,True
+5fada895-50d3-4e9c-bc97-b213ab884bea,1791173979788,2026-10-05,qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple | Every-turn,1,7,True,453,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,6,Qwen-3.8-Flash-Next-Simple,Austria,False
+62516273-7e2b-459a-976d-1a36dc9306c1,1791173554909,2026-10-05,qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple | Every-turn,3,7,True,449,Continents,Standard,Standard,Prince,8,Science,2,Vanilla,China,True
+392bb0d6-da55-4db9-a511-7a53ead6ed8f,1791164436830,2026-10-05,gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple | Per-5,3,1,True,349,Vox_Deorum,Standard,Standard,Prince,8,Cultural,2,Vanilla,China,True
+4f1ac0e3-61c1-409c-8dc0-fbedd5e478b1,1791162987493,2026-10-05,gpt-6-luna-standard-fixed,GPT-6-Luna-Simple | Every-turn,1,2,True,388,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,6,Vanilla,Austria,True
+49732566-6b8c-4ebb-b35b-346b6304055d,1791162663198,2026-10-05,qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple | Every-turn,2,2,True,421,Vox_Deorum,Standard,Standard,Prince,8,Science,1,Vanilla,The Ottomans,True
+a7cd5bff-fdfd-46e3-a19c-495fef60de96,1791139846335,2026-10-04,gpt-6-luna-standard-fixed,GPT-6-Luna-Simple | Every-turn,2,3,True,380,Vox_Deorum,Standard,Standard,Prince,8,Cultural,6,Vanilla,Arabia,True
 2c5b664b-18c5-4033-8900-9c1166a7c627,1791122872722,2026-10-04,gpt-6-luna-standard-fixed,GPT-6-Luna-Simple | Every-turn,2,7,True,420,Vox_Deorum,Standard,Standard,Prince,8,Cultural,6,GPT-6-Luna-Simple,Arabia,False
 c3d194ed-0944-4482-9029-e18ee5304e0e,1791111712522,2026-10-04,claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple | Per-5,2,0,True,331,Vox_Deorum,Standard,Standard,Prince,8,Cultural,7,Opus-5.5-Simple-Per-5,Poland,False
 5f2495b1-cf11-49ca-9fe9-3eaf14ed5879,1791109580416,2026-10-04,claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple | Per-5,2,5,True,396,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,5,Vanilla,Brazil,True

@@ -1,5 +1,6 @@
 experiment,required_games,present_games,missing_games,completeness_pct,repeated_slots,excluded_games,failed_turn_count,avg_failure_count,failure_pct,warning
 claude-opus-5.5-standard-fixed-per-5,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
+claude-sonnet-5.5-standard-fixed-per-5,24,1,23,0.0417,0,0,0.0,0.0,0.0,23 missing slot(s); cell repeat counts differ from expected 8
 deepseek-v4-flash-standard-fixed,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 deepseek-v4-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 deepseek-v4.1-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
@@ -12,9 +13,9 @@ glm-5.3-flash-standard-fixed,24,24,0,1.0,0,1,824.0,16.48,0.0437,1 game(s) exclud
 glm-5.3-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 glm-5.3-standard-fixed-per-5,24,24,0,1.0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 gpt-6-astra-standard-fixed-per-5,24,7,17,0.2917,0,0,0.0,0.0,0.0,17 missing slot(s); cell repeat counts differ from expected 8
-gpt-6-luna-standard-fixed,24,16,9,0.625,1,0,1.0,0.0312,0.0001,9 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
+gpt-6-luna-standard-fixed,24,18,7,0.7083,1,0,1.0,0.0278,0.0001,7 missing slot(s); 1 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
 gpt-6-luna-standard-fixed-per-5,24,24,0,1.0,0,0,10.0,0.2083,0.0005,10 failed decision turn(s)
-gpt-6.1-sol-standard-fixed-per-5,24,2,22,0.0833,0,0,0.0,0.0,0.0,22 missing slot(s); cell repeat counts differ from expected 8
+gpt-6.1-sol-standard-fixed-per-5,24,3,21,0.125,0,0,0.0,0.0,0.0,21 missing slot(s); cell repeat counts differ from expected 8
 kimi-k2.6-standard-fixed,24,24,0,1.0,0,0,5.0,0.1042,0.0003,5 failed decision turn(s)
 kimi-k2.7-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 kimi-k2.7-standard-fixed-per-5,24,24,0,1.0,0,0,9.0,0.1875,0.0005,9 failed decision turn(s)
@@ -32,6 +33,6 @@ qwen-3.6-27b-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.6-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0.0,0.0,0.0,ok
-qwen-3.8-flash-next-standard-fixed,24,9,15,0.375,0,0,0.0,0.0,0.0,15 missing slot(s); cell repeat counts differ from expected 8
+qwen-3.8-flash-next-standard-fixed,24,12,12,0.5,0,0,0.0,0.0,0.0,12 missing slot(s); cell repeat counts differ from expected 8
 qwen-3.8-flash-next-standard-fixed-per-5,24,26,0,1.0,2,0,1.0,0.0192,0.0,2 repeated slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s)
 vanilla-standard-fixed,24,24,0,1.0,0,0,0.0,0.0,0.0,ok

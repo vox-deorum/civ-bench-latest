@@ -4,8 +4,9 @@
    shows the text of any [data-tip] element (heatmap cells and labels) in one
    floating tooltip on hover or keyboard focus. A tip's first line is its bold
    title when there are more; "label<TAB>value<TAB>note" lines form a grid with
-   the value and the note's numbers in an accent color, and other lines are
-   muted subtitles. A ?view=<name> query picks the initial view. Finally it
+   the value and the note's numbers in an accent color, "- " lines form a
+   bullet list, "**text**" is bold, and other lines are muted subtitles. Tips
+   inside a chart follow the pointer. A ?view=<name> query picks the initial view. Finally it
    makes every table sortable by its numeric columns: a header click sorts
    descending, then ascending, then back to the original order; pinned
    reference rows (tbody.vanilla-body) never move, and tables marked
@@ -34,11 +35,31 @@
     });
     return node;
   }
+  /* "**text**" inside a tip line shows in bold. */
+  function richText(node, text) {
+    text.split("**").forEach(function (part, index) {
+      if (!part) { return; }
+      node.appendChild(index % 2 ? span("tip-strong", part) : document.createTextNode(part));
+    });
+    return node;
+  }
   function renderTip(text) {
     tooltip.textContent = "";
     var lines = text.split("\n");
     var grid = null;
+    var list = null;
     lines.forEach(function (line, index) {
+      if (index > 0 && line.indexOf("- ") === 0) {
+        if (!list) {
+          list = document.createElement("ul");
+          list.className = "tip-list";
+          tooltip.appendChild(list);
+        }
+        list.appendChild(richText(document.createElement("li"), line.slice(2)));
+        grid = null;
+        return;
+      }
+      list = null;
       var cells = line.split("\t");
       if (cells.length > 1) {
         if (!grid) {
@@ -56,10 +77,29 @@
       }
       grid = null;
       var cls = index === 0 && lines.length > 1 ? "tip-title" : (index === 0 ? "tip-text" : "tip-sub");
-      tooltip.appendChild(span(cls, line));
+      tooltip.appendChild(richText(span(cls, ""), line));
     });
   }
-  function showTip(target) {
+  /* Tips inside a chart follow the pointer; others sit above their target. */
+  function placeTip(target, event) {
+    var width = document.documentElement.clientWidth;
+    var top, left;
+    if (event && event.clientX !== undefined && target.closest("svg")) {
+      left = Math.min(event.clientX + 14, width - tooltip.offsetWidth - 8);
+      top = event.clientY + 16;
+      if (top + tooltip.offsetHeight > window.innerHeight - 4) {
+        top = event.clientY - tooltip.offsetHeight - 10;
+      }
+    } else {
+      var rect = target.getBoundingClientRect();
+      top = rect.top - tooltip.offsetHeight - 6;
+      if (top < 4) { top = rect.bottom + 6; }
+      left = Math.min(rect.left, width - tooltip.offsetWidth - 8);
+    }
+    tooltip.style.top = (window.scrollY + top) + "px";
+    tooltip.style.left = (window.scrollX + Math.max(4, left)) + "px";
+  }
+  function showTip(target, event) {
     if (!tooltip) {
       tooltip = document.createElement("div");
       tooltip.id = "heat-tooltip";
@@ -69,12 +109,7 @@
     }
     renderTip(target.getAttribute("data-tip") || "");
     tooltip.style.display = "block";
-    var rect = target.getBoundingClientRect();
-    var top = rect.top - tooltip.offsetHeight - 6;
-    if (top < 4) { top = rect.bottom + 6; }
-    var left = Math.min(rect.left, document.documentElement.clientWidth - tooltip.offsetWidth - 8);
-    tooltip.style.top = (window.scrollY + top) + "px";
-    tooltip.style.left = (window.scrollX + Math.max(4, left)) + "px";
+    placeTip(target, event);
   }
   function hideTip() {
     if (tooltip) { tooltip.style.display = "none"; }
@@ -84,7 +119,13 @@
   }
   document.addEventListener("mouseover", function (event) {
     var target = tipTarget(event);
-    if (target) { showTip(target); }
+    if (target) { showTip(target, event); }
+  });
+  document.addEventListener("mousemove", function (event) {
+    var target = tipTarget(event);
+    if (target && tooltip && tooltip.style.display === "block" && target.closest("svg")) {
+      placeTip(target, event);
+    }
   });
   document.addEventListener("mouseout", function (event) {
     if (tipTarget(event)) { hideTip(); }
