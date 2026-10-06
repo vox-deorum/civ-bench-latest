@@ -287,6 +287,30 @@ glm-5.3-standard-fixed-per-5,implicit,3,4,Mongolia,-5.489476019910285,6,0.0,8,3,
 glm-5.3-standard-fixed-per-5,implicit,3,5,Austria,-2.449629373972333,6,0.1666666666666666,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,3,6,Morocco,-4.353886133231732,6,0.0,8,3,True,True
 glm-5.3-standard-fixed-per-5,implicit,3,7,Songhai,-2.622382290619761,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,0,Arabia,-4.320324826183401,6,0.0,7,2,True,True
+gpt-6-luna-standard-fixed,implicit,1,1,The Zulus,-3.179254717234536,5,0.0,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,2,China,-4.611136675931967,5,0.0,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,3,Brazil,-4.233833156769987,5,0.0,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,4,Polynesia,-0.2247075197862386,5,0.2,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,5,Denmark,-3.168977611431336,5,0.0,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,6,Austria,-1.119034352376132,6,0.5,7,2,True,True
+gpt-6-luna-standard-fixed,implicit,1,7,Ethiopia,-0.6832721052734415,5,0.6,7,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,0,The Netherlands,-2.4560853390496336,7,0.1428571428571428,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,1,The Ottomans,0.5269016666563295,7,0.4285714285714285,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,2,France,-5.468493086405249,7,0.0,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,3,Spain,-3.7649964934860303,7,0.0,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,4,The Aztecs,-5.9330404432819615,6,0.0,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,5,Brazil,-3.728798724071432,6,0.0,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,6,Arabia,-3.3754416729248296,7,0.2857142857142857,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,7,Poland,-1.863236954048393,7,0.1428571428571428,9,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,0,France,-4.918661321402624,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,1,The Zulus,-2.4138536103848574,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,2,China,0.2792057935784613,6,0.8333333333333334,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,3,Egypt,-4.603907414083629,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,4,Mongolia,-5.7175280827681165,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,5,Austria,-2.4446650669161225,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,6,Morocco,-3.7437179226053514,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,7,Songhai,-2.8180301464050195,6,0.0,8,3,True,True
 gpt-6-luna-standard-fixed-per-5,implicit,1,0,Arabia,-4.428828777531152,6,0.1666666666666666,8,3,True,True
 gpt-6-luna-standard-fixed-per-5,implicit,1,1,The Zulus,-3.6209430154618,6,0.0,8,3,True,True
 gpt-6-luna-standard-fixed-per-5,implicit,1,2,China,-4.793046359365773,6,0.0,8,3,True,True

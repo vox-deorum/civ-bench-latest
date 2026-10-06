@@ -11,11 +11,12 @@ glm-5.2-standard-fixed,GLM-5.2-Simple,24,24,2026-08-18T11:25:27.346000Z
 glm-5.2-standard-fixed-per-5,GLM-5.2-Simple-Per-5,24,24,2026-07-10T12:35:47.815000Z
 glm-5.3-flash-standard-fixed,GLM-5.3-Flash-Simple,24,24,2026-09-21T09:05:07.797000Z
 glm-5.3-flash-standard-fixed-per-5,GLM-5.3-Flash-Simple-Per-5,24,24,2026-09-06T17:21:52.560000Z
+glm-5.3-standard-fixed,GLM-5.3-Simple,1,24,
 glm-5.3-standard-fixed-per-5,GLM-5.3-Simple-Per-5,24,24,2026-10-02T12:26:26.169000Z
 gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple-Per-5,8,24,
-gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,17,24,
+gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,23,24,
 gpt-6-luna-standard-fixed-per-5,GPT-6-Luna-Simple-Per-5,24,24,2026-09-30T12:28:15.905000Z
-gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple-Per-5,4,24,
+gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple-Per-5,10,24,
 kimi-k2.6-standard-fixed,Kimi-K2.6-Simple,24,24,2026-06-19T18:50:14.885000Z
 kimi-k2.7-standard-fixed,Kimi-K2.7-Simple,24,24,2026-07-10T03:50:36.218000Z
 kimi-k2.7-standard-fixed-per-5,Kimi-K2.7-Simple-Per-5,24,24,2026-06-25T08:08:39.951000Z
@@ -32,5 +33,5 @@ qwen-3.6-27b-standard-fixed,Qwen-3.6-27B-Simple,24,24,2026-07-07T07:34:42.216000
 qwen-3.6-27b-standard-fixed-per-5,Qwen-3.6-27B-Simple-Per-5,24,24,2026-07-02T19:11:21.086000Z
 qwen-3.8-27b-standard-fixed,Qwen-3.8-27B-Simple,24,24,2026-09-08T11:29:06.023000Z
 qwen-3.8-27b-standard-fixed-per-5,Qwen-3.8-27B-Simple-Per-5,24,24,2026-09-16T17:40:37.901000Z
-qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple,12,24,
+qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple,16,24,
 qwen-3.8-flash-next-standard-fixed-per-5,Qwen-3.8-Flash-Next-Simple-Per-5,24,24,2026-10-01T10:56:07.194000Z

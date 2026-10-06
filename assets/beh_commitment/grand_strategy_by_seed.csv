@@ -28,6 +28,7 @@ group,1,0,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 95%,0.9508009153318078,95.08009153318078,95.08009153318078,0.11441647597254005,394.0
 group,1,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,1,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,1,1,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 75%,0.752,75.2,75.2,0.3,249.0
 group,1,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 77%,0.7693789905125819,76.93789905125819,76.93789905125819,0.35516582569930927,302.5
@@ -60,6 +61,7 @@ group,1,1,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,1,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,1,1,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,1,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,1,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 56%,0.5603683699478093,56.03683699478092,56.03683699478092,1.1080430472953837,172.0
 group,1,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 52%,0.5240865381818605,52.408653818186046,52.755074141511685,0.24141802549141655,217.0
 group,1,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 81%,0.8062752325785502,80.62752325785502,80.62752325785502,0.8492773974606518,270.0
 group,1,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 79%,0.7936681222707423,79.36681222707423,79.36681222707423,0.9825327510917031,176.0
@@ -92,6 +94,7 @@ group,1,2,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,3,3,2,gs_main,Spaceship,Spaceship,Spaceship 80%,0.8043814803408275,80.43814803408274,83.40498922081922,0.16569140745303357,307.5
 group,1,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 80%,0.7995283018867925,79.95283018867924,79.95283018867924,0.1179245283018868,254.0
 group,1,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,1,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,92.65593561368209,0.30181086519114686,346.0
 group,1,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 48%,0.4798387096774194,47.983870967741936,82.78779253636938,0.39136622390891845,215.0
@@ -124,6 +127,7 @@ group,1,3,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,3,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 88%,0.8791666666666665,87.91666666666666,87.91666666666666,0.20833333333333334,89.0
+group,1,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 98%,0.9822616407982261,98.22616407982261,98.22616407982261,0.11086474501108648,435.0
 group,1,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 70%,0.6951710261569417,69.51710261569417,79.47686116700201,1.0060362173038229,194.0
 group,1,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 55%,0.5488997555012225,54.88997555012225,95.11002444987776,0.12224938875305623,56.0
@@ -156,6 +160,7 @@ group,1,4,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,4,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 79%,0.792147806004619,79.21478060046189,79.21478060046189,0.11547344110854503,253.0
 group,1,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 53%,0.5266862529073326,52.66862529073326,52.66862529073326,0.23675981259528817,201.5
 group,1,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -188,6 +193,7 @@ group,1,5,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,3,3,5,gs_main,Conquest,Conquest,Conquest 33%,0.33333333333333337,33.333333333333336,100.0,0.0,
 group,1,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,1,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5,gs_main,Conquest,Conquest,Conquest 70%,0.7048458149779736,70.48458149779736,73.12775330396475,0.22026431718061676,58.0
+group,1,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 75%,0.7457627118644068,74.57627118644068,75.42372881355932,0.12106537530266344,203.0
 group,1,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 51%,0.5131401617250674,51.31401617250674,51.31401617250674,0.7364266461301502,187.0
 group,1,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,5,gs_main,Conquest,Conquest,Conquest 74%,0.744467787114846,74.4467787114846,74.4467787114846,0.23243912949795303,316.5
@@ -220,6 +226,7 @@ group,1,6,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 81%,0.8129251700680272,81.29251700680273,81.29251700680273,0.11337868480725624,165.0
 group,1,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
+group,1,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,1,1,6,gs_main,Spaceship,Spaceship,Spaceship 97%,0.972972972972973,97.2972972972973,97.2972972972973,0.22522522522522523,432.0
 group,1,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 77%,0.7687532804181797,76.87532804181797,76.87532804181797,0.23163769187098987,335.0
 group,1,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 99%,0.9881209503239741,98.81209503239741,98.81209503239741,0.21598272138228944,347.0
 group,1,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 57%,0.5743154547303418,57.431545473034184,84.29104960526558,0.3614546933643944,254.5
@@ -252,6 +259,7 @@ group,1,7,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,1,7,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 52%,0.5236559139784946,52.365591397849464,97.63440860215053,0.10752688172043011,443.0
 group,1,7,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 98%,0.9843400447427294,98.43400447427294,98.43400447427294,0.11185682326621924,433.0
 group,1,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 64%,0.6404605540119559,64.04605540119559,64.04605540119559,0.45466026774437984,279.0
 group,1,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 64%,0.6414994453967935,64.14994453967935,64.14994453967935,1.1828734048155245,271.0
 group,1,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 50%,0.5,50.0,77.6536312849162,0.13966480446927373,203.0
@@ -284,6 +292,7 @@ group,2,0,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 50%,0.5,50.0,79.12234042553192,0.13297872340425532,158.0
 group,2,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,2,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8907035175879398,89.07035175879398,89.07035175879398,0.12562814070351758,311.0
 group,2,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 92%,0.92,92.0,92.0,0.15384615384615385,273.0
 group,2,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 68%,0.6781952169487024,67.81952169487025,70.30399374455969,0.6303388855283929,254.0
 group,2,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9858247422680413,98.58247422680412,98.58247422680412,0.12886597938144329,377.0
@@ -316,6 +325,7 @@ group,2,1,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,1,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 56%,0.5552825552825553,55.52825552825553,78.74692874692875,0.36855036855036855,160.0
 group,2,1,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,2,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,2,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Culture,Culture,Culture 94%,0.9403380643475989,94.0338064347599,94.0338064347599,1.0552266097783969,139.5
 group,2,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 74%,0.7363636363636364,73.63636363636364,73.63636363636364,0.22727272727272727,208.0
@@ -348,6 +358,7 @@ group,2,2,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 62%,0.6179176323765376,61.79176323765377,61.79176323765377,0.36132406251857135,96.5
 group,2,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,2,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,2,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,2,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Conquest,Conquest,Conquest 33%,0.3288813339808969,32.88813339808969,48.29552024792433,1.6721015749670436,67.0
 group,2,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 56%,0.5583554376657824,55.83554376657825,70.026525198939,0.6631299734748011,100.0
@@ -380,6 +391,7 @@ group,2,3,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,3,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 38%,0.38028169014084506,38.028169014084504,63.4560418747202,0.4841190582779481,130.0
 group,2,3,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 84%,0.8409090909090909,84.0909090909091,84.0909090909091,0.25252525252525254,270.0
 group,2,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3,gs_main,Conquest,Conquest,Conquest 50%,0.5,50.0,100.0,0.0,
+group,2,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 88%,0.8819095477386935,88.19095477386935,88.19095477386935,0.12562814070351758,304.0
 group,2,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 31%,0.30801800806496166,30.801800806496164,54.871568248356624,0.7026459702811689,192.5
 group,2,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 36%,0.3641160949868074,36.41160949868074,64.85076293783419,0.3961273750191956,161.0
@@ -412,6 +424,7 @@ group,2,4,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,4,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 68%,0.6840695320871533,68.40695320871532,68.40695320871532,0.5888146857309853,297.5
 group,2,4,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,3,3,4,gs_main,Spaceship,Spaceship,Spaceship 83%,0.8296357648861696,82.96357648861697,82.96357648861697,0.2531915101334019,67.66666666666667
 group,2,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 80%,0.8012621255158368,80.12621255158368,80.12621255158368,0.25892330778712686,77.0
 group,2,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 92%,0.9198645598194131,91.9864559819413,91.9864559819413,0.5643340857787811,309.0
 group,2,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 66%,0.6586119392486703,65.86119392486704,65.86119392486704,1.5195948468501617,176.0
@@ -444,6 +457,7 @@ group,2,5,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 75%,0.753012048192771,75.3012048192771,75.3012048192771,0.12048192771084339,210.0
 group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,3,3,5,gs_main,Culture,Culture,Culture 77%,0.7670547336082142,76.70547336082141,76.70547336082141,0.252243512005821,268.0
 group,2,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 100%,0.998780487804878,99.8780487804878,99.8780487804878,0.24390243902439024,402.0
 group,2,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 69%,0.6856492027334852,68.56492027334852,81.43507972665148,0.3416856492027335,273.0
@@ -476,6 +490,7 @@ group,2,6,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 93%,0.9304096804096804,93.04096804096804,93.04096804096804,0.31612531612531614,428.5
 group,2,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 98%,0.9754273504273505,97.54273504273505,97.54273504273505,0.2136752136752137,273.0
+group,2,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 80%,0.8004750593824228,80.04750593824228,80.04750593824228,0.11876484560570072,253.0
 group,2,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 52%,0.523219814241486,52.3219814241486,77.39938080495355,0.6191950464396285,101.0
 group,2,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -508,6 +523,7 @@ group,2,7,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,2,7,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 78%,0.7813852813852814,78.13852813852814,78.13852813852814,0.21645021645021645,84.0
 group,2,7,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 57%,0.5653905311223264,56.53905311223264,65.67147320355683,0.21941840903628934,261.0
+group,2,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 100%,0.998780487804878,99.8780487804878,99.8780487804878,0.12195121951219512,3.0
 group,2,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,0.9962311557788945,99.62311557788945,99.62311557788945,0.12562814070351758,395.0
@@ -540,6 +556,7 @@ group,3,0,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,3,3,0,gs_main,Culture,Culture,Culture 68%,0.6834454055741084,68.34454055741084,68.34454055741084,0.5323007889198217,94.33333333333333
 group,3,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,0,gs_main,Conquest,Conquest,Conquest 57%,0.5650941890166028,56.50941890166028,91.63872924648787,0.2234993614303959,409.5
 group,3,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0,gs_main,Conquest,Conquest,Conquest 62%,0.6174004192872118,61.740041928721176,88.25995807127882,0.10482180293501049,365.0
+group,3,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 90%,0.8977505112474438,89.77505112474438,89.77505112474438,0.9202453987730062,340.0
 group,3,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9940119760479041,99.40119760479041,99.40119760479041,0.09980039920159679,495.0
 group,3,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 53%,0.5280130920292645,52.801309202926454,64.28090103966115,0.7364266461301502,168.0
 group,3,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,0,gs_main,Conquest,Conquest,Conquest 61%,0.6086735844800361,60.86735844800361,82.37273479208963,0.2509587187006542,253.0
@@ -572,6 +589,7 @@ group,3,1,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,1,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 96%,0.957983193277311,95.7983193277311,95.7983193277311,0.10504201680672269,436.0
 group,3,1,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,3,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 65%,0.6469508448540708,64.69508448540708,64.69508448540708,0.27726574500768053,233.5
 group,3,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 59%,0.5850732906436831,58.50732906436831,58.50732906436831,0.22634619080857432,263.0
 group,3,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 82%,0.8150984682713349,81.50984682713349,81.50984682713349,0.437636761487965,288.0
@@ -604,6 +622,7 @@ group,3,2,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 67%,0.6683534282627069,66.83534282627069,77.97278358456452,0.581183871278337,329.5
 group,3,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 63%,0.6302605210420842,63.02605210420842,86.97394789579158,0.1002004008016032,130.0
 group,3,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,3,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 81%,0.8112035646171243,81.12035646171243,81.12035646171243,0.29072220628196255,280.5
 group,3,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8912175648702595,89.12175648702595,89.12175648702595,0.09980039920159679,392.0
 group,3,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 53%,0.5264595837940294,52.645958379402934,66.34788145632601,0.2228617122097615,208.0
 group,3,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 66%,0.6574920552000348,65.74920552000349,76.38517043228418,0.7155761612467895,320.0
@@ -636,6 +655,7 @@ group,3,3,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,3,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 91%,0.9108352144469527,91.08352144469526,91.08352144469526,0.1128668171557562,364.0
 group,3,3,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 84%,0.839622641509434,83.9622641509434,83.9622641509434,0.20964360587002098,324.0
 group,3,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,3,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,3,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,3,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 99%,0.9903614457831325,99.03614457831324,99.03614457831324,0.24096385542168677,393.0
 group,3,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 92%,0.9218362282878411,92.18362282878411,92.18362282878411,0.24813895781637718,214.0
@@ -668,6 +688,7 @@ group,3,4,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,4,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 78%,0.78461717986493,78.461717986493,78.461717986493,0.2702131073413364,291.5
 group,3,4,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,3,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 60%,0.6048111103751297,60.481111037512974,62.637168532379505,0.23707800666799145,177.0
 group,3,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 68%,0.6790045713219517,67.90045713219517,67.90045713219517,0.2582197166580038,262.0
 group,3,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 83%,0.8273121387283237,82.73121387283237,82.73121387283237,0.710365655647204,212.5
 group,3,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 44%,0.4429948912423222,44.299489124232224,56.003801239221964,0.9712031416388464,199.5
@@ -700,6 +721,7 @@ group,3,5,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 50%,0.5,50.0,98.67724867724868,0.13227513227513227,15.0
 group,3,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 59%,0.5938036072144288,59.380360721442884,70.98036072144289,0.2002004008016032,296.5
 group,3,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
+group,3,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 50%,0.5,50.0,100.0,0.0,
 group,3,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 55%,0.5533161930069769,55.33161930069769,92.86663330629993,0.6255068762617984,253.0
 group,3,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 67%,0.6677631578947368,66.77631578947368,83.22368421052632,0.3289473684210526,206.0
@@ -732,6 +754,7 @@ group,3,6,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,3,3,6,gs_main,Culture,Culture,Culture 88%,0.881328875636276,88.1328875636276,88.1328875636276,0.2296617571759887,282.0
 group,3,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 71%,0.7079741379310345,70.79741379310344,70.79741379310344,0.3232758620689655,193.0
 group,3,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
+group,3,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,3,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 98%,0.9768722466960352,97.68722466960352,97.68722466960352,0.22026431718061676,342.0
 group,3,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 50%,0.5042930141183417,50.42930141183417,93.6607424598691,0.7789517614845125,263.0
 group,3,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 51%,0.5147783251231527,51.477832512315274,87.80788177339902,0.3694581280788177,307.0
@@ -764,6 +787,7 @@ group,3,7,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simpl
 group,3,7,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,2,2,7,gs_main,Conquest,Conquest,Conquest 44%,0.43797116161901,43.797116161901,45.69868215742673,0.4269828736863873,190.0
 group,3,7,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 89%,0.8870056497175142,88.70056497175142,88.70056497175142,0.14124293785310735,80.0
 group,3,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,3,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8940298507462687,89.40298507462687,89.40298507462687,0.44776119402985076,237.0
 group,3,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 90%,0.9030837004405287,90.30837004405286,90.30837004405286,0.11013215859030838,366.0
 group,3,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 39%,0.3947634724439976,39.47634724439976,60.373502605450085,0.7100097909725919,143.0
 group,3,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,2,2,7,gs_main,Conquest,Conquest,Conquest 62%,0.6200421200421201,62.00421200421201,62.00421200421201,0.4923082509289406,249.5

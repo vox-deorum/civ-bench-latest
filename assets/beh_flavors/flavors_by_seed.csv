@@ -951,6 +951,40 @@ group,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_
 group,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_diplomacy_avg,57.3336125,-12.541119971867186,16,8,Other,0.573336
 group,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_espionage_avg,51.13915,-2.991344898814488,16,8,Other,0.511391
 group,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_spaceship_avg,52.5487875,11.008221901859313,16,8,Other,0.525488
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_offense_avg,11.64125714285714,-27.922812192275632,14,7,Military,0.116413
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_defense_avg,74.5136,14.182786756440281,14,7,Military,0.745136
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_city_defense_avg,69.60898571428571,11.668850596726605,14,7,Military,0.69609
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobilization_avg,31.37905714285714,-18.380918906442265,14,7,Military,0.313791
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_military_training_avg,58.60932857142858,0.8200670875507744,14,7,Military,0.586093
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_recon_avg,34.27425714285714,-9.606383804826738,14,7,Military,0.342743
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_ranged_avg,62.65323571428571,10.546997983434553,14,7,Military,0.626532
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobile_avg,45.38970714285714,0.7849955944111459,14,7,Military,0.453897
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_nuke_avg,0.0,-35.4931862179567,10,6,Nuclear,0.0
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_use_nuke_avg,0.0,-29.51168344852173,10,6,Nuclear,0.0
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_avg,50.06238571428571,-1.9830866376242067,14,7,Naval and air,0.500624
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_recon_avg,42.42919285714286,0.10619294612260077,14,7,Naval and air,0.424292
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_avg,73.41516428571428,32.91663436495394,14,7,Naval and air,0.734152
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_antiair_avg,73.45216428571429,33.74670984529653,14,7,Naval and air,0.734522
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_carrier_avg,32.52542857142857,4.657719354142633,14,7,Naval and air,0.325254
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_airlift_avg,36.033364285714285,7.093313394245968,14,7,Naval and air,0.360334
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_expansion_avg,19.497292857142856,-21.42532644193493,14,7,Economy,0.194973
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_growth_avg,57.8618642857143,-8.299551951203377,14,7,Economy,0.578619
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_tile_improvement_avg,56.11168571428571,-7.118131483547019,14,7,Economy,0.561117
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_infrastructure_avg,53.53257857142858,-9.69630898821101,14,7,Economy,0.535326
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_production_avg,88.4087,12.662185987774377,14,7,Economy,0.884087
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_gold_avg,52.00462857142859,-17.291213873893543,14,7,Economy,0.520046
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_science_avg,89.60996428571427,13.582814446010135,14,7,Economy,0.8961
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_culture_avg,64.07637857142858,-3.6951563266251215,14,7,Economy,0.640764
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_happiness_avg,72.4858642857143,1.7662934528771177,14,7,Economy,0.724859
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_growth_avg,44.09141428571428,1.4761296359438485,14,7,Economy,0.440914
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_tile_improvement_avg,44.47351428571428,3.5828236811151233,14,7,Economy,0.444735
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_water_connection_avg,44.256592857142856,-0.5167033798409612,14,7,Economy,0.442566
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_great_people_avg,80.06895714285714,12.857491520065095,14,7,Other,0.80069
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_wonder_avg,15.135635714285712,-30.83490195484195,14,7,Other,0.151356
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_religion_avg,38.10890714285715,-9.667413856692994,14,7,Other,0.381089
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_diplomacy_avg,70.93321428571429,2.4971643837573914,14,7,Other,0.709332
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_espionage_avg,59.601421428571435,5.894903180380792,14,7,Other,0.596014
+group,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_spaceship_avg,70.09470714285713,28.9603345313513,14,7,Other,0.700947
 group,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_offense_avg,15.45895625,-22.467451582383994,16,8,Military,0.15459
 group,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_defense_avg,72.01574375,11.439439846311474,16,8,Military,0.720157
 group,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_city_defense_avg,65.08845625000001,6.947101215036586,16,8,Military,0.650885
@@ -2005,6 +2039,40 @@ group,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_
 group,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_diplomacy_avg,58.1018625,-10.513681774972216,16,8,Other,0.581019
 group,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_espionage_avg,50.8639125,-2.60123974466287,16,8,Other,0.508639
 group,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_spaceship_avg,50.68665,7.0387798230990075,16,8,Other,0.506866
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_offense_avg,13.902055555555556,-26.28914481049263,18,9,Military,0.139021
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_defense_avg,73.94754444444443,12.124554588260112,18,9,Military,0.739475
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_city_defense_avg,69.25156111111112,9.837206573225073,18,9,Military,0.692516
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobilization_avg,36.380827777777775,-13.656703565162136,18,9,Military,0.363808
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_military_training_avg,61.22588888888889,3.301639368368782,18,9,Military,0.612259
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_recon_avg,37.406761111111116,-7.125864920708428,18,9,Military,0.374068
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_ranged_avg,64.14692222222223,11.327806836338283,18,9,Military,0.641469
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobile_avg,48.239105555555554,3.5855762449960387,18,9,Military,0.482391
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_nuke_avg,6.46026,-29.40345645387926,10,6,Nuclear,0.064603
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_use_nuke_avg,3.73333,-22.431533618284842,10,6,Nuclear,0.037333
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_avg,45.969950000000004,-1.3644461984810599,18,9,Naval and air,0.4597
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_recon_avg,43.346450000000004,3.8183051349397457,18,9,Naval and air,0.433465
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_avg,71.39605,32.094057297457255,16,9,Naval and air,0.71396
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_antiair_avg,73.73778125,33.504143645578,16,9,Naval and air,0.737378
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_carrier_avg,37.81823125,11.046126911961037,16,9,Naval and air,0.378182
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_airlift_avg,41.03799375,12.254125053279104,16,9,Naval and air,0.41038
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_expansion_avg,25.011366666666664,-18.671947238198882,18,9,Economy,0.250114
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_growth_avg,62.989744444444455,-3.601808831439802,18,9,Economy,0.629897
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_tile_improvement_avg,64.42153888888888,0.690492222402314,18,9,Economy,0.644215
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_infrastructure_avg,59.615433333333335,-3.8178107016609553,18,9,Economy,0.596154
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_production_avg,87.50089444444444,12.239658284940264,18,9,Economy,0.875009
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_gold_avg,56.76270555555555,-13.155817549267802,18,9,Economy,0.567627
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_science_avg,90.94205000000001,14.703138929332223,18,9,Economy,0.909421
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_culture_avg,54.9379,-10.97719696036965,18,9,Economy,0.549379
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_happiness_avg,74.6105388888889,4.248933320212405,18,9,Economy,0.746105
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_growth_avg,46.78007777777778,6.1351000317989595,18,9,Economy,0.467801
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_tile_improvement_avg,47.75962777777778,8.628027179128976,18,9,Economy,0.477596
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_water_connection_avg,47.763783333333336,3.980818251211755,18,9,Economy,0.477638
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_great_people_avg,76.91672777777778,11.560866602091115,18,9,Other,0.769167
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_wonder_avg,18.15502222222222,-26.021883766349706,18,9,Other,0.18155
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_religion_avg,36.622150000000005,-11.553756223359368,18,9,Other,0.366222
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_diplomacy_avg,72.10965000000002,4.079756708525001,18,9,Other,0.721097
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_espionage_avg,61.09830555555556,8.107281436741687,18,9,Other,0.610983
+group,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_spaceship_avg,74.93146111111112,32.0570925203503,18,9,Other,0.749315
 group,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_offense_avg,16.18106875,-23.82562630661295,16,8,Military,0.161811
 group,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_defense_avg,75.701075,14.291133963022137,16,8,Military,0.757011
 group,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_city_defense_avg,69.8213,10.934885475479298,16,8,Military,0.698213
@@ -3057,6 +3125,40 @@ group,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_
 group,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_diplomacy_avg,56.6471875,-8.362607229792362,16,8,Other,0.566472
 group,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_espionage_avg,51.6141,0.053997807285872224,16,8,Other,0.516141
 group,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,flavor_spaceship_avg,51.16579375,12.950238134501298,16,8,Other,0.511658
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_offense_avg,18.189943749999998,-28.363838429736745,16,8,Military,0.181899
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_defense_avg,76.97092500000001,14.987800270671116,16,8,Military,0.769709
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_city_defense_avg,71.29445625,11.704851064608825,16,8,Military,0.712945
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobilization_avg,38.25919375,-17.457189349972193,16,8,Military,0.382592
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_military_training_avg,64.91460624999999,1.4684652558398197,16,8,Military,0.649146
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_recon_avg,39.383956250000004,-5.5570936155913975,16,8,Military,0.39384
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_ranged_avg,68.6261875,11.757807841351504,16,8,Military,0.686262
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_mobile_avg,50.468393750000004,-0.3546502875880604,16,8,Military,0.504684
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_nuke_avg,0.37453333333333333,-36.57934095238095,3,2,Nuclear,0.003745
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_use_nuke_avg,0.18726666666666666,-25.247607142857145,3,2,Nuclear,0.001873
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_avg,48.8451375,1.0773336862717828,16,8,Naval and air,0.488451
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_recon_avg,44.432725000000005,5.467902910177978,16,8,Naval and air,0.444327
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_avg,72.6655875,33.75776519255481,16,8,Naval and air,0.726656
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_antiair_avg,76.437275,35.88137109948302,16,8,Naval and air,0.764373
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_air_carrier_avg,41.31145,17.139859068024304,16,8,Naval and air,0.413114
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_airlift_avg,45.16541875,18.717691974333725,16,8,Naval and air,0.451654
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_expansion_avg,25.4289,-16.293732778550243,16,8,Economy,0.254289
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_growth_avg,63.79753125,-0.11015305501483175,16,8,Economy,0.637975
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_tile_improvement_avg,64.77643125,2.9343242137096786,16,8,Economy,0.647764
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_infrastructure_avg,63.29540625,-0.42046819938821134,16,8,Economy,0.632954
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_production_avg,88.01205,11.568356990869486,16,8,Economy,0.88012
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_gold_avg,58.443062499999996,-12.499621166342232,16,8,Economy,0.584431
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_science_avg,91.15604375,17.002156722052277,16,8,Economy,0.91156
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_culture_avg,49.70283125,-11.457929303856137,16,8,Economy,0.497028
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_happiness_avg,76.42479374999999,5.573645699388206,16,8,Economy,0.764248
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_growth_avg,48.5132875,9.952709672089355,16,8,Economy,0.485133
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_naval_tile_improvement_avg,48.51453125,11.306077741935486,16,8,Economy,0.485145
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_water_connection_avg,48.3013,6.857027725713756,16,8,Economy,0.483013
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_great_people_avg,73.93658125,12.941112964868378,16,8,Other,0.739366
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_wonder_avg,18.9765125,-21.617447123887654,16,8,Other,0.189765
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_religion_avg,44.610925,2.4744404868835757,16,8,Other,0.446109
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_diplomacy_avg,69.18562500000002,4.175830270207637,16,8,Other,0.691856
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_espionage_avg,67.8230125,16.26291030728587,16,8,Other,0.67823
+group,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavor_spaceship_avg,78.25655,40.040994384501296,16,8,Other,0.782566
 group,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_offense_avg,20.63685,-25.916932179736744,16,8,Military,0.206368
 group,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_defense_avg,75.30973125,13.326606520671113,16,8,Military,0.753097
 group,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavor_city_defense_avg,69.24501875,9.655413564608825,16,8,Military,0.69245

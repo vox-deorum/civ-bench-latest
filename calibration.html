@@ -54,7 +54,7 @@
 Module: calibration.reliability
 
 n_bins: 10</span></span></h2>
-<p>attention is best calibrated with expected error <strong>0.0040</strong>; the estimator errors range from <strong>0.0040</strong> to <strong>0.0088</strong> across <strong>3</strong> estimators.</p>
+<p>attention is best calibrated with expected error <strong>0.0039</strong>; the estimator errors range from <strong>0.0039</strong> to <strong>0.0088</strong> across <strong>3</strong> estimators.</p>
 <figure><img src="assets/cal_reliability/reliability.png" alt="cal_reliability: reliability"><figcaption class="caption">cal_reliability: reliability</figcaption></figure>
 <p><strong>ece</strong></p>
 <div class="table-scroll" role="region" tabindex="0">
@@ -69,18 +69,18 @@ n_bins: 10</span></span></h2>
   <tbody>
     <tr>
       <td>score</td>
-      <td>0.00582918</td>
-      <td>2541288</td>
+      <td>0.00535334</td>
+      <td>2618520</td>
     </tr>
     <tr>
       <td>attention</td>
-      <td>0.00400603</td>
-      <td>2541288</td>
+      <td>0.00385521</td>
+      <td>2618520</td>
     </tr>
     <tr>
       <td>xgboost</td>
-      <td>0.00875253</td>
-      <td>2541288</td>
+      <td>0.0088204</td>
+      <td>2618520</td>
     </tr>
   </tbody>
 </table>
@@ -99,7 +99,7 @@ n_bins: 10</span></span></h2>
 Module: calibration.loss_by_progress
 
 n_bins: 20; metrics: brier_score, log_loss</span></span></h2>
-<p>The best brier score is <strong>0.0462</strong> for attention at game progress 0.95-1.00; values range from <strong>0.0462</strong> to <strong>0.1147</strong>.</p>
+<p>The best brier score is <strong>0.0463</strong> for attention at game progress 0.95-1.00; values range from <strong>0.0463</strong> to <strong>0.1147</strong>.</p>
 <figure><img src="assets/cal_loss_progress/loss_by_progress.png" alt="cal_loss_progress: loss_by_progress"><figcaption class="caption">cal_loss_progress: loss_by_progress</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
@@ -114,7 +114,7 @@ n_bins: 20; metrics: brier_score, log_loss</span></span></h2>
 Module: calibration.civ_effects
 
 n_civs: 18</span></span></h2>
-<p>Polynesia has the strongest civilization effect (<strong>+1.776</strong>) and Mongolia the weakest (<strong>-2.455</strong>) on the log-odds scale, across <strong>18</strong> civilizations.</p>
+<p>Polynesia has the strongest civilization effect (<strong>+1.798</strong>) and Mongolia the weakest (<strong>-2.462</strong>) on the log-odds scale, across <strong>18</strong> civilizations.</p>
 <figure><img src="assets/cal_civ_effects/civ_effects.png" alt="cal_civ_effects: civ_effects"><figcaption class="caption">cal_civ_effects: civ_effects</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
@@ -128,8 +128,8 @@ n_civs: 18</span></span></h2>
 
 Module: calibration.cell_baseline
 
-n_seeds: 3; n_conditions: 32; has_explicit: True</span></span></h2>
-<p>Starting-position baselines range from <strong>-6.182</strong> to <strong>+0.945</strong> log-odds across <strong>3</strong> map seed(s) and <strong>32</strong> conditions.</p>
+n_seeds: 3; n_conditions: 33; has_explicit: True</span></span></h2>
+<p>Starting-position baselines range from <strong>-6.182</strong> to <strong>+0.945</strong> log-odds across <strong>3</strong> map seed(s) and <strong>33</strong> conditions.</p>
 <details class="downloads">
 <summary>Downloads and supporting files (4)</summary>
 <ul>

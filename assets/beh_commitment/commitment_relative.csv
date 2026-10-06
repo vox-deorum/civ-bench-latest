@@ -1,10 +1,10 @@
 row_kind,player_type,strategist,condition,row_label,metric,metric_group,mean,sd,n_players,n_games,color_position,median,ci_lower,ci_upper
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,acts_pct,,58.07454469075247,32.89368775606061,1444,722,0.5,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,revise_pct,,52.06809364320342,25.758121284426007,1444,722,0.5,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavors_touched,,6.345737312083322,3.0950352424481125,1444,722,0.5,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,step_size,,9.117477122453339,3.8226717361276865,1444,722,0.5,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,net_direction_pct,,25.417768478393555,16.99643325805664,1444,722,0.5,,,
-baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,persona_changes,,6.386485487903829,6.540641568415963,1444,722,0.5,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,acts_pct,,58.07454469075247,32.89368775606061,1444,722,0.490515,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,revise_pct,,52.06809364320342,25.758121284426007,1444,722,0.493193,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,flavors_touched,,6.345737312083322,3.0950352424481125,1444,722,0.500545,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,step_size,,9.117477122453339,3.8226717361276865,1444,722,0.508224,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,net_direction_pct,,25.417768478393555,16.99643325805664,1444,722,0.505968,,,
+baseline,Completed-experiment average,Completed-experiment average,,Completed-experiment average,persona_changes,,6.386485487903829,6.540641568415963,1444,722,0.50234,,,
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,acts_pct,,40.51214078649799,,48,24,0.807902,41.121476943298234,38.89030654732119,41.91960278069706
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,revise_pct,,-39.15525929922021,,48,24,0.119972,-39.31874906912462,-40.10759730427185,-38.18585909865842
 group,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,flavors_touched,,-1.4578691333809914,,48,24,0.382241,-1.3620151035237695,-1.607772392881518,-1.3207955393620383
@@ -59,6 +59,12 @@ group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,flavors_t
 group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,step_size,,-0.3347318268979171,,48,24,0.478109,-0.459747369852777,-0.6711630020699157,0.003914101512402797
 group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,net_direction_pct,,4.263055324554443,,48,24,0.562705,4.674368858337402,2.0468734582265222,6.692644516626993
 group,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,GLM-5.3-Simple | Per-5,persona_changes,,-0.7493318524082735,,48,24,0.471359,-0.8673192710773177,-1.0950960948176174,-0.39862819903775704
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,acts_pct,,39.026041619691256,,48,24,0.796607,40.859080318765436,35.34286259398726,41.739010870434974
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,revise_pct,,21.429970971981685,,48,24,0.707992,21.271222506002843,19.825440140883487,23.049495022804255
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,flavors_touched,,-0.2305818132044429,,48,24,0.481375,-0.40918227754112246,-0.516352192585686,0.08814202561154409
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,step_size,,-3.9313676382667118,,48,24,0.242891,-4.004680385103294,-4.21095116954645,-3.6897031762776358
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,net_direction_pct,,-12.35303783416748,,48,24,0.3183,-12.543415069580078,-13.686527824401855,-10.737922096252442
+group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_changes,,-1.983029323736858,,48,24,0.424204,-2.18295979194451,-2.75405877996907,-1.142468076154583
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,acts_pct,,-26.812267379089235,,48,24,0.29622,-26.974118112894175,-27.586826810503208,-26.06758705844789
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,revise_pct,,30.388520154789187,,48,24,0.794941,30.848425018396636,29.024482899187216,31.696558041820744
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,flavors_touched,,1.0890777585504656,,48,24,0.58797,0.9694305157907297,0.8542781434107357,1.332858930586239
