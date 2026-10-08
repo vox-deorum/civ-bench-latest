@@ -1,5 +1,6 @@
 player_type,strategist,condition,mean_predicted,n_rows,n_games
 GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,0.17687189493138133,19618,24
+GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,0.16037884607905142,18356,24
 Kimi-K2.7-Simple,Kimi-K2.7-Simple,Every-turn,0.15433792052199014,19956,24
 Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,0.14840658153384131,18400,24
 GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,0.14092098858932575,18726,24
@@ -7,7 +8,7 @@ Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,0.13899309783804528,19416,24
 GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,0.13548628130238036,19280,24
 GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,0.12779995708298397,20212,24
 Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,0.12766578467424106,19460,24
-Vanilla,Vanilla,Every-turn,0.12762697786402497,1907094,771
+Vanilla,Vanilla,Every-turn,0.12735140667895464,2020392,819
 DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,0.12624471090477046,19056,24
 Vanilla,Vanilla,Vanilla,0.1250000000080282,79168,24
 Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,0.1248874379493914,20302,24
@@ -23,6 +24,7 @@ MiniMax-M3-Simple-Per-5,MiniMax-M3-Simple,Per-5,0.11364124034339,20120,24
 Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,0.11362187054838131,20652,24
 DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,0.11272613546964722,18802,24
 GLM-5.3-Flash-Simple,GLM-5.3-Flash-Simple,Every-turn,0.11241579148627613,19320,24
+Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,0.10489265237945632,19410,24
 MiniMax-M2.7-Simple-Per-5,MiniMax-M2.7-Simple,Per-5,0.10478517307781533,19440,24
 Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,0.10419044039933954,19886,24
 DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,0.10384408209678431,19250,24
