@@ -1,6 +1,6 @@
 experiment,file,total_cells,completed_cells,open_cells
-claude-sonnet-5.5-standard-fixed-per-5,seating/claude-sonnet-5.5-standard-fixed-per-5.seating.json,24,8,16
-deepseek-v4.1-flash-standard-fixed,seating/deepseek-v4.1-flash-standard-fixed.seating.json,24,1,23
+claude-sonnet-5.5-standard-fixed-per-5,seating/claude-sonnet-5.5-standard-fixed-per-5.seating.json,24,9,15
+deepseek-v4.1-flash-standard-fixed,seating/deepseek-v4.1-flash-standard-fixed.seating.json,24,2,22
 glm-5.3-standard-fixed,seating/glm-5.3-standard-fixed.seating.json,24,2,22
-gpt-6-astra-standard-fixed-per-5,seating/gpt-6-astra-standard-fixed-per-5.seating.json,24,8,16
-gpt-6.1-sol-standard-fixed,seating/gpt-6.1-sol-standard-fixed.seating.json,24,3,21
+gpt-6-astra-standard-fixed-per-5,seating/gpt-6-astra-standard-fixed-per-5.seating.json,24,9,15
+gpt-6.1-sol-standard-fixed,seating/gpt-6.1-sol-standard-fixed.seating.json,24,6,18

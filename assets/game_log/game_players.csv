@@ -271,6 +271,14 @@ game_id,player_id,player_type,strategist,condition,is_vanilla,model,civilization
 07201be1-1eeb-4aac-a8d4-f216b3636f0c,5,GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,False,GLM-5.2,Brazil,0,3346,4,421,False
 07201be1-1eeb-4aac-a8d4-f216b3636f0c,6,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,2148,6,421,False
 07201be1-1eeb-4aac-a8d4-f216b3636f0c,7,Vanilla,Vanilla,Every-turn,True,VPAI,Poland,-1,4540,1,421,True
+0767938c-18e9-4379-b83b-2904d1816ca5,0,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,France,7,1566,7,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Zulus,-1,2690,1,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,2,Vanilla,Vanilla,Every-turn,True,VPAI,China,-1,2450,2,359,True
+0767938c-18e9-4379-b83b-2904d1816ca5,3,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,Egypt,0,1741,6,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,4,Vanilla,Vanilla,Every-turn,True,VPAI,Mongolia,-1,1419,8,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,5,Vanilla,Vanilla,Every-turn,True,VPAI,Austria,-1,1896,4,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,6,Vanilla,Vanilla,Every-turn,True,VPAI,Morocco,-1,1905,3,359,False
+0767938c-18e9-4379-b83b-2904d1816ca5,7,Vanilla,Vanilla,Every-turn,True,VPAI,Songhai,-1,1843,5,359,False
 0780e133-1fba-4eae-aabb-aa2bb6e9837c,0,GLM-5.3-Flash-Simple-Per-5,GLM-5.3-Flash-Simple,Per-5,False,GLM-5.3-Flash,The Netherlands,0,1675,4,357,False
 0780e133-1fba-4eae-aabb-aa2bb6e9837c,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Ottomans,-1,3271,2,357,False
 0780e133-1fba-4eae-aabb-aa2bb6e9837c,2,Vanilla,Vanilla,Every-turn,True,VPAI,France,-1,1555,5,357,False
@@ -839,6 +847,14 @@ game_id,player_id,player_type,strategist,condition,is_vanilla,model,civilization
 1ab0622b-c292-4f6c-8dd4-096546a679d2,5,Vanilla,Vanilla,Every-turn,True,VPAI,Austria,-1,1982,2,357,False
 1ab0622b-c292-4f6c-8dd4-096546a679d2,6,Vanilla,Vanilla,Every-turn,True,VPAI,Morocco,-1,1859,4,357,False
 1ab0622b-c292-4f6c-8dd4-096546a679d2,7,Vanilla,Vanilla,Every-turn,True,VPAI,Songhai,-1,1636,5,357,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,0,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,885,8,328,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,False,gpt-6-astra,The Zulus,0,2036,3,379,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,False,gpt-6-astra,China,7,1818,5,379,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,3,Vanilla,Vanilla,Every-turn,True,VPAI,Brazil,-1,3193,2,379,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,4,Vanilla,Vanilla,Every-turn,True,VPAI,Polynesia,-1,5144,1,379,True
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,5,Vanilla,Vanilla,Every-turn,True,VPAI,Denmark,-1,2001,4,379,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,6,Vanilla,Vanilla,Every-turn,True,VPAI,Austria,-1,1628,7,379,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,7,Vanilla,Vanilla,Every-turn,True,VPAI,Ethiopia,-1,1775,6,379,False
 1b243706-e4db-497b-9a1b-550227269a72,0,Vanilla,Vanilla,Every-turn,True,VPAI,France,-1,1305,7,379,False
 1b243706-e4db-497b-9a1b-550227269a72,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Zulus,-1,6702,1,434,False
 1b243706-e4db-497b-9a1b-550227269a72,2,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,False,Qwen-3.8-Flash-Next,China,0,2061,4,434,False
@@ -1967,6 +1983,14 @@ game_id,player_id,player_type,strategist,condition,is_vanilla,model,civilization
 45becbc4-3e19-4aab-8255-8d5691271a19,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,False,gpt-6-luna,Brazil,7,1381,8,433,False
 45becbc4-3e19-4aab-8255-8d5691271a19,6,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,2063,5,433,False
 45becbc4-3e19-4aab-8255-8d5691271a19,7,Vanilla,Vanilla,Every-turn,True,VPAI,Poland,-1,3543,2,433,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,0,Vanilla,Vanilla,Every-turn,True,VPAI,The Netherlands,-1,2418,3,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Ottomans,-1,4241,1,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,2,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,France,0,1691,8,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,3,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,Spain,7,4107,2,390,True
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,4,Vanilla,Vanilla,Every-turn,True,VPAI,The Aztecs,-1,1871,6,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,5,Vanilla,Vanilla,Every-turn,True,VPAI,Brazil,-1,1962,4,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,6,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,1952,5,390,False
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,7,Vanilla,Vanilla,Every-turn,True,VPAI,Poland,-1,1710,7,390,False
 46b7983b-4984-419a-8f79-21630d231761,0,Vanilla,Vanilla,Every-turn,True,VPAI,The Netherlands,-1,3146,2,425,False
 46b7983b-4984-419a-8f79-21630d231761,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Ottomans,-1,4506,1,425,True
 46b7983b-4984-419a-8f79-21630d231761,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,False,Qwen-3.8-Flash-Next,France,0,1826,7,425,False
@@ -5079,6 +5103,14 @@ bfc9d445-f166-4fca-ab29-77ad776c8e1b,4,Vanilla,Vanilla,Every-turn,True,VPAI,Mong
 bfc9d445-f166-4fca-ab29-77ad776c8e1b,5,Vanilla,Vanilla,Every-turn,True,VPAI,Austria,-1,1675,6,421,False
 bfc9d445-f166-4fca-ab29-77ad776c8e1b,6,Vanilla,Vanilla,Every-turn,True,VPAI,Morocco,-1,2352,5,421,False
 bfc9d445-f166-4fca-ab29-77ad776c8e1b,7,Vanilla,Vanilla,Every-turn,True,VPAI,Songhai,-1,3478,1,421,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,0,Vanilla,Vanilla,Every-turn,True,VPAI,The Netherlands,-1,3216,3,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Ottomans,-1,4533,1,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,2,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,False,DeepSeek-V4.1-Flash,France,0,3178,4,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,3,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,False,DeepSeek-V4.1-Flash,Spain,7,2501,5,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,4,Vanilla,Vanilla,Every-turn,True,VPAI,The Aztecs,-1,2387,6,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,5,Vanilla,Vanilla,Every-turn,True,VPAI,Brazil,-1,3902,2,414,True
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,6,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,1839,8,414,False
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,7,Vanilla,Vanilla,Every-turn,True,VPAI,Poland,-1,2044,7,406,False
 c06c24d5-7c6c-43a1-b273-4e66a263e69e,0,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,1249,7,365,False
 c06c24d5-7c6c-43a1-b273-4e66a263e69e,1,MiniMax-M2.7-Simple,MiniMax-M2.7-Simple,Every-turn,False,MiniMax-M2.7,The Zulus,7,2082,4,365,False
 c06c24d5-7c6c-43a1-b273-4e66a263e69e,2,Vanilla,Vanilla,Every-turn,True,VPAI,China,-1,955,8,365,False
@@ -5927,6 +5959,14 @@ e006cda2-af24-49b4-ab98-8c8e501e4872,4,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8
 e006cda2-af24-49b4-ab98-8c8e501e4872,5,Vanilla,Vanilla,Every-turn,True,VPAI,Denmark,-1,3200,4,421,False
 e006cda2-af24-49b4-ab98-8c8e501e4872,6,Vanilla,Vanilla,Every-turn,True,VPAI,Austria,-1,2762,6,421,True
 e006cda2-af24-49b4-ab98-8c8e501e4872,7,Vanilla,Vanilla,Every-turn,True,VPAI,Ethiopia,-1,2831,5,421,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,0,Vanilla,Vanilla,Every-turn,True,VPAI,The Netherlands,-1,2123,4,387,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Ottomans,-1,4743,1,387,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,2,Vanilla,Vanilla,Every-turn,True,VPAI,France,-1,669,7,387,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,3,Vanilla,Vanilla,Every-turn,True,VPAI,Spain,-1,2179,3,387,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,4,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,False,sonnet,The Aztecs,0,559,8,206,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,5,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,False,sonnet,Brazil,7,1393,5,387,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,6,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,881,6,272,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,7,Vanilla,Vanilla,Every-turn,True,VPAI,Poland,-1,3857,2,387,True
 e0f7ea97-50df-4041-9504-5cf5f3bdb54a,0,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,728,8,397,False
 e0f7ea97-50df-4041-9504-5cf5f3bdb54a,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Zulus,-1,1861,6,397,False
 e0f7ea97-50df-4041-9504-5cf5f3bdb54a,2,GLM-5.1-Simple,GLM-5.1-Simple,Every-turn,False,GLM-5.1,China,7,847,7,296,False
@@ -6031,6 +6071,14 @@ e3989a0c-f558-4138-9e62-f4f91f6646d3,4,Vanilla,Vanilla,Every-turn,True,VPAI,The 
 e3989a0c-f558-4138-9e62-f4f91f6646d3,5,Vanilla,Vanilla,Every-turn,True,VPAI,Brazil,-1,1745,4,390,False
 e3989a0c-f558-4138-9e62-f4f91f6646d3,6,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,False,GLM-5.3,Arabia,0,1306,7,297,False
 e3989a0c-f558-4138-9e62-f4f91f6646d3,7,GLM-5.3-Simple-Per-5,GLM-5.3-Simple,Per-5,False,GLM-5.3,Poland,7,6643,1,392,True
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,0,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,Arabia,0,2037,4,402,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,1,Vanilla,Vanilla,Every-turn,True,VPAI,The Zulus,-1,1574,8,382,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,2,Vanilla,Vanilla,Every-turn,True,VPAI,China,-1,1834,7,402,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,3,Vanilla,Vanilla,Every-turn,True,VPAI,Brazil,-1,1872,6,402,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,4,Vanilla,Vanilla,Every-turn,True,VPAI,Polynesia,-1,5619,1,402,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,5,Vanilla,Vanilla,Every-turn,True,VPAI,Denmark,-1,2395,3,402,False
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,6,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,False,gpt-6.1-sol,Austria,7,1920,5,402,True
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,7,Vanilla,Vanilla,Every-turn,True,VPAI,Ethiopia,-1,2885,2,402,False
 e44f8a97-801d-49a9-9eac-f70d85820e74,0,Vanilla,Vanilla,Every-turn,True,VPAI,Arabia,-1,906,8,335,False
 e44f8a97-801d-49a9-9eac-f70d85820e74,1,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,False,Qwen-3.5,The Zulus,0,1326,6,335,False
 e44f8a97-801d-49a9-9eac-f70d85820e74,2,Vanilla,Vanilla,Every-turn,True,VPAI,China,-1,996,7,335,False

@@ -1,10 +1,10 @@
 experiment,player_type,completed_games,required_games,completed_at
 claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple-Per-5,24,24,2026-10-04T11:01:52.522000Z
-claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple-Per-5,8,24,
-claude-sonnet-5.5-standard-fixed-per-5,Sonnet-Simple-Per-5,8,24,
+claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple-Per-5,9,24,
+claude-sonnet-5.5-standard-fixed-per-5,Sonnet-Simple-Per-5,9,24,
 deepseek-v4-flash-standard-fixed,DeepSeek-V4-Flash-Simple,24,24,2026-08-19T17:17:44.232000Z
 deepseek-v4-flash-standard-fixed-per-5,DeepSeek-V4-Flash-Simple-Per-5,24,24,2026-08-11T13:08:00.480000Z
-deepseek-v4.1-flash-standard-fixed,DeepSeek-V4.1-Flash-Simple,1,24,
+deepseek-v4.1-flash-standard-fixed,DeepSeek-V4.1-Flash-Simple,2,24,
 deepseek-v4.1-flash-standard-fixed-per-5,DeepSeek-V4.1-Flash-Simple-Per-5,24,24,2026-09-28T23:18:09.638000Z
 gemma-4-standard-fixed,Gemma-4-Simple,24,24,2026-06-13T03:35:25.421000Z
 gemma-4-standard-fixed-per-5,Gemma-4-Simple-Per-5,24,24,2026-08-11T04:31:39.569000Z
@@ -15,10 +15,10 @@ glm-5.3-flash-standard-fixed,GLM-5.3-Flash-Simple,24,24,2026-09-21T09:05:07.7970
 glm-5.3-flash-standard-fixed-per-5,GLM-5.3-Flash-Simple-Per-5,24,24,2026-09-06T17:21:52.560000Z
 glm-5.3-standard-fixed,GLM-5.3-Simple,2,24,
 glm-5.3-standard-fixed-per-5,GLM-5.3-Simple-Per-5,24,24,2026-10-02T12:26:26.169000Z
-gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple-Per-5,8,24,
+gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple-Per-5,9,24,
 gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,24,24,2026-10-07T03:17:50.711000Z
 gpt-6-luna-standard-fixed-per-5,GPT-6-Luna-Simple-Per-5,24,24,2026-09-30T12:28:15.905000Z
-gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple,3,24,
+gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple,6,24,
 gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple-Per-5,24,24,2026-10-08T19:48:31.896000Z
 kimi-k2.6-standard-fixed,Kimi-K2.6-Simple,24,24,2026-06-19T18:50:14.885000Z
 kimi-k2.7-standard-fixed,Kimi-K2.7-Simple,24,24,2026-07-10T03:50:36.218000Z

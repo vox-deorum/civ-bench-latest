@@ -1,4 +1,10 @@
 game_id,timestamp,date_utc,experiment,label,seed,seating_rotation,controlled,turns,map_type,map_size,game_speed,difficulty,n_players,victory_type,winner_player_id,winner_player_type,winner_civilization,winner_is_vanilla
+0767938c-18e9-4379-b83b-2904d1816ca5,1791556827196,2026-10-09,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,3,5,True,359,Vox_Deorum,Standard,Standard,Prince,8,Cultural,2,Vanilla,China,True
+e4465db2-fdd0-4e40-b193-d27b1669ca5e,1791550559863,2026-10-09,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,1,6,True,403,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,6,GPT-6.1-Sol-Simple,Austria,False
+1aec91c6-7bda-4df3-bc65-b2c4716faaad,1791549033611,2026-10-09,gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple | Per-5,1,1,True,380,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,4,Vanilla,Polynesia,True
+4668dc7c-9ff2-4013-a184-0c79b1e88feb,1791548046183,2026-10-09,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,2,4,True,391,Vox_Deorum,Standard,Standard,Prince,8,Cultural,3,GPT-6.1-Sol-Simple,Spain,False
+e0dca4ef-8b8d-47f9-89e2-2416772dccb2,1791542801241,2026-10-09,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple | Per-5,2,2,True,387,Vox_Deorum,Standard,Standard,Prince,8,Cultural,7,Vanilla,Poland,True
+bfffe5c4-ae96-4b8f-b3e6-54c0b6434101,1791530552893,2026-10-09,deepseek-v4.1-flash-standard-fixed,DeepSeek-V4.1-Flash-Simple | Every-turn,2,4,True,415,Continents,Standard,Standard,Prince,8,Diplomatic,5,Vanilla,Brazil,True
 60fb93de-4c05-4824-a100-4fe46bfd89f7,1791526752861,2026-10-09,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,2,1,True,338,Vox_Deorum,Standard,Standard,Prince,8,Cultural,7,Vanilla,Poland,True
 85353164-7248-4058-8f5f-046fcb432f85,1791524295765,2026-10-09,glm-5.3-standard-fixed,GLM-5.3-Simple | Every-turn,2,4,True,399,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,3,GLM-5.3-Simple,Spain,False
 3bcb82a6-ba93-4d84-b8f9-3b1f634e4903,1791521205696,2026-10-09,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,1,3,True,397,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,7,Vanilla,Ethiopia,True

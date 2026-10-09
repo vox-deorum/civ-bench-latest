@@ -6,7 +6,7 @@
 
 Civilization V is a strategy game where you lead a nation from its first village to the space age. A single game takes hundreds of turns, and the winner is often decided by choices made long before the end. That makes it a good test of whether an AI can plan ahead.
 
-**20** AI models · **33** setups tested · **865** games played · **409** turns per game · **3** fixed starts
+**20** AI models · **33** setups tested · **871** games played · **409** turns per game · **3** fixed starts
 
 ### Latest news
 
@@ -14,11 +14,11 @@ Leading right now: **GLM-5.3**, deciding every 5 turns, rated **1634**.
 
 > **Latest score · Oct 8, 2026**
 >
-> **GPT-6.1-Sol** (every turn) scored **1600 Elo** (Per-5, #2).
+> **GPT-6.1-Sol** scored **1600 Elo** (every 5 turns, #2).
 
 > **Currently being tested**
 >
-> **Sonnet-5.5** (every 5 turns) / **Sonnet-5.5** (every 5 turns) (8/24); **DeepSeek-V4.1-Flash** (every turn) (1/24); **GLM-5.3** (every turn) (2/24); **GPT-6-Astra** (every 5 turns) (8/24); **GPT-6.1-Sol** (every turn) (3/24)
+> **Sonnet-5.5** (every 5 turns) / **Sonnet-5.5** (every 5 turns) (9/24); **DeepSeek-V4.1-Flash** (every turn) (2/24); **GLM-5.3** (every turn) (2/24); **GPT-6-Astra** (every 5 turns) (9/24); **GPT-6.1-Sol** (every turn) (6/24)
 
 ### Who plays best?
 
@@ -304,21 +304,21 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 
 *Reports completed, missing, and repeated games across the planned map, seat, and condition combinations, including decision-turn failures.*
 
-*strength_table: strength; coverage: {'missing_slots': 98, 'repeated_slots': 3, 'failed_decision_turns': 1003, 'excluded_games': 1, 'experiments_with_warnings': 25}; seating: {'files_generated': 5, 'open_cells': 98, 'warnings': []}*
+*strength_table: strength; coverage: {'missing_slots': 92, 'repeated_slots': 3, 'failed_decision_turns': 1003, 'excluded_games': 1, 'experiments_with_warnings': 25}; seating: {'files_generated': 5, 'open_cells': 92, 'warnings': []}*
 
 </details>
 
-**865/960** planned games (**90.1%**) are present across **40** experiment(s). **35/40** experiment(s) have every planned game.
+**871/960** planned games (**90.7%**) are present across **40** experiment(s). **35/40** experiment(s) have every planned game.
 
 **experiment_completeness**
 
 | experiment                               |   required_games |   present_games |   missing_games |   completeness_pct |   repeated_slots |   excluded_games | failed_turn_count   | avg_failure_count   | failure_pct   | warning                                                                                  |
 |:-----------------------------------------|-----------------:|----------------:|----------------:|-------------------:|-----------------:|-----------------:|:--------------------|:--------------------|:--------------|:-----------------------------------------------------------------------------------------|
 | claude-opus-5.5-standard-fixed-per-5     |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
-| claude-sonnet-5.5-standard-fixed-per-5   |               24 |               8 |              16 |             0.3333 |                0 |                0 | 0                   | 0                   | 0             | 16 missing slot(s); cell repeat counts differ from expected 8                            |
+| claude-sonnet-5.5-standard-fixed-per-5   |               24 |               9 |              15 |             0.375  |                0 |                0 | 0                   | 0                   | 0             | 15 missing slot(s); cell repeat counts differ from expected 8                            |
 | deepseek-v4-flash-standard-fixed         |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
 | deepseek-v4-flash-standard-fixed-per-5   |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
-| deepseek-v4.1-flash-standard-fixed       |               24 |               1 |              23 |             0.0417 |                0 |                0 | 0                   | 0                   | 0             | 23 missing slot(s); cell repeat counts differ from expected 8                            |
+| deepseek-v4.1-flash-standard-fixed       |               24 |               2 |              22 |             0.0833 |                0 |                0 | 0                   | 0                   | 0             | 22 missing slot(s); cell repeat counts differ from expected 8                            |
 | deepseek-v4.1-flash-standard-fixed-per-5 |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | gemma-4-standard-fixed                   |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
 | gemma-4-standard-fixed-per-5             |               24 |              24 |               0 |             1      |                0 |                0 | 25                  | 0.5208              | 0.0013        | 25 failed decision turn(s)                                                               |
@@ -329,10 +329,10 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 | glm-5.3-flash-standard-fixed-per-5       |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | glm-5.3-standard-fixed                   |               24 |               2 |              22 |             0.0833 |                0 |                0 | 0                   | 0                   | 0             | 22 missing slot(s); cell repeat counts differ from expected 8                            |
 | glm-5.3-standard-fixed-per-5             |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
-| gpt-6-astra-standard-fixed-per-5         |               24 |               8 |              16 |             0.3333 |                0 |                0 | 0                   | 0                   | 0             | 16 missing slot(s); cell repeat counts differ from expected 8                            |
+| gpt-6-astra-standard-fixed-per-5         |               24 |               9 |              15 |             0.375  |                0 |                0 | 0                   | 0                   | 0             | 15 missing slot(s); cell repeat counts differ from expected 8                            |
 | gpt-6-luna-standard-fixed                |               24 |              25 |               0 |             1      |                1 |                0 | 3                   | 0.06                | 0.0002        | 1 repeated slot(s); cell repeat counts differ from expected 8; 3 failed decision turn(s) |
 | gpt-6-luna-standard-fixed-per-5          |               24 |              24 |               0 |             1      |                0 |                0 | 10                  | 0.2083              | 0.0005        | 10 failed decision turn(s)                                                               |
-| gpt-6.1-sol-standard-fixed               |               24 |               3 |              21 |             0.125  |                0 |                0 | 0                   | 0                   | 0             | 21 missing slot(s); cell repeat counts differ from expected 8                            |
+| gpt-6.1-sol-standard-fixed               |               24 |               6 |              18 |             0.25   |                0 |                0 | 0                   | 0                   | 0             | 18 missing slot(s); cell repeat counts differ from expected 8                            |
 | gpt-6.1-sol-standard-fixed-per-5         |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | kimi-k2.6-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 5                   | 0.1042              | 0.0003        | 5 failed decision turn(s)                                                                |
 | kimi-k2.7-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
@@ -1268,7 +1268,7 @@ Starting-position baselines range from **-6.219** to **+0.945** log-odds across 
 
 [Browse recent games](games.html)
 
-Latest game: 2026-10-09 · GPT-6.1-Sol-Simple | Every-turn. Player 1 (The Ottomans) | Player 4 (The Aztecs) · Winner: Player 7 (Poland, VPAI)
+Latest game: 2026-10-09 · GPT-6.1-Sol-Simple | Every-turn. Player 0 (France) | Player 3 (Egypt) · Winner: Player 2 (China, VPAI)
 
 - [Table: games (CSV)](assets/game_log/games.csv)
 - [Table: game_players (CSV)](assets/game_log/game_players.csv)
