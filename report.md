@@ -6,19 +6,19 @@
 
 Civilization V is a strategy game where you lead a nation from its first village to the space age. A single game takes hundreds of turns, and the winner is often decided by choices made long before the end. That makes it a good test of whether an AI can plan ahead.
 
-**21** AI models · **35** setups tested · **913** games played · **408** turns per game · **3** fixed starts
+**21** AI models · **35** setups tested · **919** games played · **408** turns per game · **3** fixed starts
 
 ### Latest news
 
 Leading right now: **GLM-5.3**, deciding every 5 turns, rated **1634**.
 
-> **Latest score · Oct 11, 2026**
+> **Latest score · Oct 12, 2026**
 >
-> **GPT-6.1-Sol** scored **1545 Elo** (every turn, #2) or **1599 Elo** (every 5 turns, #2).
+> **Sonnet-5.5** scored **1496 Elo** (every 5 turns, #7).
 
 > **Currently being tested**
 >
-> **Sonnet-5.5** (every 5 turns) (22/24); **DeepSeek-V4.1-Flash** (every turn) (4/24); **GLM-5.3** (every turn) (3/24); **GPT-6-Astra** (every 5 turns) (11/24); **Jev!** (every turn) (6/24)
+> **DeepSeek-V4.1-Flash** (every turn) (6/24); **GLM-5.3** (every turn) (3/24); **GPT-6-Astra** (every 5 turns) (11/24); **Jev!** (every turn) (8/24)
 
 ### Who plays best?
 
@@ -56,7 +56,7 @@ Three pieces of software make these games possible. You do not need to play any 
 - **Best value**: **GLM-5.3** (every 5 turns) gets the most skill for its price. **Qwen-3.6-27B** (every 5 turns) gets the least. [Details](#section-perf-usage-efficiency)
 - **Changed habits**: Against the completed-experiment average, the largest departure is **Qwen-3.6-27B** (every turn) on **waterconnection** (**-31**). [Details](#section-beh-flavors)
 - **Diplomacy**: **Friendliest**: **Nemotron-3-Super** (every turn) (+207.4 net) · **Least friendly**: **MiniMax-M3** (every 5 turns) (-37.3 net) · **Most masked**: **DeepSeek-V4-Flash** (every turn) (4.4%) [Details](#section-beh-diplomacy)
-- **Ways to win**: Who aims for each kind of win most often. Domination: **Gemma-4** (every turn), 43%; Culture: **Sonnet-5.5** (every 5 turns), 58%; Diplomacy: **GPT-OSS-120B** (every turn), 51%; Science: **GPT-6-Luna** (every 5 turns), 76%. [Details](#section-beh-commitment)
+- **Ways to win**: Who aims for each kind of win most often. Domination: **Gemma-4** (every turn), 43%; Culture: **Sonnet-5.5** (every 5 turns), 59%; Diplomacy: **GPT-OSS-120B** (every turn), 51%; Science: **GPT-6-Luna** (every 5 turns), 76%. [Details](#section-beh-commitment)
 - **Politics**: **Freedom**: **Kimi-K2.7** (every turn) (29%) · **Autocracy**: **Qwen-3.6-27B** (every turn) (33%) · **Order**: **GPT-6-Luna** (every turn) (64%) [Details](#section-beh-policies)
 
 ## Contents
@@ -134,42 +134,42 @@ GPT-6.1-Sol-Simple-Domination leads **128** player and condition combinations at
 | Strategist \| Condition | General (all strategies) | Domination | Culture | Diplomatic | Science |
 |:---|---:|---:|---:|---:|---:|
 | Null | 1311*** | 1366*** |  | 1136*** | 1394* |
-| Vanilla | 1500 | 1500 | 1525 | 1509 | 1466 |
+| Vanilla | 1500 | 1500 | 1525 | 1508 | 1466 |
 | GPT-OSS-120B-Simple \| Every-turn | 1423*** | 1445 | 1306*** | 1449* | 1610** |
 | GPT-OSS-120B-Simple \| Per-5 | 1382*** | 1477 | 1341*** | 1290*** | 1427 |
-| Opus-5.5-Simple \| Per-5 | 1594*** | 1521 | 1643*** |  | 1533* |
-| Sonnet-5.5-Simple \| Per-5 | 1495 | 1459 | 1528 |  | 1497 |
-| GLM-5.1-Simple \| Every-turn | 1483 | 1510 | 1417*** | 1092*** | 1722*** |
-| GLM-5.2-Simple \| Every-turn | 1536* | 1421* | 1546 |  | 1619*** |
-| GLM-5.2-Simple \| Per-5 | 1495 | 1535 | 1506 | 1141*** | 1555** |
+| Opus-5.5-Simple \| Per-5 | 1594*** | 1521 | 1642*** |  | 1533* |
+| Sonnet-5.5-Simple \| Per-5 | 1496 | 1458 | 1536 |  | 1444 |
+| GLM-5.1-Simple \| Every-turn | 1483 | 1509 | 1417*** | 1092*** | 1722*** |
+| GLM-5.2-Simple \| Every-turn | 1536* | 1420* | 1546 |  | 1618*** |
+| GLM-5.2-Simple \| Per-5 | 1495 | 1535 | 1506 | 1140*** | 1555** |
 | GLM-5.3-Simple \| Per-5 | 1634*** | 1597*** | 1656*** | 1565 | 1661*** |
-| GLM-5.3-Flash-Simple \| Every-turn | 1471 | 1446 | 1489 | 1475 | 1477 |
+| GLM-5.3-Flash-Simple \| Every-turn | 1471 | 1445 | 1489 | 1474 | 1477 |
 | GLM-5.3-Flash-Simple \| Per-5 | 1435*** | 1447 | 1386*** |  | 1667*** |
-| MiniMax-M2.7-Simple \| Every-turn | 1473 | 1480 | 1508 |  | 1418 |
-| MiniMax-M2.7-Simple \| Per-5 | 1446** | 1451 | 1435*** |  | 1531 |
+| MiniMax-M2.7-Simple \| Every-turn | 1473 | 1480 | 1507 |  | 1418 |
+| MiniMax-M2.7-Simple \| Per-5 | 1446** | 1451 | 1434*** |  | 1531 |
 | MiniMax-M3-Simple \| Per-5 | 1447** | 1437* | 1467* |  |  |
-| Kimi-K2.7-Simple \| Every-turn | 1574*** | 1599** | 1756*** | 1473 | 1553*** |
-| Kimi-K2.7-Simple \| Per-5 | 1517 | 1477 | 1548 | 1391** | 1583*** |
-| Kimi-K2.6-Simple \| Every-turn | 1504 | 1418* | 1593 | 1627** | 1477 |
-| DeepSeek-V4-Flash-Simple \| Every-turn | 1431*** | 1399*** | 1414*** | 963*** | 1553** |
-| DeepSeek-V4-Flash-Simple \| Per-5 | 1479 | 1380*** | 1519 | 1626* | 1503 |
-| DeepSeek-V4.1-Flash-Simple \| Per-5 | 1496 | 1453 | 1462* | 1432* | 1637*** |
+| Kimi-K2.7-Simple \| Every-turn | 1574*** | 1598** | 1755*** | 1473 | 1553*** |
+| Kimi-K2.7-Simple \| Per-5 | 1517 | 1477 | 1547 | 1391** | 1583*** |
+| Kimi-K2.6-Simple \| Every-turn | 1504 | 1417* | 1593 | 1627** | 1477 |
+| DeepSeek-V4-Flash-Simple \| Every-turn | 1431*** | 1398*** | 1414*** | 963*** | 1553** |
+| DeepSeek-V4-Flash-Simple \| Per-5 | 1479 | 1380*** | 1519 | 1626* | 1502 |
+| DeepSeek-V4.1-Flash-Simple \| Per-5 | 1496 | 1453 | 1462* | 1431* | 1637*** |
 | Qwen-3.5-Simple \| Every-turn | 1459* | 1435* | 1431*** | 1506 | 1573* |
 | Qwen-3.5-Simple \| Per-5 | 1423*** | 1467 | 1415*** | 1249*** | 1531 |
-| Qwen-3.6-27B-Simple \| Every-turn | 1387*** | 1395*** | 1416*** |  | 1357* |
+| Qwen-3.6-27B-Simple \| Every-turn | 1387*** | 1395*** | 1416*** |  | 1356* |
 | Qwen-3.6-27B-Simple \| Per-5 | 1344*** | 1423** | 1322*** |  | 1318*** |
-| Qwen-3.8-27B-Simple \| Every-turn | 1517 | 1443 | 1620*** | 1553 | 1425 |
+| Qwen-3.8-27B-Simple \| Every-turn | 1517 | 1443 | 1620** | 1553 | 1425 |
 | Qwen-3.8-27B-Simple \| Per-5 | 1455** | 1465 | 1470 | 1247*** | 1548** |
-| Qwen-3.8-Flash-Next-Simple \| Every-turn | 1449** | 1514 | 1439*** |  | 1405* |
-| Qwen-3.8-Flash-Next-Simple \| Per-5 | 1495 | 1558 | 1454*** |  | 1623*** |
-| Gemma-4-Simple \| Every-turn | 1377*** | 1368*** | 1342*** |  | 1472 |
+| Qwen-3.8-Flash-Next-Simple \| Every-turn | 1449** | 1513 | 1439*** |  | 1405* |
+| Qwen-3.8-Flash-Next-Simple \| Per-5 | 1495 | 1558 | 1453*** |  | 1623*** |
+| Gemma-4-Simple \| Every-turn | 1377*** | 1368*** | 1342*** |  | 1471 |
 | Gemma-4-Simple \| Per-5 | 1458* | 1526 | 1353*** |  | 1553** |
 | GPT-6-Luna-Simple \| Every-turn | 1484 |  | 1385** |  | 1506* |
 | GPT-6-Luna-Simple \| Per-5 | 1510 | 1553 | 1541 |  | 1516* |
 | GPT-6.1-Sol-Simple \| Every-turn | 1545** | 1768*** | 1515 | 1373*** | 1594*** |
 | GPT-6.1-Sol-Simple \| Per-5 | 1599*** |  | 1608** | 1507 | 1665*** |
 | Nemotron-3-Super-Simple \| Every-turn | 1439*** | 1405** | 1404*** | 1492 | 1546* |
-| Nemotron-3-Super-Simple \| Per-5 | 1434*** | 1369*** | 1527 |  | 1429 |
+| Nemotron-3-Super-Simple \| Per-5 | 1434*** | 1368*** | 1527 |  | 1429 |
 
 _[full CSV](assets/bt_strategy/strategy_ratings.csv)._
 
@@ -258,7 +258,7 @@ Compare strategists' strength, progress, cost, and token use, with coverage chec
 
 *Compares cost and token use per player per game with skill, and measures Elo above or below the fitted usage-skill curve.*
 
-*currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {'cost': {'intercept': 1443.1838509505928, 'slope': 72.03352872990217, 'n': 35, 'r_squared': 0.4275982066070363}, 'input': {'intercept': 894.3587953062276, 'slope': 84.24415726094468, 'n': 35, 'r_squared': 0.04517115615827183}, 'output': {'intercept': 1418.3007369186068, 'slope': 10.324689308733529, 'n': 35, 'r_squared': 0.0063248432749372085}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.413497999494*
+*currency: usd; log_x: True; ratings_stage: bt_main; dropped_baselines: 1; unpriced_identities: 0; unrated_identities: 0; cost_basis: per player per complete game; cached_input_estimated: True; efficiency_metric: elo - expected_elo; usage_skill_equation: expected_elo = intercept + slope * log10(average_usage); usage_skill_fits: {'cost': {'intercept': 1443.1786316605792, 'slope': 72.12423921082431, 'n': 35, 'r_squared': 0.42845390034510067}, 'input': {'intercept': 893.0219589354363, 'slope': 84.44167917373612, 'n': 35, 'r_squared': 0.04538167687312056}, 'output': {'intercept': 1418.955740250512, 'slope': 10.215192676980365, 'n': 35, 'r_squared': 0.006202953555220936}}; baseline_elo: 1500.0; baseline_name: Vanilla; null_baseline_elo: 1311.4423726797052*
 
 </details>
 
@@ -284,7 +284,7 @@ Most cost-efficient: **GLM-5.3-Simple-Per-5** (**+96 Elo** vs the fitted curve).
 
 *Shows how each player identity's predicted chance of winning changes from the opening turns through the end of the game.*
 
-*estimator: attention; strength_table: strength; by: player_type; aggregate: mean; games: 889; baseline_experiment: vanilla-standard-fixed*
+*estimator: attention; strength_table: strength; by: player_type; aggregate: mean; games: 891; baseline_experiment: vanilla-standard-fixed*
 
 </details>
 
@@ -306,21 +306,21 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 
 *Reports completed, missing, and repeated games across the planned map, seat, and condition combinations, including decision-turn failures.*
 
-*strength_table: strength; coverage: {'missing_slots': 74, 'repeated_slots': 3, 'failed_decision_turns': 1004, 'excluded_games': 1, 'experiments_with_warnings': 25}; seating: {'files_generated': 5, 'open_cells': 74, 'warnings': []}*
+*strength_table: strength; coverage: {'missing_slots': 68, 'repeated_slots': 3, 'failed_decision_turns': 1007, 'excluded_games': 1, 'experiments_with_warnings': 24}; seating: {'files_generated': 4, 'open_cells': 68, 'warnings': []}*
 
 </details>
 
-**913/984** planned games (**92.8%**) are present across **41** experiment(s). **36/41** experiment(s) have every planned game.
+**919/984** planned games (**93.4%**) are present across **41** experiment(s). **37/41** experiment(s) have every planned game.
 
 **experiment_completeness**
 
 | experiment                               |   required_games |   present_games |   missing_games |   completeness_pct |   repeated_slots |   excluded_games | failed_turn_count   | avg_failure_count   | failure_pct   | warning                                                                                  |
 |:-----------------------------------------|-----------------:|----------------:|----------------:|-------------------:|-----------------:|-----------------:|:--------------------|:--------------------|:--------------|:-----------------------------------------------------------------------------------------|
 | claude-opus-5.5-standard-fixed-per-5     |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
-| claude-sonnet-5.5-standard-fixed-per-5   |               24 |              22 |               2 |             0.9167 |                0 |                0 | 0                   | 0                   | 0             | 2 missing slot(s); cell repeat counts differ from expected 8                             |
+| claude-sonnet-5.5-standard-fixed-per-5   |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | deepseek-v4-flash-standard-fixed         |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
 | deepseek-v4-flash-standard-fixed-per-5   |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
-| deepseek-v4.1-flash-standard-fixed       |               24 |               4 |              20 |             0.1667 |                0 |                0 | 0                   | 0                   | 0             | 20 missing slot(s); cell repeat counts differ from expected 8                            |
+| deepseek-v4.1-flash-standard-fixed       |               24 |               6 |              18 |             0.25   |                0 |                0 | 0                   | 0                   | 0             | 18 missing slot(s); cell repeat counts differ from expected 8                            |
 | deepseek-v4.1-flash-standard-fixed-per-5 |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | gemma-4-standard-fixed                   |               24 |              24 |               0 |             1      |                0 |                0 | 1                   | 0.0208              | 0.0001        | 1 failed decision turn(s)                                                                |
 | gemma-4-standard-fixed-per-5             |               24 |              24 |               0 |             1      |                0 |                0 | 25                  | 0.5208              | 0.0013        | 25 failed decision turn(s)                                                               |
@@ -336,7 +336,7 @@ Highest mean predicted win probability from **attention**: **GLM-5.3-Simple | Pe
 | gpt-6-luna-standard-fixed-per-5          |               24 |              24 |               0 |             1      |                0 |                0 | 10                  | 0.2083              | 0.0005        | 10 failed decision turn(s)                                                               |
 | gpt-6.1-sol-standard-fixed               |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | gpt-6.1-sol-standard-fixed-per-5         |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
-| jev-1.13-standard-fixed                  |               24 |               6 |              18 |             0.25   |                0 |                0 | 1                   | 0.0833              | 0.0002        | 18 missing slot(s); cell repeat counts differ from expected 8; 1 failed decision turn(s) |
+| jev-1.13-standard-fixed                  |               24 |               8 |              16 |             0.3333 |                0 |                0 | 4                   | 0.25                | 0.0006        | 16 missing slot(s); cell repeat counts differ from expected 8; 4 failed decision turn(s) |
 | kimi-k2.6-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 5                   | 0.1042              | 0.0003        | 5 failed decision turn(s)                                                                |
 | kimi-k2.7-standard-fixed                 |               24 |              24 |               0 |             1      |                0 |                0 | 0                   | 0                   | 0             | ok                                                                                       |
 | kimi-k2.7-standard-fixed-per-5           |               24 |              24 |               0 |             1      |                0 |                0 | 9                   | 0.1875              | 0.0005        | 9 failed decision turn(s)                                                                |
@@ -395,6 +395,8 @@ _[full CSV](assets/perf_experiment_completeness/experiment_completeness.csv)._
 | gpt-6-luna-standard-fixed-per-5          | 0632c8cf-46de-4e81-9280-191adbd86095 |           3 | GPT-6-Luna-Simple-Per-5          |                492 |                   1 |        0.002  | 416                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | False           |
 | gpt-6-luna-standard-fixed-per-5          | ed013f54-bfea-4abc-8ac3-1e687e234343 |           1 | GPT-6-Luna-Simple-Per-5          |                496 |                   9 |        0.0181 | 462,464,468,479,480,484,491,493,494                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | False           |
 | jev-1.13-standard-fixed                  | 2607873a-1a7c-4a3c-9ab1-d9833388eadc |           7 | Jev!                             |                393 |                   1 |        0.0025 | 191                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | False           |
+| jev-1.13-standard-fixed                  | 298db992-421d-40f1-967c-e025e22c960d |           0 | Jev!                             |                386 |                   1 |        0.0026 | 363                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | False           |
+| jev-1.13-standard-fixed                  | 6c030053-4a46-476f-a3e5-0e0d4e63b83e |           0 | Jev!                             |                446 |                   2 |        0.0045 | 223,412                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | False           |
 | kimi-k2.6-standard-fixed                 | 282c1bf0-8d2a-4c85-b1ae-d57ad2579ab7 |           0 | Kimi-K2.6-Simple                 |                297 |                   2 |        0.0067 | 0,263                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | False           |
 | kimi-k2.6-standard-fixed                 | 375f9a58-250d-4f21-86e2-637d0b2ca0f1 |           3 | Kimi-K2.6-Simple                 |                415 |                   2 |        0.0048 | 249,267                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | False           |
 | kimi-k2.6-standard-fixed                 | c0ac65c1-2231-4d0c-9b82-f8735af18c2b |           1 | Kimi-K2.6-Simple                 |                389 |                   1 |        0.0026 | 225                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | False           |
@@ -432,7 +434,6 @@ _[full CSV](assets/perf_experiment_completeness/decision_turn_failures.csv)._
 - [Table: cell_repeat_issues (CSV)](assets/perf_experiment_completeness/cell_repeat_issues.csv)
 - [Table: condition_progress (CSV)](assets/perf_experiment_completeness/condition_progress.csv)
 - [Table: seating_index (CSV)](assets/perf_experiment_completeness/seating_index.csv)
-- [claude-sonnet-5.5-standard-fixed-per-5.seating.json](assets/perf_experiment_completeness/seating/claude-sonnet-5.5-standard-fixed-per-5.seating.json)
 - [deepseek-v4.1-flash-standard-fixed.seating.json](assets/perf_experiment_completeness/seating/deepseek-v4.1-flash-standard-fixed.seating.json)
 - [glm-5.3-standard-fixed.seating.json](assets/perf_experiment_completeness/seating/glm-5.3-standard-fixed.seating.json)
 - [gpt-6-astra-standard-fixed-per-5.seating.json](assets/perf_experiment_completeness/seating/gpt-6-astra-standard-fixed-per-5.seating.json)
@@ -453,11 +454,11 @@ Compare strategists and experimental conditions with a VPAI baseline on the same
 
 *Aggregates controlled-seed games by seed and final seat into the tables behind the dedicated controlled-seed HTML report.*
 
-*strategist_order: Null, GPT-OSS-120B-Simple, Opus-5.5-Simple, Sonnet-5.5-Simple, GLM-5.1-Simple, GLM-5.2-Simple, GLM-5.3-Simple, GLM-5.3-Flash-Simple, MiniMax-M2.7-Simple, MiniMax-M3-Simple, Kimi-K2.7-Simple, Kimi-K2.6-Simple, DeepSeek-V4-Flash-Simple, DeepSeek-V4.1-Flash-Simple, Qwen-3.5-Simple, Qwen-3.6-27B-Simple, Qwen-3.8-27B-Simple, Qwen-3.8-Flash-Next-Simple, Gemma-4-Simple, GPT-6-Luna-Simple, GPT-6.1-Sol-Simple, Nemotron-3-Super-Simple; condition_order: Every-turn, Per-5; strategist_colors: {'Vanilla': '#555555', 'Null': '#999999', 'GPT-OSS-120B-Simple': '#FF7F00', 'Opus-5.5-Simple': '#377EB8', 'Sonnet-5.5-Simple': '#377EB8', 'GLM-5.1-Simple': '#4DAF4A', 'GLM-5.2-Simple': '#4DAF4A', 'GLM-5.3-Simple': '#4DAF4A', 'GLM-5.3-Flash-Simple': '#4DAF4A', 'MiniMax-M2.7-Simple': '#984EA3', 'MiniMax-M3-Simple': '#984EA3', 'Kimi-K2.7-Simple': '#E377C2', 'Kimi-K2.6-Simple': '#E377C2', 'DeepSeek-V4-Flash-Simple': '#8C564B', 'DeepSeek-V4.1-Flash-Simple': '#8C564B', 'Qwen-3.5-Simple': '#E41A1C', 'Qwen-3.6-27B-Simple': '#CB181D', 'Qwen-3.8-27B-Simple': '#CB181D', 'Qwen-3.8-Flash-Next-Simple': '#CB181D', 'Gemma-4-Simple': '#BCBD22', 'GPT-6-Luna-Simple': '#FF6347', 'GPT-6.1-Sol-Simple': '#FF6347', 'Nemotron-3-Super-Simple': '#76B900'}; base_label: Every-turn; vanilla_label: Vanilla; focus_order: Domination, Culture, Diplomatic, Science; grid_points: 101; estimator: attention; strength_table: strength; baseline_experiment: vanilla-standard-fixed; has_baseline: True; seeds: 1, 2, 3; player_ids: 0, 1, 2, 3, 4, 5, 6, 7; coverage: {'controlled_games': 889, 'seeds': 3, 'final_seats': 8, 'strategist_condition_combinations': 864, 'unmatched_seed_player_pairs': 0, 'seed_player_pairs_without_predictions': 0, 'notes': []}*
+*strategist_order: Null, GPT-OSS-120B-Simple, Opus-5.5-Simple, Sonnet-5.5-Simple, GLM-5.1-Simple, GLM-5.2-Simple, GLM-5.3-Simple, GLM-5.3-Flash-Simple, MiniMax-M2.7-Simple, MiniMax-M3-Simple, Kimi-K2.7-Simple, Kimi-K2.6-Simple, DeepSeek-V4-Flash-Simple, DeepSeek-V4.1-Flash-Simple, Qwen-3.5-Simple, Qwen-3.6-27B-Simple, Qwen-3.8-27B-Simple, Qwen-3.8-Flash-Next-Simple, Gemma-4-Simple, GPT-6-Luna-Simple, GPT-6.1-Sol-Simple, Nemotron-3-Super-Simple; condition_order: Every-turn, Per-5; strategist_colors: {'Vanilla': '#555555', 'Null': '#999999', 'GPT-OSS-120B-Simple': '#FF7F00', 'Opus-5.5-Simple': '#377EB8', 'Sonnet-5.5-Simple': '#377EB8', 'GLM-5.1-Simple': '#4DAF4A', 'GLM-5.2-Simple': '#4DAF4A', 'GLM-5.3-Simple': '#4DAF4A', 'GLM-5.3-Flash-Simple': '#4DAF4A', 'MiniMax-M2.7-Simple': '#984EA3', 'MiniMax-M3-Simple': '#984EA3', 'Kimi-K2.7-Simple': '#E377C2', 'Kimi-K2.6-Simple': '#E377C2', 'DeepSeek-V4-Flash-Simple': '#8C564B', 'DeepSeek-V4.1-Flash-Simple': '#8C564B', 'Qwen-3.5-Simple': '#E41A1C', 'Qwen-3.6-27B-Simple': '#CB181D', 'Qwen-3.8-27B-Simple': '#CB181D', 'Qwen-3.8-Flash-Next-Simple': '#CB181D', 'Gemma-4-Simple': '#BCBD22', 'GPT-6-Luna-Simple': '#FF6347', 'GPT-6.1-Sol-Simple': '#FF6347', 'Nemotron-3-Super-Simple': '#76B900'}; base_label: Every-turn; vanilla_label: Vanilla; focus_order: Domination, Culture, Diplomatic, Science; grid_points: 101; estimator: attention; strength_table: strength; baseline_experiment: vanilla-standard-fixed; has_baseline: True; seeds: 1, 2, 3; player_ids: 0, 1, 2, 3, 4, 5, 6, 7; coverage: {'controlled_games': 891, 'seeds': 3, 'final_seats': 8, 'strategist_condition_combinations': 864, 'unmatched_seed_player_pairs': 0, 'seed_player_pairs_without_predictions': 0, 'notes': []}*
 
 </details>
 
-Strategists exceed VPAI strength in **397/864** matched map-and-seat comparisons (**45.9%**); strength differences range from **-0.497** to **+0.438**.
+Strategists exceed VPAI strength in **396/864** matched map-and-seat comparisons (**45.8%**); strength differences range from **-0.497** to **+0.452**.
 
 **Downloads and supporting files**
 
@@ -483,7 +484,7 @@ Describe how strategists play (military, diplomatic, strategic, and policy choic
 
 *Shows how each strategist sets the in-game AI's flavors (0 to 100, 50 is balanced), against the average of completed experiments on the same map and seat and in absolute terms.*
 
-*n_absolute_players: 1682; baseline: completed-experiment average; n_relative_players: 1682; n_unmatched_controlled_players: 0; n_baseline_players: 1638; n_baseline_experiments: 34; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship*
+*n_absolute_players: 1686; baseline: completed-experiment average; n_relative_players: 1686; n_unmatched_controlled_players: 0; n_baseline_players: 1686; n_baseline_experiments: 35; flavors: Offense, Defense, CityDefense, Mobilization, MilitaryTraining, Recon, Ranged, Mobile, Nuke, UseNuke, Naval, NavalRecon, Air, Antiair, AirCarrier, Airlift, Expansion, Growth, TileImprovement, Infrastructure, Production, Gold, Science, Culture, Happiness, NavalGrowth, NavalTileImprovement, WaterConnection, GreatPeople, Wonder, Religion, Diplomacy, Espionage, Spaceship*
 
 </details>
 
@@ -495,42 +496,42 @@ Against the completed-experiment average, the largest departure is **Qwen-3.6-27
 
 | Strategist \| Condition | Off | Def | CDef | Mob | MTrn | Rec | Rng | Mobl | Nuke | UNuk | Nav | NRec | Air | AA | Carr | Lift | Exp | Gro | Tile | Infr | Prod | Gold | Sci | Cul | Hap | NGro | NTile | WCon | GP | Wond | Rel | Dip | Esp | Spc |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Completed-experiment average | 38 | 61 | 59 | 49 | 59 | 42 | 53 | 45 | 30 | 23 | 48 | 39 | 40 | 41 | 26 | 29 | 40 | 65 | 63 | 63 | 77 | 70 | 77 | 65 | 70 | 41 | 40 | 44 | 65 | 41 | 45 | 67 | 53 | 42 |
-| GPT-OSS-120B-Simple \| Every-turn | -15 | -23 | -24 | -16 | -20 | +4 | -27 | -15 | -29 | -24 | -2 | -1 | -33 | -36 | -25 | -25 | +17 | +3 | -5 | +7 | +5 | -2 | -6 | +5 | +15 | +9 | -1 | +8 | +17 | +24 | +2 | +21 | +20 | -16 |
-| GPT-OSS-120B-Simple \| Per-5 | -9 | -22 | -21 | -6 | -15 | +4 | -20 | -8 | -23 | -16 | +1 | +2 | -23 | -31 | -17 | -18 | +16 | +1 | -4 | +3 | +3 | -4 | -10 | -1 | +9 | +10 | +2 | +4 | +10 | +15 | -5 | +14 | +11 | -15 |
-| Opus-5.5-Simple \| Per-5 | -5 | -3 | +2 | -5 | -8 | -23 | +4 | +1 | -3 | -7 | +1 | +3 | +10 | +11 | +20 | +20 | +3 | -5 | -4 | -10 | -13 | -13 | -9 | 0 | -7 | +9 | +12 | +6 | -5 | +3 | -1 | -11 | -3 | +9 |
-| Sonnet-5.5-Simple \| Per-5 | -9 | -8 | +1 | -7 | -10 | -5 | +2 | +2 | -12 | -17 | -10 | -6 | -21 | -13 | -13 | -14 | +14 | -1 | -2 | -9 | -13 | -14 | -12 | -2 | -1 | +7 | +9 | +7 | -10 | +4 | -4 | -13 | -6 | +5 |
-| GLM-5.1-Simple \| Every-turn | +21 | +17 | +14 | +23 | +21 | +9 | +23 | +20 | +27 | +6 | +14 | +4 | +19 | +16 | -13 | -12 | -8 | +15 | +14 | +16 | +17 | +16 | +14 | +9 | +15 | +4 | -1 | +9 | -3 | -10 | +3 | +15 | +11 | -2 |
-| GLM-5.2-Simple \| Every-turn | +9 | +9 | +5 | +14 | +5 | +6 | +5 | +6 | +11 | +1 | +4 | +1 | +3 | +4 | -9 | -8 | +4 | +6 | +9 | +8 | +10 | +12 | +12 | +8 | +12 | -3 | -2 | +2 | +2 | +2 | +7 | +12 | 0 | -4 |
-| GLM-5.2-Simple \| Per-5 | +10 | +5 | +3 | +12 | +3 | +8 | +6 | +8 | +20 | +16 | +4 | +6 | +11 | +10 | +12 | +10 | +8 | +2 | +4 | +4 | +6 | +7 | +7 | +3 | +8 | +3 | +5 | +3 | 0 | +10 | +8 | +4 | +2 | +5 |
-| GLM-5.3-Simple \| Per-5 | +21 | +4 | 0 | +9 | +7 | +4 | +11 | +13 | +14 | +9 | +15 | +12 | +15 | +13 | +7 | +11 | +7 | -3 | +5 | -2 | -9 | +1 | -1 | +7 | +1 | +9 | +11 | +9 | -3 | +12 | +16 | +1 | +1 | 0 |
-| GLM-5.3-Flash-Simple \| Every-turn | +6 | -3 | -5 | +1 | -4 | +6 | +4 | +7 | +10 | +15 | +9 | +11 | +14 | +12 | +24 | +21 | +5 | +2 | -2 | -12 | -20 | -8 | -11 | -4 | -4 | +10 | +11 | +7 | -6 | +6 | +14 | -5 | +3 | +9 |
-| GLM-5.3-Flash-Simple \| Per-5 | +7 | -5 | -5 | +1 | -2 | +2 | +3 | +6 | +19 | +22 | +7 | +10 | +13 | +12 | +23 | +20 | +6 | +1 | -3 | -13 | -20 | -12 | -13 | -6 | -9 | +9 | +11 | +7 | -8 | +3 | +8 | -9 | +1 | +8 |
-| MiniMax-M2.7-Simple \| Every-turn | +26 | +2 | +7 | +5 | +15 | +9 | +6 | +16 | +15 | +15 | +6 | +12 | +7 | +9 | +23 | +19 | +15 | -14 | -13 | -13 | -13 | -11 | -9 | +7 | -7 | +10 | +10 | +9 | +2 | +11 | +11 | +3 | +22 | +9 |
-| MiniMax-M2.7-Simple \| Per-5 | +24 | -3 | -4 | +3 | +8 | +7 | +1 | +13 | +10 | +3 | +6 | +12 | +8 | +9 | +23 | +20 | +19 | -13 | -13 | -13 | -17 | -16 | -16 | +4 | -10 | +8 | +9 | +7 | +1 | +9 | +6 | -2 | +18 | +10 |
-| MiniMax-M3-Simple \| Per-5 | +14 | -1 | +1 | +5 | +3 | +11 | +7 | +8 | +21 | +22 | -4 | +4 | -3 | 0 | +11 | +8 | +19 | 0 | -1 | -10 | +1 | -14 | -8 | -2 | -10 | 0 | +2 | -1 | 0 | +16 | +9 | -17 | -8 | -4 |
-| Kimi-K2.7-Simple \| Every-turn | -6 | +8 | +8 | +6 | +10 | 0 | +11 | +1 | +3 | -3 | -3 | -4 | +10 | +11 | -19 | -8 | -10 | +8 | +6 | +10 | +12 | +4 | +11 | -8 | +10 | -13 | -15 | -6 | 0 | -15 | -11 | -2 | +3 | +10 |
-| Kimi-K2.7-Simple \| Per-5 | -1 | +7 | +7 | +8 | +9 | +3 | +12 | +6 | +12 | 0 | +5 | +4 | +12 | +14 | -14 | -10 | -8 | +11 | +9 | +11 | +11 | +4 | +10 | -4 | +9 | 0 | -2 | +4 | +4 | -8 | -5 | -3 | +7 | +11 |
-| Kimi-K2.6-Simple \| Every-turn | -4 | +7 | +6 | +8 | +8 | 0 | +13 | +5 | +3 | +1 | -4 | -3 | +2 | -2 | -14 | -9 | -14 | +9 | +6 | +11 | +12 | +5 | +10 | -9 | +9 | -8 | -9 | -1 | -1 | -17 | -8 | -11 | +1 | +9 |
-| DeepSeek-V4-Flash-Simple \| Every-turn | +12 | +2 | 0 | +10 | +3 | +8 | +2 | +7 | +22 | +29 | +6 | +11 | +12 | +11 | +23 | +20 | +10 | -1 | -5 | -6 | -9 | -12 | +1 | -6 | -3 | +10 | +11 | +7 | -8 | +11 | +10 | -8 | 0 | +11 |
-| DeepSeek-V4-Flash-Simple \| Per-5 | +11 | -1 | -2 | +8 | +1 | +8 | +2 | +6 | +25 | +33 | +5 | +11 | +11 | +12 | +24 | +21 | +7 | -4 | -5 | -8 | -11 | -13 | -1 | -5 | -6 | +10 | +11 | +7 | -7 | +9 | +10 | -10 | 0 | +12 |
-| DeepSeek-V4.1-Flash-Simple \| Per-5 | -4 | +4 | +6 | +1 | +3 | +10 | +8 | +9 | +6 | +11 | +7 | +12 | +12 | +16 | +21 | +19 | +1 | +8 | +11 | +5 | -2 | +1 | +12 | +15 | +8 | +11 | +12 | +8 | +9 | +9 | +18 | +3 | +7 | +10 |
-| Qwen-3.5-Simple \| Every-turn | +1 | +2 | +2 | -6 | 0 | +2 | -2 | +6 | -1 | -9 | +2 | +4 | +2 | 0 | -6 | -8 | +1 | +3 | +5 | +7 | -5 | +13 | -5 | +2 | +10 | +3 | +1 | +2 | +9 | +4 | +2 | +11 | +3 | -14 |
-| Qwen-3.5-Simple \| Per-5 | +4 | +1 | +3 | -4 | +2 | 0 | +3 | +8 | +11 | +5 | +6 | +8 | +6 | +9 | +12 | +10 | +3 | +1 | +3 | +3 | -9 | +7 | -8 | +3 | +7 | +8 | +8 | +5 | +7 | +11 | +4 | +2 | +4 | -6 |
-| Qwen-3.6-27B-Simple \| Every-turn | -3 | 0 | -1 | +2 | -9 | -18 | -12 | -16 | -16 | -19 | -11 | -20 | -26 | -25 | -25 | -27 | -14 | -19 | -15 | -3 | -7 | +9 | -9 | -4 | -14 | -30 | -29 | -31 | -15 | -13 | -23 | -7 | -12 | -26 |
-| Qwen-3.6-27B-Simple \| Per-5 | -2 | +1 | +1 | +1 | -7 | -15 | -8 | -12 | -22 | -22 | -9 | -17 | -28 | -27 | -24 | -27 | -10 | -13 | -9 | -1 | -8 | +9 | -6 | -4 | -12 | -23 | -24 | -25 | -14 | -12 | -20 | -14 | -17 | -20 |
-| Qwen-3.8-27B-Simple \| Every-turn | -14 | -7 | -8 | -16 | -18 | -6 | -18 | -19 | -18 | -18 | -12 | -22 | -30 | -30 | -25 | -27 | -4 | -1 | -3 | -2 | +2 | +3 | -6 | -4 | -12 | -23 | -23 | -21 | -9 | -8 | -10 | +18 | -21 | -22 |
-| Qwen-3.8-27B-Simple \| Per-5 | -15 | -6 | -4 | -12 | -15 | -12 | -12 | -19 | -25 | -20 | -13 | -22 | -32 | -28 | -25 | -28 | -6 | -1 | -4 | -4 | 0 | +2 | -6 | -6 | -11 | -22 | -22 | -23 | -10 | -12 | -11 | +13 | -24 | -21 |
-| Qwen-3.8-Flash-Next-Simple \| Every-turn | -23 | -10 | -8 | -19 | -26 | -18 | -17 | -26 | -17 | -19 | -20 | -22 | -33 | -27 | -23 | -25 | -5 | +8 | +2 | +7 | +5 | +7 | -5 | -9 | -2 | -17 | -17 | -11 | -4 | -15 | -9 | +13 | -21 | -12 |
-| Qwen-3.8-Flash-Next-Simple \| Per-5 | -22 | -16 | -12 | -21 | -25 | -23 | -18 | -24 | -9 | -15 | -18 | -22 | -18 | -15 | -11 | -12 | -7 | +4 | -2 | 0 | +2 | 0 | -6 | -5 | -9 | -13 | -13 | -8 | +1 | -13 | -8 | +9 | -22 | -13 |
-| Gemma-4-Simple \| Every-turn | +26 | +14 | +13 | +33 | +21 | +15 | +9 | +13 | +49 | +50 | +17 | +15 | +25 | +25 | +27 | +22 | -2 | -5 | 0 | +8 | +3 | +11 | 0 | -8 | +4 | +10 | +12 | +7 | -13 | +6 | +8 | -10 | -1 | +8 |
-| Gemma-4-Simple \| Per-5 | +24 | +10 | +7 | +26 | +17 | +17 | +7 | +11 | +44 | +43 | +13 | +12 | +25 | +15 | +27 | +22 | +7 | +2 | +4 | +7 | -3 | +4 | -2 | -3 | +1 | +10 | +12 | +6 | -11 | +11 | +9 | -10 | -2 | +9 |
-| GPT-6-Luna-Simple \| Every-turn | -24 | +14 | +11 | -14 | +3 | -5 | +11 | +3 | -27 | -21 | +1 | +4 | +32 | +33 | +12 | +12 | -17 | -4 | -1 | -4 | +11 | -13 | +14 | -10 | +5 | +6 | +8 | +3 | +11 | -23 | -5 | +4 | +10 | +33 |
-| GPT-6-Luna-Simple \| Per-5 | -21 | +13 | +9 | -12 | +2 | -2 | +10 | +3 | -5 | +1 | +1 | +6 | +25 | +25 | +20 | +18 | -17 | -2 | 0 | -5 | +10 | -15 | +14 | -11 | +4 | +8 | +10 | +6 | +10 | -21 | +1 | +4 | +8 | +36 |
-| GPT-6.1-Sol-Simple \| Every-turn | -23 | -4 | -3 | -22 | +4 | -20 | +2 | -10 | -25 | -19 | -6 | -5 | -5 | +3 | -5 | +9 | -19 | -8 | 0 | -7 | +8 | -1 | +9 | +13 | -13 | +9 | +11 | +10 | +2 | -28 | -12 | -18 | +11 | +3 |
-| GPT-6.1-Sol-Simple \| Per-5 | -23 | -8 | -7 | -27 | +1 | -21 | 0 | -12 | -26 | -17 | -9 | -7 | -6 | -2 | -8 | +6 | -19 | -6 | -3 | -10 | +9 | -4 | +10 | +15 | -15 | +10 | +11 | +8 | +5 | -24 | -14 | -19 | +10 | +1 |
-| Nemotron-3-Super-Simple \| Every-turn | 0 | -3 | +1 | +3 | +4 | +17 | -12 | -6 | -23 | -19 | -10 | -11 | -21 | -31 | -19 | -25 | +7 | +6 | +8 | +10 | +9 | +13 | +7 | +15 | +12 | -14 | -12 | -11 | +14 | +27 | 0 | +9 | -10 | -20 |
-| Nemotron-3-Super-Simple \| Per-5 | +1 | -6 | -2 | +2 | +3 | +15 | -11 | -4 | -18 | -13 | -6 | -5 | -30 | -35 | -22 | -25 | +8 | +5 | +9 | +7 | +7 | +8 | +5 | +4 | +6 | -8 | -7 | -4 | +10 | +22 | -4 | +1 | -9 | -10 |
+| Completed-experiment average | 38 | 61 | 59 | 48 | 58 | 42 | 54 | 45 | 30 | 23 | 47 | 39 | 40 | 41 | 26 | 29 | 41 | 65 | 63 | 63 | 76 | 70 | 76 | 65 | 70 | 41 | 40 | 44 | 65 | 41 | 45 | 67 | 53 | 42 |
+| GPT-OSS-120B-Simple \| Every-turn | -15 | -23 | -24 | -15 | -20 | +4 | -27 | -15 | -29 | -24 | -2 | 0 | -32 | -35 | -24 | -25 | +17 | +3 | -5 | +7 | +6 | -1 | -5 | +5 | +15 | +8 | -1 | +8 | +17 | +24 | +2 | +21 | +21 | -16 |
+| GPT-OSS-120B-Simple \| Per-5 | -9 | -22 | -21 | -6 | -15 | +4 | -20 | -8 | -22 | -16 | +1 | +2 | -22 | -31 | -17 | -18 | +16 | +1 | -4 | +3 | +4 | -3 | -9 | -1 | +9 | +10 | +2 | +4 | +10 | +15 | -5 | +14 | +12 | -15 |
+| Opus-5.5-Simple \| Per-5 | -4 | -3 | +2 | -5 | -8 | -22 | +4 | 0 | -2 | -6 | +2 | +3 | +10 | +12 | +20 | +20 | +2 | -5 | -4 | -10 | -13 | -12 | -9 | 0 | -7 | +9 | +12 | +6 | -5 | +2 | 0 | -11 | -3 | +8 |
+| Sonnet-5.5-Simple \| Per-5 | -9 | -8 | 0 | -7 | -10 | -5 | +2 | +3 | -14 | -16 | -9 | -6 | -19 | -12 | -12 | -13 | +14 | -2 | -2 | -9 | -13 | -13 | -12 | -2 | -1 | +7 | +8 | +6 | -10 | +4 | -5 | -13 | -7 | +3 |
+| GLM-5.1-Simple \| Every-turn | +21 | +17 | +14 | +23 | +21 | +9 | +23 | +20 | +27 | +6 | +15 | +4 | +20 | +16 | -12 | -11 | -8 | +15 | +14 | +17 | +18 | +16 | +15 | +9 | +15 | +4 | -1 | +9 | -3 | -10 | +3 | +15 | +11 | -2 |
+| GLM-5.2-Simple \| Every-turn | +9 | +10 | +5 | +14 | +6 | +6 | +5 | +6 | +11 | +2 | +4 | +1 | +3 | +4 | -9 | -7 | +3 | +6 | +9 | +8 | +10 | +13 | +12 | +8 | +12 | -3 | -2 | +1 | +3 | +2 | +7 | +12 | 0 | -4 |
+| GLM-5.2-Simple \| Per-5 | +10 | +6 | +3 | +12 | +3 | +8 | +6 | +7 | +21 | +17 | +4 | +6 | +12 | +10 | +12 | +10 | +8 | +2 | +4 | +4 | +6 | +7 | +8 | +3 | +8 | +3 | +4 | +3 | +1 | +10 | +8 | +4 | +2 | +5 |
+| GLM-5.3-Simple \| Per-5 | +21 | +4 | 0 | +9 | +7 | +4 | +10 | +13 | +14 | +10 | +15 | +12 | +16 | +13 | +7 | +12 | +7 | -3 | +5 | -2 | -8 | +2 | 0 | +7 | +1 | +9 | +11 | +9 | -2 | +12 | +17 | +2 | +2 | 0 |
+| GLM-5.3-Flash-Simple \| Every-turn | +6 | -3 | -5 | +2 | -4 | +6 | +4 | +6 | +11 | +16 | +9 | +11 | +15 | +13 | +24 | +22 | +4 | +2 | -2 | -12 | -19 | -8 | -11 | -4 | -4 | +10 | +10 | +7 | -5 | +6 | +14 | -4 | +3 | +9 |
+| GLM-5.3-Flash-Simple \| Per-5 | +7 | -5 | -5 | +1 | -2 | +3 | +3 | +6 | +20 | +23 | +7 | +10 | +14 | +12 | +24 | +21 | +5 | +2 | -3 | -13 | -20 | -11 | -13 | -6 | -9 | +8 | +10 | +7 | -7 | +3 | +8 | -9 | +1 | +8 |
+| MiniMax-M2.7-Simple \| Every-turn | +27 | +3 | +7 | +5 | +15 | +10 | +6 | +16 | +16 | +16 | +7 | +13 | +7 | +9 | +23 | +20 | +14 | -14 | -13 | -13 | -12 | -10 | -9 | +7 | -7 | +10 | +10 | +8 | +2 | +11 | +11 | +4 | +22 | +9 |
+| MiniMax-M2.7-Simple \| Per-5 | +24 | -3 | -4 | +3 | +8 | +7 | +1 | +13 | +10 | +3 | +7 | +12 | +9 | +10 | +24 | +21 | +18 | -13 | -13 | -13 | -17 | -16 | -15 | +4 | -10 | +8 | +9 | +7 | +1 | +9 | +6 | -2 | +18 | +9 |
+| MiniMax-M3-Simple \| Per-5 | +14 | -1 | +1 | +5 | +4 | +11 | +7 | +8 | +21 | +23 | -4 | +4 | -2 | 0 | +11 | +8 | +18 | 0 | -1 | -10 | +1 | -14 | -8 | -2 | -10 | 0 | +2 | -1 | 0 | +16 | +9 | -17 | -8 | -4 |
+| Kimi-K2.7-Simple \| Every-turn | -6 | +8 | +8 | +6 | +10 | 0 | +11 | +1 | +3 | -2 | -3 | -4 | +10 | +12 | -18 | -8 | -11 | +8 | +6 | +10 | +13 | +5 | +12 | -8 | +10 | -13 | -15 | -6 | 0 | -16 | -11 | -1 | +3 | +10 |
+| Kimi-K2.7-Simple \| Per-5 | -1 | +8 | +7 | +8 | +9 | +3 | +12 | +6 | +12 | 0 | +5 | +5 | +12 | +14 | -14 | -9 | -8 | +11 | +9 | +12 | +11 | +4 | +10 | -4 | +9 | 0 | -2 | +4 | +4 | -8 | -4 | -3 | +7 | +10 |
+| Kimi-K2.6-Simple \| Every-turn | -3 | +7 | +6 | +9 | +9 | 0 | +13 | +5 | +3 | +1 | -3 | -3 | +2 | -2 | -14 | -9 | -15 | +9 | +6 | +11 | +12 | +6 | +10 | -8 | +9 | -8 | -10 | -1 | -1 | -17 | -8 | -10 | +1 | +9 |
+| DeepSeek-V4-Flash-Simple \| Every-turn | +12 | +3 | 0 | +10 | +3 | +8 | +2 | +7 | +23 | +29 | +6 | +11 | +13 | +11 | +23 | +21 | +9 | -1 | -5 | -6 | -8 | -11 | +1 | -6 | -3 | +10 | +10 | +7 | -8 | +11 | +10 | -7 | 0 | +11 |
+| DeepSeek-V4-Flash-Simple \| Per-5 | +11 | 0 | -2 | +8 | +1 | +8 | +2 | +6 | +26 | +33 | +6 | +11 | +11 | +13 | +24 | +21 | +7 | -4 | -5 | -7 | -11 | -13 | -1 | -5 | -6 | +10 | +11 | +7 | -7 | +9 | +10 | -9 | 0 | +12 |
+| DeepSeek-V4.1-Flash-Simple \| Per-5 | -3 | +5 | +6 | +2 | +3 | +10 | +8 | +9 | +7 | +11 | +7 | +12 | +13 | +17 | +21 | +20 | +1 | +8 | +11 | +5 | -1 | +1 | +13 | +15 | +9 | +10 | +12 | +8 | +10 | +8 | +18 | +3 | +7 | +10 |
+| Qwen-3.5-Simple \| Every-turn | +2 | +2 | +2 | -6 | 0 | +2 | -2 | +6 | -1 | -8 | +3 | +4 | +3 | 0 | -6 | -7 | 0 | +3 | +5 | +7 | -5 | +14 | -5 | +2 | +10 | +3 | +1 | +1 | +10 | +4 | +2 | +11 | +3 | -14 |
+| Qwen-3.5-Simple \| Per-5 | +5 | +2 | +3 | -3 | +3 | 0 | +3 | +8 | +11 | +5 | +6 | +8 | +7 | +10 | +12 | +10 | +2 | +1 | +3 | +3 | -8 | +8 | -8 | +3 | +7 | +8 | +8 | +5 | +7 | +11 | +4 | +2 | +4 | -6 |
+| Qwen-3.6-27B-Simple \| Every-turn | -3 | 0 | -1 | +2 | -9 | -18 | -12 | -16 | -16 | -19 | -10 | -19 | -26 | -25 | -24 | -27 | -14 | -19 | -15 | -3 | -7 | +9 | -8 | -4 | -14 | -30 | -29 | -31 | -15 | -13 | -23 | -7 | -12 | -26 |
+| Qwen-3.6-27B-Simple \| Per-5 | -2 | +1 | +1 | +1 | -7 | -15 | -8 | -12 | -22 | -22 | -9 | -17 | -28 | -26 | -24 | -27 | -11 | -13 | -9 | -1 | -8 | +9 | -6 | -3 | -12 | -23 | -24 | -25 | -14 | -12 | -20 | -14 | -17 | -20 |
+| Qwen-3.8-27B-Simple \| Every-turn | -14 | -7 | -8 | -15 | -18 | -6 | -18 | -19 | -18 | -17 | -12 | -22 | -29 | -29 | -24 | -27 | -5 | -1 | -3 | -2 | +3 | +3 | -6 | -4 | -12 | -24 | -24 | -21 | -9 | -8 | -9 | +18 | -21 | -22 |
+| Qwen-3.8-27B-Simple \| Per-5 | -14 | -6 | -4 | -12 | -14 | -12 | -12 | -19 | -24 | -20 | -13 | -22 | -32 | -27 | -24 | -27 | -7 | -1 | -4 | -4 | +1 | +2 | -6 | -6 | -11 | -22 | -22 | -24 | -10 | -12 | -11 | +13 | -23 | -21 |
+| Qwen-3.8-Flash-Next-Simple \| Every-turn | -23 | -9 | -8 | -19 | -25 | -17 | -17 | -26 | -17 | -19 | -20 | -22 | -33 | -27 | -23 | -25 | -6 | +8 | +2 | +7 | +5 | +8 | -4 | -9 | -2 | -18 | -17 | -11 | -4 | -15 | -9 | +13 | -21 | -12 |
+| Qwen-3.8-Flash-Next-Simple \| Per-5 | -21 | -15 | -12 | -20 | -25 | -22 | -18 | -24 | -8 | -15 | -18 | -21 | -18 | -15 | -10 | -11 | -7 | +4 | -2 | 0 | +3 | +1 | -6 | -5 | -9 | -14 | -13 | -8 | +1 | -13 | -8 | +9 | -22 | -13 |
+| Gemma-4-Simple \| Every-turn | +27 | +14 | +13 | +34 | +21 | +15 | +9 | +13 | +49 | +50 | +18 | +15 | +25 | +25 | +27 | +22 | -3 | -5 | 0 | +8 | +3 | +12 | +1 | -8 | +4 | +10 | +12 | +6 | -12 | +6 | +8 | -10 | -1 | +8 |
+| Gemma-4-Simple \| Per-5 | +24 | +10 | +7 | +27 | +17 | +17 | +7 | +11 | +44 | +44 | +13 | +12 | +26 | +15 | +27 | +22 | +7 | +2 | +4 | +8 | -3 | +4 | -1 | -3 | +1 | +10 | +12 | +6 | -11 | +11 | +9 | -9 | -2 | +9 |
+| GPT-6-Luna-Simple \| Every-turn | -24 | +14 | +11 | -14 | +3 | -5 | +11 | +3 | -26 | -20 | +1 | +4 | +33 | +34 | +12 | +13 | -17 | -4 | -1 | -4 | +11 | -13 | +14 | -10 | +5 | +6 | +7 | +3 | +12 | -23 | -5 | +5 | +10 | +33 |
+| GPT-6-Luna-Simple \| Per-5 | -21 | +14 | +9 | -11 | +3 | -1 | +10 | +3 | -4 | +1 | +1 | +6 | +26 | +26 | +20 | +18 | -18 | -2 | 0 | -4 | +10 | -15 | +14 | -11 | +4 | +8 | +10 | +5 | +11 | -21 | +1 | +5 | +9 | +35 |
+| GPT-6.1-Sol-Simple \| Every-turn | -23 | -4 | -3 | -22 | +4 | -20 | +2 | -10 | -24 | -19 | -6 | -5 | -4 | +4 | -5 | +10 | -19 | -8 | 0 | -7 | +9 | 0 | +9 | +13 | -13 | +9 | +11 | +9 | +3 | -28 | -11 | -18 | +11 | +3 |
+| GPT-6.1-Sol-Simple \| Per-5 | -23 | -8 | -7 | -27 | +1 | -21 | 0 | -12 | -26 | -17 | -9 | -7 | -6 | -1 | -7 | +7 | -19 | -6 | -3 | -10 | +9 | -4 | +10 | +15 | -15 | +10 | +10 | +8 | +6 | -25 | -14 | -19 | +10 | +1 |
+| Nemotron-3-Super-Simple \| Every-turn | +1 | -2 | +1 | +3 | +4 | +17 | -12 | -6 | -23 | -18 | -10 | -11 | -20 | -30 | -19 | -24 | +7 | +6 | +8 | +10 | +10 | +13 | +8 | +15 | +12 | -15 | -12 | -12 | +14 | +27 | +1 | +9 | -10 | -20 |
+| Nemotron-3-Super-Simple \| Per-5 | +1 | -6 | -2 | +2 | +3 | +15 | -11 | -4 | -17 | -13 | -6 | -5 | -29 | -35 | -21 | -24 | +7 | +5 | +9 | +7 | +7 | +9 | +5 | +4 | +6 | -9 | -7 | -5 | +10 | +22 | -3 | +1 | -9 | -10 |
 
 _Columns: Off = Offense; Def = Defense; CDef = CityDefense; Mob = Mobilization; MTrn = MilitaryTraining; Rec = Recon; Rng = Ranged; Mobl = Mobile; UNuk = UseNuke; Nav = Naval; NRec = NavalRecon; AA = Antiair; Carr = AirCarrier; Lift = Airlift; Exp = Expansion; Gro = Growth; Tile = TileImprovement; Infr = Infrastructure; Prod = Production; Sci = Science; Cul = Culture; Hap = Happiness; NGro = NavalGrowth; NTile = NavalTileImprovement; WCon = WaterConnection; GP = GreatPeople; Wond = Wonder; Rel = Religion; Dip = Diplomacy; Esp = Espionage; Spc = Spaceship._
 
@@ -542,11 +543,11 @@ _[full CSV](assets/beh_flavors/flavors_relative.csv)._
 
 | Strategist \| Condition | Off | Def | CDef | Mob | MTrn | Rec | Rng | Mobl | Nuke | UNuk | Nav | NRec | Air | AA | Carr | Lift | Exp | Gro | Tile | Infr | Prod | Gold | Sci | Cul | Hap | NGro | NTile | WCon | GP | Wond | Rel | Dip | Esp | Spc |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Completed-experiment average | 38 | 61 | 59 | 49 | 59 | 42 | 53 | 45 | 30 | 23 | 48 | 39 | 40 | 41 | 26 | 29 | 40 | 65 | 63 | 63 | 77 | 70 | 77 | 65 | 70 | 41 | 40 | 44 | 65 | 41 | 45 | 67 | 53 | 42 |
+| Completed-experiment average | 38 | 61 | 59 | 48 | 58 | 42 | 54 | 45 | 30 | 23 | 47 | 39 | 40 | 41 | 26 | 29 | 41 | 65 | 63 | 63 | 76 | 70 | 76 | 65 | 70 | 41 | 40 | 44 | 65 | 41 | 45 | 67 | 53 | 42 |
 | GPT-OSS-120B-Simple \| Every-turn | 22 | 38 | 35 | 32 | 38 | 46 | 26 | 29 | 3 | 1 | 46 | 39 | 7 | 5 | 1 | 3 | 57 | 69 | 58 | 70 | 82 | 69 | 71 | 72 | 85 | 50 | 39 | 52 | 83 | 66 | 47 | 90 | 75 | 26 |
 | GPT-OSS-120B-Simple \| Per-5 | 29 | 39 | 38 | 43 | 43 | 46 | 34 | 37 | 7 | 6 | 49 | 41 | 18 | 10 | 9 | 11 | 57 | 66 | 59 | 66 | 80 | 66 | 67 | 64 | 79 | 51 | 41 | 48 | 75 | 56 | 40 | 81 | 65 | 27 |
 | Opus-5.5-Simple \| Per-5 | 34 | 58 | 60 | 44 | 50 | 20 | 57 | 46 | 27 | 16 | 49 | 43 | 50 | 52 | 46 | 49 | 43 | 61 | 59 | 53 | 64 | 57 | 67 | 65 | 63 | 50 | 51 | 50 | 60 | 43 | 44 | 56 | 51 | 51 |
-| Sonnet-5.5-Simple \| Per-5 | 29 | 53 | 60 | 42 | 49 | 38 | 55 | 48 | 16 | 5 | 38 | 33 | 19 | 28 | 13 | 15 | 54 | 64 | 60 | 54 | 64 | 56 | 64 | 63 | 69 | 47 | 48 | 50 | 55 | 45 | 40 | 54 | 47 | 46 |
+| Sonnet-5.5-Simple \| Per-5 | 29 | 53 | 59 | 42 | 49 | 37 | 55 | 48 | 15 | 4 | 38 | 33 | 20 | 28 | 13 | 15 | 54 | 64 | 61 | 54 | 64 | 56 | 64 | 63 | 69 | 48 | 48 | 50 | 55 | 45 | 40 | 54 | 47 | 45 |
 | GLM-5.1-Simple \| Every-turn | 59 | 78 | 73 | 72 | 79 | 51 | 76 | 65 | 60 | 32 | 62 | 43 | 59 | 56 | 14 | 17 | 33 | 81 | 77 | 79 | 94 | 86 | 91 | 75 | 85 | 45 | 39 | 53 | 62 | 30 | 47 | 82 | 65 | 40 |
 | GLM-5.2-Simple \| Every-turn | 47 | 71 | 63 | 62 | 64 | 48 | 59 | 51 | 42 | 24 | 51 | 40 | 43 | 45 | 17 | 21 | 44 | 71 | 72 | 71 | 87 | 82 | 88 | 73 | 82 | 38 | 38 | 45 | 68 | 43 | 52 | 79 | 53 | 38 |
 | GLM-5.2-Simple \| Per-5 | 48 | 66 | 61 | 61 | 61 | 50 | 59 | 53 | 52 | 41 | 52 | 45 | 51 | 50 | 38 | 39 | 49 | 68 | 67 | 67 | 83 | 77 | 84 | 68 | 77 | 44 | 44 | 47 | 66 | 51 | 52 | 71 | 55 | 47 |
@@ -598,7 +599,7 @@ _[full CSV](assets/beh_flavors/flavors_absolute.csv)._
 
 *Describes diplomatic persona traits and the public and private stances strategists set toward rivals, including how often the two conflict.*
 
-*n_absolute_players: 1682; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1682; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns*
+*n_absolute_players: 1686; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1686; n_unmatched_controlled_players: 0; n_baseline_players: 192; traits: DiplomaticBalance, Friendliness, WorkWithWillingness, WorkAgainstWillingness, Loyalty, DenounceWillingness, Forgiveness, Meanness, Neediness, Chattiness, DeceptiveBias; rate: per_100_turns*
 
 </details>
 
@@ -614,7 +615,7 @@ _[full CSV](assets/beh_flavors/flavors_absolute.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | +0.1 | +1.6 | +2.3 | +0.8 | +1.8 | -1.7 | +3.2 | -1.9 | -0.2 | +0.3 | -1.7 |
 | GPT-OSS-120B-Simple \| Per-5 | 0.0 | +1.4 | +2.3 | +0.1 | +0.9 | -1.4 | +2.2 | -1.7 | -0.1 | +0.3 | -1.0 |
 | Opus-5.5-Simple \| Per-5 | 0.0 | +0.4 | +0.3 | 0.0 | +1.1 | -1.2 | +1.4 | -2.4 | -0.5 | +0.2 | -1.1 |
-| Sonnet-5.5-Simple \| Per-5 | 0.0 | +0.2 | +0.1 | +0.2 | +0.1 | -0.3 | +0.6 | -0.8 | -0.3 | +0.2 | -0.1 |
+| Sonnet-5.5-Simple \| Per-5 | 0.0 | +0.2 | +0.1 | +0.2 | +0.1 | -0.2 | +0.6 | -0.7 | -0.3 | +0.2 | -0.1 |
 | GLM-5.1-Simple \| Every-turn | +0.1 | +0.8 | +0.7 | -0.7 | +2.3 | -1.3 | +1.5 | -2.0 | -0.8 | +1.2 | -3.1 |
 | GLM-5.2-Simple \| Every-turn | +0.1 | +1.0 | +0.8 | -0.4 | +1.9 | -2.0 | +1.7 | -2.1 | -1.2 | +1.2 | -2.1 |
 | GLM-5.2-Simple \| Per-5 | 0.0 | +0.7 | +0.6 | -0.3 | +1.5 | -1.6 | +1.2 | -2.0 | -0.9 | +0.5 | -1.4 |
@@ -661,7 +662,7 @@ _[full CSV](assets/beh_diplomacy/diplomacy_relative.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | 7.0 | 8.6 | 9.0 | 7.7 | 7.0 | 5.0 | 7.2 | 4.5 | 7.0 | 3.9 | 5.0 |
 | GPT-OSS-120B-Simple \| Per-5 | 6.7 | 8.0 | 8.8 | 6.8 | 6.0 | 5.2 | 6.1 | 5.1 | 7.1 | 4.0 | 5.5 |
 | Opus-5.5-Simple \| Per-5 | 6.6 | 7.0 | 6.8 | 6.7 | 6.3 | 5.5 | 5.3 | 4.4 | 6.7 | 4.0 | 5.4 |
-| Sonnet-5.5-Simple \| Per-5 | 6.6 | 6.7 | 6.7 | 7.2 | 5.0 | 6.4 | 4.6 | 6.1 | 6.9 | 3.8 | 6.7 |
+| Sonnet-5.5-Simple \| Per-5 | 6.6 | 6.7 | 6.6 | 6.9 | 5.3 | 6.4 | 4.5 | 6.1 | 7.0 | 3.9 | 6.5 |
 | GLM-5.1-Simple \| Every-turn | 6.7 | 7.3 | 7.2 | 6.0 | 7.5 | 5.3 | 5.4 | 4.8 | 6.4 | 4.9 | 3.5 |
 | GLM-5.2-Simple \| Every-turn | 6.7 | 7.5 | 7.3 | 6.3 | 7.0 | 4.6 | 5.6 | 4.7 | 6.0 | 5.0 | 4.4 |
 | GLM-5.2-Simple \| Per-5 | 6.7 | 7.2 | 7.1 | 6.4 | 6.7 | 5.1 | 5.2 | 4.8 | 6.3 | 4.3 | 5.1 |
@@ -705,7 +706,7 @@ _[full CSV](assets/beh_diplomacy/diplomacy_absolute.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | 111.9 | 38.3 | 13.1 | 51.4 | 0.0 | 0.0 |
 | GPT-OSS-120B-Simple \| Per-5 | 33.5 | 19.7 | 4.0 | 23.7 | 0.1 | 0.2 |
 | Opus-5.5-Simple \| Per-5 | 5.0 | 9.8 | 21.0 | 30.8 | 1.7 | 0.4 |
-| Sonnet-5.5-Simple \| Per-5 | 6.8 | 36.2 | 34.5 | 70.7 | 0.0 | 0.1 |
+| Sonnet-5.5-Simple \| Per-5 | 6.4 | 35.3 | 33.4 | 68.7 | 0.0 | 0.0 |
 | GLM-5.1-Simple \| Every-turn | 33.1 | 7.1 | 4.8 | 11.9 | 2.3 | 0.2 |
 | GLM-5.2-Simple \| Every-turn | 23.3 | 27.2 | 31.7 | 58.9 | 0.4 | 0.0 |
 | GLM-5.2-Simple \| Per-5 | 10.9 | 16.6 | 16.2 | 32.8 | 0.1 | 0.0 |
@@ -757,11 +758,11 @@ _[full CSV](assets/beh_diplomacy/stance_signals_absolute.csv)._
 
 *Shows how often strategists act and revise their settings, how large and how lasting their changes are, and which grand strategy they hold.*
 
-*n_absolute_players: 1682; baseline: completed-experiment average; n_relative_players: 1682; n_unmatched_controlled_players: 0; n_baseline_players: 1638; n_baseline_experiments: 34; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns*
+*n_absolute_players: 1686; baseline: completed-experiment average; n_relative_players: 1686; n_unmatched_controlled_players: 0; n_baseline_players: 1686; n_baseline_experiments: 35; grand_strategies: Conquest, Culture, UnitedNations, Spaceship; rate: per_100_turns*
 
 </details>
 
-**Domination**: Gemma-4-Simple | Every-turn (43%) · **Culture**: Sonnet-5.5-Simple | Per-5 (58%) · **Diplomatic**: GPT-OSS-120B-Simple | Every-turn (51%) · **Science**: GPT-6-Luna-Simple | Per-5 (76%)
+**Domination**: Gemma-4-Simple | Every-turn (43%) · **Culture**: Sonnet-5.5-Simple | Per-5 (59%) · **Diplomatic**: GPT-OSS-120B-Simple | Every-turn (51%) · **Science**: GPT-6-Luna-Simple | Per-5 (76%)
 
 **Relative**
 
@@ -769,42 +770,42 @@ _[full CSV](assets/beh_diplomacy/stance_signals_absolute.csv)._
 
 | Strategist \| Condition | Acts % | Revises % | Touched | Step | Net % | Persona |
 |:---|---:|---:|---:|---:|---:|---:|
-| Completed-experiment average | 61 | 53 | 6.4 | 9.2 | 24 | 6.9 |
-| GPT-OSS-120B-Simple \| Every-turn | +33 | -9 | -1.5 | +4.8 | -13 | +8.4 |
-| GPT-OSS-120B-Simple \| Per-5 | -32 | +7 | -0.7 | +4.8 | -3 | -0.2 |
-| Opus-5.5-Simple \| Per-5 | -29 | -8 | -0.4 | -2.8 | +6 | -5.6 |
-| Sonnet-5.5-Simple \| Per-5 | -30 | -26 | -0.9 | +3.6 | +27 | -5.2 |
-| GLM-5.1-Simple \| Every-turn | +31 | +27 | -1.5 | -3.8 | -6 | -2.8 |
-| GLM-5.2-Simple \| Every-turn | +35 | -14 | -2.2 | -1.4 | 0 | -2.7 |
-| GLM-5.2-Simple \| Per-5 | -32 | +3 | -1.5 | -1.2 | +16 | -4.9 |
-| GLM-5.3-Simple \| Per-5 | -30 | +26 | -3.2 | -0.4 | +5 | -1.3 |
-| GLM-5.3-Flash-Simple \| Every-turn | +33 | -39 | -3.6 | -0.7 | +20 | -5.0 |
-| GLM-5.3-Flash-Simple \| Per-5 | -29 | -24 | -2.6 | -1.4 | +22 | -5.9 |
-| MiniMax-M2.7-Simple \| Every-turn | +33 | -41 | -3.4 | +1.8 | +21 | -2.0 |
-| MiniMax-M2.7-Simple \| Per-5 | -30 | -30 | -3.1 | +1.5 | +26 | -4.0 |
-| MiniMax-M3-Simple \| Per-5 | -31 | -36 | -1.1 | +2.5 | +41 | -3.3 |
-| Kimi-K2.7-Simple \| Every-turn | +37 | +10 | +2.6 | +0.2 | -18 | +2.9 |
-| Kimi-K2.7-Simple \| Per-5 | -30 | +29 | +4.1 | -0.2 | -12 | -2.2 |
-| Kimi-K2.6-Simple \| Every-turn | +33 | -2 | +1.1 | +1.4 | -15 | +0.3 |
-| DeepSeek-V4-Flash-Simple \| Every-turn | +38 | -40 | -1.5 | -4.4 | +11 | -6.1 |
-| DeepSeek-V4-Flash-Simple \| Per-5 | -30 | -10 | -0.8 | -4.9 | +9 | -6.2 |
-| DeepSeek-V4.1-Flash-Simple \| Per-5 | -32 | +14 | +0.2 | -5.1 | +9 | -5.7 |
-| Qwen-3.5-Simple \| Every-turn | +36 | +8 | -0.2 | -2.8 | -15 | +11.2 |
-| Qwen-3.5-Simple \| Per-5 | -29 | +22 | +1.5 | -2.9 | -8 | +3.4 |
-| Qwen-3.6-27B-Simple \| Every-turn | +36 | +5 | +3.7 | -2.0 | -17 | +6.5 |
-| Qwen-3.6-27B-Simple \| Per-5 | -31 | +25 | +6.0 | -1.6 | -10 | -0.8 |
-| Qwen-3.8-27B-Simple \| Every-turn | +36 | +16 | -0.2 | -0.7 | -14 | +11.6 |
-| Qwen-3.8-27B-Simple \| Per-5 | -31 | +39 | +4.0 | -0.5 | -11 | +5.6 |
-| Qwen-3.8-Flash-Next-Simple \| Every-turn | +33 | +27 | +3.3 | -4.2 | -15 | +26.3 |
-| Qwen-3.8-Flash-Next-Simple \| Per-5 | -30 | +41 | +7.8 | -3.9 | -10 | +13.6 |
-| Gemma-4-Simple \| Every-turn | +35 | -38 | -4.1 | +9.7 | +6 | -5.8 |
-| Gemma-4-Simple \| Per-5 | -31 | -13 | -3.8 | +6.9 | +9 | -6.0 |
-| GPT-6-Luna-Simple \| Every-turn | +37 | +21 | -0.3 | -4.0 | -11 | -2.5 |
-| GPT-6-Luna-Simple \| Per-5 | -30 | +30 | +1.0 | -3.8 | -3 | -3.4 |
-| GPT-6.1-Sol-Simple \| Every-turn | +39 | -32 | -1.3 | +6.0 | -4 | -3.8 |
-| GPT-6.1-Sol-Simple \| Per-5 | -29 | +4 | -0.3 | +5.1 | -3 | -4.0 |
-| Nemotron-3-Super-Simple \| Every-turn | +24 | -17 | +0.3 | +4.5 | -12 | -1.9 |
-| Nemotron-3-Super-Simple \| Per-5 | -33 | -5 | +1.1 | +3.8 | -1 | -4.5 |
+| Completed-experiment average | 60 | 52 | 6.4 | 9.3 | 25 | 6.8 |
+| GPT-OSS-120B-Simple \| Every-turn | +34 | -9 | -1.5 | +4.7 | -14 | +8.6 |
+| GPT-OSS-120B-Simple \| Per-5 | -31 | +7 | -0.7 | +4.7 | -4 | 0.0 |
+| Opus-5.5-Simple \| Per-5 | -29 | -7 | -0.4 | -2.9 | +5 | -5.5 |
+| Sonnet-5.5-Simple \| Per-5 | -29 | -26 | -0.9 | +3.6 | +26 | -5.1 |
+| GLM-5.1-Simple \| Every-turn | +32 | +28 | -1.5 | -3.9 | -7 | -2.7 |
+| GLM-5.2-Simple \| Every-turn | +36 | -13 | -2.2 | -1.5 | -1 | -2.6 |
+| GLM-5.2-Simple \| Per-5 | -31 | +4 | -1.5 | -1.3 | +15 | -4.7 |
+| GLM-5.3-Simple \| Per-5 | -29 | +27 | -3.2 | -0.5 | +5 | -1.1 |
+| GLM-5.3-Flash-Simple \| Every-turn | +34 | -39 | -3.5 | -0.9 | +19 | -4.9 |
+| GLM-5.3-Flash-Simple \| Per-5 | -28 | -23 | -2.6 | -1.5 | +21 | -5.8 |
+| MiniMax-M2.7-Simple \| Every-turn | +34 | -41 | -3.4 | +1.7 | +20 | -1.8 |
+| MiniMax-M2.7-Simple \| Per-5 | -29 | -30 | -3.1 | +1.4 | +25 | -3.9 |
+| MiniMax-M3-Simple \| Per-5 | -30 | -35 | -1.1 | +2.4 | +40 | -3.2 |
+| Kimi-K2.7-Simple \| Every-turn | +38 | +11 | +2.6 | +0.1 | -19 | +3.1 |
+| Kimi-K2.7-Simple \| Per-5 | -29 | +29 | +4.2 | -0.3 | -13 | -2.0 |
+| Kimi-K2.6-Simple \| Every-turn | +33 | -1 | +1.1 | +1.3 | -15 | +0.4 |
+| DeepSeek-V4-Flash-Simple \| Every-turn | +39 | -39 | -1.5 | -4.5 | +11 | -6.0 |
+| DeepSeek-V4-Flash-Simple \| Per-5 | -29 | -9 | -0.8 | -5.0 | +8 | -6.1 |
+| DeepSeek-V4.1-Flash-Simple \| Per-5 | -31 | +15 | +0.2 | -5.2 | +9 | -5.6 |
+| Qwen-3.5-Simple \| Every-turn | +36 | +9 | -0.1 | -2.9 | -15 | +11.3 |
+| Qwen-3.5-Simple \| Per-5 | -28 | +23 | +1.5 | -3.0 | -9 | +3.5 |
+| Qwen-3.6-27B-Simple \| Every-turn | +37 | +6 | +3.7 | -2.1 | -17 | +6.6 |
+| Qwen-3.6-27B-Simple \| Per-5 | -31 | +25 | +6.0 | -1.7 | -11 | -0.7 |
+| Qwen-3.8-27B-Simple \| Every-turn | +37 | +16 | -0.2 | -0.8 | -15 | +11.8 |
+| Qwen-3.8-27B-Simple \| Per-5 | -30 | +39 | +4.0 | -0.6 | -12 | +5.8 |
+| Qwen-3.8-Flash-Next-Simple \| Every-turn | +34 | +27 | +3.3 | -4.3 | -15 | +26.5 |
+| Qwen-3.8-Flash-Next-Simple \| Per-5 | -29 | +42 | +7.8 | -4.0 | -11 | +13.8 |
+| Gemma-4-Simple \| Every-turn | +36 | -37 | -4.1 | +9.6 | +6 | -5.7 |
+| Gemma-4-Simple \| Per-5 | -30 | -12 | -3.8 | +6.8 | +8 | -5.9 |
+| GPT-6-Luna-Simple \| Every-turn | +37 | +22 | -0.3 | -4.1 | -12 | -2.3 |
+| GPT-6-Luna-Simple \| Per-5 | -29 | +30 | +1.1 | -3.9 | -4 | -3.3 |
+| GPT-6.1-Sol-Simple \| Every-turn | +40 | -31 | -1.3 | +5.9 | -5 | -3.7 |
+| GPT-6.1-Sol-Simple \| Per-5 | -28 | +5 | -0.2 | +5.0 | -4 | -3.9 |
+| Nemotron-3-Super-Simple \| Every-turn | +24 | -16 | +0.3 | +4.4 | -12 | -1.7 |
+| Nemotron-3-Super-Simple \| Per-5 | -32 | -4 | +1.1 | +3.7 | -2 | -4.4 |
 
 _Columns: Acts % = Decision turns; Revises % = Decisions that change flavors; Touched = Flavors changed per revision; Step = Size of one flavor change; Net % = Changes that add up; Persona = Persona changes._
 
@@ -816,11 +817,11 @@ _[full CSV](assets/beh_commitment/commitment_relative.csv)._
 
 | Strategist \| Condition | Acts % | Revises % | Touched | Step | Net % | Persona |
 |:---|---:|---:|---:|---:|---:|---:|
-| Completed-experiment average | 61 | 53 | 6.4 | 9.2 | 24 | 6.9 |
+| Completed-experiment average | 60 | 52 | 6.4 | 9.3 | 25 | 6.8 |
 | GPT-OSS-120B-Simple \| Every-turn | 94 | 43 | 4.8 | 14.0 | 12 | 15.2 |
 | GPT-OSS-120B-Simple \| Per-5 | 29 | 59 | 5.7 | 14.0 | 21 | 6.8 |
 | Opus-5.5-Simple \| Per-5 | 31 | 45 | 6.0 | 6.5 | 30 | 1.3 |
-| Sonnet-5.5-Simple \| Per-5 | 31 | 27 | 5.5 | 12.9 | 51 | 1.8 |
+| Sonnet-5.5-Simple \| Per-5 | 31 | 26 | 5.5 | 12.9 | 51 | 1.7 |
 | GLM-5.1-Simple \| Every-turn | 92 | 80 | 4.9 | 5.4 | 18 | 4.1 |
 | GLM-5.2-Simple \| Every-turn | 96 | 39 | 4.2 | 7.8 | 25 | 4.2 |
 | GLM-5.2-Simple \| Per-5 | 29 | 56 | 4.9 | 8.0 | 40 | 2.0 |
@@ -868,7 +869,7 @@ _[full CSV](assets/beh_commitment/commitment_absolute.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | United Nations 51% | 20 | 18 | 51 | 11 | 0.57 | 198 |
 | GPT-OSS-120B-Simple \| Per-5 | United Nations 38% | 27 | 19 | 38 | 16 | 0.27 | 225 |
 | Opus-5.5-Simple \| Per-5 | Culture 46% | 18 | 46 | 8 | 28 | 0.09 | 220 |
-| Sonnet-5.5-Simple \| Per-5 | Culture 58% | 12 | 58 | 6 | 25 | 0.20 | 209 |
+| Sonnet-5.5-Simple \| Per-5 | Culture 59% | 11 | 59 | 5 | 25 | 0.18 | 209 |
 | GLM-5.1-Simple \| Every-turn | Conquest 33% | 33 | 29 | 17 | 22 | 0.21 | 260 |
 | GLM-5.2-Simple \| Every-turn | Culture 32% | 27 | 32 | 12 | 29 | 0.22 | 262 |
 | GLM-5.2-Simple \| Per-5 | Culture 32% | 26 | 32 | 12 | 30 | 0.10 | 254 |
@@ -922,7 +923,7 @@ _[full CSV](assets/beh_commitment/grand_strategy.csv)._
 
 *Shows which policy branches and ideologies each player type adopts, which it picks first in each tier, and how early, against the in-game AI on the same map and seat.*
 
-*n_absolute_players: 1730; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1730; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order*
+*n_absolute_players: 1734; baseline: matched in-game AI; baseline_experiments: vanilla-standard-fixed; n_relative_players: 1734; n_unmatched_controlled_players: 0; n_baseline_players: 192; branches: tradition, authority, progress, fealty, statecraft, artistry, industry, imperialism, rationalism, freedom, autocracy, order*
 
 </details>
 
@@ -939,7 +940,7 @@ _[full CSV](assets/beh_commitment/grand_strategy.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | +35 | +67 | +92 | +48 | +79 | +63 | +68 | +47 | +33 | -10 | -4 | -5 |
 | GPT-OSS-120B-Simple \| Per-5 | +38 | +56 | +96 | +44 | +84 | +52 | +72 | +22 | +32 | -16 | +4 | +5 |
 | Opus-5.5-Simple \| Per-5 | -6 | -8 | +21 | -29 | +14 | +18 | +14 | -28 | +43 | -18 | +4 | +7 |
-| Sonnet-5.5-Simple \| Per-5 | +23 | -20 | +86 | -20 | +8 | +27 | +1 | -32 | +35 | -8 | 0 | +12 |
+| Sonnet-5.5-Simple \| Per-5 | +25 | -21 | +85 | -18 | +7 | +29 | +3 | -28 | +34 | -10 | +2 | +11 |
 | GLM-5.1-Simple \| Every-turn | -8 | -4 | +67 | -8 | +28 | +14 | -1 | +5 | +20 | -18 | +2 | +5 |
 | GLM-5.2-Simple \| Every-turn | -10 | 0 | +65 | -4 | +16 | +24 | +9 | -9 | +34 | -12 | -5 | +7 |
 | GLM-5.2-Simple \| Per-5 | +2 | 0 | +79 | -12 | +22 | +24 | +14 | -9 | +28 | -14 | -3 | -1 |
@@ -985,7 +986,7 @@ _[full CSV](assets/beh_policies/adoption_relative.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | +7 | -1 | +16 | +12 | -25 | +18 | -2 | +32 | +16 | +2 | +33 | +13 |
 | GPT-OSS-120B-Simple \| Per-5 | +5 | +9 | +17 | +8 | -37 | -2 | -17 | +4 | +25 | +36 | +37 | +4 |
 | Opus-5.5-Simple \| Per-5 | +1 | +10 |  | -7 | -4 | -11 | +9 | +27 | -8 | -25 | -7 | -49 |
-| Sonnet-5.5-Simple \| Per-5 | +11 | +42 | +14 | +129 | +61 | +77 | +116 |  | +26 | -22 | -42 | -35 |
+| Sonnet-5.5-Simple \| Per-5 | +10 | +42 | +21 | +133 | +61 | +73 | +116 | +12 | +26 | -22 | -42 | -34 |
 | GLM-5.1-Simple \| Every-turn | +14 | -1 | 0 | +12 | +48 | +15 | +63 | 0 | +11 | -31 | -12 | -29 |
 | GLM-5.2-Simple \| Every-turn | +14 | +7 | +94 | +12 | -8 | +9 | +61 | -7 | +6 | -16 | -2 | -33 |
 | GLM-5.2-Simple \| Per-5 | +3 | +11 | +14 | +6 | +57 | +3 | +65 | -11 | +9 | -1 | 0 | -28 |
@@ -1033,7 +1034,7 @@ _[full CSV](assets/beh_policies/adoption_turn_relative.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | 100 | 98 | 96 | 94 | 100 | 98 | 85 | 75 | 85 | 25 | 12 | 38 |
 | GPT-OSS-120B-Simple \| Per-5 | 96 | 94 | 100 | 94 | 100 | 88 | 83 | 54 | 83 | 15 | 21 | 46 |
 | Opus-5.5-Simple \| Per-5 | 52 | 29 | 25 | 21 | 29 | 54 | 25 | 4 | 94 | 12 | 21 | 48 |
-| Sonnet-5.5-Simple \| Per-5 | 82 | 18 | 89 | 30 | 23 | 64 | 14 | 2 | 84 | 23 | 18 | 52 |
+| Sonnet-5.5-Simple \| Per-5 | 83 | 17 | 90 | 31 | 23 | 65 | 15 | 4 | 85 | 21 | 19 | 52 |
 | GLM-5.1-Simple \| Every-turn | 50 | 33 | 71 | 42 | 44 | 50 | 10 | 38 | 71 | 12 | 19 | 46 |
 | GLM-5.2-Simple \| Every-turn | 48 | 38 | 69 | 46 | 31 | 60 | 21 | 23 | 85 | 19 | 12 | 48 |
 | GLM-5.2-Simple \| Per-5 | 60 | 38 | 83 | 38 | 38 | 60 | 25 | 23 | 79 | 17 | 15 | 40 |
@@ -1079,7 +1080,7 @@ _[full CSV](assets/beh_policies/adoption_absolute.csv)._
 | GPT-OSS-120B-Simple \| Every-turn | 48 | 64 | 66 | 177 | 158 | 170 | 278 | 303 | 269 | 342 | 353 | 340 |
 | GPT-OSS-120B-Simple \| Per-5 | 40 | 69 | 69 | 175 | 164 | 172 | 291 | 299 | 270 | 373 | 353 | 344 |
 | Opus-5.5-Simple \| Per-5 | 28 | 37 | 53 | 172 | 180 | 144 | 324 | 286 | 248 | 303 | 327 | 280 |
-| Sonnet-5.5-Simple \| Per-5 | 37 | 83 | 68 | 303 | 303 | 196 | 359 | 367 | 271 | 316 | 314 | 298 |
+| Sonnet-5.5-Simple \| Per-5 | 35 | 83 | 66 | 304 | 309 | 191 | 368 | 342 | 269 | 316 | 311 | 295 |
 | GLM-5.1-Simple \| Every-turn | 39 | 26 | 98 | 170 | 222 | 156 | 301 | 284 | 261 | 312 | 318 | 304 |
 | GLM-5.2-Simple \| Every-turn | 43 | 33 | 93 | 183 | 232 | 167 | 332 | 261 | 257 | 324 | 308 | 295 |
 | GLM-5.2-Simple \| Per-5 | 50 | 43 | 80 | 188 | 265 | 156 | 315 | 259 | 263 | 332 | 329 | 298 |
@@ -1140,15 +1141,15 @@ Compare how well win-probability estimators predict game outcomes, since these e
 
 </details>
 
-attention performs best on roc auc at **0.8540** using **889** games; scores range from **0.8057** to **0.8540**.
+attention performs best on roc auc at **0.8543** using **891** games; scores range from **0.8060** to **0.8543**.
 
 **metrics**
 
 | model     |   n_rows |   n_games |   roc_auc |   brier_score |   log_loss |   balanced_accuracy |
 |:----------|---------:|----------:|----------:|--------------:|-----------:|--------------------:|
-| score     |  2916304 |       889 |  0.805664 |     0.091481  |   0.304202 |            0.655705 |
-| attention |  2916304 |       889 |  0.854006 |     0.0814034 |   0.267724 |            0.685144 |
-| xgboost   |  2916304 |       889 |  0.844333 |     0.0858001 |   0.279635 |            0.680397 |
+| score     |  2922176 |       891 |  0.806025 |     0.0914056 |   0.303985 |            0.656112 |
+| attention |  2922176 |       891 |  0.854312 |     0.081324  |   0.26749  |            0.685567 |
+| xgboost   |  2922176 |       891 |  0.844641 |     0.0857213 |   0.279413 |            0.680801 |
 
 _[full CSV](assets/pred_metrics/metrics.csv)._
 
@@ -1166,11 +1167,11 @@ _[full CSV](assets/pred_metrics/metrics.csv)._
 
 *Shows how closely estimators agree on win probabilities and on the within-turn ranking of players.*
 
-*n_models: 3; n_rows: 2916304*
+*n_models: 3; n_rows: 2922176*
 
 </details>
 
-attention and xgboost agree most on player rank (Spearman **0.895**); agreement ranges from **0.854** to **0.895** across **2,916,304** shared predictions.
+attention and xgboost agree most on player rank (Spearman **0.895**); agreement ranges from **0.854** to **0.895** across **2,922,176** shared predictions.
 
 ![pred_compare: rank_agreement](assets/pred_compare/rank_agreement.png)
 
@@ -1201,7 +1202,7 @@ Check whether predicted win probabilities match observed win rates, and examine 
 
 </details>
 
-attention is best calibrated with expected error **0.0038**; the estimator errors range from **0.0038** to **0.0088** across **3** estimators.
+attention is best calibrated with expected error **0.0037**; the estimator errors range from **0.0037** to **0.0088** across **3** estimators.
 
 ![cal_reliability: reliability](assets/cal_reliability/reliability.png)
 
@@ -1211,9 +1212,9 @@ attention is best calibrated with expected error **0.0038**; the estimator error
 
 | model     |        ece |   n_rows |
 |:----------|-----------:|---------:|
-| score     | 0.00498637 |  2916304 |
-| attention | 0.00379064 |  2916304 |
-| xgboost   | 0.00881392 |  2916304 |
+| score     | 0.00502659 |  2922176 |
+| attention | 0.00371082 |  2922176 |
+| xgboost   | 0.0087963  |  2922176 |
 
 _[full CSV](assets/cal_reliability/ece.csv)._
 
@@ -1296,7 +1297,7 @@ Starting-position baselines range from **-6.219** to **+0.945** log-odds across 
 
 [Browse recent games](games.html)
 
-Latest game: 2026-10-11 · GPT-6.1-Sol-Simple | Every-turn. Player 0 (The Netherlands) | Player 3 (Spain) · Winner: Player 7 (Poland, VPAI)
+Latest game: 2026-10-12 · Jev! | Every-turn. Player 0 (The Netherlands) | Player 6 (Arabia) · Winner: Player 1 (The Ottomans, VPAI)
 
 - [Table: games (CSV)](assets/game_log/games.csv)
 - [Table: game_players (CSV)](assets/game_log/game_players.csv)

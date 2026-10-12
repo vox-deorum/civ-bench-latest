@@ -1,4 +1,10 @@
 game_id,timestamp,date_utc,experiment,label,seed,seating_rotation,controlled,turns,map_type,map_size,game_speed,difficulty,n_players,victory_type,winner_player_id,winner_player_type,winner_civilization,winner_is_vanilla
+6c030053-4a46-476f-a3e5-0e0d4e63b83e,1791829113635,2026-10-12,jev-1.13-standard-fixed,Jev! | Every-turn,2,6,True,451,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,1,Vanilla,The Ottomans,True
+298db992-421d-40f1-967c-e025e22c960d,1791804069028,2026-10-12,jev-1.13-standard-fixed,Jev! | Every-turn,1,6,True,386,Vox_Deorum,Standard,Standard,Prince,8,Diplomatic,4,Vanilla,Polynesia,True
+bb1e3a1d-404a-4013-9425-8638e30c2374,1791791131897,2026-10-12,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple | Per-5,2,0,True,302,Vox_Deorum,Standard,Standard,Prince,8,Cultural,7,Sonnet-5.5-Simple-Per-5,Poland,False
+0bee4554-0b64-44c5-87d7-f81bca8e7f4d,1791789655519,2026-10-12,deepseek-v4.1-flash-standard-fixed,DeepSeek-V4.1-Flash-Simple | Every-turn,1,5,True,432,Continents,Standard,Standard,Prince,8,Diplomatic,4,Vanilla,Polynesia,True
+bf334749-f733-4694-8188-a567a17d83a9,1791772647972,2026-10-12,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple | Per-5,2,5,True,430,Vox_Deorum,Standard,Standard,Prince,8,Science,1,Vanilla,The Ottomans,True
+0343e713-f073-4aab-ad0e-2b32b0db9414,1791767671162,2026-10-12,deepseek-v4.1-flash-standard-fixed,DeepSeek-V4.1-Flash-Simple | Every-turn,3,5,True,408,Continents,Standard,Standard,Prince,8,Domination,1,Vanilla,The Zulus,True
 00f35222-6de0-45bf-83eb-21fd5b22d867,1791758631924,2026-10-11,gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple | Every-turn,2,5,True,408,Vox_Deorum,Standard,Standard,Prince,8,Science,7,Vanilla,Poland,True
 e78f13e2-db41-42b0-af44-e7863dc0cec5,1791748383004,2026-10-11,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple | Per-5,1,4,True,394,Vox_Deorum,Standard,Standard,Prince,8,Cultural,4,Vanilla,Polynesia,True
 c74ee541-305c-4ad6-a3a9-6e9919ca302c,1791747467228,2026-10-11,claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple | Per-5,3,6,True,352,Vox_Deorum,Standard,Standard,Prince,8,Cultural,2,Vanilla,China,True

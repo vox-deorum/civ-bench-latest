@@ -31,14 +31,14 @@ claude-sonnet-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-0.124636865571848
 claude-sonnet-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-3.982683662331617,6,0.0,8,3,True,True
 claude-sonnet-5.5-standard-fixed-per-5,implicit,1,6,Austria,-1.031389237825975,6,0.5,8,3,True,True
 claude-sonnet-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.5029012522956844,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.964743847196026,5,0.0,6,2,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,0.77864147048811,5,0.4,6,2,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,2,France,-5.799826458413197,4,0.0,6,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,3,Spain,-4.089201598324929,5,0.0,6,2,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.088600235247984,4,0.0,6,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-4.433004861374439,4,0.0,6,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-3.870325659697644,4,0.25,6,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.07744993709145,5,0.2,6,2,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.168799186406467,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,0.7079393935831368,6,0.5,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,2,France,-5.861323914470023,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,3,Spain,-4.083003482694936,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.300216793016202,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-4.029614001913594,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-3.895414289149308,6,0.1666666666666666,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.2749827851485038,6,0.1666666666666666,8,3,True,True
 claude-sonnet-5.5-standard-fixed-per-5,implicit,3,0,France,-5.0747935228453125,6,0.0,8,3,True,True
 claude-sonnet-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.093385008822386,6,0.0,8,3,True,True
 claude-sonnet-5.5-standard-fixed-per-5,implicit,3,2,China,0.0688208377499504,6,0.8333333333333334,8,3,True,True

@@ -1,16 +1,16 @@
 row_kind,player_type,strategist,condition,row_label,metric,metric_group,mean,sd,n_players,n_games,color_position,median,ci_lower,ci_upper
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_tradition,Ancient,21.428571428571427,5.69133098591607,112,24,0.370966,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_tradition,Ancient,21.428571428571427,5.69133098591607,112,24,0.371217,,,
 baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_authority,Ancient,27.333333333333332,6.004693000326412,72,24,0.358082,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_progress,Ancient,18.0,0.0,8,8,0.293445,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_fealty,Medieval,159.57894736842104,28.501055951833447,95,24,0.367981,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_statecraft,Medieval,150.9,52.733127715134536,30,23,0.314199,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_artistry,Medieval,145.85507246376812,19.352211731265516,69,24,0.389626,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_industry,Industrial,250.13636363636363,28.462666365317506,22,21,0.230147,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_imperialism,Industrial,281.258064516129,30.78691199667241,62,24,0.455167,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_rationalism,Industrial,237.1326530612245,20.382243007139916,98,24,0.373266,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_progress,Ancient,18.0,0.0,8,8,0.293436,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_fealty,Medieval,159.57894736842104,28.501055951833447,95,24,0.36759,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_statecraft,Medieval,150.9,52.733127715134536,30,23,0.313968,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_artistry,Medieval,145.85507246376812,19.352211731265516,69,24,0.389825,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_industry,Industrial,250.13636363636363,28.462666365317506,22,21,0.230055,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_imperialism,Industrial,281.258064516129,30.78691199667241,62,24,0.454897,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_rationalism,Industrial,237.1326530612245,20.382243007139916,98,24,0.373293,,,
 baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_freedom,Ideology,329.728813559322,34.62002136918132,59,22,0.459262,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_autocracy,Ideology,341.3939393939394,24.310413655904995,33,16,0.541755,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_order,Ideology,327.14102564102564,33.358627599138956,78,24,0.601842,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_autocracy,Ideology,341.3939393939394,24.310413655904995,33,16,0.542606,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_order,Ideology,327.14102564102564,33.358627599138956,78,24,0.602471,,,
 group,Null,Null,,Null,adoption_turn_tradition,Ancient,31.04,,25,18,1.0,1.0,12.958000000000002,50.03958333333333
 group,Null,Null,,Null,adoption_turn_authority,Ancient,30.352941176470587,,17,14,1.0,0.0,0.3109375000000014,70.5315476190476
 group,Null,Null,,Null,adoption_turn_fealty,Medieval,60.80764411027569,,19,16,1.0,38.428571428571416,29.9193972120098,91.34485745614035
@@ -428,14 +428,15 @@ group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8
 group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,adoption_turn_autocracy,Ideology,5.610000000000002,,10,9,0.557691,9.083333333333343,-20.394999999999982,27.079225589225587
 group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,adoption_turn_order,Ideology,-24.898908730158723,,24,17,0.3134,-18.952380952380935,-41.63320703933747,-10.594226190476187
 group,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,adoption_turn_progress,Ancient,14.0,,2,2,0.5,14.0,13.0,15.0
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_tradition,Ancient,11.045454545454545,,22,16,0.985188,0.0,0.21721967963386743,28.074404761904745
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_tradition,Ancient,10.333333333333334,,24,17,0.953907,0.0,0.40659722222222294,25.838586956521734
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_authority,Ancient,42.42857142857143,,7,6,1.0,3.0,2.6625000000000036,95.83333333333333
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_fealty,Medieval,128.78138528138527,,11,9,1.0,135.5,92.55797016723355,177.76296130952377
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_fealty,Medieval,133.4977106227106,,13,10,1.0,135.5,95.76815359477123,170.42403273809526
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_statecraft,Medieval,60.77777777777777,,3,3,0.788139,0.6666666666666572,-1.3333333333333428,183.0
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_artistry,Medieval,77.125,,14,13,1.0,68.8125,39.05354352678572,119.13725961538462
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_artistry,Medieval,73.125,,15,14,1.0,67.5,37.313437500000006,118.01808035714285
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_industry,Industrial,116.0,,1,1,1.0,116.0,,
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_rationalism,Industrial,25.746428571428567,,20,17,0.815795,7.5625,1.7203891594516587,52.46314745196324
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_imperialism,Industrial,12.5,,1,1,0.601504,12.5,,
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_rationalism,Industrial,26.257763975155274,,23,19,0.822067,12.5,7.176380208333334,49.78485407255788
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_freedom,Ideology,-22.13703703703704,,9,8,0.340143,-25.5,-31.91469696969697,-9.335312499999993
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_autocracy,Ideology,-42.17777777777778,,6,6,0.066258,-48.19999999999999,-72.06666666666666,-12.23333333333334
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_order,Ideology,-34.86031746031746,,18,14,0.238746,-40.48214285714286,-45.9001950780312,-24.286985119047614
-group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_progress,Ancient,14.0,,1,1,0.5,14.0,,
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_order,Ideology,-34.14035714285714,,20,16,0.244141,-40.48214285714286,-43.56553287981859,-24.704340986394552
+group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,adoption_turn_progress,Ancient,21.0,,2,2,0.5,21.0,14.0,28.0
