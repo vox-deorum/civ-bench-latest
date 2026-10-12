@@ -29,6 +29,7 @@ gpt-6-luna-standard-fixed,2b638673-1787-4158-94cc-be82efacb992,6,GPT-6-Luna-Simp
 gpt-6-luna-standard-fixed,2c5b664b-18c5-4033-8900-9c1166a7c627,7,GPT-6-Luna-Simple,418,1,0.0024,417,False
 gpt-6-luna-standard-fixed-per-5,0632c8cf-46de-4e81-9280-191adbd86095,3,GPT-6-Luna-Simple-Per-5,492,1,0.002,416,False
 gpt-6-luna-standard-fixed-per-5,ed013f54-bfea-4abc-8ac3-1e687e234343,1,GPT-6-Luna-Simple-Per-5,496,9,0.0181,"462,464,468,479,480,484,491,493,494",False
+jev-1.13-standard-fixed,2607873a-1a7c-4a3c-9ab1-d9833388eadc,7,Jev!,393,1,0.0025,191,False
 kimi-k2.6-standard-fixed,282c1bf0-8d2a-4c85-b1ae-d57ad2579ab7,0,Kimi-K2.6-Simple,297,2,0.0067,"0,263",False
 kimi-k2.6-standard-fixed,375f9a58-250d-4f21-86e2-637d0b2ca0f1,3,Kimi-K2.6-Simple,415,2,0.0048,"249,267",False
 kimi-k2.6-standard-fixed,c0ac65c1-2231-4d0c-9b82-f8735af18c2b,1,Kimi-K2.6-Simple,389,1,0.0026,225,False
