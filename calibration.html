@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Calibration | Controlled CivBench on Vox Populi 5.2.7, Civilization V</title>
 <link rel="stylesheet" href="assets/report.css?v=ab7bf6ea2d">
-<script src="assets/report-help.js?v=38df048abc" defer></script>
+<script src="assets/report-help.js?v=78810b90a9" defer></script>
 <script src="assets/report-common.js?v=d5c7f551f7" defer></script>
 </head><body>
 <a class="skip-link" href="#main-content">Skip to content</a>
@@ -49,12 +49,8 @@
 <h1 id="family-calibration">Calibration<span class="report-help"><button type="button" class="help-toggle" aria-label="About this benchmark" aria-describedby="help-family-calibration" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-family-calibration">A controlled version of CivBench (Chen et al., 2026). Each LLM strategists rotate through 3 standard maps (8 players), each game features 2 of the same LLM strategists + 6 Vox Populi AI players. Experimented with 2 conditions: having LLMs make a decision every turn (base); having them make a decision every 5 turns, or when an important event comes up (per-5).</span></span></h1>
 <p>Check whether predicted win probabilities match observed win rates, and examine how prediction errors, civilizations, and starting positions affect the evaluation.</p>
 <section aria-labelledby="section-cal-reliability">
-<h2 id="section-cal-reliability">Prediction reliability<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-reliability" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-reliability">Checks whether predicted win probabilities match observed win rates (reliability curves and expected calibration error).
-
-Module: calibration.reliability
-
-n_bins: 10</span></span></h2>
-<p>attention is best calibrated with expected error <strong>0.0037</strong>; the estimator errors range from <strong>0.0037</strong> to <strong>0.0088</strong> across <strong>3</strong> estimators.</p>
+<h2 id="section-cal-reliability">Prediction reliability<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-reliability" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-reliability">Checks whether predicted win probabilities match observed win rates (reliability curves and expected calibration error).</span></span></h2>
+<p>attention is best calibrated with expected error <strong>0.0040</strong>; the estimator errors range from <strong>0.0040</strong> to <strong>0.0087</strong> across <strong>3</strong> estimators.</p>
 <figure><img src="assets/cal_reliability/reliability.png" alt="cal_reliability: reliability"><figcaption class="caption">cal_reliability: reliability</figcaption></figure>
 <p><strong>ece</strong></p>
 <div class="table-scroll" role="region" tabindex="0">
@@ -69,18 +65,18 @@ n_bins: 10</span></span></h2>
   <tbody>
     <tr>
       <td>score</td>
-      <td>0.00502659</td>
-      <td>2922176</td>
+      <td>0.00490742</td>
+      <td>3066872</td>
     </tr>
     <tr>
       <td>attention</td>
-      <td>0.00371082</td>
-      <td>2922176</td>
+      <td>0.00400596</td>
+      <td>3066872</td>
     </tr>
     <tr>
       <td>xgboost</td>
-      <td>0.0087963</td>
-      <td>2922176</td>
+      <td>0.00871441</td>
+      <td>3066872</td>
     </tr>
   </tbody>
 </table>
@@ -88,50 +84,42 @@ n_bins: 10</span></span></h2>
 <p class="caption"><a href="assets/cal_reliability/ece.csv">full CSV</a></p>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
+<p class="provenance"><strong>Provenance:</strong> Module: calibration.reliability; n_bins: 10</p>
 <ul>
 <li><a href="assets/cal_reliability/reliability.csv">Table: reliability (CSV)</a></li>
 </ul>
 </details>
 </section>
 <section aria-labelledby="section-cal-loss-progress">
-<h2 id="section-cal-loss-progress">Prediction error over time<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-loss-progress" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-loss-progress">Tracks win-probability error from the opening turns through the end of the game (Brier score and log loss by game progress).
-
-Module: calibration.loss_by_progress
-
-n_bins: 20; metrics: brier_score, log_loss</span></span></h2>
-<p>The best brier score is <strong>0.0467</strong> for attention at game progress 0.95-1.00; values range from <strong>0.0467</strong> to <strong>0.1146</strong>.</p>
+<h2 id="section-cal-loss-progress">Prediction error over time<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-loss-progress" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-loss-progress">Tracks win-probability error from the opening turns through the end of the game (Brier score and log loss by game progress).</span></span></h2>
+<p>The best brier score is <strong>0.0470</strong> for attention at game progress 0.95-1.00; values range from <strong>0.0470</strong> to <strong>0.1146</strong>.</p>
 <figure><img src="assets/cal_loss_progress/loss_by_progress.png" alt="cal_loss_progress: loss_by_progress"><figcaption class="caption">cal_loss_progress: loss_by_progress</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
+<p class="provenance"><strong>Provenance:</strong> Module: calibration.loss_by_progress; n_bins: 20; metrics: brier_score, log_loss</p>
 <ul>
 <li><a href="assets/cal_loss_progress/loss_by_progress.csv">Table: loss_by_progress (CSV)</a></li>
 </ul>
 </details>
 </section>
 <section aria-labelledby="section-cal-civ-effects">
-<h2 id="section-cal-civ-effects">Civilization strength effects<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-civ-effects" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-civ-effects">Estimates how much civilization choice shifts player strength in uncontrolled games (ordinary least squares).
-
-Module: calibration.civ_effects
-
-n_civs: 18</span></span></h2>
-<p>Polynesia has the strongest civilization effect (<strong>+1.881</strong>) and Mongolia the weakest (<strong>-2.467</strong>) on the log-odds scale, across <strong>18</strong> civilizations.</p>
+<h2 id="section-cal-civ-effects">Civilization strength effects<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-civ-effects" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-civ-effects">Estimates how much civilization choice shifts player strength in uncontrolled games (ordinary least squares).</span></span></h2>
+<p>Polynesia has the strongest civilization effect (<strong>+1.925</strong>) and Mongolia the weakest (<strong>-2.490</strong>) on the log-odds scale, across <strong>18</strong> civilizations.</p>
 <figure><img src="assets/cal_civ_effects/civ_effects.png" alt="cal_civ_effects: civ_effects"><figcaption class="caption">cal_civ_effects: civ_effects</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (1)</summary>
+<p class="provenance"><strong>Provenance:</strong> Module: calibration.civ_effects; n_civs: 18</p>
 <ul>
 <li><a href="assets/cal_civ_effects/civ_effects.csv">Table: civ_effects (CSV)</a></li>
 </ul>
 </details>
 </section>
 <section aria-labelledby="section-cal-cell-baseline">
-<h2 id="section-cal-cell-baseline">Starting-position baselines<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-cell-baseline" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-cell-baseline">Shows baseline AI strength for each map seed and starting position in the controlled experiment.
-
-Module: calibration.cell_baseline
-
-n_seeds: 3; n_conditions: 37; has_explicit: True</span></span></h2>
-<p>Starting-position baselines range from <strong>-6.219</strong> to <strong>+0.945</strong> log-odds across <strong>3</strong> map seed(s) and <strong>37</strong> conditions.</p>
+<h2 id="section-cal-cell-baseline">Starting-position baselines<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-cal-cell-baseline" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-cal-cell-baseline">Shows baseline AI strength for each map seed and starting position in the controlled experiment.</span></span></h2>
+<p>Starting-position baselines range from <strong>-6.329</strong> to <strong>+0.945</strong> log-odds across <strong>3</strong> map seed(s) and <strong>39</strong> conditions.</p>
 <details class="downloads">
 <summary>Downloads and supporting files (4)</summary>
+<p class="provenance"><strong>Provenance:</strong> Module: calibration.cell_baseline; n_seeds: 3; n_conditions: 39; has_explicit: True</p>
 <ul>
 <li><a href="assets/cal_cell_baseline/cell_baseline_seed_1.png">Figure: cal_cell_baseline: cell_baseline_seed_1 (PNG)</a></li>
 <li><a href="assets/cal_cell_baseline/cell_baseline_seed_2.png">Figure: cal_cell_baseline: cell_baseline_seed_2 (PNG)</a></li>

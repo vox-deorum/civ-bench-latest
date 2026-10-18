@@ -1,6 +1,8 @@
 /* Shared report help: hover, keyboard focus, click, and Escape.
    Also switches section views: the first view of each group is shown, and a
-   choice applies to every group on the page that offers the same view. And it
+   choice applies to every group on the page that offers the same view. A
+   hidden view's frames load when the view first shows, because a Plotly chart
+   drawn while hidden measures its labels as zero width and clips them. And it
    shows the text of any [data-tip] element (heatmap cells and labels) in one
    floating tooltip on hover or keyboard focus. A tip's first line is its bold
    title when there are more; "label<TAB>value<TAB>note" lines form a grid with
@@ -136,8 +138,27 @@
   });
   document.addEventListener("focusout", hideTip);
   var groups = document.querySelectorAll(".view-group");
+  // A frame inside any hidden panel (a nested switch's too) stays unloaded.
+  function syncFrames() {
+    document.querySelectorAll(".view-panel iframe").forEach(function (frame) {
+      var deferred = frame.getAttribute("data-src");
+      if (frame.closest(".view-panel[hidden]")) {
+        if (!deferred && !frame.hasAttribute("data-shown")) {
+          frame.setAttribute("data-src", frame.getAttribute("src"));
+          frame.src = "about:blank";
+        }
+        return;
+      }
+      if (deferred) {
+        frame.src = deferred;
+        frame.removeAttribute("data-src");
+      }
+      frame.setAttribute("data-shown", "");
+    });
+  }
+  // Only the group's own panels and buttons; a nested group handles its own.
   function showView(group, name) {
-    var panels = group.querySelectorAll(".view-panel");
+    var panels = group.querySelectorAll(":scope > .view-panel");
     var known = Array.prototype.some.call(panels, function (panel) {
       return panel.getAttribute("data-view") === name;
     });
@@ -145,7 +166,7 @@
     panels.forEach(function (panel) {
       panel.hidden = panel.getAttribute("data-view") !== name;
     });
-    group.querySelectorAll(".view-button").forEach(function (button) {
+    group.querySelectorAll(":scope > .view-switch > .view-button").forEach(function (button) {
       button.setAttribute("aria-pressed", String(button.getAttribute("data-view") === name));
     });
   }
@@ -153,16 +174,18 @@
   if (groups.length) {
     document.documentElement.classList.add("views-ready");
     groups.forEach(function (group) {
-      var first = group.querySelector(".view-panel");
+      var first = group.querySelector(":scope > .view-panel");
       if (first) { showView(group, first.getAttribute("data-view")); }
       if (requestedView) { showView(group, requestedView); }
-      group.querySelectorAll(".view-button").forEach(function (button) {
+      group.querySelectorAll(":scope > .view-switch > .view-button").forEach(function (button) {
         button.addEventListener("click", function () {
           var name = button.getAttribute("data-view");
           groups.forEach(function (other) { showView(other, name); });
+          syncFrames();
         });
       });
     });
+    syncFrames();
   }
   document.querySelectorAll(".report-help").forEach(function (help) {
     var button = help.querySelector(".help-toggle");

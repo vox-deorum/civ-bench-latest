@@ -373,6 +373,17 @@ group,1,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,7.28235,0.2823500000000001,2,2,Personality,0.698039
 group,1,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0349,0.03489999999999993,2,2,Personality,0.559433
 group,1,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-8.0,2,2,Personality,0.111111
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,8.011899999999999,0.011900000000000096,3,3,Diplomacy,0.7791
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,8.0,0.0,3,3,Diplomacy,0.777778
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,10.0,0.0,3,3,Diplomacy,1.0
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,5.187666666666666,-2.812333333333333,3,3,Diplomacy,0.465296
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.9723,6.9723,3,3,Diplomacy,0.7747
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,1.8991,-4.1009,3,3,Personality,0.0999
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.2285,0.22850000000000006,3,3,Personality,0.580944
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.0193,-5.9807,3,3,Personality,0.113256
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.0,0.0,3,3,Personality,0.666667
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,3,3,Personality,0.555556
+group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0316666666666667,-7.968333333333334,3,3,Personality,0.11463
 group,1,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,8.0182,0.018199999999999328,2,2,Diplomacy,0.7798
 group,1,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,9.018699999999999,1.0187,2,2,Diplomacy,0.890967
 group,1,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.67535,-0.3246500000000001,2,2,Diplomacy,0.963928
@@ -395,6 +406,17 @@ group,1,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,7.0059000000000005,0.005900000000000016,2,2,Personality,0.667322
 group,1,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,6.0059000000000005,0.005900000000000016,2,2,Personality,0.556211
 group,1,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,8.8947,-1.1052999999999997,2,2,Personality,0.877189
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,7.556150000000001,-0.44384999999999986,2,2,Diplomacy,0.728461
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,1.0,0.0,2,2,Diplomacy,0.0
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.1083,-0.8917000000000002,2,2,Personality,0.456478
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,1,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,10.0,0.0,2,2,Personality,1.0
 baseline,1,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,1,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,5.0,,8,8,Diplomacy,0.444444
 baseline,1,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,7.0,,8,8,Diplomacy,0.666667
@@ -769,6 +791,17 @@ group,1,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
 group,1,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
 group,1,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.7536500000000004,-2.2463499999999996,2,2,Personality,0.305961
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,3.3057,0.3057000000000001,2,2,Diplomacy,0.256189
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,6.675549999999999,-0.3244500000000001,2,2,Diplomacy,0.630617
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.8517,-1.1483,2,2,Diplomacy,0.316856
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.2747,5.2747,2,2,Diplomacy,0.8083
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.10855,-1.89145,2,2,Personality,0.234283
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,3.89005,1.89005,2,2,Personality,0.321117
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.96495,-7.03505,2,2,Personality,0.218328
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.2645999999999997,-2.7354000000000003,2,2,Personality,0.251622
 group,1,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,3.1529,0.15290000000000004,2,2,Diplomacy,0.239211
 group,1,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,5.8477,0.8477000000000001,2,2,Diplomacy,0.538633
 group,1,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.6118,0.6117999999999997,2,2,Diplomacy,0.734644
@@ -791,6 +824,17 @@ group,1,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,6.6913,-0.3087,2,2,Personality,0.632367
 group,1,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,5.6913,-0.3087,2,2,Personality,0.521256
 group,1,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.3826,-0.6174,2,2,Personality,0.486956
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.0,0.0,2,2,Personality,0.444444
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.5544,-0.4456,2,2,Personality,0.0616
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,10.0,0.0,2,2,Personality,1.0
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,6.78975,0.7897499999999997,2,2,Personality,0.643306
 baseline,1,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,1,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,1,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,3.0,,8,8,Diplomacy,0.222222
@@ -1088,17 +1132,17 @@ group,1,2,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-
 group,1,2,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_neediness_avg,6.63085,-3.3691500000000003,2,2,Personality,0.62565
 group,1,2,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_chattiness_avg,8.17285,4.17285,2,2,Personality,0.796983
 group,1,2,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_deceptive_bias_avg,3.1709500000000004,-4.8290500000000005,2,2,Personality,0.241217
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,9.004199999999999,0.004200000000000277,3,3,Diplomacy,0.889356
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,5.822466666666666,2.8224666666666667,3,3,Diplomacy,0.53583
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,7.276133333333334,4.276133333333334,3,3,Diplomacy,0.697348
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,5.478566666666667,-4.521433333333333,3,3,Diplomacy,0.497619
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.176333333333335,4.176333333333333,3,3,Diplomacy,0.575148
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.0586333333333333,-5.941366666666667,3,3,Personality,0.228737
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,6.6935,0.6934999999999999,3,3,Personality,0.632611
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.106066666666667,-6.893933333333334,3,3,Personality,0.234007
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,5.2717,-4.7283,3,3,Personality,0.474633
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,8.1014,4.101400000000001,3,3,Personality,0.789044
-group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,3.5017333333333327,-4.498266666666667,3,3,Personality,0.27797
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,9.0049,0.0049000000000001265,2,2,Diplomacy,0.889433
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,5.7197,2.7197,2,2,Diplomacy,0.524411
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,6.869400000000001,3.8694,2,2,Diplomacy,0.652156
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,5.4517500000000005,-4.5482499999999995,2,2,Diplomacy,0.494639
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,5.7491,3.7491000000000003,2,2,Diplomacy,0.527678
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.5011,-5.4989,2,2,Personality,0.2779
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,6.5150500000000005,0.51505,2,2,Personality,0.612783
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.9364,-6.063599999999999,2,2,Personality,0.326267
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,4.5,-5.5,2,2,Personality,0.388889
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,7.77955,3.77955,2,2,Personality,0.753283
+group,1,2,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,4.4473,-3.5527,2,2,Personality,0.383033
 group,1,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_diplomatic_balance_avg,9.00235,0.002349999999999852,2,2,Diplomacy,0.88915
 group,1,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_friendliness_avg,4.33845,1.33845,2,2,Diplomacy,0.370939
 group,1,2,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_work_with_willingness_avg,3.0,0.0,2,2,Diplomacy,0.222222
@@ -1165,6 +1209,17 @@ group,1,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,5.236549999999999,-4.763450000000001,2,2,Personality,0.470728
 group,1,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,4.0,0.0,2,2,Personality,0.333333
 group,1,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.5,-5.5,2,2,Personality,0.166667
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.004066666666667,0.004066666666666663,3,3,Diplomacy,0.889341
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,4.0,3,3,Diplomacy,0.666667
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,7.0926,4.0926,3,3,Diplomacy,0.676956
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,4.918266666666667,-5.081733333333333,3,3,Diplomacy,0.435363
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.333333333333333,5.333333333333333,3,3,Diplomacy,0.703704
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.947366666666667,-6.052633333333333,3,3,Personality,0.216374
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,0.0,3,3,Personality,0.555556
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.1111333333333335,-7.888866666666666,3,3,Personality,0.123459
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,4.0,-6.0,3,3,Personality,0.333333
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,4.169766666666667,0.16976666666666654,3,3,Personality,0.352196
+group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.6666666666666665,-5.333333333333333,3,3,Personality,0.185185
 group,1,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.014949999999999,0.014949999999999797,2,2,Diplomacy,0.89055
 group,1,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,7.639150000000001,4.639150000000001,2,2,Diplomacy,0.737683
 group,1,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.0183,4.0183,2,2,Diplomacy,0.6687
@@ -1187,6 +1242,17 @@ group,1,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.64215,-1.35785,2,2,Personality,0.849128
 group,1,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,4.339449999999999,0.3394499999999998,2,2,Personality,0.37105
 group,1,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.16975,-2.8302500000000004,2,2,Personality,0.463306
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,8.85055,-0.14944999999999986,2,2,Diplomacy,0.872283
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.00695,-2.99305,2,2,Diplomacy,0.667439
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,1.0,-1.0,2,2,Diplomacy,0.0
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,9.3413,0.3413000000000004,2,2,Personality,0.926811
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,10.0,0.0,2,2,Personality,1.0
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.017849999999999,-2.9821500000000003,2,2,Personality,0.66865
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,-1.0,2,2,Personality,0.222222
+group,1,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
 baseline,1,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,8.0,,8,8,Diplomacy,0.777778
 baseline,1,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,10.0,,8,8,Diplomacy,1.0
 baseline,1,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,10.0,,8,8,Diplomacy,1.0
@@ -1561,6 +1627,17 @@ group,1,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,4.9017,-5.0983,2,2,Personality,0.433522
 group,1,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
 group,1,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,1.0,-4.0,2,2,Personality,0.0
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,8.0024,0.0023999999999997357,2,2,Diplomacy,0.778044
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.5554500000000004,-6.44455,2,2,Diplomacy,0.283939
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.2908,-3.7092,2,2,Personality,0.143422
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.22805,0.22805000000000009,2,2,Personality,0.469783
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,1.49115,-1.50885,2,2,Personality,0.054572
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.5,-2.5,2,2,Personality,0.722222
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.5,-1.5,2,2,Personality,0.277778
 group,1,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,8.033,0.032999999999999474,2,2,Diplomacy,0.781444
 group,1,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,1,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.9154,-0.08460000000000001,2,2,Diplomacy,0.9906
@@ -1583,6 +1660,17 @@ group,1,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,10.0,0.0,2,2,Personality,1.0
 group,1,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.30465,0.3046500000000001,2,2,Personality,0.256072
 group,1,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.901,-0.0990000000000002,2,2,Personality,0.433444
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,7.00155,-0.9984500000000001,2,2,Diplomacy,0.666839
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,9.88205,-0.11795000000000044,2,2,Diplomacy,0.986894
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,3.9909499999999998,-6.00905,2,2,Diplomacy,0.332328
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,10.0,0.0,2,2,Personality,1.0
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,5.0,0.0,2,2,Personality,0.444444
 baseline,1,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,1,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,10.0,,8,8,Diplomacy,1.0
 baseline,1,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,8.0,,8,8,Diplomacy,0.777778
@@ -1957,6 +2045,17 @@ group,1,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,2.3491999999999997,0.34919999999999995,2,2,Personality,0.149911
 group,1,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
 group,1,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-3.0,2,2,Personality,0.111111
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,6.0496,0.049599999999999866,1,1,Diplomacy,0.561067
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,10.0,0.0,1,1,Diplomacy,1.0
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,8.0,0.0,1,1,Diplomacy,0.777778
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,4.3921,-1.6078999999999999,1,1,Diplomacy,0.3769
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,0.0,1,1,Diplomacy,0.777778
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.9578,-1.0421999999999998,1,1,Personality,0.328644
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,0.0,1,1,Personality,0.555556
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.0645,-1.9355000000000002,1,1,Personality,0.118278
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,2.0,0.0,1,1,Personality,0.111111
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.1563,0.15629999999999988,1,1,Personality,0.128478
+group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-3.0,1,1,Personality,0.111111
 group,1,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,6.08975,0.08975,2,2,Diplomacy,0.565528
 group,1,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,1,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.316099999999999,1.3160999999999996,2,2,Diplomacy,0.924011
@@ -1979,6 +2078,17 @@ group,1,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,2.0,0.0,2,2,Personality,0.111111
 group,1,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.146,0.1459999999999999,2,2,Personality,0.127333
 group,1,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.854,-0.1459999999999999,2,2,Personality,0.428222
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,5.17535,-0.8246500000000001,2,2,Diplomacy,0.463928
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,9.12525,-0.8747500000000006,2,2,Diplomacy,0.902806
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.0,0.0,2,2,Personality,0.444444
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,3.5,-0.5,2,2,Personality,0.277778
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,2.0,0.0,2,2,Personality,0.111111
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.3525,0.35250000000000004,2,2,Personality,0.150278
+group,1,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,5.0,0.0,2,2,Personality,0.444444
 baseline,1,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,4.0,,8,8,Diplomacy,0.333333
 baseline,1,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,10.0,,8,8,Diplomacy,1.0
 baseline,1,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,8.0,,8,8,Diplomacy,0.777778
@@ -2276,17 +2386,17 @@ group,1,5,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-
 group,1,5,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_neediness_avg,5.9847,-1.0152999999999999,2,2,Personality,0.553856
 group,1,5,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_chattiness_avg,7.9228,5.9228,2,2,Personality,0.7692
 group,1,5,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_deceptive_bias_avg,2.4632,-4.5367999999999995,2,2,Personality,0.162578
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,4.0626,0.06260000000000006,3,3,Diplomacy,0.340289
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,6.906533333333333,-3.0934666666666666,3,3,Diplomacy,0.656281
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,7.249533333333335,-0.7504666666666665,3,3,Diplomacy,0.694393
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,6.171133333333334,0.17113333333333358,3,3,Diplomacy,0.57457
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,5.759033333333334,4.759033333333334,3,3,Diplomacy,0.528781
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,2.486666666666667,-0.5133333333333332,3,3,Personality,0.165185
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,3.9545666666666666,1.9545666666666666,3,3,Personality,0.328285
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.7092000000000005,-6.2908,3,3,Personality,0.301022
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,4.781133333333333,-2.218866666666667,3,3,Personality,0.420126
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,7.362166666666666,5.362166666666667,3,3,Personality,0.706907
-group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,3.1151666666666666,-3.8848333333333334,3,3,Personality,0.235019
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,4.07165,0.07164999999999999,2,2,Diplomacy,0.341294
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,6.8218499999999995,-3.17815,2,2,Diplomacy,0.646872
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,6.8337,-1.1663000000000001,2,2,Diplomacy,0.648189
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,5.186,-0.8140000000000001,2,2,Diplomacy,0.465111
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.0011,5.0011,2,2,Diplomacy,0.555678
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,2.6671500000000004,-0.33284999999999987,2,2,Personality,0.185239
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,4.9253,2.9253,2,2,Personality,0.436144
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.2784500000000003,-6.721550000000001,2,2,Personality,0.253161
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,3.995,-3.005,2,2,Personality,0.332778
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,7.646649999999999,5.646649999999999,2,2,Personality,0.738517
+group,1,5,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,2.49735,-4.50265,2,2,Personality,0.166372
 group,1,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_diplomatic_balance_avg,4.0,0.0,2,2,Diplomacy,0.333333
 group,1,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,1,5,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_work_with_willingness_avg,8.0,0.0,2,2,Diplomacy,0.777778
@@ -2353,6 +2463,17 @@ group,1,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,5.693350000000001,-1.3066499999999999,2,2,Personality,0.521483
 group,1,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,3.10495,1.10495,2,2,Personality,0.233883
 group,1,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.0,-4.0,2,2,Personality,0.222222
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,4.0939,0.0939000000000001,2,2,Diplomacy,0.343767
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,8.0,0.0,2,2,Diplomacy,0.777778
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,4.3319,-1.6681000000000001,2,2,Diplomacy,0.370211
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.0,6.0,2,2,Diplomacy,0.666667
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.2741499999999997,-0.7258500000000001,2,2,Personality,0.141572
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,3.85355,1.8535499999999998,2,2,Personality,0.317061
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.49115,-7.508850000000001,2,2,Personality,0.165683
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.5459,0.5459,2,2,Personality,0.171767
+group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0,-4.0,2,2,Personality,0.222222
 group,1,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,4.074450000000001,0.07445000000000013,2,2,Diplomacy,0.341606
 group,1,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,9.7588,-0.24120000000000008,2,2,Diplomacy,0.9732
 group,1,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.3317,1.3316999999999997,2,2,Diplomacy,0.925744
@@ -2375,6 +2496,17 @@ group,1,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,6.03735,-0.96265,2,2,Personality,0.559706
 group,1,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
 group,1,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,6.0077,-0.9923000000000002,2,2,Personality,0.556411
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,4.0,0.0,2,2,Diplomacy,0.333333
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0111,-2.9889,2,2,Diplomacy,0.6679
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,6.0441,0.044099999999999806,2,2,Diplomacy,0.560456
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,1.0,0.0,2,2,Diplomacy,0.0
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0110999999999999,-0.9889,2,2,Personality,0.001233
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,10.0,0.0,2,2,Personality,1.0
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.2752499999999998,0.27525,2,2,Personality,0.141694
+group,1,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,0.0,2,2,Personality,0.666667
 baseline,1,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,1,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,1,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,9.0,,8,8,Diplomacy,0.888889
@@ -2749,6 +2881,17 @@ group,1,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.3033,-3.6967,2,2,Personality,0.589256
 group,1,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,3.0609,0.060899999999999954,2,2,Personality,0.228989
 group,1,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-4.0,2,2,Personality,0.111111
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.0024,0.0023999999999997357,1,1,Diplomacy,0.889156
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,9.0,0.0,1,1,Diplomacy,0.888889
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,9.0,0.0,1,1,Diplomacy,0.888889
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,7.5413,-1.4587000000000003,1,1,Diplomacy,0.726811
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,3.0,1,1,Diplomacy,0.777778
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.5995,-5.4005,1,1,Personality,0.288833
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.0,0.0,1,1,Personality,0.444444
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.6117,-3.3883,1,1,Personality,0.179078
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,10.0,0.0,1,1,Personality,1.0
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.0,0.0,1,1,Personality,0.222222
+group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,6.0,0.0,1,1,Personality,0.555556
 group,1,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.00665,0.006650000000000489,2,2,Diplomacy,0.889628
 group,1,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,9.31725,0.3172499999999996,2,2,Diplomacy,0.924139
 group,1,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.3311,0.33110000000000017,2,2,Diplomacy,0.925678
@@ -2771,6 +2914,17 @@ group,1,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,9.258949999999999,-0.7410500000000004,2,2,Personality,0.917661
 group,1,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,5.4887999999999995,2.4888,2,2,Personality,0.498756
 group,1,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.48155,-1.51845,2,2,Personality,0.386839
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,9.0,0.0,2,2,Diplomacy,0.888889
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.354,-1.646,2,2,Diplomacy,0.706
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,9.0,0.0,2,2,Diplomacy,0.888889
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.00235,-1.9976499999999997,2,2,Diplomacy,0.666928
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.00235,-1.9976499999999997,2,2,Personality,0.666928
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,10.0,0.0,2,2,Personality,1.0
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,5.00105,-0.9989499999999998,2,2,Personality,0.444561
 baseline,1,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,1,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,5.0,,8,8,Diplomacy,0.444444
 baseline,1,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,7.0,,8,8,Diplomacy,0.666667
@@ -3145,6 +3299,17 @@ group,1,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,1,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
 group,1,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.49765,0.4976499999999999,2,2,Personality,0.166406
 group,1,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,2,2,Personality,0.111111
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,6.01085,0.010850000000000026,2,2,Diplomacy,0.556761
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,5.439299999999999,-0.5607000000000002,2,2,Diplomacy,0.493256
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.5,4.5,2,2,Diplomacy,0.722222
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.741,-0.2589999999999999,2,2,Personality,0.304556
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.5856500000000002,-3.4143499999999998,2,2,Personality,0.176183
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
+group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,2,2,Personality,0.111111
 group,1,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,6.037850000000001,0.03785000000000016,2,2,Diplomacy,0.559761
 group,1,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,6.08155,1.08155,2,2,Diplomacy,0.564617
 group,1,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,8.40405,1.4040499999999998,2,2,Diplomacy,0.822672
@@ -3167,6 +3332,17 @@ group,1,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,1,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,3.38705,0.3870499999999999,2,2,Personality,0.265228
 group,1,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.9046000000000003,0.9046000000000001,2,2,Personality,0.211622
 group,1,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.790649999999999,-1.2093500000000001,2,2,Personality,0.532294
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,5.98175,-0.018249999999999655,2,2,Diplomacy,0.553528
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,4.9246,0.9245999999999999,2,2,Personality,0.436067
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,6.0,0.0,2,2,Personality,0.555556
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.46305,0.4630500000000002,2,2,Personality,0.162561
+group,1,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,0.0,2,2,Personality,0.666667
 baseline,2,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,10.0,,8,8,Diplomacy,1.0
 baseline,2,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,8.0,,8,8,Diplomacy,0.777778
 baseline,2,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,10.0,,8,8,Diplomacy,1.0
@@ -3541,6 +3717,17 @@ group,2,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
 group,2,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
 group,2,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,2,2,Personality,0.111111
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,8.0,0.0,2,2,Diplomacy,0.777778
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,2.0,0.0,2,2,Diplomacy,0.111111
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,3.0,2,2,Diplomacy,0.777778
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,4.375,-0.625,2,2,Personality,0.375
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.48865,0.4886499999999998,2,2,Personality,0.60985
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.388,-5.612,2,2,Personality,0.154222
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
+group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,2,2,Personality,0.111111
 group,2,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.99745,-0.0025500000000002743,2,2,Diplomacy,0.999717
 group,2,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,9.7898,1.7897999999999996,2,2,Diplomacy,0.976644
 group,2,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.9061,-0.09389999999999965,2,2,Diplomacy,0.989567
@@ -3563,6 +3750,17 @@ group,2,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,6.4365000000000006,-1.5635,2,2,Personality,0.604056
 group,2,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,5.63095,-0.3690500000000001,2,2,Personality,0.51455
 group,2,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,6.2619,-0.7381000000000002,2,2,Personality,0.584656
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,9.982800000000001,-0.017199999999999882,2,2,Diplomacy,0.998089
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,2.0,0.0,2,2,Diplomacy,0.111111
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.0,0.0,2,2,Personality,0.444444
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.02715,-0.9728500000000002,2,2,Personality,0.447461
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.0817,-0.9182999999999999,2,2,Personality,0.453522
+group,2,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,0.0,2,2,Personality,0.666667
 baseline,2,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,2,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,8.0,,8,8,Diplomacy,0.777778
 baseline,2,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,5.0,,8,8,Diplomacy,0.444444
@@ -3937,6 +4135,17 @@ group,2,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,9.60375,-0.3962500000000002,2,2,Personality,0.955972
 group,2,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
 group,2,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,1.0,0.0,2,2,Personality,0.0
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.00275,0.0027500000000006963,2,2,Diplomacy,0.889194
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,8.0,0.0,2,2,Diplomacy,0.777778
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,5.10655,0.10654999999999992,2,2,Diplomacy,0.456283
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,1.7906499999999999,-0.20935000000000004,2,2,Diplomacy,0.08785
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.0,0.0,2,2,Personality,0.111111
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.9545500000000002,-6.04545,2,2,Personality,0.217172
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,5.0,-5.0,2,2,Personality,0.444444
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
+group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,1.0,0.0,2,2,Personality,0.0
 group,2,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.0104,0.010400000000000631,2,2,Diplomacy,0.890044
 group,2,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.822849999999999,0.8228499999999999,2,2,Diplomacy,0.869206
 group,2,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,5.7067499999999995,0.70675,2,2,Diplomacy,0.522972
@@ -3959,6 +4168,17 @@ group,2,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.356250000000001,-1.6437499999999994,2,2,Personality,0.817361
 group,2,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,7.5769,1.5769000000000002,2,2,Personality,0.730767
 group,2,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,1.1875,0.1875,2,2,Personality,0.020833
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,8.624600000000001,-0.37539999999999996,2,2,Diplomacy,0.847178
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0011,-0.9988999999999999,2,2,Diplomacy,0.666789
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,3.1575499999999996,1.1575499999999999,2,2,Diplomacy,0.239728
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,2.0,0.0,2,2,Personality,0.111111
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.039350000000001,-1.9606499999999998,2,2,Personality,0.671039
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,10.0,0.0,2,2,Personality,1.0
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.5629,-0.43710000000000004,2,2,Personality,0.506989
+group,2,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,1.0,0.0,2,2,Personality,0.0
 baseline,2,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,4.0,,8,8,Diplomacy,0.333333
 baseline,2,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,2,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,7.0,,8,8,Diplomacy,0.666667
@@ -4333,6 +4553,17 @@ group,2,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,8.411100000000001,0.41110000000000024,2,2,Personality,0.823456
 group,2,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,4.5846,1.5846,2,2,Personality,0.398289
 group,2,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.8185000000000002,-5.1815,2,2,Personality,0.202056
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,4.056649999999999,0.05664999999999987,2,2,Diplomacy,0.339628
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,6.0,0.0,2,2,Diplomacy,0.555556
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,6.3582,-1.6418,2,2,Diplomacy,0.595356
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,6.0,1.0,2,2,Diplomacy,0.555556
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.6096500000000002,-6.39035,2,2,Personality,0.17885
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,0.0,2,2,Personality,0.555556
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.8021000000000003,-1.1979,2,2,Personality,0.200233
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.78075,0.7807499999999998,2,2,Personality,0.308972
+group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0,-5.0,2,2,Personality,0.222222
 group,2,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,4.1379,0.1378999999999997,2,2,Diplomacy,0.348656
 group,2,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.1737,2.1737,2,2,Diplomacy,0.797078
 group,2,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,8.90205,1.90205,2,2,Diplomacy,0.878006
@@ -4355,6 +4586,17 @@ group,2,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.19345,0.1934499999999999,2,2,Personality,0.799272
 group,2,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,5.1770499999999995,2.17705,2,2,Personality,0.464117
 group,2,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.0758,-3.9242,2,2,Personality,0.341756
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,4.0,0.0,2,2,Diplomacy,0.333333
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,6.95155,0.9515500000000001,2,2,Diplomacy,0.661283
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,9.5825,0.5824999999999996,2,2,Personality,0.953611
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,4.0,0.0,2,2,Personality,0.333333
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
 baseline,2,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,2,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,2,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,5.0,,8,8,Diplomacy,0.444444
@@ -4729,6 +4971,17 @@ group,2,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,5.0265,-0.9734999999999998,2,2,Personality,0.447389
 group,2,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,4.0321,1.0320999999999998,2,2,Personality,0.3369
 group,2,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.40665,-1.59335,2,2,Personality,0.267406
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,3.4456666666666664,0.4456666666666667,3,3,Diplomacy,0.271741
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,4.0,3,3,Diplomacy,0.666667
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,6.076133333333334,1.0761333333333332,3,3,Diplomacy,0.564015
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,4.493733333333333,-1.5062666666666669,3,3,Diplomacy,0.388193
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.116033333333334,0.1160333333333335,3,3,Diplomacy,0.79067
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.5177,-7.4822999999999995,3,3,Personality,0.168633
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.903,3.903,3,3,Personality,0.544778
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.1677666666666666,-5.832233333333334,3,3,Personality,0.129752
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,6.0,0.0,3,3,Personality,0.555556
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.598933333333333,0.5989333333333332,3,3,Personality,0.28877
+group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,5.0,0.0,3,3,Personality,0.444444
 group,2,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,3.1393,0.13929999999999998,2,2,Diplomacy,0.2377
 group,2,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,7.0222999999999995,4.0222999999999995,2,2,Diplomacy,0.669144
 group,2,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,6.750349999999999,1.7503499999999996,2,2,Diplomacy,0.638928
@@ -4751,6 +5004,17 @@ group,2,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,6.0,0.0,2,2,Personality,0.555556
 group,2,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
 group,2,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.0,0.0,2,2,Personality,0.444444
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,6.9526,0.9525999999999999,2,2,Diplomacy,0.6614
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,7.02595,-0.9740500000000001,2,2,Diplomacy,0.66955
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,10.0,0.0,2,2,Personality,1.0
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0,-1.0,2,2,Personality,0.0
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,6.0,0.0,2,2,Personality,0.555556
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,5.0,0.0,2,2,Personality,0.444444
 baseline,2,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,4.0,,8,8,Diplomacy,0.333333
 baseline,2,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,2,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,4.0,,8,8,Diplomacy,0.333333
@@ -5081,17 +5345,17 @@ group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,perso
 group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
 group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
 group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_deceptive_bias_avg,9.0,0.0,2,2,Personality,0.888889
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_diplomatic_balance_avg,4.0883,0.08830000000000027,3,3,Diplomacy,0.343144
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_friendliness_avg,7.120566666666666,1.1205666666666667,3,3,Diplomacy,0.680063
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_with_willingness_avg,7.874099999999999,3.8741,3,3,Diplomacy,0.763789
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_against_willingness_avg,7.136,1.1360000000000001,3,3,Diplomacy,0.681778
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_loyalty_avg,7.542466666666667,2.5424666666666664,3,3,Diplomacy,0.726941
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_denounce_willingness_avg,4.942866666666667,-0.05713333333333311,3,3,Personality,0.438096
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_forgiveness_avg,5.252800000000001,2.2528,3,3,Personality,0.472533
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_meanness_avg,4.0243,-4.9757,3,3,Personality,0.336033
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_neediness_avg,5.300533333333333,-2.6994666666666673,3,3,Personality,0.477837
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_chattiness_avg,3.2068333333333334,1.2068333333333332,3,3,Personality,0.245204
-group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_deceptive_bias_avg,4.1732000000000005,-4.8267999999999995,3,3,Personality,0.352578
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_diplomatic_balance_avg,4.095000000000001,0.0950000000000002,2,2,Diplomacy,0.343889
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_friendliness_avg,7.4442,1.4442,2,2,Diplomacy,0.716022
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_with_willingness_avg,8.015699999999999,4.0157,2,2,Diplomacy,0.779522
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_against_willingness_avg,7.28955,1.2895500000000002,2,2,Diplomacy,0.698839
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_loyalty_avg,7.6212,2.6212,2,2,Diplomacy,0.735689
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_denounce_willingness_avg,4.94505,-0.05494999999999983,2,2,Personality,0.438339
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_forgiveness_avg,5.242850000000001,2.2428500000000002,2,2,Personality,0.471428
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_meanness_avg,3.86665,-5.13335,2,2,Personality,0.318517
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_neediness_avg,5.98155,-2.01845,2,2,Personality,0.553506
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_chattiness_avg,2.81025,0.8102499999999999,2,2,Personality,0.201139
+group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_deceptive_bias_avg,4.2598,-4.7402,2,2,Personality,0.3622
 group,2,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_diplomatic_balance_avg,4.087,0.08699999999999974,2,2,Diplomacy,0.343
 group,2,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_friendliness_avg,7.271850000000001,1.2718500000000001,2,2,Diplomacy,0.696872
 group,2,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_work_with_willingness_avg,7.562950000000001,3.5629500000000003,2,2,Diplomacy,0.729217
@@ -5125,6 +5389,17 @@ group,2,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,5.4755,-2.5245,2,2,Personality,0.497278
 group,2,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.48495,0.48495,2,2,Personality,0.164994
 group,2,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.0,-6.0,2,2,Personality,0.222222
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,4.1653,0.16530000000000022,2,2,Diplomacy,0.3517
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,6.4815000000000005,0.48150000000000004,2,2,Diplomacy,0.609056
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,5.0,1.0,2,2,Diplomacy,0.444444
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.535,-2.465,2,2,Diplomacy,0.281667
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.0,2.0,2,2,Diplomacy,0.666667
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.6099,-1.3901,2,2,Personality,0.289989
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.6111,2.6111,2,2,Personality,0.512344
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.4873000000000003,-6.5127,2,2,Personality,0.165256
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,4.10865,2.10865,2,2,Personality,0.345406
+group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0,-6.0,2,2,Personality,0.222222
 group,2,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,4.02805,0.02804999999999991,2,2,Diplomacy,0.33645
 group,2,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,6.763450000000001,0.7634500000000002,2,2,Diplomacy,0.640383
 group,2,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,5.09755,1.09755,2,2,Diplomacy,0.455283
@@ -5147,6 +5422,17 @@ group,2,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,6.0138,-1.9861999999999997,2,2,Personality,0.557089
 group,2,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.6357,0.6356999999999999,2,2,Personality,0.181744
 group,2,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.698,-3.302,2,2,Personality,0.522
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,4.0839,0.08390000000000031,2,2,Diplomacy,0.342656
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,3.9942,-0.005799999999999805,2,2,Diplomacy,0.332689
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,6.42315,0.42315000000000014,2,2,Diplomacy,0.602572
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,5.0,0.0,2,2,Personality,0.444444
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,9.0054,0.005399999999999849,2,2,Personality,0.889489
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.0162,0.016199999999999992,2,2,Personality,0.112911
+group,2,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,9.004349999999999,0.004349999999999632,2,2,Personality,0.889372
 baseline,2,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,10.0,,8,8,Diplomacy,1.0
 baseline,2,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,10.0,,8,8,Diplomacy,1.0
 baseline,2,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,10.0,,8,8,Diplomacy,1.0
@@ -5477,17 +5763,17 @@ group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,perso
 group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
 group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
 group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,persona_deceptive_bias_avg,8.0,0.0,2,2,Personality,0.777778
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_diplomatic_balance_avg,9.996699999999999,-0.0033000000000000065,3,3,Diplomacy,0.999633
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_friendliness_avg,9.029333333333334,-0.9706666666666669,3,3,Diplomacy,0.892148
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_with_willingness_avg,9.3686,-0.6313999999999999,3,3,Diplomacy,0.929844
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_against_willingness_avg,7.7414,-2.2586,3,3,Diplomacy,0.749044
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_loyalty_avg,8.41,0.41000000000000014,3,3,Diplomacy,0.823333
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_denounce_willingness_avg,5.7223,-3.2777000000000007,3,3,Personality,0.5247
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_forgiveness_avg,5.845266666666666,3.845266666666667,3,3,Personality,0.538363
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_meanness_avg,1.3153,0.31529999999999997,3,3,Personality,0.035033
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_neediness_avg,5.604499999999999,-2.3955,3,3,Personality,0.511611
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_chattiness_avg,3.6087333333333333,0.6087333333333333,3,3,Personality,0.289859
-group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_deceptive_bias_avg,3.6476666666666673,-4.352333333333333,3,3,Personality,0.294185
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_diplomatic_balance_avg,9.996400000000001,-0.0035999999999996035,2,2,Diplomacy,0.9996
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_friendliness_avg,8.83145,-1.1685500000000006,2,2,Diplomacy,0.870161
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_with_willingness_avg,9.34035,-0.6596500000000001,2,2,Diplomacy,0.926706
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_work_against_willingness_avg,7.73375,-2.2662500000000003,2,2,Diplomacy,0.748194
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_loyalty_avg,8.615,0.6150000000000002,2,2,Diplomacy,0.846111
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_denounce_willingness_avg,5.73585,-3.2641500000000003,2,2,Personality,0.526206
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_forgiveness_avg,6.5286,4.5286,2,2,Personality,0.614289
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_meanness_avg,1.1855,0.1855,2,2,Personality,0.020611
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_neediness_avg,5.64605,-2.35395,2,2,Personality,0.516228
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_chattiness_avg,3.5,0.5,2,2,Personality,0.277778
+group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,persona_deceptive_bias_avg,3.537,-4.463,2,2,Personality,0.281889
 group,2,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_diplomatic_balance_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,2,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_friendliness_avg,9.5585,-0.44149999999999956,2,2,Diplomacy,0.950944
 group,2,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
@@ -5521,6 +5807,17 @@ group,2,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.72195,-1.27805,2,2,Personality,0.635772
 group,2,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,3.69085,0.69085,2,2,Personality,0.298983
 group,2,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-6.0,2,2,Personality,0.111111
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,10.0,0.0,1,1,Diplomacy,1.0
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,10.0,0.0,1,1,Diplomacy,1.0
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,10.0,0.0,1,1,Diplomacy,1.0
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,4.0,-6.0,1,1,Diplomacy,0.333333
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,0.0,1,1,Diplomacy,0.777778
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.0,-6.0,1,1,Personality,0.222222
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,4.0,1,1,Personality,0.555556
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,1.0,0.0,1,1,Personality,0.0
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,8.0,0.0,1,1,Personality,0.777778
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.0,0.0,1,1,Personality,0.222222
+group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-6.0,1,1,Personality,0.111111
 group,2,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,2,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
 group,2,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
@@ -5543,6 +5840,17 @@ group,2,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
 group,2,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
 group,2,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,8.0,0.0,2,2,Personality,0.777778
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,9.9808,-0.019199999999999662,2,2,Diplomacy,0.997867
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,6.34075,-3.65925,2,2,Diplomacy,0.593417
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.00295,-1.9970500000000002,2,2,Personality,0.666994
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.2024499999999998,-0.7975500000000001,2,2,Personality,0.022494
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,1.0,0.0,2,2,Personality,0.0
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
 baseline,2,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,2,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,7.0,,8,8,Diplomacy,0.666667
 baseline,2,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,6.0,,8,8,Diplomacy,0.555556
@@ -5917,6 +6225,17 @@ group,2,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.45875,-1.5412499999999998,2,2,Personality,0.606528
 group,2,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
 group,2,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-7.0,2,2,Personality,0.111111
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.00275,0.0027500000000006963,2,2,Diplomacy,0.889194
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,6.0,0.0,2,2,Diplomacy,0.555556
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.8266,-5.1734,2,2,Diplomacy,0.314067
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,7.0,2,2,Diplomacy,0.777778
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.9590500000000004,-3.04095,2,2,Personality,0.217672
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,4.0,2,2,Personality,0.555556
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,1.95095,-5.049049999999999,2,2,Personality,0.105661
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
+group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-7.0,2,2,Personality,0.111111
 group,2,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.01855,0.0185499999999994,2,2,Diplomacy,0.89095
 group,2,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.64865,1.6486499999999995,2,2,Diplomacy,0.84985
 group,2,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,8.409600000000001,2.4096,2,2,Diplomacy,0.823289
@@ -5939,6 +6258,17 @@ group,2,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.28445,0.28444999999999965,2,2,Personality,0.809383
 group,2,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.8339,0.8339000000000001,2,2,Personality,0.203767
 group,2,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.69505,-3.30495,2,2,Personality,0.521672
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,8.8699,-0.13010000000000055,2,2,Diplomacy,0.874433
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0029,-0.9971000000000001,2,2,Diplomacy,0.444767
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0029,-1.9971,2,2,Diplomacy,0.666989
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,1.0,0.0,2,2,Diplomacy,0.0
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,6.3139,0.31389999999999985,2,2,Personality,0.590433
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0537999999999998,-0.9462,2,2,Personality,0.005978
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,0.0,2,2,Personality,0.666667
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
+group,2,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,9.0,0.0,2,2,Personality,0.888889
 baseline,2,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,7.0,,8,8,Diplomacy,0.666667
 baseline,2,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,7.0,,8,8,Diplomacy,0.666667
 baseline,2,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,4.0,,8,8,Diplomacy,0.333333
@@ -6313,6 +6643,17 @@ group,2,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,2,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.5,-2.5,2,2,Personality,0.611111
 group,2,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,3.2975000000000003,0.2975000000000001,2,2,Personality,0.255278
 group,2,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,4.0,0.0,2,2,Personality,0.333333
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,7.01995,0.019950000000000134,2,2,Diplomacy,0.668883
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,5.82055,1.82055,2,2,Diplomacy,0.535617
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.90685,-1.09315,2,2,Diplomacy,0.322983
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,10.0,0.0,2,2,Diplomacy,1.0
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.73435,-5.26565,2,2,Personality,0.303817
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,3.94325,2.94325,2,2,Personality,0.327028
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.0879,-0.9121,2,2,Personality,0.120878
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,9.0,0.0,2,2,Personality,0.888889
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,3.0754,0.07539999999999991,2,2,Personality,0.2306
+group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,4.0,0.0,2,2,Personality,0.333333
 group,2,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,7.0703,0.07030000000000003,2,2,Diplomacy,0.674478
 group,2,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.7517,1.7516999999999996,2,2,Diplomacy,0.8613
 group,2,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.8786000000000005,3.8786,2,2,Diplomacy,0.764289
@@ -6335,6 +6676,17 @@ group,2,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,2,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.3918,-0.6082000000000001,2,2,Personality,0.821311
 group,2,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.84795,-0.15205000000000002,2,2,Personality,0.205328
 group,2,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,3.6959,-0.30410000000000004,2,2,Personality,0.299544
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,4.0,0.0,2,2,Diplomacy,0.333333
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,9.92055,-0.07944999999999958,2,2,Diplomacy,0.991172
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.0023,-1.9977,2,2,Personality,0.666922
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0,0.0,2,2,Personality,0.0
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,9.0,0.0,2,2,Personality,0.888889
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,0.0,2,2,Personality,0.222222
+group,2,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,4.0,0.0,2,2,Personality,0.333333
 baseline,3,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,5.0,,8,8,Diplomacy,0.444444
 baseline,3,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,8.0,,8,8,Diplomacy,0.777778
 baseline,3,0,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,8.0,,8,8,Diplomacy,0.777778
@@ -6632,17 +6984,17 @@ group,3,0,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-
 group,3,0,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_neediness_avg,5.195,-2.805,2,2,Personality,0.466111
 group,3,0,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_chattiness_avg,6.213699999999999,2.2137,2,2,Personality,0.5793
 group,3,0,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_deceptive_bias_avg,6.021649999999999,-1.9783500000000003,2,2,Personality,0.557961
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,5.075366666666667,0.07536666666666658,3,3,Diplomacy,0.452819
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,7.374733333333334,-0.6252666666666666,3,3,Diplomacy,0.708304
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,8.158900000000001,0.15890000000000035,3,3,Diplomacy,0.795433
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,6.9114,-1.0885999999999998,3,3,Diplomacy,0.656822
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.8111,0.8111,3,3,Diplomacy,0.645678
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.189166666666667,-5.810833333333334,3,3,Personality,0.243241
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,6.6635,-0.3365,3,3,Personality,0.629278
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.3077333333333336,-0.6922666666666667,3,3,Personality,0.256415
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,6.533566666666666,-1.4664333333333335,3,3,Personality,0.614841
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,7.2029,3.2028999999999996,3,3,Personality,0.689211
-group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,4.283533333333334,-3.716466666666667,3,3,Personality,0.364837
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,5.0847,0.08469999999999978,2,2,Diplomacy,0.453856
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,7.3488500000000005,-0.6511499999999999,2,2,Diplomacy,0.705428
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,7.8581,-0.1418999999999997,2,2,Diplomacy,0.762011
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,6.5068,-1.4931999999999999,2,2,Diplomacy,0.611867
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.61475,0.6147499999999999,2,2,Diplomacy,0.623861
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.2575000000000003,-5.7425,2,2,Personality,0.250833
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,7.2148,0.21479999999999988,2,2,Personality,0.690533
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,3.5761000000000003,-0.42389999999999994,2,2,Personality,0.286233
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,6.25625,-1.74375,2,2,Personality,0.584028
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,6.87895,2.87895,2,2,Personality,0.653217
+group,3,0,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,4.1795,-3.8205,2,2,Personality,0.353278
 group,3,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_diplomatic_balance_avg,5.0,0.0,2,2,Diplomacy,0.444444
 group,3,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_friendliness_avg,8.0,0.0,2,2,Diplomacy,0.777778
 group,3,0,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_work_with_willingness_avg,8.0,0.0,2,2,Diplomacy,0.777778
@@ -6709,6 +7061,17 @@ group,3,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.88065,-1.1193499999999998,2,2,Personality,0.653406
 group,3,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,5.45485,1.45485,2,2,Personality,0.494983
 group,3,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.0,-5.0,2,2,Personality,0.222222
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,5.056649999999999,0.05664999999999987,2,2,Diplomacy,0.450739
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,8.0,0.0,2,2,Diplomacy,0.777778
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,8.0,0.0,2,2,Diplomacy,0.777778
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.49895,-4.501049999999999,2,2,Diplomacy,0.277661
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.0,1.0,2,2,Diplomacy,0.666667
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.46145,-6.53855,2,2,Personality,0.162383
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,7.5952,0.5951999999999997,2,2,Personality,0.7328
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.70165,-1.29835,2,2,Personality,0.189072
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,5.4036,-2.5964,2,2,Personality,0.489289
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,4.0,0.0,2,2,Personality,0.333333
+group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0,-5.0,2,2,Personality,0.222222
 group,3,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,5.1287,0.12869999999999981,2,2,Diplomacy,0.458744
 group,3,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.98235,0.9823500000000003,2,2,Diplomacy,0.886928
 group,3,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.162749999999999,1.16275,2,2,Diplomacy,0.906972
@@ -6731,6 +7094,17 @@ group,3,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,7.231199999999999,-0.7688000000000001,2,2,Personality,0.692356
 group,3,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,4.1754,0.17540000000000022,2,2,Personality,0.352822
 group,3,0,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,6.3024000000000004,-1.6976,2,2,Personality,0.589156
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,8.06035,-0.9396499999999999,2,2,Personality,0.784483
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,3.0,-1.0,2,2,Personality,0.222222
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.0,-1.0,2,2,Personality,0.222222
+group,3,0,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
 baseline,3,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,1.0,,8,8,Diplomacy,0.0
 baseline,3,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,4.0,,8,8,Diplomacy,0.333333
 baseline,3,1,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,5.0,,8,8,Diplomacy,0.444444
@@ -7105,6 +7479,17 @@ group,3,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
 group,3,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
 group,3,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.04295,-2.95705,2,2,Personality,0.226994
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,2.0799,1.0798999999999999,2,2,Diplomacy,0.119989
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,4.0,0.0,2,2,Diplomacy,0.333333
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,5.0464,0.04640000000000022,2,2,Diplomacy,0.4496
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,5.44745,-1.55255,2,2,Diplomacy,0.494161
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,5.98065,2.98065,2,2,Diplomacy,0.553406
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.3622,-4.6378,2,2,Personality,0.151356
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.16915,4.16915,2,2,Personality,0.463239
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,4.40045,-5.59955,2,2,Personality,0.377828
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
+group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,5.414149999999999,-0.5858500000000002,2,2,Personality,0.490461
 group,3,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,1.02855,0.028549999999999964,2,2,Diplomacy,0.003172
 group,3,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,3.8169000000000004,-0.18309999999999982,2,2,Diplomacy,0.312989
 group,3,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.7144,2.7144000000000004,2,2,Diplomacy,0.746044
@@ -7127,6 +7512,17 @@ group,3,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,3.0425,0.04249999999999998,2,2,Personality,0.226944
 group,3,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,6.08495,0.08495000000000008,2,2,Personality,0.564994
 group,3,1,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,5.12865,-0.8713500000000001,2,2,Personality,0.458739
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,1.0509,0.050899999999999945,2,2,Diplomacy,0.005656
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,1.0,2,2,Diplomacy,0.444444
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0,0.0,2,2,Personality,0.0
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,10.0,0.0,2,2,Personality,1.0
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,3.0,0.0,2,2,Personality,0.222222
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.0839,-0.9160999999999997,2,2,Personality,0.453767
+group,3,1,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,6.3454999999999995,0.3454999999999999,2,2,Personality,0.593944
 baseline,3,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,8.0,,8,8,Diplomacy,0.777778
 baseline,3,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,5.0,,8,8,Diplomacy,0.444444
 baseline,3,2,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,6.0,,8,8,Diplomacy,0.555556
@@ -7367,7 +7763,7 @@ group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,pe
 group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_forgiveness_avg,7.128699999999999,2.1287,3,3,Personality,0.680967
 group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_meanness_avg,2.8959333333333332,-5.104066666666667,3,3,Personality,0.210659
 group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_neediness_avg,5.9241,-4.0759,3,3,Personality,0.547122
-group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_chattiness_avg,7.5001999999999995,1.5002000000000002,3,3,Personality,0.722244
+group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_chattiness_avg,7.5002,1.5002000000000002,3,3,Personality,0.722244
 group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,persona_deceptive_bias_avg,4.621366666666667,-3.378633333333333,3,3,Personality,0.402374
 group,3,2,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,persona_diplomatic_balance_avg,8.0306,0.03059999999999974,2,2,Diplomacy,0.781178
 group,3,2,Qwen-3.6-27B-Simple,Qwen-3.6-27B-Simple,Every-turn,Qwen-3.6-27B-Simple | Every-turn,persona_friendliness_avg,6.237,1.237,2,2,Diplomacy,0.581889
@@ -7501,6 +7897,17 @@ group,3,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,7.0,-3.0,2,2,Personality,0.666667
 group,3,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,6.0,0.0,2,2,Personality,0.555556
 group,3,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-6.0,2,2,Personality,0.111111
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,8.0194,0.019399999999999196,1,1,Diplomacy,0.779933
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,2.0,1,1,Diplomacy,0.666667
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,6.0,0.0,1,1,Diplomacy,0.555556
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,5.3871,-3.6129,1,1,Diplomacy,0.487456
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,4.0,1,1,Diplomacy,0.777778
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.3161,-7.6838999999999995,1,1,Personality,0.146233
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.0,0.0,1,1,Personality,0.444444
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.2129,-5.787100000000001,1,1,Personality,0.134767
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.3226,-2.6773999999999996,1,1,Personality,0.702511
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,6.0,0.0,1,1,Personality,0.555556
+group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-6.0,1,1,Personality,0.111111
 group,3,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,8.02005,0.020049999999999457,2,2,Diplomacy,0.780006
 group,3,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,7.97805,2.97805,2,2,Diplomacy,0.775339
 group,3,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,8.552399999999999,2.5523999999999996,2,2,Diplomacy,0.839156
@@ -7523,6 +7930,17 @@ group,3,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,10.0,0.0,2,2,Personality,1.0
 group,3,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,6.0373,0.03730000000000011,2,2,Personality,0.5597
 group,3,2,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,8.0,0.0,2,2,Personality,0.777778
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.00215,-1.9978500000000001,2,2,Diplomacy,0.666906
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,3.0,-1.0,2,2,Diplomacy,0.222222
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,10.0,0.0,2,2,Personality,1.0
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,9.6961,-0.3039000000000005,2,2,Personality,0.966233
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,3,2,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
 baseline,3,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,3,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,1.0,,8,8,Diplomacy,0.0
 baseline,3,3,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,1.0,,8,8,Diplomacy,0.0
@@ -7897,6 +8315,17 @@ group,3,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,8.167200000000001,0.16720000000000024,2,2,Personality,0.796356
 group,3,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.8384,0.8384,2,2,Personality,0.204267
 group,3,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,4.0,0.0,2,2,Personality,0.333333
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.0008,0.0007999999999999119,3,3,Diplomacy,0.888978
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,6.0,3,3,Diplomacy,0.666667
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,7.0,6.0,3,3,Diplomacy,0.666667
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,5.189566666666667,-0.8104333333333334,3,3,Diplomacy,0.465507
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,6.333333333333333,1.3333333333333333,3,3,Diplomacy,0.592593
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.939633333333333,-3.060366666666667,3,3,Personality,0.215515
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,4.0,3,3,Personality,0.555556
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.7514000000000003,-7.2486,3,3,Personality,0.1946
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,5.333333333333333,-2.6666666666666665,3,3,Personality,0.481481
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.0,0.0,3,3,Personality,0.111111
+group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,4.0,0.0,3,3,Personality,0.333333
 group,3,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.00675,0.006750000000000256,2,2,Diplomacy,0.889639
 group,3,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,7.415850000000001,6.415850000000001,2,2,Diplomacy,0.712872
 group,3,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.15505,6.15505,2,2,Diplomacy,0.683894
@@ -7919,6 +8348,17 @@ group,3,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,8.0,0.0,2,2,Personality,0.777778
 group,3,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,2.4395,0.4395,2,2,Personality,0.159944
 group,3,3,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.0,0.0,2,2,Personality,0.333333
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,8.074950000000001,-0.9250499999999997,2,2,Diplomacy,0.786106
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,1.0,0.0,2,2,Diplomacy,0.0
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,1.0,0.0,2,2,Diplomacy,0.0
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,5.002,-0.9980000000000002,2,2,Diplomacy,0.444667
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,6.8671500000000005,0.8671500000000001,2,2,Personality,0.651906
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0,-1.0,2,2,Personality,0.0
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,10.0,0.0,2,2,Personality,1.0
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
+group,3,3,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,4.2605,0.26049999999999995,2,2,Personality,0.362278
 baseline,3,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,3,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,3,4,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,8.0,,8,8,Diplomacy,0.777778
@@ -8293,6 +8733,17 @@ group,3,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.0,0.0,2,2,Personality,0.555556
 group,3,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,5.0,0.0,2,2,Personality,0.444444
 group,3,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,0.0,2,2,Personality,0.111111
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,3.4200666666666666,0.42006666666666675,3,3,Diplomacy,0.268896
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,6.0,0.0,3,3,Diplomacy,0.555556
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,8.0,0.0,3,3,Diplomacy,0.777778
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,1.553,-0.44700000000000006,3,3,Diplomacy,0.061444
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,9.0,0.0,3,3,Diplomacy,0.888889
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,1.7819,-0.21810000000000004,3,3,Personality,0.086878
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.948166666666666,4.948166666666666,3,3,Personality,0.549796
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.7850333333333332,-5.214966666666666,3,3,Personality,0.198337
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,6.0,0.0,3,3,Personality,0.555556
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,5.0,0.0,3,3,Personality,0.444444
+group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,0.0,3,3,Personality,0.111111
 group,3,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,3.04895,0.04895000000000005,2,2,Diplomacy,0.227661
 group,3,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,6.62035,0.6203500000000002,2,2,Diplomacy,0.624483
 group,3,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,8.292850000000001,0.2928500000000005,2,2,Diplomacy,0.810317
@@ -8315,6 +8766,17 @@ group,3,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,5.5366,-0.46340000000000003,2,2,Personality,0.504067
 group,3,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,4.381600000000001,-0.6183999999999998,2,2,Personality,0.375733
 group,3,4,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,1.885,-0.11499999999999999,2,2,Personality,0.098333
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0,1.0,2,2,Diplomacy,0.666667
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,2.5002,0.5002,2,2,Diplomacy,0.166689
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,9.0,0.0,2,2,Diplomacy,0.888889
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,2.0,0.0,2,2,Personality,0.111111
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.0,0.0,2,2,Personality,0.0
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,-1.0,2,2,Personality,0.666667
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,6.0,0.0,2,2,Personality,0.555556
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,5.0,0.0,2,2,Personality,0.444444
+group,3,4,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,2.0,0.0,2,2,Personality,0.111111
 baseline,3,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,10.0,,8,8,Diplomacy,1.0
 baseline,3,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,3,5,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,8.0,,8,8,Diplomacy,0.777778
@@ -8689,6 +9151,17 @@ group,3,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,6.0,0.0,2,2,Personality,0.555556
 group,3,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,4.0,0.0,2,2,Personality,0.333333
 group,3,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,2,2,Personality,0.111111
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,10.0,0.0,1,1,Diplomacy,1.0
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,9.0,0.0,1,1,Diplomacy,0.888889
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,8.0,0.0,1,1,Diplomacy,0.777778
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.992,-3.008,1,1,Diplomacy,0.332444
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,8.0,2.0,1,1,Diplomacy,0.777778
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,3.0,-4.0,1,1,Personality,0.222222
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.0,0.0,1,1,Personality,0.444444
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.8587,-1.1413000000000002,1,1,Personality,0.206522
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,6.0,0.0,1,1,Personality,0.555556
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,4.0,0.0,1,1,Personality,0.333333
+group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,2.0,-5.0,1,1,Personality,0.111111
 group,3,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.992049999999999,-0.007950000000000124,2,2,Diplomacy,0.999117
 group,3,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,9.733450000000001,0.7334500000000004,2,2,Diplomacy,0.970383
 group,3,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,9.5681,1.5680999999999994,2,2,Diplomacy,0.952011
@@ -8711,6 +9184,17 @@ group,3,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,5.494949999999999,-0.5050500000000002,2,2,Personality,0.499439
 group,3,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.9829,-0.017100000000000115,2,2,Personality,0.331433
 group,3,5,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,4.15795,-2.8420500000000004,2,2,Personality,0.350883
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,9.43555,-0.5644499999999999,2,2,Diplomacy,0.937283
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,7.0084,-1.9916,2,2,Diplomacy,0.6676
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,0.0,2,2,Diplomacy,0.666667
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.0,0.0,2,2,Personality,0.444444
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,3.0023,-0.9977,2,2,Personality,0.222478
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,5.0,-1.0,2,2,Personality,0.444444
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,3.9178,-0.08219999999999983,2,2,Personality,0.3242
+group,3,5,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,0.0,2,2,Personality,0.666667
 baseline,3,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,9.0,,8,8,Diplomacy,0.888889
 baseline,3,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,6.0,,8,8,Diplomacy,0.555556
 baseline,3,6,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,5.0,,8,8,Diplomacy,0.444444
@@ -9008,17 +9492,17 @@ group,3,6,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-
 group,3,6,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_neediness_avg,6.37285,-0.6271499999999999,2,2,Personality,0.596983
 group,3,6,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_chattiness_avg,9.06095,7.06095,2,2,Personality,0.895661
 group,3,6,Qwen-3.8-Flash-Next-Simple,Qwen-3.8-Flash-Next-Simple,Every-turn,Qwen-3.8-Flash-Next-Simple | Every-turn,persona_deceptive_bias_avg,3.4682000000000004,-5.5318000000000005,2,2,Personality,0.274244
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,9.0139,0.013900000000000764,3,3,Diplomacy,0.890433
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,6.910733333333333,0.9107333333333333,3,3,Diplomacy,0.656748
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,7.9665,2.9665,3,3,Diplomacy,0.774056
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,5.825233333333333,-2.1747666666666667,3,3,Diplomacy,0.536137
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.547166666666667,3.547166666666667,3,3,Diplomacy,0.616352
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.121166666666667,-3.878833333333333,3,3,Personality,0.235685
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,8.062199999999999,2.0622,3,3,Personality,0.784689
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,2.380333333333333,-4.619666666666666,3,3,Personality,0.15337
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,7.177233333333334,0.177233333333333,3,3,Personality,0.686359
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,8.713433333333333,6.713433333333334,3,3,Personality,0.857048
-group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,3.685266666666667,-5.314733333333333,3,3,Personality,0.298363
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_diplomatic_balance_avg,9.01455,0.014550000000000729,2,2,Diplomacy,0.890506
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_friendliness_avg,6.3199000000000005,0.3199000000000001,2,2,Diplomacy,0.5911
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_with_willingness_avg,8.2964,3.2964,2,2,Diplomacy,0.810711
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_work_against_willingness_avg,5.23365,-2.76635,2,2,Diplomacy,0.470406
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_loyalty_avg,6.37535,3.37535,2,2,Diplomacy,0.597261
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_denounce_willingness_avg,3.5557,-3.4443,2,2,Personality,0.283967
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_forgiveness_avg,7.88635,1.8863499999999997,2,2,Personality,0.76515
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_meanness_avg,2.2932,-4.706799999999999,2,2,Personality,0.143689
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_neediness_avg,7.09045,0.0904499999999997,2,2,Personality,0.676717
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_chattiness_avg,8.944099999999999,6.9441,2,2,Personality,0.882678
+group,3,6,Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,Qwen-3.8-Flash-Next-Simple | Per-5,persona_deceptive_bias_avg,3.99745,-5.002549999999999,2,2,Personality,0.33305
 group,3,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_diplomatic_balance_avg,9.0,0.0,2,2,Diplomacy,0.888889
 group,3,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_friendliness_avg,6.0,0.0,2,2,Diplomacy,0.555556
 group,3,6,Gemma-4-Simple,Gemma-4-Simple,Every-turn,Gemma-4-Simple | Every-turn,persona_work_with_willingness_avg,5.99785,0.9978500000000001,2,2,Diplomacy,0.555317
@@ -9085,6 +9569,17 @@ group,3,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
 group,3,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,2.3392999999999997,0.33929999999999993,2,2,Personality,0.148811
 group,3,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,2.5,-6.5,2,2,Personality,0.166667
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,9.0029,0.0029000000000003467,1,1,Diplomacy,0.889211
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,7.0,1.0,1,1,Diplomacy,0.666667
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,7.0,2.0,1,1,Diplomacy,0.666667
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.74,-4.26,1,1,Diplomacy,0.304444
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,7.0,4.0,1,1,Diplomacy,0.666667
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,4.0,-3.0,1,1,Personality,0.333333
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,6.0,0.0,1,1,Personality,0.555556
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.7886,-4.211399999999999,1,1,Personality,0.198733
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,7.0,0.0,1,1,Personality,0.666667
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,2.0,0.0,1,1,Personality,0.111111
+group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0,-6.0,1,1,Personality,0.222222
 group,3,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,9.0145,0.014499999999999957,2,2,Diplomacy,0.8905
 group,3,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,8.90855,2.90855,2,2,Diplomacy,0.878728
 group,3,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.622850000000001,2.6228500000000006,2,2,Diplomacy,0.735872
@@ -9107,6 +9602,17 @@ group,3,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,7.5319,0.5318999999999998,2,2,Personality,0.725767
 group,3,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.37455,1.3745500000000002,2,2,Personality,0.263839
 group,3,6,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,6.8743,-2.1257,2,2,Personality,0.6527
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,8.990649999999999,-0.009350000000000414,2,2,Diplomacy,0.88785
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,5.0,-1.0,2,2,Diplomacy,0.444444
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,7.0,-1.0,2,2,Diplomacy,0.666667
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,5.99205,-0.007950000000000124,2,2,Personality,0.554672
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,2.0,0.0,2,2,Personality,0.111111
+group,3,6,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,9.0,0.0,2,2,Personality,0.888889
 baseline,3,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_diplomatic_balance_avg,5.0,,8,8,Diplomacy,0.444444
 baseline,3,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_friendliness_avg,3.0,,8,8,Diplomacy,0.222222
 baseline,3,7,Matched in-game AI,Matched in-game AI,,Matched in-game AI,persona_work_with_willingness_avg,2.0,,8,8,Diplomacy,0.111111
@@ -9481,6 +9987,17 @@ group,3,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple |
 group,3,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_neediness_avg,5.0,0.0,2,2,Personality,0.444444
 group,3,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_chattiness_avg,4.0,0.0,2,2,Personality,0.333333
 group,3,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,persona_deceptive_bias_avg,3.0,-5.0,2,2,Personality,0.222222
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_diplomatic_balance_avg,5.1171999999999995,0.11720000000000012,3,3,Diplomacy,0.457467
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_friendliness_avg,5.360266666666667,2.3602666666666665,3,3,Diplomacy,0.484474
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_with_willingness_avg,5.879733333333333,3.879733333333333,3,3,Diplomacy,0.542193
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_work_against_willingness_avg,3.5238333333333336,-2.4761666666666664,3,3,Diplomacy,0.280426
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_loyalty_avg,6.516333333333333,4.516333333333333,3,3,Diplomacy,0.612926
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_denounce_willingness_avg,2.0782333333333334,-6.921766666666667,3,3,Personality,0.119804
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_forgiveness_avg,5.0735,3.0735000000000006,3,3,Personality,0.452611
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_meanness_avg,2.568166666666667,-4.4318333333333335,3,3,Personality,0.174241
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_neediness_avg,4.582866666666667,-0.4171333333333333,3,3,Personality,0.398096
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_chattiness_avg,4.0,0.0,3,3,Personality,0.333333
+group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,persona_deceptive_bias_avg,3.0893333333333337,-4.910666666666667,3,3,Personality,0.232148
 group,3,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_diplomatic_balance_avg,5.10045,0.10044999999999993,2,2,Diplomacy,0.455606
 group,3,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_friendliness_avg,5.89375,2.89375,2,2,Diplomacy,0.54375
 group,3,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,persona_work_with_willingness_avg,7.24455,5.24455,2,2,Diplomacy,0.693839
@@ -9503,3 +10020,14 @@ group,3,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3
 group,3,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_neediness_avg,4.66625,-0.3337500000000002,2,2,Personality,0.407361
 group,3,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_chattiness_avg,3.8632999999999997,-0.13670000000000004,2,2,Personality,0.318144
 group,3,7,Nemotron-3-Super-Simple-Per-5,Nemotron-3-Super-Simple,Per-5,Nemotron-3-Super-Simple | Per-5,persona_deceptive_bias_avg,7.25985,-0.7401500000000003,2,2,Personality,0.695539
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_diplomatic_balance_avg,5.0,0.0,2,2,Diplomacy,0.444444
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_friendliness_avg,3.0,0.0,2,2,Diplomacy,0.222222
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_with_willingness_avg,2.0,0.0,2,2,Diplomacy,0.111111
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_work_against_willingness_avg,6.8047,0.8047,2,2,Diplomacy,0.644967
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_loyalty_avg,2.0,0.0,2,2,Diplomacy,0.111111
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_denounce_willingness_avg,9.768550000000001,0.7685500000000003,2,2,Personality,0.974283
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_forgiveness_avg,1.5746,-0.4254,2,2,Personality,0.063844
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_meanness_avg,7.0,0.0,2,2,Personality,0.666667
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_neediness_avg,5.0,0.0,2,2,Personality,0.444444
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_chattiness_avg,4.9935,0.9935,2,2,Personality,0.443722
+group,3,7,Jev!,Jev!,Every-turn,Jev! | Every-turn,persona_deceptive_bias_avg,7.0,-1.0,2,2,Personality,0.666667
