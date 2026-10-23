@@ -1423,7 +1423,7 @@ Gemma-4-Simple,Per-5,0.81,0.457097,48
 Gemma-4-Simple,Per-5,0.82,0.456421,48
 Gemma-4-Simple,Per-5,0.83,0.455865,48
 Gemma-4-Simple,Per-5,0.84,0.455259,48
-Gemma-4-Simple,Per-5,0.85,0.454672,48
+Gemma-4-Simple,Per-5,0.85,0.454671,48
 Gemma-4-Simple,Per-5,0.86,0.454182,48
 Gemma-4-Simple,Per-5,0.87,0.453897,48
 Gemma-4-Simple,Per-5,0.88,0.453574,48
@@ -2772,7 +2772,7 @@ Qwen-3.8-27B-Simple,Per-5,0.7,0.470701,48
 Qwen-3.8-27B-Simple,Per-5,0.71,0.469899,48
 Qwen-3.8-27B-Simple,Per-5,0.72,0.469005,48
 Qwen-3.8-27B-Simple,Per-5,0.73,0.468049,48
-Qwen-3.8-27B-Simple,Per-5,0.74,0.467146,48
+Qwen-3.8-27B-Simple,Per-5,0.74,0.467145,48
 Qwen-3.8-27B-Simple,Per-5,0.75,0.466293,48
 Qwen-3.8-27B-Simple,Per-5,0.76,0.465178,48
 Qwen-3.8-27B-Simple,Per-5,0.77,0.464098,48
@@ -2804,7 +2804,7 @@ Qwen-3.8-Flash-Next-Simple,Every-turn,0.22,0.513188,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.23,0.507307,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.24,0.506176,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.25,0.504512,48
-Qwen-3.8-Flash-Next-Simple,Every-turn,0.26,0.502988,48
+Qwen-3.8-Flash-Next-Simple,Every-turn,0.26,0.502987,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.27,0.501644,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.28,0.499515,48
 Qwen-3.8-Flash-Next-Simple,Every-turn,0.29,0.498199,48

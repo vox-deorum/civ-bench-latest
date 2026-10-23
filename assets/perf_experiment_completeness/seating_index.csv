@@ -1,8 +1,7 @@
 experiment,file,total_cells,completed_cells,open_cells
-claude-opus-5.5-standard-fixed,seating/claude-opus-5.5-standard-fixed.seating.json,24,7,17
-claude-sonnet-5.5-standard-fixed,seating/claude-sonnet-5.5-standard-fixed.seating.json,24,5,19
-deepseek-v4.1-flash-standard-fixed,seating/deepseek-v4.1-flash-standard-fixed.seating.json,24,9,15
-glm-5.3-standard-fixed,seating/glm-5.3-standard-fixed.seating.json,24,5,19
-gpt-6-astra-standard-fixed-files-per-5,seating/gpt-6-astra-standard-fixed-files-per-5.seating.json,24,1,23
-gpt-6.1-sol-standard-fixed-files-per-5,seating/gpt-6.1-sol-standard-fixed-files-per-5.seating.json,24,4,20
-minimax-m2.7-standard-fixed-files-per-5,seating/minimax-m2.7-standard-fixed-files-per-5.seating.json,24,1,23
+claude-opus-5.5-standard-fixed,seating/claude-opus-5.5-standard-fixed.seating.json,24,12,12
+claude-sonnet-5.5-standard-fixed,seating/claude-sonnet-5.5-standard-fixed.seating.json,24,15,9
+deepseek-v4.1-flash-standard-fixed,seating/deepseek-v4.1-flash-standard-fixed.seating.json,24,14,10
+glm-5.3-standard-fixed,seating/glm-5.3-standard-fixed.seating.json,24,9,15
+gpt-6.1-sol-standard-fixed-files-per-5,seating/gpt-6.1-sol-standard-fixed-files-per-5.seating.json,24,5,19
+minimax-m2.7-standard-fixed-files-per-5,seating/minimax-m2.7-standard-fixed-files-per-5.seating.json,24,3,21

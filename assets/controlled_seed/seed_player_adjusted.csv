@@ -81,7 +81,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,DeepSeek-V4-Flash-Simple,Every-turn,1.0,0.513866,2
 1,0,DeepSeek-V4-Flash-Simple,Per-5,0.21,0.596575,2
 1,0,DeepSeek-V4-Flash-Simple,Per-5,0.22,0.586587,2
-1,0,DeepSeek-V4-Flash-Simple,Per-5,0.23,0.587218,2
+1,0,DeepSeek-V4-Flash-Simple,Per-5,0.23,0.587219,2
 1,0,DeepSeek-V4-Flash-Simple,Per-5,0.24,0.581354,2
 1,0,DeepSeek-V4-Flash-Simple,Per-5,0.25,0.574375,2
 1,0,DeepSeek-V4-Flash-Simple,Per-5,0.26,0.571062,2
@@ -326,7 +326,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,GLM-5.2-Simple,Every-turn,0.25,0.511836,2
 1,0,GLM-5.2-Simple,Every-turn,0.26,0.510833,2
 1,0,GLM-5.2-Simple,Every-turn,0.27,0.510933,2
-1,0,GLM-5.2-Simple,Every-turn,0.28,0.511038,2
+1,0,GLM-5.2-Simple,Every-turn,0.28,0.511037,2
 1,0,GLM-5.2-Simple,Every-turn,0.29,0.510409,2
 1,0,GLM-5.2-Simple,Every-turn,0.3,0.511588,2
 1,0,GLM-5.2-Simple,Every-turn,0.31,0.511772,2
@@ -646,7 +646,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,GLM-5.3-Simple,Per-5,0.25,0.52246,2
 1,0,GLM-5.3-Simple,Per-5,0.26,0.534339,2
 1,0,GLM-5.3-Simple,Per-5,0.27,0.538757,2
-1,0,GLM-5.3-Simple,Per-5,0.28,0.544082,2
+1,0,GLM-5.3-Simple,Per-5,0.28,0.544083,2
 1,0,GLM-5.3-Simple,Per-5,0.29,0.548312,2
 1,0,GLM-5.3-Simple,Per-5,0.3,0.552055,2
 1,0,GLM-5.3-Simple,Per-5,0.31,0.552199,2
@@ -2063,7 +2063,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,Nemotron-3-Super-Simple,Every-turn,0.82,0.495941,2
 1,0,Nemotron-3-Super-Simple,Every-turn,0.83,0.495759,2
 1,0,Nemotron-3-Super-Simple,Every-turn,0.84,0.495541,2
-1,0,Nemotron-3-Super-Simple,Every-turn,0.85,0.495332,2
+1,0,Nemotron-3-Super-Simple,Every-turn,0.85,0.495331,2
 1,0,Nemotron-3-Super-Simple,Every-turn,0.86,0.495096,2
 1,0,Nemotron-3-Super-Simple,Every-turn,0.87,0.494939,2
 1,0,Nemotron-3-Super-Simple,Every-turn,0.88,0.494839,2
@@ -2337,7 +2337,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,Qwen-3.5-Simple,Every-turn,0.36,0.499515,2
 1,0,Qwen-3.5-Simple,Every-turn,0.37,0.500427,2
 1,0,Qwen-3.5-Simple,Every-turn,0.38,0.500871,2
-1,0,Qwen-3.5-Simple,Every-turn,0.39,0.501101,2
+1,0,Qwen-3.5-Simple,Every-turn,0.39,0.501102,2
 1,0,Qwen-3.5-Simple,Every-turn,0.4,0.501116,2
 1,0,Qwen-3.5-Simple,Every-turn,0.41,0.500996,2
 1,0,Qwen-3.5-Simple,Every-turn,0.42,0.500813,2
@@ -3059,7 +3059,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,0,Vanilla,Every-turn,0.38,0.557035,228
 1,0,Vanilla,Every-turn,0.39,0.557351,228
 1,0,Vanilla,Every-turn,0.4,0.557658,228
-1,0,Vanilla,Every-turn,0.41,0.557905,228
+1,0,Vanilla,Every-turn,0.41,0.557906,228
 1,0,Vanilla,Every-turn,0.42,0.55806,228
 1,0,Vanilla,Every-turn,0.43,0.55815,228
 1,0,Vanilla,Every-turn,0.44,0.558147,228
@@ -3878,7 +3878,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,1,GLM-5.3-Simple,Per-5,0.57,0.552776,2
 1,1,GLM-5.3-Simple,Per-5,0.58,0.555347,2
 1,1,GLM-5.3-Simple,Per-5,0.59,0.557961,2
-1,1,GLM-5.3-Simple,Per-5,0.6,0.560241,2
+1,1,GLM-5.3-Simple,Per-5,0.6,0.56024,2
 1,1,GLM-5.3-Simple,Per-5,0.61,0.561344,2
 1,1,GLM-5.3-Simple,Per-5,0.62,0.561215,2
 1,1,GLM-5.3-Simple,Per-5,0.63,0.561152,2
@@ -3926,7 +3926,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,1,GPT-6-Astra-Simple,Per-5,0.25,0.477151,2
 1,1,GPT-6-Astra-Simple,Per-5,0.26,0.47686,2
 1,1,GPT-6-Astra-Simple,Per-5,0.27,0.474592,2
-1,1,GPT-6-Astra-Simple,Per-5,0.28,0.47771,2
+1,1,GPT-6-Astra-Simple,Per-5,0.28,0.477711,2
 1,1,GPT-6-Astra-Simple,Per-5,0.29,0.475651,2
 1,1,GPT-6-Astra-Simple,Per-5,0.3,0.47116,2
 1,1,GPT-6-Astra-Simple,Per-5,0.31,0.470171,2
@@ -4491,7 +4491,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,1,Gemma-4-Simple,Every-turn,0.3,0.509932,2
 1,1,Gemma-4-Simple,Every-turn,0.31,0.508785,2
 1,1,Gemma-4-Simple,Every-turn,0.32,0.50594,2
-1,1,Gemma-4-Simple,Every-turn,0.33,0.503284,2
+1,1,Gemma-4-Simple,Every-turn,0.33,0.503283,2
 1,1,Gemma-4-Simple,Every-turn,0.34,0.500877,2
 1,1,Gemma-4-Simple,Every-turn,0.35,0.498575,2
 1,1,Gemma-4-Simple,Every-turn,0.36,0.497889,2
@@ -5335,7 +5335,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,1,Nemotron-3-Super-Simple,Per-5,0.74,0.469113,2
 1,1,Nemotron-3-Super-Simple,Per-5,0.75,0.469227,2
 1,1,Nemotron-3-Super-Simple,Per-5,0.76,0.469176,2
-1,1,Nemotron-3-Super-Simple,Per-5,0.77,0.469075,2
+1,1,Nemotron-3-Super-Simple,Per-5,0.77,0.469074,2
 1,1,Nemotron-3-Super-Simple,Per-5,0.78,0.46895,2
 1,1,Nemotron-3-Super-Simple,Per-5,0.79,0.468875,2
 1,1,Nemotron-3-Super-Simple,Per-5,0.8,0.468793,2
@@ -5608,7 +5608,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,1,Qwen-3.5-Simple,Per-5,0.27,0.55268,2
 1,1,Qwen-3.5-Simple,Per-5,0.28,0.55863,2
 1,1,Qwen-3.5-Simple,Per-5,0.29,0.5626,2
-1,1,Qwen-3.5-Simple,Per-5,0.3,0.563855,2
+1,1,Qwen-3.5-Simple,Per-5,0.3,0.563854,2
 1,1,Qwen-3.5-Simple,Per-5,0.31,0.565349,2
 1,1,Qwen-3.5-Simple,Per-5,0.32,0.568576,2
 1,1,Qwen-3.5-Simple,Per-5,0.33,0.572716,2
@@ -6834,7 +6834,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,GLM-5.2-Simple,Per-5,0.53,0.589175,2
 1,2,GLM-5.2-Simple,Per-5,0.54,0.592425,2
 1,2,GLM-5.2-Simple,Per-5,0.55,0.596145,2
-1,2,GLM-5.2-Simple,Per-5,0.56,0.59776,2
+1,2,GLM-5.2-Simple,Per-5,0.56,0.597761,2
 1,2,GLM-5.2-Simple,Per-5,0.57,0.599369,2
 1,2,GLM-5.2-Simple,Per-5,0.58,0.600623,2
 1,2,GLM-5.2-Simple,Per-5,0.59,0.601537,2
@@ -7127,7 +7127,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,GPT-6-Astra-Simple,Per-5,0.26,0.480759,3
 1,2,GPT-6-Astra-Simple,Per-5,0.27,0.480327,3
 1,2,GPT-6-Astra-Simple,Per-5,0.28,0.483208,3
-1,2,GPT-6-Astra-Simple,Per-5,0.29,0.482862,3
+1,2,GPT-6-Astra-Simple,Per-5,0.29,0.482863,3
 1,2,GPT-6-Astra-Simple,Per-5,0.3,0.479396,3
 1,2,GPT-6-Astra-Simple,Per-5,0.31,0.474983,3
 1,2,GPT-6-Astra-Simple,Per-5,0.32,0.469399,3
@@ -7458,7 +7458,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,GPT-6.1-Sol-Simple,Per-5,0.37,0.475858,2
 1,2,GPT-6.1-Sol-Simple,Per-5,0.38,0.474281,2
 1,2,GPT-6.1-Sol-Simple,Per-5,0.39,0.473994,2
-1,2,GPT-6.1-Sol-Simple,Per-5,0.4,0.475182,2
+1,2,GPT-6.1-Sol-Simple,Per-5,0.4,0.475183,2
 1,2,GPT-6.1-Sol-Simple,Per-5,0.41,0.477033,2
 1,2,GPT-6.1-Sol-Simple,Per-5,0.42,0.479893,2
 1,2,GPT-6.1-Sol-Simple,Per-5,0.43,0.480903,2
@@ -7840,7 +7840,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Gemma-4-Simple,Per-5,0.99,0.535085,2
 1,2,Gemma-4-Simple,Per-5,1.0,0.534723,2
 1,2,Jev!,Every-turn,0.21,0.398392,2
-1,2,Jev!,Every-turn,0.22,0.382028,2
+1,2,Jev!,Every-turn,0.22,0.382029,2
 1,2,Jev!,Every-turn,0.23,0.400057,2
 1,2,Jev!,Every-turn,0.24,0.406713,2
 1,2,Jev!,Every-turn,0.25,0.413469,2
@@ -8372,7 +8372,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,MiniMax-M3-Simple,Per-5,0.71,0.561588,2
 1,2,MiniMax-M3-Simple,Per-5,0.72,0.563966,2
 1,2,MiniMax-M3-Simple,Per-5,0.73,0.565908,2
-1,2,MiniMax-M3-Simple,Per-5,0.74,0.567659,2
+1,2,MiniMax-M3-Simple,Per-5,0.74,0.567658,2
 1,2,MiniMax-M3-Simple,Per-5,0.75,0.568922,2
 1,2,MiniMax-M3-Simple,Per-5,0.76,0.571906,2
 1,2,MiniMax-M3-Simple,Per-5,0.77,0.573988,2
@@ -8479,7 +8479,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Nemotron-3-Super-Simple,Every-turn,0.98,0.657214,2
 1,2,Nemotron-3-Super-Simple,Every-turn,0.99,0.656428,2
 1,2,Nemotron-3-Super-Simple,Every-turn,1.0,0.655752,2
-1,2,Nemotron-3-Super-Simple,Per-5,0.21,0.580212,2
+1,2,Nemotron-3-Super-Simple,Per-5,0.21,0.580213,2
 1,2,Nemotron-3-Super-Simple,Per-5,0.22,0.570456,2
 1,2,Nemotron-3-Super-Simple,Per-5,0.23,0.579065,2
 1,2,Nemotron-3-Super-Simple,Per-5,0.24,0.569512,2
@@ -8577,7 +8577,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Null,Every-turn,0.36,0.410231,2
 1,2,Null,Every-turn,0.37,0.406915,2
 1,2,Null,Every-turn,0.38,0.404388,2
-1,2,Null,Every-turn,0.39,0.403379,2
+1,2,Null,Every-turn,0.39,0.40338,2
 1,2,Null,Every-turn,0.4,0.403827,2
 1,2,Null,Every-turn,0.41,0.405284,2
 1,2,Null,Every-turn,0.42,0.405948,2
@@ -8726,7 +8726,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Qwen-3.5-Simple,Every-turn,0.25,0.474764,2
 1,2,Qwen-3.5-Simple,Every-turn,0.26,0.472291,2
 1,2,Qwen-3.5-Simple,Every-turn,0.27,0.473719,2
-1,2,Qwen-3.5-Simple,Every-turn,0.28,0.472174,2
+1,2,Qwen-3.5-Simple,Every-turn,0.28,0.472175,2
 1,2,Qwen-3.5-Simple,Every-turn,0.29,0.470938,2
 1,2,Qwen-3.5-Simple,Every-turn,0.3,0.470199,2
 1,2,Qwen-3.5-Simple,Every-turn,0.31,0.467668,2
@@ -8804,7 +8804,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Qwen-3.5-Simple,Per-5,0.23,0.459094,2
 1,2,Qwen-3.5-Simple,Per-5,0.24,0.459365,2
 1,2,Qwen-3.5-Simple,Per-5,0.25,0.462918,2
-1,2,Qwen-3.5-Simple,Per-5,0.26,0.461451,2
+1,2,Qwen-3.5-Simple,Per-5,0.26,0.461452,2
 1,2,Qwen-3.5-Simple,Per-5,0.27,0.46705,2
 1,2,Qwen-3.5-Simple,Per-5,0.28,0.469918,2
 1,2,Qwen-3.5-Simple,Per-5,0.29,0.469735,2
@@ -8863,7 +8863,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Qwen-3.5-Simple,Per-5,0.82,0.513023,2
 1,2,Qwen-3.5-Simple,Per-5,0.83,0.513117,2
 1,2,Qwen-3.5-Simple,Per-5,0.84,0.513127,2
-1,2,Qwen-3.5-Simple,Per-5,0.85,0.513085,2
+1,2,Qwen-3.5-Simple,Per-5,0.85,0.513086,2
 1,2,Qwen-3.5-Simple,Per-5,0.86,0.51316,2
 1,2,Qwen-3.5-Simple,Per-5,0.87,0.513288,2
 1,2,Qwen-3.5-Simple,Per-5,0.88,0.513384,2
@@ -9121,7 +9121,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Qwen-3.8-27B-Simple,Every-turn,1.0,0.705273,2
 1,2,Qwen-3.8-27B-Simple,Per-5,0.21,0.652192,2
 1,2,Qwen-3.8-27B-Simple,Per-5,0.22,0.649914,2
-1,2,Qwen-3.8-27B-Simple,Per-5,0.23,0.651918,2
+1,2,Qwen-3.8-27B-Simple,Per-5,0.23,0.651919,2
 1,2,Qwen-3.8-27B-Simple,Per-5,0.24,0.648946,2
 1,2,Qwen-3.8-27B-Simple,Per-5,0.25,0.64908,2
 1,2,Qwen-3.8-27B-Simple,Per-5,0.26,0.647521,2
@@ -9216,7 +9216,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.35,0.58171,2
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.36,0.580165,2
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.37,0.578317,2
-1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.38,0.576793,2
+1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.38,0.576792,2
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.39,0.576121,2
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.4,0.576077,2
 1,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.576752,2
@@ -9364,7 +9364,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Sonnet-5.5-Simple,Per-5,0.23,0.47749,2
 1,2,Sonnet-5.5-Simple,Per-5,0.24,0.47472,2
 1,2,Sonnet-5.5-Simple,Per-5,0.25,0.475138,2
-1,2,Sonnet-5.5-Simple,Per-5,0.26,0.47477,2
+1,2,Sonnet-5.5-Simple,Per-5,0.26,0.474771,2
 1,2,Sonnet-5.5-Simple,Per-5,0.27,0.48028,2
 1,2,Sonnet-5.5-Simple,Per-5,0.28,0.479978,2
 1,2,Sonnet-5.5-Simple,Per-5,0.29,0.477645,2
@@ -9424,7 +9424,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,2,Sonnet-5.5-Simple,Per-5,0.83,0.528166,2
 1,2,Sonnet-5.5-Simple,Per-5,0.84,0.529554,2
 1,2,Sonnet-5.5-Simple,Per-5,0.85,0.531287,2
-1,2,Sonnet-5.5-Simple,Per-5,0.86,0.534081,2
+1,2,Sonnet-5.5-Simple,Per-5,0.86,0.534082,2
 1,2,Sonnet-5.5-Simple,Per-5,0.87,0.536851,2
 1,2,Sonnet-5.5-Simple,Per-5,0.88,0.537497,2
 1,2,Sonnet-5.5-Simple,Per-5,0.89,0.537901,2
@@ -9656,7 +9656,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.75,0.570621,2
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.76,0.570143,2
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.77,0.569837,2
-1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.78,0.569731,2
+1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.78,0.569732,2
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.79,0.569531,2
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.8,0.568914,2
 1,3,DeepSeek-V4-Flash-Simple,Every-turn,0.81,0.568866,2
@@ -10584,7 +10584,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.43,0.427294,2
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.44,0.428707,2
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.45,0.429005,2
-1,3,GPT-6.1-Sol-Simple,Every-turn,0.46,0.428,2
+1,3,GPT-6.1-Sol-Simple,Every-turn,0.46,0.428001,2
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.47,0.42618,2
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.48,0.424351,2
 1,3,GPT-6.1-Sol-Simple,Every-turn,0.49,0.422395,2
@@ -10659,7 +10659,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,GPT-6.1-Sol-Simple,Per-5,0.38,0.471899,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.39,0.47712,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.4,0.481978,2
-1,3,GPT-6.1-Sol-Simple,Per-5,0.41,0.488435,2
+1,3,GPT-6.1-Sol-Simple,Per-5,0.41,0.488436,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.42,0.493939,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.43,0.498706,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.44,0.50163,2
@@ -10681,7 +10681,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,GPT-6.1-Sol-Simple,Per-5,0.6,0.511502,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.61,0.512773,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.62,0.513862,2
-1,3,GPT-6.1-Sol-Simple,Per-5,0.63,0.516383,2
+1,3,GPT-6.1-Sol-Simple,Per-5,0.63,0.516384,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.64,0.518146,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.65,0.519166,2
 1,3,GPT-6.1-Sol-Simple,Per-5,0.66,0.520469,2
@@ -10907,7 +10907,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Gemma-4-Simple,Every-turn,0.46,0.601273,2
 1,3,Gemma-4-Simple,Every-turn,0.47,0.604455,2
 1,3,Gemma-4-Simple,Every-turn,0.48,0.60764,2
-1,3,Gemma-4-Simple,Every-turn,0.49,0.610948,2
+1,3,Gemma-4-Simple,Every-turn,0.49,0.610947,2
 1,3,Gemma-4-Simple,Every-turn,0.5,0.612796,2
 1,3,Gemma-4-Simple,Every-turn,0.51,0.614812,2
 1,3,Gemma-4-Simple,Every-turn,0.52,0.616334,2
@@ -11111,7 +11111,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Jev!,Every-turn,0.9,0.234111,2
 1,3,Jev!,Every-turn,0.91,0.232777,2
 1,3,Jev!,Every-turn,0.92,0.231259,2
-1,3,Jev!,Every-turn,0.93,0.229639,2
+1,3,Jev!,Every-turn,0.93,0.22964,2
 1,3,Jev!,Every-turn,0.94,0.227773,2
 1,3,Jev!,Every-turn,0.95,0.227076,2
 1,3,Jev!,Every-turn,0.96,0.226479,2
@@ -11186,7 +11186,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Kimi-K2.6-Simple,Every-turn,0.85,0.556619,2
 1,3,Kimi-K2.6-Simple,Every-turn,0.86,0.558722,2
 1,3,Kimi-K2.6-Simple,Every-turn,0.87,0.560217,2
-1,3,Kimi-K2.6-Simple,Every-turn,0.88,0.561159,2
+1,3,Kimi-K2.6-Simple,Every-turn,0.88,0.561158,2
 1,3,Kimi-K2.6-Simple,Every-turn,0.89,0.562433,2
 1,3,Kimi-K2.6-Simple,Every-turn,0.9,0.563347,2
 1,3,Kimi-K2.6-Simple,Every-turn,0.91,0.564209,2
@@ -11694,7 +11694,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Nemotron-3-Super-Simple,Per-5,0.33,0.504438,2
 1,3,Nemotron-3-Super-Simple,Per-5,0.34,0.50501,2
 1,3,Nemotron-3-Super-Simple,Per-5,0.35,0.503056,2
-1,3,Nemotron-3-Super-Simple,Per-5,0.36,0.50175,2
+1,3,Nemotron-3-Super-Simple,Per-5,0.36,0.501751,2
 1,3,Nemotron-3-Super-Simple,Per-5,0.37,0.501488,2
 1,3,Nemotron-3-Super-Simple,Per-5,0.38,0.502673,2
 1,3,Nemotron-3-Super-Simple,Per-5,0.39,0.502375,2
@@ -11972,7 +11972,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Qwen-3.5-Simple,Every-turn,0.71,0.353251,2
 1,3,Qwen-3.5-Simple,Every-turn,0.72,0.350334,2
 1,3,Qwen-3.5-Simple,Every-turn,0.73,0.347529,2
-1,3,Qwen-3.5-Simple,Every-turn,0.74,0.344022,2
+1,3,Qwen-3.5-Simple,Every-turn,0.74,0.344023,2
 1,3,Qwen-3.5-Simple,Every-turn,0.75,0.340601,2
 1,3,Qwen-3.5-Simple,Every-turn,0.76,0.336966,2
 1,3,Qwen-3.5-Simple,Every-turn,0.77,0.332774,2
@@ -12157,7 +12157,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Qwen-3.6-27B-Simple,Every-turn,0.96,0.323117,2
 1,3,Qwen-3.6-27B-Simple,Every-turn,0.97,0.321807,2
 1,3,Qwen-3.6-27B-Simple,Every-turn,0.98,0.320246,2
-1,3,Qwen-3.6-27B-Simple,Every-turn,0.99,0.318404,2
+1,3,Qwen-3.6-27B-Simple,Every-turn,0.99,0.318405,2
 1,3,Qwen-3.6-27B-Simple,Every-turn,1.0,0.316167,2
 1,3,Qwen-3.6-27B-Simple,Per-5,0.21,0.503721,2
 1,3,Qwen-3.6-27B-Simple,Per-5,0.22,0.494553,2
@@ -12243,7 +12243,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.22,0.37406,2
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.23,0.363331,2
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.24,0.358591,2
-1,3,Qwen-3.8-27B-Simple,Every-turn,0.25,0.353928,2
+1,3,Qwen-3.8-27B-Simple,Every-turn,0.25,0.353927,2
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.26,0.339846,2
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.27,0.337538,2
 1,3,Qwen-3.8-27B-Simple,Every-turn,0.28,0.339359,2
@@ -12698,7 +12698,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Vanilla,Every-turn,0.77,0.454873,228
 1,3,Vanilla,Every-turn,0.78,0.453222,228
 1,3,Vanilla,Every-turn,0.79,0.452467,228
-1,3,Vanilla,Every-turn,0.8,0.452066,228
+1,3,Vanilla,Every-turn,0.8,0.452067,228
 1,3,Vanilla,Every-turn,0.81,0.451326,228
 1,3,Vanilla,Every-turn,0.82,0.450683,228
 1,3,Vanilla,Every-turn,0.83,0.45072,228
@@ -12801,7 +12801,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,3,Vanilla,Vanilla,1.0,0.501348,8
 1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.21,0.579722,2
 1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.22,0.590682,2
-1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.597787,2
+1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.597786,2
 1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.24,0.58976,2
 1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.25,0.588357,2
 1,4,DeepSeek-V4-Flash-Simple,Every-turn,0.26,0.590571,2
@@ -12966,7 +12966,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.25,0.711109,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.26,0.714569,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.27,0.716994,2
-1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.28,0.716687,2
+1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.28,0.716686,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.29,0.71336,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.3,0.711964,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.31,0.712597,2
@@ -13040,7 +13040,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.99,0.769279,2
 1,4,DeepSeek-V4.1-Flash-Simple,Per-5,1.0,0.770007,2
 1,4,GLM-5.1-Simple,Every-turn,0.21,0.583646,2
-1,4,GLM-5.1-Simple,Every-turn,0.22,0.58912,2
+1,4,GLM-5.1-Simple,Every-turn,0.22,0.589119,2
 1,4,GLM-5.1-Simple,Every-turn,0.23,0.598396,2
 1,4,GLM-5.1-Simple,Every-turn,0.24,0.605905,2
 1,4,GLM-5.1-Simple,Every-turn,0.25,0.616119,2
@@ -13124,7 +13124,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.2-Simple,Every-turn,0.23,0.64728,2
 1,4,GLM-5.2-Simple,Every-turn,0.24,0.653426,2
 1,4,GLM-5.2-Simple,Every-turn,0.25,0.671176,2
-1,4,GLM-5.2-Simple,Every-turn,0.26,0.68677,2
+1,4,GLM-5.2-Simple,Every-turn,0.26,0.686769,2
 1,4,GLM-5.2-Simple,Every-turn,0.27,0.696894,2
 1,4,GLM-5.2-Simple,Every-turn,0.28,0.703278,2
 1,4,GLM-5.2-Simple,Every-turn,0.29,0.705583,2
@@ -13199,7 +13199,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.2-Simple,Every-turn,0.98,0.71391,2
 1,4,GLM-5.2-Simple,Every-turn,0.99,0.711417,2
 1,4,GLM-5.2-Simple,Every-turn,1.0,0.708967,2
-1,4,GLM-5.2-Simple,Per-5,0.21,0.673529,2
+1,4,GLM-5.2-Simple,Per-5,0.21,0.673528,2
 1,4,GLM-5.2-Simple,Per-5,0.22,0.678474,2
 1,4,GLM-5.2-Simple,Per-5,0.23,0.682195,2
 1,4,GLM-5.2-Simple,Per-5,0.24,0.682332,2
@@ -13234,7 +13234,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.2-Simple,Per-5,0.53,0.781856,2
 1,4,GLM-5.2-Simple,Per-5,0.54,0.783559,2
 1,4,GLM-5.2-Simple,Per-5,0.55,0.784823,2
-1,4,GLM-5.2-Simple,Per-5,0.56,0.785551,2
+1,4,GLM-5.2-Simple,Per-5,0.56,0.78555,2
 1,4,GLM-5.2-Simple,Per-5,0.57,0.787285,2
 1,4,GLM-5.2-Simple,Per-5,0.58,0.788432,2
 1,4,GLM-5.2-Simple,Per-5,0.59,0.790058,2
@@ -13252,7 +13252,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.2-Simple,Per-5,0.71,0.807226,2
 1,4,GLM-5.2-Simple,Per-5,0.72,0.808328,2
 1,4,GLM-5.2-Simple,Per-5,0.73,0.809725,2
-1,4,GLM-5.2-Simple,Per-5,0.74,0.811611,2
+1,4,GLM-5.2-Simple,Per-5,0.74,0.81161,2
 1,4,GLM-5.2-Simple,Per-5,0.75,0.813414,2
 1,4,GLM-5.2-Simple,Per-5,0.76,0.816425,2
 1,4,GLM-5.2-Simple,Per-5,0.77,0.819382,2
@@ -13272,7 +13272,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.2-Simple,Per-5,0.91,0.86543,2
 1,4,GLM-5.2-Simple,Per-5,0.92,0.865336,2
 1,4,GLM-5.2-Simple,Per-5,0.93,0.865476,2
-1,4,GLM-5.2-Simple,Per-5,0.94,0.865699,2
+1,4,GLM-5.2-Simple,Per-5,0.94,0.865698,2
 1,4,GLM-5.2-Simple,Per-5,0.95,0.865633,2
 1,4,GLM-5.2-Simple,Per-5,0.96,0.865108,2
 1,4,GLM-5.2-Simple,Per-5,0.97,0.86385,2
@@ -13304,7 +13304,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.43,0.674057,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.44,0.672464,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.45,0.670652,2
-1,4,GLM-5.3-Flash-Simple,Every-turn,0.46,0.667732,2
+1,4,GLM-5.3-Flash-Simple,Every-turn,0.46,0.667731,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.47,0.665638,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.48,0.662913,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.49,0.659817,2
@@ -13340,7 +13340,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.79,0.579733,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.8,0.574666,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.81,0.571004,2
-1,4,GLM-5.3-Flash-Simple,Every-turn,0.82,0.566013,2
+1,4,GLM-5.3-Flash-Simple,Every-turn,0.82,0.566014,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.83,0.561732,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.84,0.557141,2
 1,4,GLM-5.3-Flash-Simple,Every-turn,0.85,0.552862,2
@@ -13366,7 +13366,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.3-Flash-Simple,Per-5,0.25,0.67941,2
 1,4,GLM-5.3-Flash-Simple,Per-5,0.26,0.693664,2
 1,4,GLM-5.3-Flash-Simple,Per-5,0.27,0.696074,2
-1,4,GLM-5.3-Flash-Simple,Per-5,0.28,0.69855,2
+1,4,GLM-5.3-Flash-Simple,Per-5,0.28,0.698549,2
 1,4,GLM-5.3-Flash-Simple,Per-5,0.29,0.700555,2
 1,4,GLM-5.3-Flash-Simple,Per-5,0.3,0.702209,2
 1,4,GLM-5.3-Flash-Simple,Per-5,0.31,0.705914,2
@@ -13453,7 +13453,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GLM-5.3-Simple,Per-5,0.32,0.692042,2
 1,4,GLM-5.3-Simple,Per-5,0.33,0.691926,2
 1,4,GLM-5.3-Simple,Per-5,0.34,0.691193,2
-1,4,GLM-5.3-Simple,Per-5,0.35,0.690534,2
+1,4,GLM-5.3-Simple,Per-5,0.35,0.690533,2
 1,4,GLM-5.3-Simple,Per-5,0.36,0.689449,2
 1,4,GLM-5.3-Simple,Per-5,0.37,0.688095,2
 1,4,GLM-5.3-Simple,Per-5,0.38,0.686958,2
@@ -13525,7 +13525,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GPT-6-Astra-Simple,Per-5,0.24,0.609589,1
 1,4,GPT-6-Astra-Simple,Per-5,0.25,0.614615,1
 1,4,GPT-6-Astra-Simple,Per-5,0.26,0.618234,1
-1,4,GPT-6-Astra-Simple,Per-5,0.27,0.625653,1
+1,4,GPT-6-Astra-Simple,Per-5,0.27,0.625652,1
 1,4,GPT-6-Astra-Simple,Per-5,0.28,0.62991,1
 1,4,GPT-6-Astra-Simple,Per-5,0.29,0.632506,1
 1,4,GPT-6-Astra-Simple,Per-5,0.3,0.628404,1
@@ -13657,11 +13657,11 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GPT-6-Luna-Simple,Every-turn,0.76,0.600677,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.77,0.602417,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.78,0.603901,2
-1,4,GPT-6-Luna-Simple,Every-turn,0.79,0.603545,2
+1,4,GPT-6-Luna-Simple,Every-turn,0.79,0.603544,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.8,0.60304,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.81,0.602124,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.82,0.601212,2
-1,4,GPT-6-Luna-Simple,Every-turn,0.83,0.601871,2
+1,4,GPT-6-Luna-Simple,Every-turn,0.83,0.60187,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.84,0.602117,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.85,0.602459,2
 1,4,GPT-6-Luna-Simple,Every-turn,0.86,0.601835,2
@@ -13854,7 +13854,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GPT-6.1-Sol-Simple,Per-5,0.33,0.726372,2
 1,4,GPT-6.1-Sol-Simple,Per-5,0.34,0.729149,2
 1,4,GPT-6.1-Sol-Simple,Per-5,0.35,0.73037,2
-1,4,GPT-6.1-Sol-Simple,Per-5,0.36,0.730774,2
+1,4,GPT-6.1-Sol-Simple,Per-5,0.36,0.730773,2
 1,4,GPT-6.1-Sol-Simple,Per-5,0.37,0.730545,2
 1,4,GPT-6.1-Sol-Simple,Per-5,0.38,0.729387,2
 1,4,GPT-6.1-Sol-Simple,Per-5,0.39,0.727745,2
@@ -14026,7 +14026,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,GPT-OSS-120B-Simple,Per-5,0.45,0.770006,2
 1,4,GPT-OSS-120B-Simple,Per-5,0.46,0.763819,2
 1,4,GPT-OSS-120B-Simple,Per-5,0.47,0.757379,2
-1,4,GPT-OSS-120B-Simple,Per-5,0.48,0.751811,2
+1,4,GPT-OSS-120B-Simple,Per-5,0.48,0.75181,2
 1,4,GPT-OSS-120B-Simple,Per-5,0.49,0.747528,2
 1,4,GPT-OSS-120B-Simple,Per-5,0.5,0.743352,2
 1,4,GPT-OSS-120B-Simple,Per-5,0.51,0.739442,2
@@ -14170,7 +14170,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Gemma-4-Simple,Per-5,0.29,0.62392,2
 1,4,Gemma-4-Simple,Per-5,0.3,0.626475,2
 1,4,Gemma-4-Simple,Per-5,0.31,0.630218,2
-1,4,Gemma-4-Simple,Per-5,0.32,0.631978,2
+1,4,Gemma-4-Simple,Per-5,0.32,0.631977,2
 1,4,Gemma-4-Simple,Per-5,0.33,0.631809,2
 1,4,Gemma-4-Simple,Per-5,0.34,0.630886,2
 1,4,Gemma-4-Simple,Per-5,0.35,0.628019,2
@@ -14649,7 +14649,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,MiniMax-M2.7-Simple,Per-5,0.28,0.559938,2
 1,4,MiniMax-M2.7-Simple,Per-5,0.29,0.563676,2
 1,4,MiniMax-M2.7-Simple,Per-5,0.3,0.56958,2
-1,4,MiniMax-M2.7-Simple,Per-5,0.31,0.575295,2
+1,4,MiniMax-M2.7-Simple,Per-5,0.31,0.575294,2
 1,4,MiniMax-M2.7-Simple,Per-5,0.32,0.581829,2
 1,4,MiniMax-M2.7-Simple,Per-5,0.33,0.584941,2
 1,4,MiniMax-M2.7-Simple,Per-5,0.34,0.591111,2
@@ -14887,7 +14887,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Nemotron-3-Super-Simple,Per-5,0.26,0.627202,2
 1,4,Nemotron-3-Super-Simple,Per-5,0.27,0.634748,2
 1,4,Nemotron-3-Super-Simple,Per-5,0.28,0.644815,2
-1,4,Nemotron-3-Super-Simple,Per-5,0.29,0.649337,2
+1,4,Nemotron-3-Super-Simple,Per-5,0.29,0.649336,2
 1,4,Nemotron-3-Super-Simple,Per-5,0.3,0.650166,2
 1,4,Nemotron-3-Super-Simple,Per-5,0.31,0.64727,2
 1,4,Nemotron-3-Super-Simple,Per-5,0.32,0.646643,2
@@ -14964,7 +14964,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Null,Every-turn,0.23,0.44141,2
 1,4,Null,Every-turn,0.24,0.431243,2
 1,4,Null,Every-turn,0.25,0.431372,2
-1,4,Null,Every-turn,0.26,0.427646,2
+1,4,Null,Every-turn,0.26,0.427645,2
 1,4,Null,Every-turn,0.27,0.426177,2
 1,4,Null,Every-turn,0.28,0.420567,2
 1,4,Null,Every-turn,0.29,0.417403,2
@@ -15057,7 +15057,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Opus-5.5-Simple,Per-5,0.36,0.762505,2
 1,4,Opus-5.5-Simple,Per-5,0.37,0.763626,2
 1,4,Opus-5.5-Simple,Per-5,0.38,0.764204,2
-1,4,Opus-5.5-Simple,Per-5,0.39,0.76434,2
+1,4,Opus-5.5-Simple,Per-5,0.39,0.764339,2
 1,4,Opus-5.5-Simple,Per-5,0.4,0.761213,2
 1,4,Opus-5.5-Simple,Per-5,0.41,0.758892,2
 1,4,Opus-5.5-Simple,Per-5,0.42,0.758154,2
@@ -15685,7 +15685,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.24,0.632512,2
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.25,0.64261,2
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.26,0.653143,2
-1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.27,0.661041,2
+1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.27,0.66104,2
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.28,0.664186,2
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.29,0.667336,2
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.3,0.671444,2
@@ -15761,7 +15761,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Qwen-3.8-Flash-Next-Simple,Per-5,1.0,0.561048,2
 1,4,Sonnet-5.5-Simple,Per-5,0.21,0.577635,2
 1,4,Sonnet-5.5-Simple,Per-5,0.22,0.591261,2
-1,4,Sonnet-5.5-Simple,Per-5,0.23,0.60792,2
+1,4,Sonnet-5.5-Simple,Per-5,0.23,0.607919,2
 1,4,Sonnet-5.5-Simple,Per-5,0.24,0.614539,2
 1,4,Sonnet-5.5-Simple,Per-5,0.25,0.627913,2
 1,4,Sonnet-5.5-Simple,Per-5,0.26,0.638187,2
@@ -15827,7 +15827,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Sonnet-5.5-Simple,Per-5,0.86,0.742815,2
 1,4,Sonnet-5.5-Simple,Per-5,0.87,0.741713,2
 1,4,Sonnet-5.5-Simple,Per-5,0.88,0.74049,2
-1,4,Sonnet-5.5-Simple,Per-5,0.89,0.738133,2
+1,4,Sonnet-5.5-Simple,Per-5,0.89,0.738132,2
 1,4,Sonnet-5.5-Simple,Per-5,0.9,0.736424,2
 1,4,Sonnet-5.5-Simple,Per-5,0.91,0.735434,2
 1,4,Sonnet-5.5-Simple,Per-5,0.92,0.734098,2
@@ -16001,7 +16001,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,4,Vanilla,Vanilla,1.0,0.498774,8
 1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.21,0.457677,2
 1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.22,0.446321,2
-1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.414353,2
+1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.414354,2
 1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.24,0.386785,2
 1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.25,0.369942,2
 1,5,DeepSeek-V4-Flash-Simple,Every-turn,0.26,0.374168,2
@@ -16190,7 +16190,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.49,0.100233,2
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.5,0.098381,2
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.51,0.09592,2
-1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.52,0.092567,2
+1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.52,0.092568,2
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.53,0.089734,2
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.54,0.086467,2
 1,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.55,0.084095,2
@@ -16648,7 +16648,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,GLM-5.3-Simple,Per-5,0.27,0.255387,2
 1,5,GLM-5.3-Simple,Per-5,0.28,0.252355,2
 1,5,GLM-5.3-Simple,Per-5,0.29,0.244364,2
-1,5,GLM-5.3-Simple,Per-5,0.3,0.241958,2
+1,5,GLM-5.3-Simple,Per-5,0.3,0.241959,2
 1,5,GLM-5.3-Simple,Per-5,0.31,0.237702,2
 1,5,GLM-5.3-Simple,Per-5,0.32,0.228917,2
 1,5,GLM-5.3-Simple,Per-5,0.33,0.223301,2
@@ -16665,7 +16665,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,GLM-5.3-Simple,Per-5,0.44,0.172578,2
 1,5,GLM-5.3-Simple,Per-5,0.45,0.169363,2
 1,5,GLM-5.3-Simple,Per-5,0.46,0.165574,2
-1,5,GLM-5.3-Simple,Per-5,0.47,0.162246,2
+1,5,GLM-5.3-Simple,Per-5,0.47,0.162247,2
 1,5,GLM-5.3-Simple,Per-5,0.48,0.157847,2
 1,5,GLM-5.3-Simple,Per-5,0.49,0.154829,2
 1,5,GLM-5.3-Simple,Per-5,0.5,0.150867,2
@@ -16790,7 +16790,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,GPT-6-Astra-Simple,Per-5,0.89,0.301091,2
 1,5,GPT-6-Astra-Simple,Per-5,0.9,0.299478,2
 1,5,GPT-6-Astra-Simple,Per-5,0.91,0.296832,2
-1,5,GPT-6-Astra-Simple,Per-5,0.92,0.294298,2
+1,5,GPT-6-Astra-Simple,Per-5,0.92,0.294297,2
 1,5,GPT-6-Astra-Simple,Per-5,0.93,0.290592,2
 1,5,GPT-6-Astra-Simple,Per-5,0.94,0.287597,2
 1,5,GPT-6-Astra-Simple,Per-5,0.95,0.285123,2
@@ -16965,7 +16965,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.24,0.309308,2
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.25,0.285997,2
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.26,0.269153,2
-1,5,GPT-6.1-Sol-Simple,Every-turn,0.27,0.263325,2
+1,5,GPT-6.1-Sol-Simple,Every-turn,0.27,0.263326,2
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.28,0.262224,2
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.29,0.259255,2
 1,5,GPT-6.1-Sol-Simple,Every-turn,0.3,0.254811,2
@@ -17200,7 +17200,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,GPT-OSS-120B-Simple,Every-turn,0.99,0.256873,2
 1,5,GPT-OSS-120B-Simple,Every-turn,1.0,0.255576,2
 1,5,GPT-OSS-120B-Simple,Per-5,0.21,0.450506,2
-1,5,GPT-OSS-120B-Simple,Per-5,0.22,0.434832,2
+1,5,GPT-OSS-120B-Simple,Per-5,0.22,0.434833,2
 1,5,GPT-OSS-120B-Simple,Per-5,0.23,0.395682,2
 1,5,GPT-OSS-120B-Simple,Per-5,0.24,0.350612,2
 1,5,GPT-OSS-120B-Simple,Per-5,0.25,0.31009,2
@@ -17500,7 +17500,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,Jev!,Every-turn,0.79,0.102803,2
 1,5,Jev!,Every-turn,0.8,0.101714,2
 1,5,Jev!,Every-turn,0.81,0.100973,2
-1,5,Jev!,Every-turn,0.82,0.100096,2
+1,5,Jev!,Every-turn,0.82,0.100095,2
 1,5,Jev!,Every-turn,0.83,0.099089,2
 1,5,Jev!,Every-turn,0.84,0.098342,2
 1,5,Jev!,Every-turn,0.85,0.097079,2
@@ -17850,7 +17850,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,MiniMax-M2.7-Simple,Per-5,0.29,0.376287,2
 1,5,MiniMax-M2.7-Simple,Per-5,0.3,0.370372,2
 1,5,MiniMax-M2.7-Simple,Per-5,0.31,0.362563,2
-1,5,MiniMax-M2.7-Simple,Per-5,0.32,0.355648,2
+1,5,MiniMax-M2.7-Simple,Per-5,0.32,0.355649,2
 1,5,MiniMax-M2.7-Simple,Per-5,0.33,0.354319,2
 1,5,MiniMax-M2.7-Simple,Per-5,0.34,0.344599,2
 1,5,MiniMax-M2.7-Simple,Per-5,0.35,0.336695,2
@@ -17950,7 +17950,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,MiniMax-M3-Simple,Per-5,0.49,0.265056,2
 1,5,MiniMax-M3-Simple,Per-5,0.5,0.266095,2
 1,5,MiniMax-M3-Simple,Per-5,0.51,0.265071,2
-1,5,MiniMax-M3-Simple,Per-5,0.52,0.262691,2
+1,5,MiniMax-M3-Simple,Per-5,0.52,0.262692,2
 1,5,MiniMax-M3-Simple,Per-5,0.53,0.25985,2
 1,5,MiniMax-M3-Simple,Per-5,0.54,0.255422,2
 1,5,MiniMax-M3-Simple,Per-5,0.55,0.251934,2
@@ -18000,7 +18000,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,MiniMax-M3-Simple,Per-5,0.99,0.190764,2
 1,5,MiniMax-M3-Simple,Per-5,1.0,0.189859,2
 1,5,Nemotron-3-Super-Simple,Every-turn,0.21,0.422131,2
-1,5,Nemotron-3-Super-Simple,Every-turn,0.22,0.404051,2
+1,5,Nemotron-3-Super-Simple,Every-turn,0.22,0.404052,2
 1,5,Nemotron-3-Super-Simple,Every-turn,0.23,0.359911,2
 1,5,Nemotron-3-Super-Simple,Every-turn,0.24,0.322163,2
 1,5,Nemotron-3-Super-Simple,Every-turn,0.25,0.286556,2
@@ -18319,7 +18319,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,Opus-5.5-Simple,Per-5,0.98,0.139004,2
 1,5,Opus-5.5-Simple,Per-5,0.99,0.139025,2
 1,5,Opus-5.5-Simple,Per-5,1.0,0.13872,2
-1,5,Qwen-3.5-Simple,Every-turn,0.21,0.28035,2
+1,5,Qwen-3.5-Simple,Every-turn,0.21,0.280351,2
 1,5,Qwen-3.5-Simple,Every-turn,0.22,0.267445,2
 1,5,Qwen-3.5-Simple,Every-turn,0.23,0.251883,2
 1,5,Qwen-3.5-Simple,Every-turn,0.24,0.230141,2
@@ -18575,7 +18575,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,Qwen-3.6-27B-Simple,Per-5,0.34,0.395419,2
 1,5,Qwen-3.6-27B-Simple,Per-5,0.35,0.394257,2
 1,5,Qwen-3.6-27B-Simple,Per-5,0.36,0.39435,2
-1,5,Qwen-3.6-27B-Simple,Per-5,0.37,0.393495,2
+1,5,Qwen-3.6-27B-Simple,Per-5,0.37,0.393496,2
 1,5,Qwen-3.6-27B-Simple,Per-5,0.38,0.390131,2
 1,5,Qwen-3.6-27B-Simple,Per-5,0.39,0.387518,2
 1,5,Qwen-3.6-27B-Simple,Per-5,0.4,0.382477,2
@@ -18681,7 +18681,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.6,0.284068,2
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.61,0.277989,2
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.62,0.272855,2
-1,5,Qwen-3.8-27B-Simple,Every-turn,0.63,0.268486,2
+1,5,Qwen-3.8-27B-Simple,Every-turn,0.63,0.268485,2
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.64,0.263827,2
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.65,0.259829,2
 1,5,Qwen-3.8-27B-Simple,Every-turn,0.66,0.257004,2
@@ -18965,11 +18965,11 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,5,Sonnet-5.5-Simple,Per-5,0.24,0.397569,2
 1,5,Sonnet-5.5-Simple,Per-5,0.25,0.363283,2
 1,5,Sonnet-5.5-Simple,Per-5,0.26,0.349283,2
-1,5,Sonnet-5.5-Simple,Per-5,0.27,0.34131,2
+1,5,Sonnet-5.5-Simple,Per-5,0.27,0.341311,2
 1,5,Sonnet-5.5-Simple,Per-5,0.28,0.335351,2
 1,5,Sonnet-5.5-Simple,Per-5,0.29,0.326354,2
 1,5,Sonnet-5.5-Simple,Per-5,0.3,0.31497,2
-1,5,Sonnet-5.5-Simple,Per-5,0.31,0.30393,2
+1,5,Sonnet-5.5-Simple,Per-5,0.31,0.303931,2
 1,5,Sonnet-5.5-Simple,Per-5,0.32,0.288273,2
 1,5,Sonnet-5.5-Simple,Per-5,0.33,0.280352,2
 1,5,Sonnet-5.5-Simple,Per-5,0.34,0.269147,2
@@ -19315,7 +19315,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.54,0.531145,2
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.55,0.532825,2
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.56,0.535514,2
-1,6,DeepSeek-V4-Flash-Simple,Per-5,0.57,0.53999,2
+1,6,DeepSeek-V4-Flash-Simple,Per-5,0.57,0.539989,2
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.58,0.545367,2
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.59,0.553455,2
 1,6,DeepSeek-V4-Flash-Simple,Per-5,0.6,0.559129,2
@@ -19370,7 +19370,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.29,0.485249,2
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.3,0.484762,2
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.31,0.482179,2
-1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.32,0.479526,2
+1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.32,0.479527,2
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.33,0.476156,2
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.34,0.472185,2
 1,6,DeepSeek-V4.1-Flash-Simple,Per-5,0.35,0.467906,2
@@ -19569,7 +19569,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,GLM-5.2-Simple,Every-turn,0.68,0.539543,2
 1,6,GLM-5.2-Simple,Every-turn,0.69,0.540192,2
 1,6,GLM-5.2-Simple,Every-turn,0.7,0.544169,2
-1,6,GLM-5.2-Simple,Every-turn,0.71,0.5475,2
+1,6,GLM-5.2-Simple,Every-turn,0.71,0.547499,2
 1,6,GLM-5.2-Simple,Every-turn,0.72,0.552081,2
 1,6,GLM-5.2-Simple,Every-turn,0.73,0.555338,2
 1,6,GLM-5.2-Simple,Every-turn,0.74,0.554992,2
@@ -19932,7 +19932,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,GPT-6-Astra-Simple,Per-5,0.31,0.458106,1
 1,6,GPT-6-Astra-Simple,Per-5,0.32,0.469132,1
 1,6,GPT-6-Astra-Simple,Per-5,0.33,0.476658,1
-1,6,GPT-6-Astra-Simple,Per-5,0.34,0.479578,1
+1,6,GPT-6-Astra-Simple,Per-5,0.34,0.479579,1
 1,6,GPT-6-Astra-Simple,Per-5,0.35,0.48154,1
 1,6,GPT-6-Astra-Simple,Per-5,0.36,0.479547,1
 1,6,GPT-6-Astra-Simple,Per-5,0.37,0.476803,1
@@ -20012,7 +20012,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,GPT-6-Luna-Simple,Every-turn,0.31,0.491861,2
 1,6,GPT-6-Luna-Simple,Every-turn,0.32,0.488907,2
 1,6,GPT-6-Luna-Simple,Every-turn,0.33,0.485432,2
-1,6,GPT-6-Luna-Simple,Every-turn,0.34,0.48104,2
+1,6,GPT-6-Luna-Simple,Every-turn,0.34,0.481041,2
 1,6,GPT-6-Luna-Simple,Every-turn,0.35,0.475679,2
 1,6,GPT-6-Luna-Simple,Every-turn,0.36,0.471272,2
 1,6,GPT-6-Luna-Simple,Every-turn,0.37,0.467451,2
@@ -20215,7 +20215,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.74,0.500409,2
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.75,0.499383,2
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.76,0.497922,2
-1,6,GPT-6.1-Sol-Simple,Every-turn,0.77,0.49651,2
+1,6,GPT-6.1-Sol-Simple,Every-turn,0.77,0.496509,2
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.78,0.495108,2
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.79,0.493835,2
 1,6,GPT-6.1-Sol-Simple,Every-turn,0.8,0.491379,2
@@ -20496,7 +20496,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Gemma-4-Simple,Every-turn,0.35,0.572069,2
 1,6,Gemma-4-Simple,Every-turn,0.36,0.569843,2
 1,6,Gemma-4-Simple,Every-turn,0.37,0.566079,2
-1,6,Gemma-4-Simple,Every-turn,0.38,0.561129,2
+1,6,Gemma-4-Simple,Every-turn,0.38,0.561128,2
 1,6,Gemma-4-Simple,Every-turn,0.39,0.555515,2
 1,6,Gemma-4-Simple,Every-turn,0.4,0.551963,2
 1,6,Gemma-4-Simple,Every-turn,0.41,0.549341,2
@@ -20548,7 +20548,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Gemma-4-Simple,Every-turn,0.87,0.563003,2
 1,6,Gemma-4-Simple,Every-turn,0.88,0.561181,2
 1,6,Gemma-4-Simple,Every-turn,0.89,0.5607,2
-1,6,Gemma-4-Simple,Every-turn,0.9,0.559499,2
+1,6,Gemma-4-Simple,Every-turn,0.9,0.559498,2
 1,6,Gemma-4-Simple,Every-turn,0.91,0.555706,2
 1,6,Gemma-4-Simple,Every-turn,0.92,0.550952,2
 1,6,Gemma-4-Simple,Every-turn,0.93,0.547504,2
@@ -21096,7 +21096,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,MiniMax-M2.7-Simple,Per-5,0.75,0.604123,2
 1,6,MiniMax-M2.7-Simple,Per-5,0.76,0.608089,2
 1,6,MiniMax-M2.7-Simple,Per-5,0.77,0.612312,2
-1,6,MiniMax-M2.7-Simple,Per-5,0.78,0.615348,2
+1,6,MiniMax-M2.7-Simple,Per-5,0.78,0.615349,2
 1,6,MiniMax-M2.7-Simple,Per-5,0.79,0.618739,2
 1,6,MiniMax-M2.7-Simple,Per-5,0.8,0.621175,2
 1,6,MiniMax-M2.7-Simple,Per-5,0.81,0.622473,2
@@ -21279,7 +21279,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Nemotron-3-Super-Simple,Every-turn,0.98,0.194534,2
 1,6,Nemotron-3-Super-Simple,Every-turn,0.99,0.191454,2
 1,6,Nemotron-3-Super-Simple,Every-turn,1.0,0.188687,2
-1,6,Nemotron-3-Super-Simple,Per-5,0.21,0.564339,2
+1,6,Nemotron-3-Super-Simple,Per-5,0.21,0.56434,2
 1,6,Nemotron-3-Super-Simple,Per-5,0.22,0.5475,2
 1,6,Nemotron-3-Super-Simple,Per-5,0.23,0.550612,2
 1,6,Nemotron-3-Super-Simple,Per-5,0.24,0.562488,2
@@ -21419,7 +21419,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Null,Every-turn,0.78,0.202466,2
 1,6,Null,Every-turn,0.79,0.196797,2
 1,6,Null,Every-turn,0.8,0.190883,2
-1,6,Null,Every-turn,0.81,0.185887,2
+1,6,Null,Every-turn,0.81,0.185888,2
 1,6,Null,Every-turn,0.82,0.179907,2
 1,6,Null,Every-turn,0.83,0.173946,2
 1,6,Null,Every-turn,0.84,0.166869,2
@@ -21926,7 +21926,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Qwen-3.8-27B-Simple,Per-5,0.25,0.513524,2
 1,6,Qwen-3.8-27B-Simple,Per-5,0.26,0.514894,2
 1,6,Qwen-3.8-27B-Simple,Per-5,0.27,0.517046,2
-1,6,Qwen-3.8-27B-Simple,Per-5,0.28,0.518402,2
+1,6,Qwen-3.8-27B-Simple,Per-5,0.28,0.518403,2
 1,6,Qwen-3.8-27B-Simple,Per-5,0.29,0.521529,2
 1,6,Qwen-3.8-27B-Simple,Per-5,0.3,0.524363,2
 1,6,Qwen-3.8-27B-Simple,Per-5,0.31,0.526625,2
@@ -22086,7 +22086,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.25,0.449828,2
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.26,0.446588,2
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.27,0.445227,2
-1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.28,0.442715,2
+1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.28,0.442716,2
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.29,0.440385,2
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.3,0.441278,2
 1,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.31,0.439119,2
@@ -22481,7 +22481,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,DeepSeek-V4-Flash-Simple,Every-turn,1.0,0.282457,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.21,0.39229,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.22,0.388304,2
-1,7,DeepSeek-V4-Flash-Simple,Per-5,0.23,0.388564,2
+1,7,DeepSeek-V4-Flash-Simple,Per-5,0.23,0.388565,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.24,0.388994,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.25,0.399225,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.26,0.395193,2
@@ -22520,7 +22520,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.59,0.351844,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.6,0.351756,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.61,0.350363,2
-1,7,DeepSeek-V4-Flash-Simple,Per-5,0.62,0.348451,2
+1,7,DeepSeek-V4-Flash-Simple,Per-5,0.62,0.34845,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.63,0.346742,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.64,0.345284,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.65,0.3454,2
@@ -22530,7 +22530,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.69,0.34138,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.7,0.338936,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.71,0.335369,2
-1,7,DeepSeek-V4-Flash-Simple,Per-5,0.72,0.331017,2
+1,7,DeepSeek-V4-Flash-Simple,Per-5,0.72,0.331016,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.73,0.328028,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.74,0.326594,2
 1,7,DeepSeek-V4-Flash-Simple,Per-5,0.75,0.324004,2
@@ -22661,7 +22661,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GLM-5.1-Simple,Every-turn,0.4,0.28513,2
 1,7,GLM-5.1-Simple,Every-turn,0.41,0.288603,2
 1,7,GLM-5.1-Simple,Every-turn,0.42,0.288284,2
-1,7,GLM-5.1-Simple,Every-turn,0.43,0.289367,2
+1,7,GLM-5.1-Simple,Every-turn,0.43,0.289368,2
 1,7,GLM-5.1-Simple,Every-turn,0.44,0.291971,2
 1,7,GLM-5.1-Simple,Every-turn,0.45,0.299583,2
 1,7,GLM-5.1-Simple,Every-turn,0.46,0.30828,2
@@ -23040,7 +23040,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GLM-5.3-Flash-Simple,Per-5,0.99,0.304069,2
 1,7,GLM-5.3-Flash-Simple,Per-5,1.0,0.306049,2
 1,7,GLM-5.3-Simple,Per-5,0.21,0.452653,2
-1,7,GLM-5.3-Simple,Per-5,0.22,0.428329,2
+1,7,GLM-5.3-Simple,Per-5,0.22,0.42833,2
 1,7,GLM-5.3-Simple,Per-5,0.23,0.457193,2
 1,7,GLM-5.3-Simple,Per-5,0.24,0.481799,2
 1,7,GLM-5.3-Simple,Per-5,0.25,0.504168,2
@@ -23067,13 +23067,13 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GLM-5.3-Simple,Per-5,0.46,0.599688,2
 1,7,GLM-5.3-Simple,Per-5,0.47,0.604744,2
 1,7,GLM-5.3-Simple,Per-5,0.48,0.611914,2
-1,7,GLM-5.3-Simple,Per-5,0.49,0.617864,2
+1,7,GLM-5.3-Simple,Per-5,0.49,0.617865,2
 1,7,GLM-5.3-Simple,Per-5,0.5,0.623673,2
 1,7,GLM-5.3-Simple,Per-5,0.51,0.629922,2
 1,7,GLM-5.3-Simple,Per-5,0.52,0.637014,2
 1,7,GLM-5.3-Simple,Per-5,0.53,0.643236,2
 1,7,GLM-5.3-Simple,Per-5,0.54,0.647639,2
-1,7,GLM-5.3-Simple,Per-5,0.55,0.652283,2
+1,7,GLM-5.3-Simple,Per-5,0.55,0.652284,2
 1,7,GLM-5.3-Simple,Per-5,0.56,0.65592,2
 1,7,GLM-5.3-Simple,Per-5,0.57,0.659934,2
 1,7,GLM-5.3-Simple,Per-5,0.58,0.664818,2
@@ -23195,7 +23195,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6-Astra-Simple,Per-5,0.94,0.502412,2
 1,7,GPT-6-Astra-Simple,Per-5,0.95,0.506004,2
 1,7,GPT-6-Astra-Simple,Per-5,0.96,0.508749,2
-1,7,GPT-6-Astra-Simple,Per-5,0.97,0.511239,2
+1,7,GPT-6-Astra-Simple,Per-5,0.97,0.511238,2
 1,7,GPT-6-Astra-Simple,Per-5,0.98,0.515205,2
 1,7,GPT-6-Astra-Simple,Per-5,0.99,0.518888,2
 1,7,GPT-6-Astra-Simple,Per-5,1.0,0.522278,2
@@ -23362,7 +23362,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.21,0.343331,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.22,0.383237,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.23,0.389266,2
-1,7,GPT-6.1-Sol-Simple,Every-turn,0.24,0.405704,2
+1,7,GPT-6.1-Sol-Simple,Every-turn,0.24,0.405705,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.25,0.414577,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.26,0.413868,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.27,0.412808,2
@@ -23382,7 +23382,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.41,0.394079,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.42,0.401118,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.43,0.411023,2
-1,7,GPT-6.1-Sol-Simple,Every-turn,0.44,0.418526,2
+1,7,GPT-6.1-Sol-Simple,Every-turn,0.44,0.418527,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.45,0.428984,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.46,0.438112,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.47,0.446184,2
@@ -23397,7 +23397,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.56,0.502507,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.57,0.506013,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.58,0.509309,2
-1,7,GPT-6.1-Sol-Simple,Every-turn,0.59,0.51088,2
+1,7,GPT-6.1-Sol-Simple,Every-turn,0.59,0.510881,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.6,0.512525,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.61,0.512403,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.62,0.513112,2
@@ -23417,9 +23417,9 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.76,0.488717,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.77,0.4889,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.78,0.49162,2
-1,7,GPT-6.1-Sol-Simple,Every-turn,0.79,0.49387,2
+1,7,GPT-6.1-Sol-Simple,Every-turn,0.79,0.493871,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.8,0.495106,2
-1,7,GPT-6.1-Sol-Simple,Every-turn,0.81,0.495494,2
+1,7,GPT-6.1-Sol-Simple,Every-turn,0.81,0.495495,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.82,0.497642,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.83,0.50026,2
 1,7,GPT-6.1-Sol-Simple,Every-turn,0.84,0.502154,2
@@ -23442,7 +23442,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,GPT-6.1-Sol-Simple,Per-5,0.21,0.481816,2
 1,7,GPT-6.1-Sol-Simple,Per-5,0.22,0.502299,2
 1,7,GPT-6.1-Sol-Simple,Per-5,0.23,0.497605,2
-1,7,GPT-6.1-Sol-Simple,Per-5,0.24,0.498809,2
+1,7,GPT-6.1-Sol-Simple,Per-5,0.24,0.49881,2
 1,7,GPT-6.1-Sol-Simple,Per-5,0.25,0.505147,2
 1,7,GPT-6.1-Sol-Simple,Per-5,0.26,0.504902,2
 1,7,GPT-6.1-Sol-Simple,Per-5,0.27,0.501267,2
@@ -23862,7 +23862,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Jev!,Every-turn,0.41,0.41397,2
 1,7,Jev!,Every-turn,0.42,0.411302,2
 1,7,Jev!,Every-turn,0.43,0.409259,2
-1,7,Jev!,Every-turn,0.44,0.409594,2
+1,7,Jev!,Every-turn,0.44,0.409595,2
 1,7,Jev!,Every-turn,0.45,0.4123,2
 1,7,Jev!,Every-turn,0.46,0.414142,2
 1,7,Jev!,Every-turn,0.47,0.413691,2
@@ -23870,7 +23870,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Jev!,Every-turn,0.49,0.412155,2
 1,7,Jev!,Every-turn,0.5,0.410003,2
 1,7,Jev!,Every-turn,0.51,0.409097,2
-1,7,Jev!,Every-turn,0.52,0.409807,2
+1,7,Jev!,Every-turn,0.52,0.409808,2
 1,7,Jev!,Every-turn,0.53,0.407266,2
 1,7,Jev!,Every-turn,0.54,0.403766,2
 1,7,Jev!,Every-turn,0.55,0.399997,2
@@ -23920,7 +23920,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Jev!,Every-turn,0.99,0.204806,2
 1,7,Jev!,Every-turn,1.0,0.203271,2
 1,7,Kimi-K2.6-Simple,Every-turn,0.21,0.437509,2
-1,7,Kimi-K2.6-Simple,Every-turn,0.22,0.450855,2
+1,7,Kimi-K2.6-Simple,Every-turn,0.22,0.450856,2
 1,7,Kimi-K2.6-Simple,Every-turn,0.23,0.460323,2
 1,7,Kimi-K2.6-Simple,Every-turn,0.24,0.473545,2
 1,7,Kimi-K2.6-Simple,Every-turn,0.25,0.479829,2
@@ -24007,7 +24007,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Kimi-K2.7-Simple,Every-turn,0.26,0.45288,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.27,0.443647,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.28,0.431329,2
-1,7,Kimi-K2.7-Simple,Every-turn,0.29,0.421899,2
+1,7,Kimi-K2.7-Simple,Every-turn,0.29,0.4219,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.3,0.417945,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.31,0.411768,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.32,0.408359,2
@@ -24029,7 +24029,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Kimi-K2.7-Simple,Every-turn,0.48,0.345784,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.49,0.347677,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.5,0.348484,2
-1,7,Kimi-K2.7-Simple,Every-turn,0.51,0.349616,2
+1,7,Kimi-K2.7-Simple,Every-turn,0.51,0.349615,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.52,0.350013,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.53,0.349467,2
 1,7,Kimi-K2.7-Simple,Every-turn,0.54,0.347349,2
@@ -24341,7 +24341,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,MiniMax-M3-Simple,Per-5,0.4,0.497394,2
 1,7,MiniMax-M3-Simple,Per-5,0.41,0.502062,2
 1,7,MiniMax-M3-Simple,Per-5,0.42,0.507613,2
-1,7,MiniMax-M3-Simple,Per-5,0.43,0.513017,2
+1,7,MiniMax-M3-Simple,Per-5,0.43,0.513018,2
 1,7,MiniMax-M3-Simple,Per-5,0.44,0.515045,2
 1,7,MiniMax-M3-Simple,Per-5,0.45,0.517322,2
 1,7,MiniMax-M3-Simple,Per-5,0.46,0.521086,2
@@ -24482,11 +24482,11 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Nemotron-3-Super-Simple,Per-5,0.21,0.50506,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.22,0.528097,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.23,0.534348,2
-1,7,Nemotron-3-Super-Simple,Per-5,0.24,0.535148,2
+1,7,Nemotron-3-Super-Simple,Per-5,0.24,0.535149,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.25,0.542958,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.26,0.545852,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.27,0.539799,2
-1,7,Nemotron-3-Super-Simple,Per-5,0.28,0.531969,2
+1,7,Nemotron-3-Super-Simple,Per-5,0.28,0.53197,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.29,0.527024,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.3,0.519328,2
 1,7,Nemotron-3-Super-Simple,Per-5,0.31,0.516472,2
@@ -25131,7 +25131,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Qwen-3.8-27B-Simple,Per-5,0.3,0.515832,2
 1,7,Qwen-3.8-27B-Simple,Per-5,0.31,0.51256,2
 1,7,Qwen-3.8-27B-Simple,Per-5,0.32,0.508387,2
-1,7,Qwen-3.8-27B-Simple,Per-5,0.33,0.503445,2
+1,7,Qwen-3.8-27B-Simple,Per-5,0.33,0.503446,2
 1,7,Qwen-3.8-27B-Simple,Per-5,0.34,0.497946,2
 1,7,Qwen-3.8-27B-Simple,Per-5,0.35,0.494915,2
 1,7,Qwen-3.8-27B-Simple,Per-5,0.36,0.492431,2
@@ -25365,7 +25365,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Sonnet-5.5-Simple,Per-5,0.24,0.432264,2
 1,7,Sonnet-5.5-Simple,Per-5,0.25,0.444068,2
 1,7,Sonnet-5.5-Simple,Per-5,0.26,0.442791,2
-1,7,Sonnet-5.5-Simple,Per-5,0.27,0.432692,2
+1,7,Sonnet-5.5-Simple,Per-5,0.27,0.432693,2
 1,7,Sonnet-5.5-Simple,Per-5,0.28,0.421914,2
 1,7,Sonnet-5.5-Simple,Per-5,0.29,0.415562,2
 1,7,Sonnet-5.5-Simple,Per-5,0.3,0.415993,2
@@ -25383,7 +25383,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 1,7,Sonnet-5.5-Simple,Per-5,0.42,0.381839,2
 1,7,Sonnet-5.5-Simple,Per-5,0.43,0.379673,2
 1,7,Sonnet-5.5-Simple,Per-5,0.44,0.377532,2
-1,7,Sonnet-5.5-Simple,Per-5,0.45,0.377807,2
+1,7,Sonnet-5.5-Simple,Per-5,0.45,0.377808,2
 1,7,Sonnet-5.5-Simple,Per-5,0.46,0.379996,2
 1,7,Sonnet-5.5-Simple,Per-5,0.47,0.379831,2
 1,7,Sonnet-5.5-Simple,Per-5,0.48,0.379283,2
@@ -25620,7 +25620,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.39,0.330595,2
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.4,0.330195,2
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.41,0.328161,2
-2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.321934,2
+2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.321935,2
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.43,0.318737,2
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.44,0.313739,2
 2,0,DeepSeek-V4-Flash-Simple,Every-turn,0.45,0.307538,2
@@ -25877,7 +25877,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.1-Simple,Every-turn,0.56,0.287749,2
 2,0,GLM-5.1-Simple,Every-turn,0.57,0.286042,2
 2,0,GLM-5.1-Simple,Every-turn,0.58,0.28019,2
-2,0,GLM-5.1-Simple,Every-turn,0.59,0.274636,2
+2,0,GLM-5.1-Simple,Every-turn,0.59,0.274637,2
 2,0,GLM-5.1-Simple,Every-turn,0.6,0.267265,2
 2,0,GLM-5.1-Simple,Every-turn,0.61,0.263399,2
 2,0,GLM-5.1-Simple,Every-turn,0.62,0.258915,2
@@ -25904,7 +25904,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.1-Simple,Every-turn,0.83,0.255114,2
 2,0,GLM-5.1-Simple,Every-turn,0.84,0.255249,2
 2,0,GLM-5.1-Simple,Every-turn,0.85,0.254536,2
-2,0,GLM-5.1-Simple,Every-turn,0.86,0.254072,2
+2,0,GLM-5.1-Simple,Every-turn,0.86,0.254073,2
 2,0,GLM-5.1-Simple,Every-turn,0.87,0.253417,2
 2,0,GLM-5.1-Simple,Every-turn,0.88,0.25362,2
 2,0,GLM-5.1-Simple,Every-turn,0.89,0.252632,2
@@ -26018,7 +26018,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.2-Simple,Per-5,0.37,0.379542,2
 2,0,GLM-5.2-Simple,Per-5,0.38,0.378005,2
 2,0,GLM-5.2-Simple,Per-5,0.39,0.376291,2
-2,0,GLM-5.2-Simple,Per-5,0.4,0.373147,2
+2,0,GLM-5.2-Simple,Per-5,0.4,0.373148,2
 2,0,GLM-5.2-Simple,Per-5,0.41,0.368559,2
 2,0,GLM-5.2-Simple,Per-5,0.42,0.362284,2
 2,0,GLM-5.2-Simple,Per-5,0.43,0.356113,2
@@ -26030,7 +26030,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.2-Simple,Per-5,0.49,0.314138,2
 2,0,GLM-5.2-Simple,Per-5,0.5,0.305267,2
 2,0,GLM-5.2-Simple,Per-5,0.51,0.295882,2
-2,0,GLM-5.2-Simple,Per-5,0.52,0.286634,2
+2,0,GLM-5.2-Simple,Per-5,0.52,0.286635,2
 2,0,GLM-5.2-Simple,Per-5,0.53,0.275162,2
 2,0,GLM-5.2-Simple,Per-5,0.54,0.264534,2
 2,0,GLM-5.2-Simple,Per-5,0.55,0.254757,2
@@ -26186,7 +26186,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.3-Flash-Simple,Per-5,0.45,0.239113,2
 2,0,GLM-5.3-Flash-Simple,Per-5,0.46,0.232588,2
 2,0,GLM-5.3-Flash-Simple,Per-5,0.47,0.225441,2
-2,0,GLM-5.3-Flash-Simple,Per-5,0.48,0.218074,2
+2,0,GLM-5.3-Flash-Simple,Per-5,0.48,0.218075,2
 2,0,GLM-5.3-Flash-Simple,Per-5,0.49,0.207709,2
 2,0,GLM-5.3-Flash-Simple,Per-5,0.5,0.200492,2
 2,0,GLM-5.3-Flash-Simple,Per-5,0.51,0.193375,2
@@ -26258,13 +26258,13 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GLM-5.3-Simple,Per-5,0.37,0.38887,2
 2,0,GLM-5.3-Simple,Per-5,0.38,0.382923,2
 2,0,GLM-5.3-Simple,Per-5,0.39,0.380566,2
-2,0,GLM-5.3-Simple,Per-5,0.4,0.37568,2
+2,0,GLM-5.3-Simple,Per-5,0.4,0.375681,2
 2,0,GLM-5.3-Simple,Per-5,0.41,0.369331,2
 2,0,GLM-5.3-Simple,Per-5,0.42,0.363835,2
 2,0,GLM-5.3-Simple,Per-5,0.43,0.355791,2
 2,0,GLM-5.3-Simple,Per-5,0.44,0.350288,2
 2,0,GLM-5.3-Simple,Per-5,0.45,0.343398,2
-2,0,GLM-5.3-Simple,Per-5,0.46,0.33623,2
+2,0,GLM-5.3-Simple,Per-5,0.46,0.336231,2
 2,0,GLM-5.3-Simple,Per-5,0.47,0.329036,2
 2,0,GLM-5.3-Simple,Per-5,0.48,0.320854,2
 2,0,GLM-5.3-Simple,Per-5,0.49,0.312397,2
@@ -26487,7 +26487,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GPT-6-Luna-Simple,Per-5,0.26,0.407852,2
 2,0,GPT-6-Luna-Simple,Per-5,0.27,0.403159,2
 2,0,GPT-6-Luna-Simple,Per-5,0.28,0.398807,2
-2,0,GPT-6-Luna-Simple,Per-5,0.29,0.392368,2
+2,0,GPT-6-Luna-Simple,Per-5,0.29,0.392369,2
 2,0,GPT-6-Luna-Simple,Per-5,0.3,0.381251,2
 2,0,GPT-6-Luna-Simple,Per-5,0.31,0.372174,2
 2,0,GPT-6-Luna-Simple,Per-5,0.32,0.362914,2
@@ -26559,7 +26559,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GPT-6-Luna-Simple,Per-5,0.98,0.163165,2
 2,0,GPT-6-Luna-Simple,Per-5,0.99,0.158021,2
 2,0,GPT-6-Luna-Simple,Per-5,1.0,0.153211,2
-2,0,GPT-6.1-Sol-Simple,Every-turn,0.21,0.417155,2
+2,0,GPT-6.1-Sol-Simple,Every-turn,0.21,0.417154,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.22,0.442204,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.23,0.449322,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.24,0.449859,2
@@ -26577,7 +26577,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.36,0.418785,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.37,0.419369,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.38,0.417644,2
-2,0,GPT-6.1-Sol-Simple,Every-turn,0.39,0.415475,2
+2,0,GPT-6.1-Sol-Simple,Every-turn,0.39,0.415476,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.4,0.412676,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.41,0.406482,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.42,0.398069,2
@@ -26623,7 +26623,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.82,0.193743,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.83,0.189544,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.84,0.185579,2
-2,0,GPT-6.1-Sol-Simple,Every-turn,0.85,0.18154,2
+2,0,GPT-6.1-Sol-Simple,Every-turn,0.85,0.181541,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.86,0.17677,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.87,0.172884,2
 2,0,GPT-6.1-Sol-Simple,Every-turn,0.88,0.168543,2
@@ -26813,7 +26813,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,GPT-OSS-120B-Simple,Per-5,0.32,0.332516,2
 2,0,GPT-OSS-120B-Simple,Per-5,0.33,0.322563,2
 2,0,GPT-OSS-120B-Simple,Per-5,0.34,0.312906,2
-2,0,GPT-OSS-120B-Simple,Per-5,0.35,0.303274,2
+2,0,GPT-OSS-120B-Simple,Per-5,0.35,0.303275,2
 2,0,GPT-OSS-120B-Simple,Per-5,0.36,0.295815,2
 2,0,GPT-OSS-120B-Simple,Per-5,0.37,0.287668,2
 2,0,GPT-OSS-120B-Simple,Per-5,0.38,0.280185,2
@@ -26982,7 +26982,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Gemma-4-Simple,Per-5,0.41,0.316867,2
 2,0,Gemma-4-Simple,Per-5,0.42,0.319728,2
 2,0,Gemma-4-Simple,Per-5,0.43,0.322657,2
-2,0,Gemma-4-Simple,Per-5,0.44,0.32856,2
+2,0,Gemma-4-Simple,Per-5,0.44,0.328561,2
 2,0,Gemma-4-Simple,Per-5,0.45,0.330822,2
 2,0,Gemma-4-Simple,Per-5,0.46,0.335132,2
 2,0,Gemma-4-Simple,Per-5,0.47,0.334775,2
@@ -27098,7 +27098,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Jev!,Every-turn,0.77,0.087753,2
 2,0,Jev!,Every-turn,0.78,0.086041,2
 2,0,Jev!,Every-turn,0.79,0.083999,2
-2,0,Jev!,Every-turn,0.8,0.083655,2
+2,0,Jev!,Every-turn,0.8,0.083654,2
 2,0,Jev!,Every-turn,0.81,0.082918,2
 2,0,Jev!,Every-turn,0.82,0.08139,2
 2,0,Jev!,Every-turn,0.83,0.080708,2
@@ -27296,7 +27296,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Kimi-K2.7-Simple,Per-5,0.35,0.246006,2
 2,0,Kimi-K2.7-Simple,Per-5,0.36,0.245898,2
 2,0,Kimi-K2.7-Simple,Per-5,0.37,0.245286,2
-2,0,Kimi-K2.7-Simple,Per-5,0.38,0.246226,2
+2,0,Kimi-K2.7-Simple,Per-5,0.38,0.246227,2
 2,0,Kimi-K2.7-Simple,Per-5,0.39,0.249039,2
 2,0,Kimi-K2.7-Simple,Per-5,0.4,0.25156,2
 2,0,Kimi-K2.7-Simple,Per-5,0.41,0.252677,2
@@ -27381,14 +27381,14 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,MiniMax-M2.7-Simple,Every-turn,0.4,0.327896,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.41,0.327698,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.42,0.325234,2
-2,0,MiniMax-M2.7-Simple,Every-turn,0.43,0.322375,2
+2,0,MiniMax-M2.7-Simple,Every-turn,0.43,0.322376,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.44,0.319007,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.45,0.312697,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.46,0.304557,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.47,0.29483,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.48,0.286903,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.49,0.278352,2
-2,0,MiniMax-M2.7-Simple,Every-turn,0.5,0.27046,2
+2,0,MiniMax-M2.7-Simple,Every-turn,0.5,0.270461,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.51,0.265349,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.52,0.258842,2
 2,0,MiniMax-M2.7-Simple,Every-turn,0.53,0.251275,2
@@ -27466,7 +27466,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,MiniMax-M2.7-Simple,Per-5,0.45,0.29439,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.46,0.286881,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.47,0.279473,2
-2,0,MiniMax-M2.7-Simple,Per-5,0.48,0.272433,2
+2,0,MiniMax-M2.7-Simple,Per-5,0.48,0.272434,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.49,0.264708,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.5,0.257946,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.51,0.254751,2
@@ -27475,7 +27475,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,MiniMax-M2.7-Simple,Per-5,0.54,0.240975,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.55,0.237809,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.56,0.233842,2
-2,0,MiniMax-M2.7-Simple,Per-5,0.57,0.228555,2
+2,0,MiniMax-M2.7-Simple,Per-5,0.57,0.228556,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.58,0.220174,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.59,0.213788,2
 2,0,MiniMax-M2.7-Simple,Per-5,0.6,0.209117,2
@@ -27692,7 +27692,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Nemotron-3-Super-Simple,Per-5,0.31,0.248955,2
 2,0,Nemotron-3-Super-Simple,Per-5,0.32,0.240652,2
 2,0,Nemotron-3-Super-Simple,Per-5,0.33,0.230899,2
-2,0,Nemotron-3-Super-Simple,Per-5,0.34,0.225344,2
+2,0,Nemotron-3-Super-Simple,Per-5,0.34,0.225345,2
 2,0,Nemotron-3-Super-Simple,Per-5,0.35,0.219678,2
 2,0,Nemotron-3-Super-Simple,Per-5,0.36,0.212494,2
 2,0,Nemotron-3-Super-Simple,Per-5,0.37,0.206032,2
@@ -27785,7 +27785,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Null,Every-turn,0.44,0.203672,2
 2,0,Null,Every-turn,0.45,0.198191,2
 2,0,Null,Every-turn,0.46,0.194183,2
-2,0,Null,Every-turn,0.47,0.189929,2
+2,0,Null,Every-turn,0.47,0.18993,2
 2,0,Null,Every-turn,0.48,0.18421,2
 2,0,Null,Every-turn,0.49,0.178391,2
 2,0,Null,Every-turn,0.5,0.172861,2
@@ -27921,7 +27921,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Opus-5.5-Simple,Per-5,1.0,0.016158,2
 2,0,Qwen-3.5-Simple,Every-turn,0.21,0.407262,2
 2,0,Qwen-3.5-Simple,Every-turn,0.22,0.425662,2
-2,0,Qwen-3.5-Simple,Every-turn,0.23,0.431578,2
+2,0,Qwen-3.5-Simple,Every-turn,0.23,0.431579,2
 2,0,Qwen-3.5-Simple,Every-turn,0.24,0.429803,2
 2,0,Qwen-3.5-Simple,Every-turn,0.25,0.417609,2
 2,0,Qwen-3.5-Simple,Every-turn,0.26,0.401329,2
@@ -28086,7 +28086,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.25,0.348305,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.26,0.343934,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.27,0.342743,2
-2,0,Qwen-3.6-27B-Simple,Every-turn,0.28,0.344972,2
+2,0,Qwen-3.6-27B-Simple,Every-turn,0.28,0.344973,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.29,0.338622,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.3,0.333356,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.31,0.329012,2
@@ -28096,13 +28096,13 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.35,0.304742,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.36,0.297596,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.37,0.293825,2
-2,0,Qwen-3.6-27B-Simple,Every-turn,0.38,0.288809,2
+2,0,Qwen-3.6-27B-Simple,Every-turn,0.38,0.28881,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.39,0.283481,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.4,0.278044,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.41,0.271466,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.42,0.263932,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.43,0.255363,2
-2,0,Qwen-3.6-27B-Simple,Every-turn,0.44,0.246466,2
+2,0,Qwen-3.6-27B-Simple,Every-turn,0.44,0.246467,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.45,0.235857,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.46,0.225443,2
 2,0,Qwen-3.6-27B-Simple,Every-turn,0.47,0.215169,2
@@ -28326,10 +28326,10 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Qwen-3.8-27B-Simple,Per-5,0.25,0.331303,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.26,0.322033,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.27,0.309121,2
-2,0,Qwen-3.8-27B-Simple,Per-5,0.28,0.304107,2
+2,0,Qwen-3.8-27B-Simple,Per-5,0.28,0.304108,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.29,0.297569,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.3,0.293594,2
-2,0,Qwen-3.8-27B-Simple,Per-5,0.31,0.294725,2
+2,0,Qwen-3.8-27B-Simple,Per-5,0.31,0.294726,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.32,0.29176,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.33,0.289314,2
 2,0,Qwen-3.8-27B-Simple,Per-5,0.34,0.287588,2
@@ -28410,7 +28410,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.29,0.261103,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.3,0.253463,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.31,0.248106,2
-2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.32,0.250951,2
+2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.32,0.250952,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.33,0.248988,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.34,0.24594,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.35,0.24597,2
@@ -28420,7 +28420,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.39,0.222292,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.4,0.216633,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.210058,2
-2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.42,0.201449,2
+2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.42,0.20145,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.43,0.192932,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.44,0.185599,2
 2,0,Qwen-3.8-Flash-Next-Simple,Every-turn,0.45,0.177855,2
@@ -28578,7 +28578,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,0,Sonnet-5.5-Simple,Per-5,0.37,0.267078,2
 2,0,Sonnet-5.5-Simple,Per-5,0.38,0.265386,2
 2,0,Sonnet-5.5-Simple,Per-5,0.39,0.263506,2
-2,0,Sonnet-5.5-Simple,Per-5,0.4,0.259329,2
+2,0,Sonnet-5.5-Simple,Per-5,0.4,0.25933,2
 2,0,Sonnet-5.5-Simple,Per-5,0.41,0.253866,2
 2,0,Sonnet-5.5-Simple,Per-5,0.42,0.247116,2
 2,0,Sonnet-5.5-Simple,Per-5,0.43,0.238257,2
@@ -28956,7 +28956,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,DeepSeek-V4-Flash-Simple,Per-5,0.95,0.486099,2
 2,1,DeepSeek-V4-Flash-Simple,Per-5,0.96,0.486088,2
 2,1,DeepSeek-V4-Flash-Simple,Per-5,0.97,0.486115,2
-2,1,DeepSeek-V4-Flash-Simple,Per-5,0.98,0.486207,2
+2,1,DeepSeek-V4-Flash-Simple,Per-5,0.98,0.486206,2
 2,1,DeepSeek-V4-Flash-Simple,Per-5,0.99,0.486321,2
 2,1,DeepSeek-V4-Flash-Simple,Per-5,1.0,0.486256,2
 2,1,DeepSeek-V4.1-Flash-Simple,Per-5,0.21,0.441037,2
@@ -29117,7 +29117,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GLM-5.1-Simple,Every-turn,0.96,0.788679,2
 2,1,GLM-5.1-Simple,Every-turn,0.97,0.792287,2
 2,1,GLM-5.1-Simple,Every-turn,0.98,0.795269,2
-2,1,GLM-5.1-Simple,Every-turn,0.99,0.797967,2
+2,1,GLM-5.1-Simple,Every-turn,0.99,0.797966,2
 2,1,GLM-5.1-Simple,Every-turn,1.0,0.801118,2
 2,1,GLM-5.2-Simple,Every-turn,0.21,0.217262,2
 2,1,GLM-5.2-Simple,Every-turn,0.22,0.224817,2
@@ -29218,7 +29218,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GLM-5.2-Simple,Per-5,0.37,0.633214,2
 2,1,GLM-5.2-Simple,Per-5,0.38,0.634543,2
 2,1,GLM-5.2-Simple,Per-5,0.39,0.633593,2
-2,1,GLM-5.2-Simple,Per-5,0.4,0.634785,2
+2,1,GLM-5.2-Simple,Per-5,0.4,0.634784,2
 2,1,GLM-5.2-Simple,Per-5,0.41,0.6362,2
 2,1,GLM-5.2-Simple,Per-5,0.42,0.640441,2
 2,1,GLM-5.2-Simple,Per-5,0.43,0.645439,2
@@ -29346,7 +29346,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.85,0.642335,2
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.86,0.645137,2
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.87,0.647518,2
-2,1,GLM-5.3-Flash-Simple,Every-turn,0.88,0.649757,2
+2,1,GLM-5.3-Flash-Simple,Every-turn,0.88,0.649756,2
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.89,0.651482,2
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.9,0.653449,2
 2,1,GLM-5.3-Flash-Simple,Every-turn,0.91,0.655031,2
@@ -29521,7 +29521,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GLM-5.3-Simple,Per-5,1.0,0.720201,2
 2,1,GPT-6-Astra-Simple,Per-5,0.21,0.454412,2
 2,1,GPT-6-Astra-Simple,Per-5,0.22,0.428629,2
-2,1,GPT-6-Astra-Simple,Per-5,0.23,0.422882,2
+2,1,GPT-6-Astra-Simple,Per-5,0.23,0.422883,2
 2,1,GPT-6-Astra-Simple,Per-5,0.24,0.412817,2
 2,1,GPT-6-Astra-Simple,Per-5,0.25,0.408394,2
 2,1,GPT-6-Astra-Simple,Per-5,0.26,0.401628,2
@@ -29840,7 +29840,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GPT-6.1-Sol-Simple,Every-turn,0.99,0.50802,2
 2,1,GPT-6.1-Sol-Simple,Every-turn,1.0,0.51134,2
 2,1,GPT-6.1-Sol-Simple,Per-5,0.21,0.435126,2
-2,1,GPT-6.1-Sol-Simple,Per-5,0.22,0.428174,2
+2,1,GPT-6.1-Sol-Simple,Per-5,0.22,0.428175,2
 2,1,GPT-6.1-Sol-Simple,Per-5,0.23,0.423733,2
 2,1,GPT-6.1-Sol-Simple,Per-5,0.24,0.430342,2
 2,1,GPT-6.1-Sol-Simple,Per-5,0.25,0.431501,2
@@ -30040,7 +30040,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GPT-OSS-120B-Simple,Per-5,0.59,0.391438,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.6,0.391132,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.61,0.39233,2
-2,1,GPT-OSS-120B-Simple,Per-5,0.62,0.396101,2
+2,1,GPT-OSS-120B-Simple,Per-5,0.62,0.396102,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.63,0.399139,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.64,0.405715,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.65,0.413706,2
@@ -30070,7 +30070,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,GPT-OSS-120B-Simple,Per-5,0.89,0.43497,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.9,0.435358,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.91,0.43547,2
-2,1,GPT-OSS-120B-Simple,Per-5,0.92,0.439314,2
+2,1,GPT-OSS-120B-Simple,Per-5,0.92,0.439315,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.93,0.444444,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.94,0.44899,2
 2,1,GPT-OSS-120B-Simple,Per-5,0.95,0.453026,2
@@ -30236,12 +30236,12 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Gemma-4-Simple,Per-5,0.95,0.58751,2
 2,1,Gemma-4-Simple,Per-5,0.96,0.586396,2
 2,1,Gemma-4-Simple,Per-5,0.97,0.585312,2
-2,1,Gemma-4-Simple,Per-5,0.98,0.584357,2
+2,1,Gemma-4-Simple,Per-5,0.98,0.584356,2
 2,1,Gemma-4-Simple,Per-5,0.99,0.583392,2
 2,1,Gemma-4-Simple,Per-5,1.0,0.582262,2
-2,1,Jev!,Every-turn,0.21,0.468711,2
+2,1,Jev!,Every-turn,0.21,0.468712,2
 2,1,Jev!,Every-turn,0.22,0.492796,2
-2,1,Jev!,Every-turn,0.23,0.50883,2
+2,1,Jev!,Every-turn,0.23,0.508831,2
 2,1,Jev!,Every-turn,0.24,0.503221,2
 2,1,Jev!,Every-turn,0.25,0.504411,2
 2,1,Jev!,Every-turn,0.26,0.500686,2
@@ -30615,7 +30615,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,MiniMax-M2.7-Simple,Every-turn,0.74,0.298022,2
 2,1,MiniMax-M2.7-Simple,Every-turn,0.75,0.299044,2
 2,1,MiniMax-M2.7-Simple,Every-turn,0.76,0.299957,2
-2,1,MiniMax-M2.7-Simple,Every-turn,0.77,0.300528,2
+2,1,MiniMax-M2.7-Simple,Every-turn,0.77,0.300529,2
 2,1,MiniMax-M2.7-Simple,Every-turn,0.78,0.300962,2
 2,1,MiniMax-M2.7-Simple,Every-turn,0.79,0.301502,2
 2,1,MiniMax-M2.7-Simple,Every-turn,0.8,0.301938,2
@@ -30888,7 +30888,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Nemotron-3-Super-Simple,Per-5,0.27,0.547641,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.28,0.538995,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.29,0.533359,2
-2,1,Nemotron-3-Super-Simple,Per-5,0.3,0.527232,2
+2,1,Nemotron-3-Super-Simple,Per-5,0.3,0.527233,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.31,0.518526,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.32,0.507642,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.33,0.498547,2
@@ -30959,7 +30959,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Nemotron-3-Super-Simple,Per-5,0.98,0.45327,2
 2,1,Nemotron-3-Super-Simple,Per-5,0.99,0.453664,2
 2,1,Nemotron-3-Super-Simple,Per-5,1.0,0.453842,2
-2,1,Null,Every-turn,0.21,0.395036,2
+2,1,Null,Every-turn,0.21,0.395037,2
 2,1,Null,Every-turn,0.22,0.396741,2
 2,1,Null,Every-turn,0.23,0.402627,2
 2,1,Null,Every-turn,0.24,0.426548,2
@@ -31482,7 +31482,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.61,0.474988,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.62,0.477155,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.63,0.478219,2
-2,1,Qwen-3.8-27B-Simple,Every-turn,0.64,0.479142,2
+2,1,Qwen-3.8-27B-Simple,Every-turn,0.64,0.479141,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.65,0.480495,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.66,0.481015,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.67,0.481689,2
@@ -31519,7 +31519,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.98,0.493588,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,0.99,0.493627,2
 2,1,Qwen-3.8-27B-Simple,Every-turn,1.0,0.493502,2
-2,1,Qwen-3.8-27B-Simple,Per-5,0.21,0.324988,2
+2,1,Qwen-3.8-27B-Simple,Per-5,0.21,0.324989,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.22,0.317568,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.23,0.310003,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.24,0.299636,2
@@ -31580,7 +31580,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,1,Qwen-3.8-27B-Simple,Per-5,0.79,0.249175,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.8,0.250135,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.81,0.25127,2
-2,1,Qwen-3.8-27B-Simple,Per-5,0.82,0.252426,2
+2,1,Qwen-3.8-27B-Simple,Per-5,0.82,0.252427,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.83,0.25357,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.84,0.25527,2
 2,1,Qwen-3.8-27B-Simple,Per-5,0.85,0.257276,2
@@ -32753,7 +32753,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,GPT-6-Astra-Simple,Per-5,0.52,0.515647,2
 2,2,GPT-6-Astra-Simple,Per-5,0.53,0.515703,2
 2,2,GPT-6-Astra-Simple,Per-5,0.54,0.515774,2
-2,2,GPT-6-Astra-Simple,Per-5,0.55,0.515881,2
+2,2,GPT-6-Astra-Simple,Per-5,0.55,0.51588,2
 2,2,GPT-6-Astra-Simple,Per-5,0.56,0.516069,2
 2,2,GPT-6-Astra-Simple,Per-5,0.57,0.51673,2
 2,2,GPT-6-Astra-Simple,Per-5,0.58,0.516913,2
@@ -33135,7 +33135,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,GPT-OSS-120B-Simple,Every-turn,0.34,0.449681,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.35,0.449557,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.36,0.44956,2
-2,2,GPT-OSS-120B-Simple,Every-turn,0.37,0.450415,2
+2,2,GPT-OSS-120B-Simple,Every-turn,0.37,0.450414,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.38,0.452625,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.39,0.454015,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.4,0.45535,2
@@ -33151,7 +33151,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,GPT-OSS-120B-Simple,Every-turn,0.5,0.463483,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.51,0.46415,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.52,0.464817,2
-2,2,GPT-OSS-120B-Simple,Every-turn,0.53,0.465504,2
+2,2,GPT-OSS-120B-Simple,Every-turn,0.53,0.465503,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.54,0.466198,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.55,0.466867,2
 2,2,GPT-OSS-120B-Simple,Every-turn,0.56,0.467473,2
@@ -33609,7 +33609,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,Kimi-K2.7-Simple,Every-turn,0.28,0.498103,2
 2,2,Kimi-K2.7-Simple,Every-turn,0.29,0.502581,2
 2,2,Kimi-K2.7-Simple,Every-turn,0.3,0.50537,2
-2,2,Kimi-K2.7-Simple,Every-turn,0.31,0.50683,2
+2,2,Kimi-K2.7-Simple,Every-turn,0.31,0.506831,2
 2,2,Kimi-K2.7-Simple,Every-turn,0.32,0.507134,2
 2,2,Kimi-K2.7-Simple,Every-turn,0.33,0.509203,2
 2,2,Kimi-K2.7-Simple,Every-turn,0.34,0.512506,2
@@ -33844,7 +33844,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,MiniMax-M2.7-Simple,Per-5,0.23,0.46042,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.24,0.465167,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.25,0.468075,2
-2,2,MiniMax-M2.7-Simple,Per-5,0.26,0.469774,2
+2,2,MiniMax-M2.7-Simple,Per-5,0.26,0.469773,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.27,0.477445,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.28,0.483865,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.29,0.487209,2
@@ -33911,7 +33911,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,MiniMax-M2.7-Simple,Per-5,0.9,0.50227,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.91,0.502502,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.92,0.502739,2
-2,2,MiniMax-M2.7-Simple,Per-5,0.93,0.503004,2
+2,2,MiniMax-M2.7-Simple,Per-5,0.93,0.503003,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.94,0.503337,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.95,0.503798,2
 2,2,MiniMax-M2.7-Simple,Per-5,0.96,0.504627,2
@@ -34466,7 +34466,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,Qwen-3.5-Simple,Per-5,0.85,0.50117,2
 2,2,Qwen-3.5-Simple,Per-5,0.86,0.501214,2
 2,2,Qwen-3.5-Simple,Per-5,0.87,0.501259,2
-2,2,Qwen-3.5-Simple,Per-5,0.88,0.501305,2
+2,2,Qwen-3.5-Simple,Per-5,0.88,0.501304,2
 2,2,Qwen-3.5-Simple,Per-5,0.89,0.501339,2
 2,2,Qwen-3.5-Simple,Per-5,0.9,0.501358,2
 2,2,Qwen-3.5-Simple,Per-5,0.91,0.501391,2
@@ -34699,7 +34699,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.78,0.646305,2
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.79,0.645135,2
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.8,0.644565,2
-2,2,Qwen-3.8-27B-Simple,Every-turn,0.81,0.643721,2
+2,2,Qwen-3.8-27B-Simple,Every-turn,0.81,0.643722,2
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.82,0.642693,2
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.83,0.641803,2
 2,2,Qwen-3.8-27B-Simple,Every-turn,0.84,0.640707,2
@@ -35203,12 +35203,12 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.22,0.630496,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.61285,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.24,0.614309,2
-2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.25,0.613922,2
+2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.25,0.613921,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.26,0.623684,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.27,0.631325,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.28,0.634947,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.29,0.63473,2
-2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.3,0.636204,2
+2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.3,0.636203,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.31,0.639826,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.32,0.63728,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.33,0.638597,2
@@ -35222,7 +35222,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.41,0.625522,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.624551,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.43,0.624999,2
-2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.44,0.624963,2
+2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.44,0.624962,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.45,0.624682,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.46,0.623612,2
 2,3,DeepSeek-V4-Flash-Simple,Every-turn,0.47,0.622229,2
@@ -35505,7 +35505,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.1-Simple,Every-turn,0.84,0.771415,2
 2,3,GLM-5.1-Simple,Every-turn,0.85,0.769745,2
 2,3,GLM-5.1-Simple,Every-turn,0.86,0.768221,2
-2,3,GLM-5.1-Simple,Every-turn,0.87,0.766721,2
+2,3,GLM-5.1-Simple,Every-turn,0.87,0.76672,2
 2,3,GLM-5.1-Simple,Every-turn,0.88,0.765206,2
 2,3,GLM-5.1-Simple,Every-turn,0.89,0.763641,2
 2,3,GLM-5.1-Simple,Every-turn,0.9,0.762105,2
@@ -35543,7 +35543,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.2-Simple,Every-turn,0.42,0.776414,2
 2,3,GLM-5.2-Simple,Every-turn,0.43,0.780624,2
 2,3,GLM-5.2-Simple,Every-turn,0.44,0.783923,2
-2,3,GLM-5.2-Simple,Every-turn,0.45,0.786154,2
+2,3,GLM-5.2-Simple,Every-turn,0.45,0.786153,2
 2,3,GLM-5.2-Simple,Every-turn,0.46,0.788133,2
 2,3,GLM-5.2-Simple,Every-turn,0.47,0.787785,2
 2,3,GLM-5.2-Simple,Every-turn,0.48,0.788733,2
@@ -35569,7 +35569,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.2-Simple,Every-turn,0.68,0.847122,2
 2,3,GLM-5.2-Simple,Every-turn,0.69,0.847717,2
 2,3,GLM-5.2-Simple,Every-turn,0.7,0.848431,2
-2,3,GLM-5.2-Simple,Every-turn,0.71,0.848979,2
+2,3,GLM-5.2-Simple,Every-turn,0.71,0.848978,2
 2,3,GLM-5.2-Simple,Every-turn,0.72,0.850484,2
 2,3,GLM-5.2-Simple,Every-turn,0.73,0.851517,2
 2,3,GLM-5.2-Simple,Every-turn,0.74,0.853924,2
@@ -35592,7 +35592,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.2-Simple,Every-turn,0.91,0.847185,2
 2,3,GLM-5.2-Simple,Every-turn,0.92,0.846808,2
 2,3,GLM-5.2-Simple,Every-turn,0.93,0.84591,2
-2,3,GLM-5.2-Simple,Every-turn,0.94,0.845314,2
+2,3,GLM-5.2-Simple,Every-turn,0.94,0.845313,2
 2,3,GLM-5.2-Simple,Every-turn,0.95,0.844592,2
 2,3,GLM-5.2-Simple,Every-turn,0.96,0.843729,2
 2,3,GLM-5.2-Simple,Every-turn,0.97,0.842782,2
@@ -35830,7 +35830,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.3-Flash-Simple,Per-5,0.89,0.529391,2
 2,3,GLM-5.3-Flash-Simple,Per-5,0.9,0.529057,2
 2,3,GLM-5.3-Flash-Simple,Per-5,0.91,0.528738,2
-2,3,GLM-5.3-Flash-Simple,Per-5,0.92,0.528422,2
+2,3,GLM-5.3-Flash-Simple,Per-5,0.92,0.528421,2
 2,3,GLM-5.3-Flash-Simple,Per-5,0.93,0.528124,2
 2,3,GLM-5.3-Flash-Simple,Per-5,0.94,0.52783,2
 2,3,GLM-5.3-Flash-Simple,Per-5,0.95,0.527538,2
@@ -35864,7 +35864,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.3-Simple,Per-5,0.43,0.663879,2
 2,3,GLM-5.3-Simple,Per-5,0.44,0.667725,2
 2,3,GLM-5.3-Simple,Per-5,0.45,0.671,2
-2,3,GLM-5.3-Simple,Per-5,0.46,0.674937,2
+2,3,GLM-5.3-Simple,Per-5,0.46,0.674936,2
 2,3,GLM-5.3-Simple,Per-5,0.47,0.680093,2
 2,3,GLM-5.3-Simple,Per-5,0.48,0.685613,2
 2,3,GLM-5.3-Simple,Per-5,0.49,0.69163,2
@@ -35874,7 +35874,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GLM-5.3-Simple,Per-5,0.53,0.704956,2
 2,3,GLM-5.3-Simple,Per-5,0.54,0.706864,2
 2,3,GLM-5.3-Simple,Per-5,0.55,0.707793,2
-2,3,GLM-5.3-Simple,Per-5,0.56,0.707587,2
+2,3,GLM-5.3-Simple,Per-5,0.56,0.707586,2
 2,3,GLM-5.3-Simple,Per-5,0.57,0.708363,2
 2,3,GLM-5.3-Simple,Per-5,0.58,0.70874,2
 2,3,GLM-5.3-Simple,Per-5,0.59,0.709313,2
@@ -35937,7 +35937,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GPT-6-Astra-Simple,Per-5,0.36,0.709705,3
 2,3,GPT-6-Astra-Simple,Per-5,0.37,0.714171,3
 2,3,GPT-6-Astra-Simple,Per-5,0.38,0.717467,3
-2,3,GPT-6-Astra-Simple,Per-5,0.39,0.721841,3
+2,3,GPT-6-Astra-Simple,Per-5,0.39,0.72184,3
 2,3,GPT-6-Astra-Simple,Per-5,0.4,0.723704,3
 2,3,GPT-6-Astra-Simple,Per-5,0.41,0.728012,3
 2,3,GPT-6-Astra-Simple,Per-5,0.42,0.733209,3
@@ -36089,7 +36089,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GPT-6-Luna-Simple,Per-5,0.28,0.647955,2
 2,3,GPT-6-Luna-Simple,Per-5,0.29,0.650711,2
 2,3,GPT-6-Luna-Simple,Per-5,0.3,0.652745,2
-2,3,GPT-6-Luna-Simple,Per-5,0.31,0.653708,2
+2,3,GPT-6-Luna-Simple,Per-5,0.31,0.653707,2
 2,3,GPT-6-Luna-Simple,Per-5,0.32,0.652607,2
 2,3,GPT-6-Luna-Simple,Per-5,0.33,0.652423,2
 2,3,GPT-6-Luna-Simple,Per-5,0.34,0.65072,2
@@ -36198,7 +36198,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.57,0.799491,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.58,0.801591,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.59,0.803565,2
-2,3,GPT-6.1-Sol-Simple,Every-turn,0.6,0.80602,2
+2,3,GPT-6.1-Sol-Simple,Every-turn,0.6,0.806019,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.61,0.808861,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.62,0.811458,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.63,0.813907,2
@@ -36236,7 +36236,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.95,0.850481,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.96,0.850476,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.97,0.8507,2
-2,3,GPT-6.1-Sol-Simple,Every-turn,0.98,0.850453,2
+2,3,GPT-6.1-Sol-Simple,Every-turn,0.98,0.850452,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,0.99,0.850114,2
 2,3,GPT-6.1-Sol-Simple,Every-turn,1.0,0.849679,2
 2,3,GPT-6.1-Sol-Simple,Per-5,0.21,0.609069,2
@@ -36852,7 +36852,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Kimi-K2.7-Simple,Every-turn,0.71,0.870076,2
 2,3,Kimi-K2.7-Simple,Every-turn,0.72,0.873126,2
 2,3,Kimi-K2.7-Simple,Every-turn,0.73,0.876182,2
-2,3,Kimi-K2.7-Simple,Every-turn,0.74,0.877891,2
+2,3,Kimi-K2.7-Simple,Every-turn,0.74,0.87789,2
 2,3,Kimi-K2.7-Simple,Every-turn,0.75,0.879649,2
 2,3,Kimi-K2.7-Simple,Every-turn,0.76,0.881071,2
 2,3,Kimi-K2.7-Simple,Every-turn,0.77,0.882564,2
@@ -36880,7 +36880,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Kimi-K2.7-Simple,Every-turn,0.99,0.910577,2
 2,3,Kimi-K2.7-Simple,Every-turn,1.0,0.911904,2
 2,3,Kimi-K2.7-Simple,Per-5,0.21,0.623495,2
-2,3,Kimi-K2.7-Simple,Per-5,0.22,0.630077,2
+2,3,Kimi-K2.7-Simple,Per-5,0.22,0.630076,2
 2,3,Kimi-K2.7-Simple,Per-5,0.23,0.627406,2
 2,3,Kimi-K2.7-Simple,Per-5,0.24,0.626146,2
 2,3,Kimi-K2.7-Simple,Per-5,0.25,0.61812,2
@@ -36893,7 +36893,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Kimi-K2.7-Simple,Per-5,0.32,0.621376,2
 2,3,Kimi-K2.7-Simple,Per-5,0.33,0.624744,2
 2,3,Kimi-K2.7-Simple,Per-5,0.34,0.628493,2
-2,3,Kimi-K2.7-Simple,Per-5,0.35,0.631172,2
+2,3,Kimi-K2.7-Simple,Per-5,0.35,0.631171,2
 2,3,Kimi-K2.7-Simple,Per-5,0.36,0.632605,2
 2,3,Kimi-K2.7-Simple,Per-5,0.37,0.634315,2
 2,3,Kimi-K2.7-Simple,Per-5,0.38,0.635343,2
@@ -37042,7 +37042,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,MiniMax-M2.7-Simple,Per-5,0.21,0.616747,2
 2,3,MiniMax-M2.7-Simple,Per-5,0.22,0.620564,2
 2,3,MiniMax-M2.7-Simple,Per-5,0.23,0.613762,2
-2,3,MiniMax-M2.7-Simple,Per-5,0.24,0.606882,2
+2,3,MiniMax-M2.7-Simple,Per-5,0.24,0.606881,2
 2,3,MiniMax-M2.7-Simple,Per-5,0.25,0.600934,2
 2,3,MiniMax-M2.7-Simple,Per-5,0.26,0.603071,2
 2,3,MiniMax-M2.7-Simple,Per-5,0.27,0.611459,2
@@ -37539,7 +37539,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Qwen-3.5-Simple,Every-turn,0.38,0.643313,2
 2,3,Qwen-3.5-Simple,Every-turn,0.39,0.642672,2
 2,3,Qwen-3.5-Simple,Every-turn,0.4,0.642317,2
-2,3,Qwen-3.5-Simple,Every-turn,0.41,0.641131,2
+2,3,Qwen-3.5-Simple,Every-turn,0.41,0.64113,2
 2,3,Qwen-3.5-Simple,Every-turn,0.42,0.640188,2
 2,3,Qwen-3.5-Simple,Every-turn,0.43,0.640282,2
 2,3,Qwen-3.5-Simple,Every-turn,0.44,0.640144,2
@@ -38076,7 +38076,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.95,0.648847,2
 2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.96,0.65163,2
 2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.97,0.652563,2
-2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.98,0.653964,2
+2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.98,0.653963,2
 2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.99,0.653774,2
 2,3,Qwen-3.8-Flash-Next-Simple,Every-turn,1.0,0.654812,2
 2,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.21,0.746312,2
@@ -38221,7 +38221,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,3,Sonnet-5.5-Simple,Per-5,0.8,0.696056,2
 2,3,Sonnet-5.5-Simple,Per-5,0.81,0.69468,2
 2,3,Sonnet-5.5-Simple,Per-5,0.82,0.693879,2
-2,3,Sonnet-5.5-Simple,Per-5,0.83,0.693208,2
+2,3,Sonnet-5.5-Simple,Per-5,0.83,0.693207,2
 2,3,Sonnet-5.5-Simple,Per-5,0.84,0.692396,2
 2,3,Sonnet-5.5-Simple,Per-5,0.85,0.691373,2
 2,3,Sonnet-5.5-Simple,Per-5,0.86,0.690129,2
@@ -38410,7 +38410,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.29,0.543601,2
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.3,0.551364,2
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.31,0.560808,2
-2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.32,0.562843,2
+2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.32,0.562842,2
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.33,0.565908,2
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.34,0.56936,2
 2,4,DeepSeek-V4-Flash-Simple,Every-turn,0.35,0.571734,2
@@ -38502,7 +38502,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.41,0.431694,2
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.42,0.42869,2
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.43,0.426346,2
-2,4,DeepSeek-V4-Flash-Simple,Per-5,0.44,0.423011,2
+2,4,DeepSeek-V4-Flash-Simple,Per-5,0.44,0.42301,2
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.45,0.420126,2
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.46,0.416951,2
 2,4,DeepSeek-V4-Flash-Simple,Per-5,0.47,0.415496,2
@@ -38621,7 +38621,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.8,0.409551,2
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.81,0.410585,2
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.82,0.411586,2
-2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.83,0.412603,2
+2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.83,0.412602,2
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.84,0.413677,2
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.85,0.414775,2
 2,4,DeepSeek-V4.1-Flash-Simple,Per-5,0.86,0.415826,2
@@ -38642,7 +38642,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GLM-5.1-Simple,Every-turn,0.21,0.477382,2
 2,4,GLM-5.1-Simple,Every-turn,0.22,0.445921,2
 2,4,GLM-5.1-Simple,Every-turn,0.23,0.425408,2
-2,4,GLM-5.1-Simple,Every-turn,0.24,0.421339,2
+2,4,GLM-5.1-Simple,Every-turn,0.24,0.421338,2
 2,4,GLM-5.1-Simple,Every-turn,0.25,0.438128,2
 2,4,GLM-5.1-Simple,Every-turn,0.26,0.454299,2
 2,4,GLM-5.1-Simple,Every-turn,0.27,0.468604,2
@@ -38881,7 +38881,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GLM-5.2-Simple,Per-5,1.0,0.412888,2
 2,4,GLM-5.3-Flash-Simple,Every-turn,0.21,0.480184,2
 2,4,GLM-5.3-Flash-Simple,Every-turn,0.22,0.47751,2
-2,4,GLM-5.3-Flash-Simple,Every-turn,0.23,0.464281,2
+2,4,GLM-5.3-Flash-Simple,Every-turn,0.23,0.46428,2
 2,4,GLM-5.3-Flash-Simple,Every-turn,0.24,0.457792,2
 2,4,GLM-5.3-Flash-Simple,Every-turn,0.25,0.455329,2
 2,4,GLM-5.3-Flash-Simple,Every-turn,0.26,0.458874,2
@@ -38963,7 +38963,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GLM-5.3-Flash-Simple,Per-5,0.22,0.467367,2
 2,4,GLM-5.3-Flash-Simple,Per-5,0.23,0.452773,2
 2,4,GLM-5.3-Flash-Simple,Per-5,0.24,0.441132,2
-2,4,GLM-5.3-Flash-Simple,Per-5,0.25,0.442431,2
+2,4,GLM-5.3-Flash-Simple,Per-5,0.25,0.44243,2
 2,4,GLM-5.3-Flash-Simple,Per-5,0.26,0.446736,2
 2,4,GLM-5.3-Flash-Simple,Per-5,0.27,0.45407,2
 2,4,GLM-5.3-Flash-Simple,Per-5,0.28,0.461115,2
@@ -39152,7 +39152,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GPT-6-Astra-Simple,Per-5,0.51,0.325334,2
 2,4,GPT-6-Astra-Simple,Per-5,0.52,0.32589,2
 2,4,GPT-6-Astra-Simple,Per-5,0.53,0.326997,2
-2,4,GPT-6-Astra-Simple,Per-5,0.54,0.328841,2
+2,4,GPT-6-Astra-Simple,Per-5,0.54,0.32884,2
 2,4,GPT-6-Astra-Simple,Per-5,0.55,0.330887,2
 2,4,GPT-6-Astra-Simple,Per-5,0.56,0.333184,2
 2,4,GPT-6-Astra-Simple,Per-5,0.57,0.335199,2
@@ -39204,7 +39204,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GPT-6-Luna-Simple,Every-turn,0.23,0.338555,2
 2,4,GPT-6-Luna-Simple,Every-turn,0.24,0.332715,2
 2,4,GPT-6-Luna-Simple,Every-turn,0.25,0.335204,2
-2,4,GPT-6-Luna-Simple,Every-turn,0.26,0.347308,2
+2,4,GPT-6-Luna-Simple,Every-turn,0.26,0.347307,2
 2,4,GPT-6-Luna-Simple,Every-turn,0.27,0.355354,2
 2,4,GPT-6-Luna-Simple,Every-turn,0.28,0.363152,2
 2,4,GPT-6-Luna-Simple,Every-turn,0.29,0.370466,2
@@ -39284,7 +39284,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GPT-6-Luna-Simple,Per-5,0.23,0.416266,2
 2,4,GPT-6-Luna-Simple,Per-5,0.24,0.415872,2
 2,4,GPT-6-Luna-Simple,Per-5,0.25,0.421612,2
-2,4,GPT-6-Luna-Simple,Per-5,0.26,0.432044,2
+2,4,GPT-6-Luna-Simple,Per-5,0.26,0.432043,2
 2,4,GPT-6-Luna-Simple,Per-5,0.27,0.435122,2
 2,4,GPT-6-Luna-Simple,Per-5,0.28,0.432778,2
 2,4,GPT-6-Luna-Simple,Per-5,0.29,0.426583,2
@@ -39522,7 +39522,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,GPT-OSS-120B-Simple,Every-turn,0.21,0.444921,2
 2,4,GPT-OSS-120B-Simple,Every-turn,0.22,0.413242,2
 2,4,GPT-OSS-120B-Simple,Every-turn,0.23,0.386048,2
-2,4,GPT-OSS-120B-Simple,Every-turn,0.24,0.37041,2
+2,4,GPT-OSS-120B-Simple,Every-turn,0.24,0.370409,2
 2,4,GPT-OSS-120B-Simple,Every-turn,0.25,0.395244,2
 2,4,GPT-OSS-120B-Simple,Every-turn,0.26,0.415993,2
 2,4,GPT-OSS-120B-Simple,Every-turn,0.27,0.429465,2
@@ -39813,7 +39813,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Gemma-4-Simple,Per-5,0.72,0.425486,2
 2,4,Gemma-4-Simple,Per-5,0.73,0.426209,2
 2,4,Gemma-4-Simple,Per-5,0.74,0.426802,2
-2,4,Gemma-4-Simple,Per-5,0.75,0.427009,2
+2,4,Gemma-4-Simple,Per-5,0.75,0.427008,2
 2,4,Gemma-4-Simple,Per-5,0.76,0.427668,2
 2,4,Gemma-4-Simple,Per-5,0.77,0.428342,2
 2,4,Gemma-4-Simple,Per-5,0.78,0.429037,2
@@ -40728,7 +40728,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Qwen-3.5-Simple,Every-turn,0.27,0.381603,2
 2,4,Qwen-3.5-Simple,Every-turn,0.28,0.396679,2
 2,4,Qwen-3.5-Simple,Every-turn,0.29,0.4038,2
-2,4,Qwen-3.5-Simple,Every-turn,0.3,0.408998,2
+2,4,Qwen-3.5-Simple,Every-turn,0.3,0.408999,2
 2,4,Qwen-3.5-Simple,Every-turn,0.31,0.409091,2
 2,4,Qwen-3.5-Simple,Every-turn,0.32,0.408066,2
 2,4,Qwen-3.5-Simple,Every-turn,0.33,0.40552,2
@@ -41200,7 +41200,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Qwen-3.8-27B-Simple,Per-5,0.99,0.424531,2
 2,4,Qwen-3.8-27B-Simple,Per-5,1.0,0.425375,2
 2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.21,0.493889,2
-2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.22,0.479126,2
+2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.22,0.479125,2
 2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.23,0.458844,2
 2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.24,0.446178,2
 2,4,Qwen-3.8-Flash-Next-Simple,Every-turn,0.25,0.449216,2
@@ -41309,7 +41309,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.48,0.517729,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.49,0.51754,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.5,0.517593,2
-2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.51,0.518017,2
+2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.51,0.518016,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.52,0.519092,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.53,0.520462,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.54,0.52187,2
@@ -41356,7 +41356,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.95,0.53029,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.96,0.530208,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.97,0.530106,2
-2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.98,0.529878,2
+2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.98,0.529877,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,0.99,0.529674,2
 2,4,Qwen-3.8-Flash-Next-Simple,Per-5,1.0,0.529496,2
 2,4,Sonnet-5.5-Simple,Per-5,0.21,0.477463,2
@@ -41403,7 +41403,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,4,Sonnet-5.5-Simple,Per-5,0.62,0.427842,2
 2,4,Sonnet-5.5-Simple,Per-5,0.63,0.428705,2
 2,4,Sonnet-5.5-Simple,Per-5,0.64,0.42974,2
-2,4,Sonnet-5.5-Simple,Per-5,0.65,0.4307,2
+2,4,Sonnet-5.5-Simple,Per-5,0.65,0.430699,2
 2,4,Sonnet-5.5-Simple,Per-5,0.66,0.431615,2
 2,4,Sonnet-5.5-Simple,Per-5,0.67,0.432275,2
 2,4,Sonnet-5.5-Simple,Per-5,0.68,0.433073,2
@@ -41680,7 +41680,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,DeepSeek-V4-Flash-Simple,Every-turn,0.99,0.519047,2
 2,5,DeepSeek-V4-Flash-Simple,Every-turn,1.0,0.518509,2
 2,5,DeepSeek-V4-Flash-Simple,Per-5,0.21,0.488797,2
-2,5,DeepSeek-V4-Flash-Simple,Per-5,0.22,0.471111,2
+2,5,DeepSeek-V4-Flash-Simple,Per-5,0.22,0.471112,2
 2,5,DeepSeek-V4-Flash-Simple,Per-5,0.23,0.463205,2
 2,5,DeepSeek-V4-Flash-Simple,Per-5,0.24,0.46153,2
 2,5,DeepSeek-V4-Flash-Simple,Per-5,0.25,0.458531,2
@@ -41805,7 +41805,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.64,0.448404,2
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.65,0.447871,2
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.66,0.447425,2
-2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.67,0.446557,2
+2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.67,0.446556,2
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.68,0.445716,2
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.69,0.447368,2
 2,5,DeepSeek-V4.1-Flash-Simple,Per-5,0.7,0.450177,2
@@ -41950,7 +41950,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,GLM-5.2-Simple,Every-turn,0.49,0.630711,2
 2,5,GLM-5.2-Simple,Every-turn,0.5,0.63256,2
 2,5,GLM-5.2-Simple,Every-turn,0.51,0.632962,2
-2,5,GLM-5.2-Simple,Every-turn,0.52,0.633555,2
+2,5,GLM-5.2-Simple,Every-turn,0.52,0.633554,2
 2,5,GLM-5.2-Simple,Every-turn,0.53,0.633581,2
 2,5,GLM-5.2-Simple,Every-turn,0.54,0.635146,2
 2,5,GLM-5.2-Simple,Every-turn,0.55,0.637893,2
@@ -42086,7 +42086,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.25,0.539429,2
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.26,0.54133,2
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.27,0.553895,2
-2,5,GLM-5.3-Flash-Simple,Every-turn,0.28,0.561902,2
+2,5,GLM-5.3-Flash-Simple,Every-turn,0.28,0.561901,2
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.29,0.567954,2
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.3,0.570987,2
 2,5,GLM-5.3-Flash-Simple,Every-turn,0.31,0.576876,2
@@ -42508,7 +42508,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,GPT-6-Luna-Simple,Per-5,0.47,0.423933,2
 2,5,GPT-6-Luna-Simple,Per-5,0.48,0.416154,2
 2,5,GPT-6-Luna-Simple,Per-5,0.49,0.409769,2
-2,5,GPT-6-Luna-Simple,Per-5,0.5,0.402211,2
+2,5,GPT-6-Luna-Simple,Per-5,0.5,0.40221,2
 2,5,GPT-6-Luna-Simple,Per-5,0.51,0.392103,2
 2,5,GPT-6-Luna-Simple,Per-5,0.52,0.379595,2
 2,5,GPT-6-Luna-Simple,Per-5,0.53,0.370018,2
@@ -42721,7 +42721,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,GPT-6.1-Sol-Simple,Per-5,1.0,0.526105,2
 2,5,GPT-OSS-120B-Simple,Every-turn,0.21,0.566013,3
 2,5,GPT-OSS-120B-Simple,Every-turn,0.22,0.574978,3
-2,5,GPT-OSS-120B-Simple,Every-turn,0.23,0.582176,3
+2,5,GPT-OSS-120B-Simple,Every-turn,0.23,0.582175,3
 2,5,GPT-OSS-120B-Simple,Every-turn,0.24,0.585792,3
 2,5,GPT-OSS-120B-Simple,Every-turn,0.25,0.581181,3
 2,5,GPT-OSS-120B-Simple,Every-turn,0.26,0.582674,3
@@ -42984,7 +42984,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Gemma-4-Simple,Per-5,0.43,0.445918,2
 2,5,Gemma-4-Simple,Per-5,0.44,0.44325,2
 2,5,Gemma-4-Simple,Per-5,0.45,0.441062,2
-2,5,Gemma-4-Simple,Per-5,0.46,0.435275,2
+2,5,Gemma-4-Simple,Per-5,0.46,0.435274,2
 2,5,Gemma-4-Simple,Per-5,0.47,0.427319,2
 2,5,Gemma-4-Simple,Per-5,0.48,0.419056,2
 2,5,Gemma-4-Simple,Per-5,0.49,0.411264,2
@@ -43509,7 +43509,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,MiniMax-M2.7-Simple,Per-5,0.88,0.485071,2
 2,5,MiniMax-M2.7-Simple,Per-5,0.89,0.48421,2
 2,5,MiniMax-M2.7-Simple,Per-5,0.9,0.483259,2
-2,5,MiniMax-M2.7-Simple,Per-5,0.91,0.481899,2
+2,5,MiniMax-M2.7-Simple,Per-5,0.91,0.481898,2
 2,5,MiniMax-M2.7-Simple,Per-5,0.92,0.481045,2
 2,5,MiniMax-M2.7-Simple,Per-5,0.93,0.480048,2
 2,5,MiniMax-M2.7-Simple,Per-5,0.94,0.479087,2
@@ -43981,7 +43981,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Qwen-3.5-Simple,Every-turn,0.8,0.559676,2
 2,5,Qwen-3.5-Simple,Every-turn,0.81,0.559884,2
 2,5,Qwen-3.5-Simple,Every-turn,0.82,0.560388,2
-2,5,Qwen-3.5-Simple,Every-turn,0.83,0.561467,2
+2,5,Qwen-3.5-Simple,Every-turn,0.83,0.561466,2
 2,5,Qwen-3.5-Simple,Every-turn,0.84,0.561842,2
 2,5,Qwen-3.5-Simple,Every-turn,0.85,0.561622,2
 2,5,Qwen-3.5-Simple,Every-turn,0.86,0.561235,2
@@ -44146,7 +44146,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.85,0.277274,2
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.86,0.276802,2
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.87,0.277082,2
-2,5,Qwen-3.6-27B-Simple,Every-turn,0.88,0.277244,2
+2,5,Qwen-3.6-27B-Simple,Every-turn,0.88,0.277243,2
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.89,0.277312,2
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.9,0.277198,2
 2,5,Qwen-3.6-27B-Simple,Every-turn,0.91,0.276411,2
@@ -44460,7 +44460,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.79,0.514223,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.8,0.514849,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.81,0.514923,2
-2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.82,0.514652,2
+2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.82,0.514653,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.83,0.51424,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.84,0.512974,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.85,0.51196,2
@@ -44479,7 +44479,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.98,0.494112,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.99,0.492578,2
 2,5,Qwen-3.8-Flash-Next-Simple,Every-turn,1.0,0.491099,2
-2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.21,0.723436,2
+2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.21,0.723435,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.22,0.717742,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.23,0.717799,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.24,0.718402,2
@@ -44490,7 +44490,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.29,0.716135,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.3,0.718229,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.31,0.717682,2
-2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.32,0.71823,2
+2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.32,0.718229,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.33,0.718486,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.34,0.717039,2
 2,5,Qwen-3.8-Flash-Next-Simple,Per-5,0.35,0.715744,2
@@ -45073,7 +45073,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GLM-5.1-Simple,Every-turn,0.52,0.641654,2
 2,6,GLM-5.1-Simple,Every-turn,0.53,0.642626,2
 2,6,GLM-5.1-Simple,Every-turn,0.54,0.643189,2
-2,6,GLM-5.1-Simple,Every-turn,0.55,0.644292,2
+2,6,GLM-5.1-Simple,Every-turn,0.55,0.644291,2
 2,6,GLM-5.1-Simple,Every-turn,0.56,0.645013,2
 2,6,GLM-5.1-Simple,Every-turn,0.57,0.645225,2
 2,6,GLM-5.1-Simple,Every-turn,0.58,0.645591,2
@@ -45121,7 +45121,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GLM-5.1-Simple,Every-turn,1.0,0.683917,2
 2,6,GLM-5.2-Simple,Every-turn,0.21,0.582463,2
 2,6,GLM-5.2-Simple,Every-turn,0.22,0.566741,2
-2,6,GLM-5.2-Simple,Every-turn,0.23,0.550345,2
+2,6,GLM-5.2-Simple,Every-turn,0.23,0.550344,2
 2,6,GLM-5.2-Simple,Every-turn,0.24,0.540221,2
 2,6,GLM-5.2-Simple,Every-turn,0.25,0.539308,2
 2,6,GLM-5.2-Simple,Every-turn,0.26,0.532963,2
@@ -45257,7 +45257,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GLM-5.2-Simple,Per-5,0.76,0.552424,2
 2,6,GLM-5.2-Simple,Per-5,0.77,0.551928,2
 2,6,GLM-5.2-Simple,Per-5,0.78,0.55137,2
-2,6,GLM-5.2-Simple,Per-5,0.79,0.550803,2
+2,6,GLM-5.2-Simple,Per-5,0.79,0.550802,2
 2,6,GLM-5.2-Simple,Per-5,0.8,0.550268,2
 2,6,GLM-5.2-Simple,Per-5,0.81,0.550007,2
 2,6,GLM-5.2-Simple,Per-5,0.82,0.549613,2
@@ -45459,7 +45459,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GLM-5.3-Simple,Per-5,0.38,0.730554,2
 2,6,GLM-5.3-Simple,Per-5,0.39,0.731075,2
 2,6,GLM-5.3-Simple,Per-5,0.4,0.73352,2
-2,6,GLM-5.3-Simple,Per-5,0.41,0.737582,2
+2,6,GLM-5.3-Simple,Per-5,0.41,0.737581,2
 2,6,GLM-5.3-Simple,Per-5,0.42,0.740063,2
 2,6,GLM-5.3-Simple,Per-5,0.43,0.743481,2
 2,6,GLM-5.3-Simple,Per-5,0.44,0.746764,2
@@ -45522,7 +45522,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-6-Astra-Simple,Per-5,0.21,0.578441,2
 2,6,GPT-6-Astra-Simple,Per-5,0.22,0.592011,2
 2,6,GPT-6-Astra-Simple,Per-5,0.23,0.585428,2
-2,6,GPT-6-Astra-Simple,Per-5,0.24,0.580575,2
+2,6,GPT-6-Astra-Simple,Per-5,0.24,0.580574,2
 2,6,GPT-6-Astra-Simple,Per-5,0.25,0.580814,2
 2,6,GPT-6-Astra-Simple,Per-5,0.26,0.5817,2
 2,6,GPT-6-Astra-Simple,Per-5,0.27,0.585302,2
@@ -45927,8 +45927,8 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-OSS-120B-Simple,Every-turn,0.26,0.692617,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.27,0.698864,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.28,0.70133,2
-2,6,GPT-OSS-120B-Simple,Every-turn,0.29,0.700452,2
-2,6,GPT-OSS-120B-Simple,Every-turn,0.3,0.698434,2
+2,6,GPT-OSS-120B-Simple,Every-turn,0.29,0.700451,2
+2,6,GPT-OSS-120B-Simple,Every-turn,0.3,0.698433,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.31,0.695224,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.32,0.694724,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.33,0.693193,2
@@ -45940,7 +45940,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-OSS-120B-Simple,Every-turn,0.39,0.676538,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.4,0.673685,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.41,0.67361,2
-2,6,GPT-OSS-120B-Simple,Every-turn,0.42,0.673341,2
+2,6,GPT-OSS-120B-Simple,Every-turn,0.42,0.67334,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.43,0.671129,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.44,0.668227,2
 2,6,GPT-OSS-120B-Simple,Every-turn,0.45,0.665569,2
@@ -46020,7 +46020,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-OSS-120B-Simple,Per-5,0.39,0.741566,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.4,0.743389,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.41,0.746953,2
-2,6,GPT-OSS-120B-Simple,Per-5,0.42,0.749969,2
+2,6,GPT-OSS-120B-Simple,Per-5,0.42,0.749968,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.43,0.750501,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.44,0.751162,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.45,0.751035,2
@@ -46036,7 +46036,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-OSS-120B-Simple,Per-5,0.55,0.757216,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.56,0.756183,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.57,0.75571,2
-2,6,GPT-OSS-120B-Simple,Per-5,0.58,0.755198,2
+2,6,GPT-OSS-120B-Simple,Per-5,0.58,0.755197,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.59,0.7541,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.6,0.753666,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.61,0.753157,2
@@ -46061,7 +46061,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,GPT-OSS-120B-Simple,Per-5,0.8,0.736329,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.81,0.734419,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.82,0.732472,2
-2,6,GPT-OSS-120B-Simple,Per-5,0.83,0.73056,2
+2,6,GPT-OSS-120B-Simple,Per-5,0.83,0.730559,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.84,0.728696,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.85,0.726936,2
 2,6,GPT-OSS-120B-Simple,Per-5,0.86,0.725375,2
@@ -46169,7 +46169,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Gemma-4-Simple,Per-5,0.28,0.57162,2
 2,6,Gemma-4-Simple,Per-5,0.29,0.567606,2
 2,6,Gemma-4-Simple,Per-5,0.3,0.564872,2
-2,6,Gemma-4-Simple,Per-5,0.31,0.56604,2
+2,6,Gemma-4-Simple,Per-5,0.31,0.566039,2
 2,6,Gemma-4-Simple,Per-5,0.32,0.567879,2
 2,6,Gemma-4-Simple,Per-5,0.33,0.568618,2
 2,6,Gemma-4-Simple,Per-5,0.34,0.569512,2
@@ -46419,7 +46419,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Kimi-K2.7-Simple,Every-turn,0.38,0.516351,2
 2,6,Kimi-K2.7-Simple,Every-turn,0.39,0.514631,2
 2,6,Kimi-K2.7-Simple,Every-turn,0.4,0.513039,2
-2,6,Kimi-K2.7-Simple,Every-turn,0.41,0.512446,2
+2,6,Kimi-K2.7-Simple,Every-turn,0.41,0.512445,2
 2,6,Kimi-K2.7-Simple,Every-turn,0.42,0.51123,2
 2,6,Kimi-K2.7-Simple,Every-turn,0.43,0.510781,2
 2,6,Kimi-K2.7-Simple,Every-turn,0.44,0.510676,2
@@ -46822,7 +46822,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Nemotron-3-Super-Simple,Every-turn,0.41,0.658144,2
 2,6,Nemotron-3-Super-Simple,Every-turn,0.42,0.657061,2
 2,6,Nemotron-3-Super-Simple,Every-turn,0.43,0.656574,2
-2,6,Nemotron-3-Super-Simple,Every-turn,0.44,0.656835,2
+2,6,Nemotron-3-Super-Simple,Every-turn,0.44,0.656834,2
 2,6,Nemotron-3-Super-Simple,Every-turn,0.45,0.658765,2
 2,6,Nemotron-3-Super-Simple,Every-turn,0.46,0.660212,2
 2,6,Nemotron-3-Super-Simple,Every-turn,0.47,0.660272,2
@@ -46966,7 +46966,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Null,Every-turn,0.25,0.628995,2
 2,6,Null,Every-turn,0.26,0.638591,2
 2,6,Null,Every-turn,0.27,0.642982,2
-2,6,Null,Every-turn,0.28,0.645903,2
+2,6,Null,Every-turn,0.28,0.645902,2
 2,6,Null,Every-turn,0.29,0.647521,2
 2,6,Null,Every-turn,0.3,0.648354,2
 2,6,Null,Every-turn,0.31,0.652382,2
@@ -47457,7 +47457,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.36,0.607849,2
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.37,0.604598,2
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.38,0.602416,2
-2,6,Qwen-3.8-27B-Simple,Every-turn,0.39,0.600276,2
+2,6,Qwen-3.8-27B-Simple,Every-turn,0.39,0.600277,2
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.4,0.599517,2
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.41,0.600385,2
 2,6,Qwen-3.8-27B-Simple,Every-turn,0.42,0.600989,2
@@ -47704,7 +47704,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.466227,2
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.44,0.473359,2
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.45,0.480492,2
-2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.46,0.484904,2
+2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.46,0.484903,2
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.47,0.489832,2
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.48,0.493344,2
 2,6,Qwen-3.8-Flash-Next-Simple,Per-5,0.49,0.497578,2
@@ -48055,7 +48055,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.74,0.494312,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.75,0.497599,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.76,0.499316,2
-2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.77,0.502701,2
+2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.77,0.5027,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.78,0.505043,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.79,0.50672,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.8,0.507774,2
@@ -48076,7 +48076,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.95,0.544562,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.96,0.547309,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.97,0.549698,2
-2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.98,0.553251,2
+2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.98,0.55325,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,0.99,0.557181,2
 2,7,DeepSeek-V4-Flash-Simple,Every-turn,1.0,0.560161,2
 2,7,DeepSeek-V4-Flash-Simple,Per-5,0.21,0.530656,2
@@ -48193,7 +48193,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.52,0.422114,2
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.53,0.422837,2
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.54,0.422872,2
-2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.55,0.422978,2
+2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.55,0.422979,2
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.56,0.422356,2
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.57,0.421422,2
 2,7,DeepSeek-V4.1-Flash-Simple,Per-5,0.58,0.422575,2
@@ -48315,7 +48315,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GLM-5.1-Simple,Every-turn,0.94,0.691534,2
 2,7,GLM-5.1-Simple,Every-turn,0.95,0.69214,2
 2,7,GLM-5.1-Simple,Every-turn,0.96,0.692629,2
-2,7,GLM-5.1-Simple,Every-turn,0.97,0.692814,2
+2,7,GLM-5.1-Simple,Every-turn,0.97,0.692813,2
 2,7,GLM-5.1-Simple,Every-turn,0.98,0.693735,2
 2,7,GLM-5.1-Simple,Every-turn,0.99,0.69495,2
 2,7,GLM-5.1-Simple,Every-turn,1.0,0.695023,2
@@ -48333,7 +48333,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GLM-5.2-Simple,Every-turn,0.32,0.613921,2
 2,7,GLM-5.2-Simple,Every-turn,0.33,0.612335,2
 2,7,GLM-5.2-Simple,Every-turn,0.34,0.60664,2
-2,7,GLM-5.2-Simple,Every-turn,0.35,0.602295,2
+2,7,GLM-5.2-Simple,Every-turn,0.35,0.602294,2
 2,7,GLM-5.2-Simple,Every-turn,0.36,0.598769,2
 2,7,GLM-5.2-Simple,Every-turn,0.37,0.592761,2
 2,7,GLM-5.2-Simple,Every-turn,0.38,0.58984,2
@@ -48343,7 +48343,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GLM-5.2-Simple,Every-turn,0.42,0.571479,2
 2,7,GLM-5.2-Simple,Every-turn,0.43,0.568975,2
 2,7,GLM-5.2-Simple,Every-turn,0.44,0.568835,2
-2,7,GLM-5.2-Simple,Every-turn,0.45,0.570965,2
+2,7,GLM-5.2-Simple,Every-turn,0.45,0.570964,2
 2,7,GLM-5.2-Simple,Every-turn,0.46,0.572099,2
 2,7,GLM-5.2-Simple,Every-turn,0.47,0.569653,2
 2,7,GLM-5.2-Simple,Every-turn,0.48,0.56654,2
@@ -48688,7 +48688,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GLM-5.3-Simple,Per-5,0.67,0.73052,2
 2,7,GLM-5.3-Simple,Per-5,0.68,0.737964,2
 2,7,GLM-5.3-Simple,Per-5,0.69,0.74538,2
-2,7,GLM-5.3-Simple,Per-5,0.7,0.752864,2
+2,7,GLM-5.3-Simple,Per-5,0.7,0.752863,2
 2,7,GLM-5.3-Simple,Per-5,0.71,0.76058,2
 2,7,GLM-5.3-Simple,Per-5,0.72,0.768575,2
 2,7,GLM-5.3-Simple,Per-5,0.73,0.776226,2
@@ -48759,7 +48759,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-6-Astra-Simple,Per-5,0.58,0.534908,2
 2,7,GPT-6-Astra-Simple,Per-5,0.59,0.535914,2
 2,7,GPT-6-Astra-Simple,Per-5,0.6,0.537363,2
-2,7,GPT-6-Astra-Simple,Per-5,0.61,0.537974,2
+2,7,GPT-6-Astra-Simple,Per-5,0.61,0.537973,2
 2,7,GPT-6-Astra-Simple,Per-5,0.62,0.539707,2
 2,7,GPT-6-Astra-Simple,Per-5,0.63,0.541213,2
 2,7,GPT-6-Astra-Simple,Per-5,0.64,0.542735,2
@@ -48777,7 +48777,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-6-Astra-Simple,Per-5,0.76,0.580774,2
 2,7,GPT-6-Astra-Simple,Per-5,0.77,0.583757,2
 2,7,GPT-6-Astra-Simple,Per-5,0.78,0.587558,2
-2,7,GPT-6-Astra-Simple,Per-5,0.79,0.590021,2
+2,7,GPT-6-Astra-Simple,Per-5,0.79,0.59002,2
 2,7,GPT-6-Astra-Simple,Per-5,0.8,0.591978,2
 2,7,GPT-6-Astra-Simple,Per-5,0.81,0.593529,2
 2,7,GPT-6-Astra-Simple,Per-5,0.82,0.595598,2
@@ -48814,7 +48814,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-6-Luna-Simple,Every-turn,0.33,0.557856,2
 2,7,GPT-6-Luna-Simple,Every-turn,0.34,0.558256,2
 2,7,GPT-6-Luna-Simple,Every-turn,0.35,0.55992,2
-2,7,GPT-6-Luna-Simple,Every-turn,0.36,0.562219,2
+2,7,GPT-6-Luna-Simple,Every-turn,0.36,0.56222,2
 2,7,GPT-6-Luna-Simple,Every-turn,0.37,0.560867,2
 2,7,GPT-6-Luna-Simple,Every-turn,0.38,0.559981,2
 2,7,GPT-6-Luna-Simple,Every-turn,0.39,0.558431,2
@@ -49216,9 +49216,9 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-OSS-120B-Simple,Per-5,0.35,0.487882,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.36,0.485675,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.37,0.484031,2
-2,7,GPT-OSS-120B-Simple,Per-5,0.38,0.477385,2
+2,7,GPT-OSS-120B-Simple,Per-5,0.38,0.477384,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.39,0.469939,2
-2,7,GPT-OSS-120B-Simple,Per-5,0.4,0.464386,2
+2,7,GPT-OSS-120B-Simple,Per-5,0.4,0.464385,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.41,0.458314,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.42,0.45193,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.43,0.445045,2
@@ -49255,7 +49255,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-OSS-120B-Simple,Per-5,0.74,0.427928,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.75,0.426553,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.76,0.425522,2
-2,7,GPT-OSS-120B-Simple,Per-5,0.77,0.425312,2
+2,7,GPT-OSS-120B-Simple,Per-5,0.77,0.425311,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.78,0.424243,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.79,0.42176,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.8,0.418876,2
@@ -49270,7 +49270,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,GPT-OSS-120B-Simple,Per-5,0.89,0.39999,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.9,0.3984,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.91,0.396107,2
-2,7,GPT-OSS-120B-Simple,Per-5,0.92,0.394068,2
+2,7,GPT-OSS-120B-Simple,Per-5,0.92,0.394067,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.93,0.391077,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.94,0.387721,2
 2,7,GPT-OSS-120B-Simple,Per-5,0.95,0.384211,2
@@ -49369,7 +49369,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Gemma-4-Simple,Per-5,0.28,0.591052,2
 2,7,Gemma-4-Simple,Per-5,0.29,0.593428,2
 2,7,Gemma-4-Simple,Per-5,0.3,0.596097,2
-2,7,Gemma-4-Simple,Per-5,0.31,0.595909,2
+2,7,Gemma-4-Simple,Per-5,0.31,0.595908,2
 2,7,Gemma-4-Simple,Per-5,0.32,0.593097,2
 2,7,Gemma-4-Simple,Per-5,0.33,0.589519,2
 2,7,Gemma-4-Simple,Per-5,0.34,0.584891,2
@@ -49617,7 +49617,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Kimi-K2.7-Simple,Every-turn,0.36,0.554299,2
 2,7,Kimi-K2.7-Simple,Every-turn,0.37,0.552526,2
 2,7,Kimi-K2.7-Simple,Every-turn,0.38,0.549085,2
-2,7,Kimi-K2.7-Simple,Every-turn,0.39,0.543806,2
+2,7,Kimi-K2.7-Simple,Every-turn,0.39,0.543805,2
 2,7,Kimi-K2.7-Simple,Every-turn,0.4,0.539173,2
 2,7,Kimi-K2.7-Simple,Every-turn,0.41,0.534168,2
 2,7,Kimi-K2.7-Simple,Every-turn,0.42,0.531601,2
@@ -49699,7 +49699,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Kimi-K2.7-Simple,Per-5,0.38,0.413811,2
 2,7,Kimi-K2.7-Simple,Per-5,0.39,0.406749,2
 2,7,Kimi-K2.7-Simple,Per-5,0.4,0.399199,2
-2,7,Kimi-K2.7-Simple,Per-5,0.41,0.393695,2
+2,7,Kimi-K2.7-Simple,Per-5,0.41,0.393696,2
 2,7,Kimi-K2.7-Simple,Per-5,0.42,0.386403,2
 2,7,Kimi-K2.7-Simple,Per-5,0.43,0.380412,2
 2,7,Kimi-K2.7-Simple,Per-5,0.44,0.372576,2
@@ -50022,7 +50022,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Nemotron-3-Super-Simple,Every-turn,0.41,0.500974,2
 2,7,Nemotron-3-Super-Simple,Every-turn,0.42,0.49751,2
 2,7,Nemotron-3-Super-Simple,Every-turn,0.43,0.495986,2
-2,7,Nemotron-3-Super-Simple,Every-turn,0.44,0.496777,2
+2,7,Nemotron-3-Super-Simple,Every-turn,0.44,0.496776,2
 2,7,Nemotron-3-Super-Simple,Every-turn,0.45,0.499307,2
 2,7,Nemotron-3-Super-Simple,Every-turn,0.46,0.50242,2
 2,7,Nemotron-3-Super-Simple,Every-turn,0.47,0.504923,2
@@ -50244,7 +50244,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Opus-5.5-Simple,Per-5,0.23,0.532981,2
 2,7,Opus-5.5-Simple,Per-5,0.24,0.554535,2
 2,7,Opus-5.5-Simple,Per-5,0.25,0.5657,2
-2,7,Opus-5.5-Simple,Per-5,0.26,0.572552,2
+2,7,Opus-5.5-Simple,Per-5,0.26,0.572553,2
 2,7,Opus-5.5-Simple,Per-5,0.27,0.585543,2
 2,7,Opus-5.5-Simple,Per-5,0.28,0.596184,2
 2,7,Opus-5.5-Simple,Per-5,0.29,0.604776,2
@@ -50684,7 +50684,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.63,0.369029,2
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.64,0.368739,2
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.65,0.367368,2
-2,7,Qwen-3.8-27B-Simple,Every-turn,0.66,0.367335,2
+2,7,Qwen-3.8-27B-Simple,Every-turn,0.66,0.367336,2
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.67,0.366518,2
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.68,0.365621,2
 2,7,Qwen-3.8-27B-Simple,Every-turn,0.69,0.363361,2
@@ -50758,7 +50758,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Qwen-3.8-27B-Simple,Per-5,0.57,0.283456,2
 2,7,Qwen-3.8-27B-Simple,Per-5,0.58,0.281571,2
 2,7,Qwen-3.8-27B-Simple,Per-5,0.59,0.279506,2
-2,7,Qwen-3.8-27B-Simple,Per-5,0.6,0.277639,2
+2,7,Qwen-3.8-27B-Simple,Per-5,0.6,0.27764,2
 2,7,Qwen-3.8-27B-Simple,Per-5,0.61,0.275328,2
 2,7,Qwen-3.8-27B-Simple,Per-5,0.62,0.274243,2
 2,7,Qwen-3.8-27B-Simple,Per-5,0.63,0.272607,2
@@ -50981,7 +50981,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 2,7,Sonnet-5.5-Simple,Per-5,0.4,0.710087,2
 2,7,Sonnet-5.5-Simple,Per-5,0.41,0.715744,2
 2,7,Sonnet-5.5-Simple,Per-5,0.42,0.719307,2
-2,7,Sonnet-5.5-Simple,Per-5,0.43,0.719651,2
+2,7,Sonnet-5.5-Simple,Per-5,0.43,0.719652,2
 2,7,Sonnet-5.5-Simple,Per-5,0.44,0.723506,2
 2,7,Sonnet-5.5-Simple,Per-5,0.45,0.730399,2
 2,7,Sonnet-5.5-Simple,Per-5,0.46,0.737983,2
@@ -51202,7 +51202,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.21,0.375028,2
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.22,0.384038,2
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.23,0.382457,2
-3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.24,0.378651,2
+3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.24,0.378652,2
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.25,0.373997,2
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.26,0.371065,2
 3,0,DeepSeek-V4-Flash-Simple,Every-turn,0.27,0.364543,2
@@ -51631,7 +51631,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,GLM-5.2-Simple,Per-5,0.5,0.417547,2
 3,0,GLM-5.2-Simple,Per-5,0.51,0.417764,2
 3,0,GLM-5.2-Simple,Per-5,0.52,0.417592,2
-3,0,GLM-5.2-Simple,Per-5,0.53,0.41795,2
+3,0,GLM-5.2-Simple,Per-5,0.53,0.417949,2
 3,0,GLM-5.2-Simple,Per-5,0.54,0.418342,2
 3,0,GLM-5.2-Simple,Per-5,0.55,0.419009,2
 3,0,GLM-5.2-Simple,Per-5,0.56,0.419252,2
@@ -52074,7 +52074,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,GPT-6-Luna-Simple,Every-turn,0.93,0.638154,2
 3,0,GPT-6-Luna-Simple,Every-turn,0.94,0.640552,2
 3,0,GPT-6-Luna-Simple,Every-turn,0.95,0.643164,2
-3,0,GPT-6-Luna-Simple,Every-turn,0.96,0.647045,2
+3,0,GPT-6-Luna-Simple,Every-turn,0.96,0.647044,2
 3,0,GPT-6-Luna-Simple,Every-turn,0.97,0.648174,2
 3,0,GPT-6-Luna-Simple,Every-turn,0.98,0.651121,2
 3,0,GPT-6-Luna-Simple,Every-turn,0.99,0.653592,2
@@ -52576,7 +52576,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Gemma-4-Simple,Per-5,0.35,0.531668,2
 3,0,Gemma-4-Simple,Per-5,0.36,0.535675,2
 3,0,Gemma-4-Simple,Per-5,0.37,0.538955,2
-3,0,Gemma-4-Simple,Per-5,0.38,0.54053,2
+3,0,Gemma-4-Simple,Per-5,0.38,0.540529,2
 3,0,Gemma-4-Simple,Per-5,0.39,0.542667,2
 3,0,Gemma-4-Simple,Per-5,0.4,0.543784,2
 3,0,Gemma-4-Simple,Per-5,0.41,0.543578,2
@@ -52617,7 +52617,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Gemma-4-Simple,Per-5,0.76,0.562708,2
 3,0,Gemma-4-Simple,Per-5,0.77,0.562312,2
 3,0,Gemma-4-Simple,Per-5,0.78,0.561783,2
-3,0,Gemma-4-Simple,Per-5,0.79,0.561089,2
+3,0,Gemma-4-Simple,Per-5,0.79,0.561088,2
 3,0,Gemma-4-Simple,Per-5,0.8,0.560382,2
 3,0,Gemma-4-Simple,Per-5,0.81,0.559627,2
 3,0,Gemma-4-Simple,Per-5,0.82,0.558929,2
@@ -52814,7 +52814,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Kimi-K2.7-Simple,Every-turn,0.33,0.440784,2
 3,0,Kimi-K2.7-Simple,Every-turn,0.34,0.449259,2
 3,0,Kimi-K2.7-Simple,Every-turn,0.35,0.45423,2
-3,0,Kimi-K2.7-Simple,Every-turn,0.36,0.461467,2
+3,0,Kimi-K2.7-Simple,Every-turn,0.36,0.461466,2
 3,0,Kimi-K2.7-Simple,Every-turn,0.37,0.465675,2
 3,0,Kimi-K2.7-Simple,Every-turn,0.38,0.471158,2
 3,0,Kimi-K2.7-Simple,Every-turn,0.39,0.474625,2
@@ -53120,7 +53120,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,MiniMax-M2.7-Simple,Per-5,0.99,0.511972,2
 3,0,MiniMax-M2.7-Simple,Per-5,1.0,0.512085,2
 3,0,MiniMax-M3-Simple,Per-5,0.21,0.472169,2
-3,0,MiniMax-M3-Simple,Per-5,0.22,0.495703,2
+3,0,MiniMax-M3-Simple,Per-5,0.22,0.495702,2
 3,0,MiniMax-M3-Simple,Per-5,0.23,0.495116,2
 3,0,MiniMax-M3-Simple,Per-5,0.24,0.491916,2
 3,0,MiniMax-M3-Simple,Per-5,0.25,0.487262,2
@@ -53624,7 +53624,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Qwen-3.5-Simple,Per-5,0.43,0.441563,2
 3,0,Qwen-3.5-Simple,Per-5,0.44,0.440716,2
 3,0,Qwen-3.5-Simple,Per-5,0.45,0.439999,2
-3,0,Qwen-3.5-Simple,Per-5,0.46,0.439179,2
+3,0,Qwen-3.5-Simple,Per-5,0.46,0.43918,2
 3,0,Qwen-3.5-Simple,Per-5,0.47,0.43881,2
 3,0,Qwen-3.5-Simple,Per-5,0.48,0.43876,2
 3,0,Qwen-3.5-Simple,Per-5,0.49,0.438764,2
@@ -53922,7 +53922,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Qwen-3.8-27B-Simple,Per-5,0.21,0.522898,2
 3,0,Qwen-3.8-27B-Simple,Per-5,0.22,0.524064,2
 3,0,Qwen-3.8-27B-Simple,Per-5,0.23,0.528689,2
-3,0,Qwen-3.8-27B-Simple,Per-5,0.24,0.543062,2
+3,0,Qwen-3.8-27B-Simple,Per-5,0.24,0.543063,2
 3,0,Qwen-3.8-27B-Simple,Per-5,0.25,0.553999,2
 3,0,Qwen-3.8-27B-Simple,Per-5,0.26,0.565359,2
 3,0,Qwen-3.8-27B-Simple,Per-5,0.27,0.57313,2
@@ -54160,7 +54160,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,0,Qwen-3.8-Flash-Next-Simple,Per-5,0.99,0.516489,2
 3,0,Qwen-3.8-Flash-Next-Simple,Per-5,1.0,0.516306,2
 3,0,Sonnet-5.5-Simple,Per-5,0.21,0.52063,2
-3,0,Sonnet-5.5-Simple,Per-5,0.22,0.532956,2
+3,0,Sonnet-5.5-Simple,Per-5,0.22,0.532955,2
 3,0,Sonnet-5.5-Simple,Per-5,0.23,0.538675,2
 3,0,Sonnet-5.5-Simple,Per-5,0.24,0.544477,2
 3,0,Sonnet-5.5-Simple,Per-5,0.25,0.546572,2
@@ -54420,7 +54420,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.39,0.335665,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.4,0.335496,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.41,0.336859,2
-3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.338384,2
+3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.338385,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.43,0.343276,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.44,0.34749,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.45,0.347756,2
@@ -54445,7 +54445,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.64,0.360782,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.65,0.358093,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.66,0.354993,2
-3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.67,0.352251,2
+3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.67,0.352252,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.68,0.350492,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.69,0.348484,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.7,0.347194,2
@@ -54453,7 +54453,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.72,0.344748,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.73,0.344365,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.74,0.343922,2
-3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.75,0.343651,2
+3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.75,0.343652,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.76,0.343165,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.77,0.343038,2
 3,1,DeepSeek-V4-Flash-Simple,Every-turn,0.78,0.342726,2
@@ -54667,7 +54667,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.1-Simple,Every-turn,0.46,0.427206,2
 3,1,GLM-5.1-Simple,Every-turn,0.47,0.424705,2
 3,1,GLM-5.1-Simple,Every-turn,0.48,0.422413,2
-3,1,GLM-5.1-Simple,Every-turn,0.49,0.421282,2
+3,1,GLM-5.1-Simple,Every-turn,0.49,0.421283,2
 3,1,GLM-5.1-Simple,Every-turn,0.5,0.419595,2
 3,1,GLM-5.1-Simple,Every-turn,0.51,0.419288,2
 3,1,GLM-5.1-Simple,Every-turn,0.52,0.418688,2
@@ -54687,7 +54687,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.1-Simple,Every-turn,0.66,0.401377,2
 3,1,GLM-5.1-Simple,Every-turn,0.67,0.398437,2
 3,1,GLM-5.1-Simple,Every-turn,0.68,0.396356,2
-3,1,GLM-5.1-Simple,Every-turn,0.69,0.394118,2
+3,1,GLM-5.1-Simple,Every-turn,0.69,0.394119,2
 3,1,GLM-5.1-Simple,Every-turn,0.7,0.392538,2
 3,1,GLM-5.1-Simple,Every-turn,0.71,0.390602,2
 3,1,GLM-5.1-Simple,Every-turn,0.72,0.389115,2
@@ -54812,7 +54812,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.2-Simple,Per-5,0.31,0.600655,2
 3,1,GLM-5.2-Simple,Per-5,0.32,0.60121,2
 3,1,GLM-5.2-Simple,Per-5,0.33,0.60513,2
-3,1,GLM-5.2-Simple,Per-5,0.34,0.610605,2
+3,1,GLM-5.2-Simple,Per-5,0.34,0.610604,2
 3,1,GLM-5.2-Simple,Per-5,0.35,0.61032,2
 3,1,GLM-5.2-Simple,Per-5,0.36,0.611958,2
 3,1,GLM-5.2-Simple,Per-5,0.37,0.612395,2
@@ -54872,7 +54872,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.2-Simple,Per-5,0.91,0.733245,2
 3,1,GLM-5.2-Simple,Per-5,0.92,0.732467,2
 3,1,GLM-5.2-Simple,Per-5,0.93,0.73215,2
-3,1,GLM-5.2-Simple,Per-5,0.94,0.731165,2
+3,1,GLM-5.2-Simple,Per-5,0.94,0.731166,2
 3,1,GLM-5.2-Simple,Per-5,0.95,0.729222,2
 3,1,GLM-5.2-Simple,Per-5,0.96,0.727057,2
 3,1,GLM-5.2-Simple,Per-5,0.97,0.724963,2
@@ -54892,7 +54892,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.31,0.356903,2
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.32,0.350901,2
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.33,0.345689,2
-3,1,GLM-5.3-Flash-Simple,Every-turn,0.34,0.338372,2
+3,1,GLM-5.3-Flash-Simple,Every-turn,0.34,0.338373,2
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.35,0.330697,2
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.36,0.32547,2
 3,1,GLM-5.3-Flash-Simple,Every-turn,0.37,0.321774,2
@@ -54996,7 +54996,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GLM-5.3-Flash-Simple,Per-5,0.55,0.319789,2
 3,1,GLM-5.3-Flash-Simple,Per-5,0.56,0.320093,2
 3,1,GLM-5.3-Flash-Simple,Per-5,0.57,0.319515,2
-3,1,GLM-5.3-Flash-Simple,Per-5,0.58,0.319685,2
+3,1,GLM-5.3-Flash-Simple,Per-5,0.58,0.319686,2
 3,1,GLM-5.3-Flash-Simple,Per-5,0.59,0.319628,2
 3,1,GLM-5.3-Flash-Simple,Per-5,0.6,0.318857,2
 3,1,GLM-5.3-Flash-Simple,Per-5,0.61,0.31813,2
@@ -55293,13 +55293,13 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GPT-6-Luna-Simple,Per-5,0.32,0.440023,2
 3,1,GPT-6-Luna-Simple,Per-5,0.33,0.432097,2
 3,1,GPT-6-Luna-Simple,Per-5,0.34,0.42794,2
-3,1,GPT-6-Luna-Simple,Per-5,0.35,0.425804,2
+3,1,GPT-6-Luna-Simple,Per-5,0.35,0.425805,2
 3,1,GPT-6-Luna-Simple,Per-5,0.36,0.424073,2
 3,1,GPT-6-Luna-Simple,Per-5,0.37,0.419257,2
 3,1,GPT-6-Luna-Simple,Per-5,0.38,0.414885,2
 3,1,GPT-6-Luna-Simple,Per-5,0.39,0.411096,2
 3,1,GPT-6-Luna-Simple,Per-5,0.4,0.412118,2
-3,1,GPT-6-Luna-Simple,Per-5,0.41,0.414739,2
+3,1,GPT-6-Luna-Simple,Per-5,0.41,0.41474,2
 3,1,GPT-6-Luna-Simple,Per-5,0.42,0.416791,2
 3,1,GPT-6-Luna-Simple,Per-5,0.43,0.421168,2
 3,1,GPT-6-Luna-Simple,Per-5,0.44,0.427987,2
@@ -55351,7 +55351,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,GPT-6-Luna-Simple,Per-5,0.9,0.564337,2
 3,1,GPT-6-Luna-Simple,Per-5,0.91,0.56482,2
 3,1,GPT-6-Luna-Simple,Per-5,0.92,0.565336,2
-3,1,GPT-6-Luna-Simple,Per-5,0.93,0.566413,2
+3,1,GPT-6-Luna-Simple,Per-5,0.93,0.566414,2
 3,1,GPT-6-Luna-Simple,Per-5,0.94,0.567518,2
 3,1,GPT-6-Luna-Simple,Per-5,0.95,0.569642,2
 3,1,GPT-6-Luna-Simple,Per-5,0.96,0.571774,2
@@ -55702,9 +55702,9 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Gemma-4-Simple,Every-turn,0.41,0.429969,2
 3,1,Gemma-4-Simple,Every-turn,0.42,0.426242,2
 3,1,Gemma-4-Simple,Every-turn,0.43,0.422752,2
-3,1,Gemma-4-Simple,Every-turn,0.44,0.420764,2
+3,1,Gemma-4-Simple,Every-turn,0.44,0.420765,2
 3,1,Gemma-4-Simple,Every-turn,0.45,0.418294,2
-3,1,Gemma-4-Simple,Every-turn,0.46,0.414434,2
+3,1,Gemma-4-Simple,Every-turn,0.46,0.414435,2
 3,1,Gemma-4-Simple,Every-turn,0.47,0.410561,2
 3,1,Gemma-4-Simple,Every-turn,0.48,0.407535,2
 3,1,Gemma-4-Simple,Every-turn,0.49,0.406115,2
@@ -55860,7 +55860,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Jev!,Every-turn,0.39,0.415777,2
 3,1,Jev!,Every-turn,0.4,0.42181,2
 3,1,Jev!,Every-turn,0.41,0.429255,2
-3,1,Jev!,Every-turn,0.42,0.436892,2
+3,1,Jev!,Every-turn,0.42,0.436893,2
 3,1,Jev!,Every-turn,0.43,0.446446,2
 3,1,Jev!,Every-turn,0.44,0.45744,2
 3,1,Jev!,Every-turn,0.45,0.466322,2
@@ -55951,7 +55951,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Kimi-K2.6-Simple,Every-turn,0.5,0.464524,2
 3,1,Kimi-K2.6-Simple,Every-turn,0.51,0.465053,2
 3,1,Kimi-K2.6-Simple,Every-turn,0.52,0.465166,2
-3,1,Kimi-K2.6-Simple,Every-turn,0.53,0.46533,2
+3,1,Kimi-K2.6-Simple,Every-turn,0.53,0.465331,2
 3,1,Kimi-K2.6-Simple,Every-turn,0.54,0.464914,2
 3,1,Kimi-K2.6-Simple,Every-turn,0.55,0.463895,2
 3,1,Kimi-K2.6-Simple,Every-turn,0.56,0.461826,2
@@ -56182,7 +56182,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,MiniMax-M2.7-Simple,Every-turn,0.41,0.472108,2
 3,1,MiniMax-M2.7-Simple,Every-turn,0.42,0.476048,2
 3,1,MiniMax-M2.7-Simple,Every-turn,0.43,0.480608,2
-3,1,MiniMax-M2.7-Simple,Every-turn,0.44,0.485742,2
+3,1,MiniMax-M2.7-Simple,Every-turn,0.44,0.485743,2
 3,1,MiniMax-M2.7-Simple,Every-turn,0.45,0.489467,2
 3,1,MiniMax-M2.7-Simple,Every-turn,0.46,0.490295,2
 3,1,MiniMax-M2.7-Simple,Every-turn,0.47,0.489983,2
@@ -56296,7 +56296,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,MiniMax-M2.7-Simple,Per-5,0.75,0.442236,2
 3,1,MiniMax-M2.7-Simple,Per-5,0.76,0.4435,2
 3,1,MiniMax-M2.7-Simple,Per-5,0.77,0.444398,2
-3,1,MiniMax-M2.7-Simple,Per-5,0.78,0.444724,2
+3,1,MiniMax-M2.7-Simple,Per-5,0.78,0.444723,2
 3,1,MiniMax-M2.7-Simple,Per-5,0.79,0.445325,2
 3,1,MiniMax-M2.7-Simple,Per-5,0.8,0.445595,2
 3,1,MiniMax-M2.7-Simple,Per-5,0.81,0.446675,2
@@ -56428,7 +56428,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Nemotron-3-Super-Simple,Every-turn,0.47,0.367092,2
 3,1,Nemotron-3-Super-Simple,Every-turn,0.48,0.369158,2
 3,1,Nemotron-3-Super-Simple,Every-turn,0.49,0.37263,2
-3,1,Nemotron-3-Super-Simple,Every-turn,0.5,0.376196,2
+3,1,Nemotron-3-Super-Simple,Every-turn,0.5,0.376197,2
 3,1,Nemotron-3-Super-Simple,Every-turn,0.51,0.378888,2
 3,1,Nemotron-3-Super-Simple,Every-turn,0.52,0.380682,2
 3,1,Nemotron-3-Super-Simple,Every-turn,0.53,0.382216,2
@@ -56675,7 +56675,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Opus-5.5-Simple,Per-5,0.54,0.478214,2
 3,1,Opus-5.5-Simple,Per-5,0.55,0.48278,2
 3,1,Opus-5.5-Simple,Per-5,0.56,0.484864,2
-3,1,Opus-5.5-Simple,Per-5,0.57,0.485888,2
+3,1,Opus-5.5-Simple,Per-5,0.57,0.485889,2
 3,1,Opus-5.5-Simple,Per-5,0.58,0.487836,2
 3,1,Opus-5.5-Simple,Per-5,0.59,0.487246,2
 3,1,Opus-5.5-Simple,Per-5,0.6,0.486219,2
@@ -56749,7 +56749,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.5-Simple,Every-turn,0.48,0.349758,2
 3,1,Qwen-3.5-Simple,Every-turn,0.49,0.35333,2
 3,1,Qwen-3.5-Simple,Every-turn,0.5,0.356399,2
-3,1,Qwen-3.5-Simple,Every-turn,0.51,0.358885,2
+3,1,Qwen-3.5-Simple,Every-turn,0.51,0.358886,2
 3,1,Qwen-3.5-Simple,Every-turn,0.52,0.359857,2
 3,1,Qwen-3.5-Simple,Every-turn,0.53,0.363954,2
 3,1,Qwen-3.5-Simple,Every-turn,0.54,0.367488,2
@@ -57003,7 +57003,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.6-27B-Simple,Per-5,0.62,0.399706,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.63,0.396138,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.64,0.391913,2
-3,1,Qwen-3.6-27B-Simple,Per-5,0.65,0.387995,2
+3,1,Qwen-3.6-27B-Simple,Per-5,0.65,0.387996,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.66,0.383839,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.67,0.380281,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.68,0.377798,2
@@ -57019,7 +57019,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.6-27B-Simple,Per-5,0.78,0.365308,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.79,0.36522,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.8,0.364927,2
-3,1,Qwen-3.6-27B-Simple,Per-5,0.81,0.364704,2
+3,1,Qwen-3.6-27B-Simple,Per-5,0.81,0.364705,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.82,0.36444,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.83,0.364445,2
 3,1,Qwen-3.6-27B-Simple,Per-5,0.84,0.364767,2
@@ -57042,7 +57042,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.21,0.541561,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.22,0.54087,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.23,0.560239,2
-3,1,Qwen-3.8-27B-Simple,Every-turn,0.24,0.572708,2
+3,1,Qwen-3.8-27B-Simple,Every-turn,0.24,0.572709,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.25,0.579023,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.26,0.580896,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.27,0.586532,2
@@ -57055,7 +57055,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.34,0.615198,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.35,0.618294,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.36,0.619957,2
-3,1,Qwen-3.8-27B-Simple,Every-turn,0.37,0.618499,2
+3,1,Qwen-3.8-27B-Simple,Every-turn,0.37,0.6185,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.38,0.615567,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.39,0.611906,2
 3,1,Qwen-3.8-27B-Simple,Every-turn,0.4,0.612056,2
@@ -57301,7 +57301,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.4,0.412012,2
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.41,0.415871,2
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.42,0.417812,2
-3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.418868,2
+3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.418869,2
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.44,0.417796,2
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.45,0.417304,2
 3,1,Qwen-3.8-Flash-Next-Simple,Per-5,0.46,0.417061,2
@@ -57770,7 +57770,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.29,0.573375,2
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.3,0.574788,2
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.31,0.579876,2
-3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.32,0.585944,2
+3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.32,0.585945,2
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.33,0.591079,2
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.34,0.593888,2
 3,2,DeepSeek-V4.1-Flash-Simple,Per-5,0.35,0.594275,2
@@ -57909,7 +57909,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GLM-5.1-Simple,Every-turn,0.88,0.534602,2
 3,2,GLM-5.1-Simple,Every-turn,0.89,0.536665,2
 3,2,GLM-5.1-Simple,Every-turn,0.9,0.535846,2
-3,2,GLM-5.1-Simple,Every-turn,0.91,0.534775,2
+3,2,GLM-5.1-Simple,Every-turn,0.91,0.534774,2
 3,2,GLM-5.1-Simple,Every-turn,0.92,0.532053,2
 3,2,GLM-5.1-Simple,Every-turn,0.93,0.528771,2
 3,2,GLM-5.1-Simple,Every-turn,0.94,0.526712,2
@@ -58112,7 +58112,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.51,0.528371,2
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.52,0.523966,2
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.53,0.514223,2
-3,2,GLM-5.3-Flash-Simple,Every-turn,0.54,0.502895,2
+3,2,GLM-5.3-Flash-Simple,Every-turn,0.54,0.502894,2
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.55,0.493346,2
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.56,0.483766,2
 3,2,GLM-5.3-Flash-Simple,Every-turn,0.57,0.4742,2
@@ -58334,7 +58334,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GPT-6-Astra-Simple,Per-5,0.33,0.698376,1
 3,2,GPT-6-Astra-Simple,Per-5,0.34,0.714567,1
 3,2,GPT-6-Astra-Simple,Per-5,0.35,0.730971,1
-3,2,GPT-6-Astra-Simple,Per-5,0.36,0.738679,1
+3,2,GPT-6-Astra-Simple,Per-5,0.36,0.73868,1
 3,2,GPT-6-Astra-Simple,Per-5,0.37,0.748739,1
 3,2,GPT-6-Astra-Simple,Per-5,0.38,0.758942,1
 3,2,GPT-6-Astra-Simple,Per-5,0.39,0.767353,1
@@ -58413,7 +58413,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GPT-6-Luna-Simple,Every-turn,0.32,0.692559,2
 3,2,GPT-6-Luna-Simple,Every-turn,0.33,0.697843,2
 3,2,GPT-6-Luna-Simple,Every-turn,0.34,0.702205,2
-3,2,GPT-6-Luna-Simple,Every-turn,0.35,0.707311,2
+3,2,GPT-6-Luna-Simple,Every-turn,0.35,0.70731,2
 3,2,GPT-6-Luna-Simple,Every-turn,0.36,0.709783,2
 3,2,GPT-6-Luna-Simple,Every-turn,0.37,0.71588,2
 3,2,GPT-6-Luna-Simple,Every-turn,0.38,0.719581,2
@@ -58531,7 +58531,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GPT-6-Luna-Simple,Per-5,0.7,0.543638,2
 3,2,GPT-6-Luna-Simple,Per-5,0.71,0.54492,2
 3,2,GPT-6-Luna-Simple,Per-5,0.72,0.54866,2
-3,2,GPT-6-Luna-Simple,Per-5,0.73,0.553166,2
+3,2,GPT-6-Luna-Simple,Per-5,0.73,0.553165,2
 3,2,GPT-6-Luna-Simple,Per-5,0.74,0.555653,2
 3,2,GPT-6-Luna-Simple,Per-5,0.75,0.558112,2
 3,2,GPT-6-Luna-Simple,Per-5,0.76,0.558651,2
@@ -58649,7 +58649,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,GPT-6.1-Sol-Simple,Per-5,0.28,0.707989,2
 3,2,GPT-6.1-Sol-Simple,Per-5,0.29,0.7092,2
 3,2,GPT-6.1-Sol-Simple,Per-5,0.3,0.708248,2
-3,2,GPT-6.1-Sol-Simple,Per-5,0.31,0.709191,2
+3,2,GPT-6.1-Sol-Simple,Per-5,0.31,0.70919,2
 3,2,GPT-6.1-Sol-Simple,Per-5,0.32,0.707337,2
 3,2,GPT-6.1-Sol-Simple,Per-5,0.33,0.702708,2
 3,2,GPT-6.1-Sol-Simple,Per-5,0.34,0.702479,2
@@ -59015,7 +59015,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Gemma-4-Simple,Per-5,0.74,0.598829,2
 3,2,Gemma-4-Simple,Per-5,0.75,0.600432,2
 3,2,Gemma-4-Simple,Per-5,0.76,0.603596,2
-3,2,Gemma-4-Simple,Per-5,0.77,0.608613,2
+3,2,Gemma-4-Simple,Per-5,0.77,0.608612,2
 3,2,Gemma-4-Simple,Per-5,0.78,0.613846,2
 3,2,Gemma-4-Simple,Per-5,0.79,0.617767,2
 3,2,Gemma-4-Simple,Per-5,0.8,0.621794,2
@@ -59078,7 +59078,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Jev!,Every-turn,0.57,0.512481,2
 3,2,Jev!,Every-turn,0.58,0.506741,2
 3,2,Jev!,Every-turn,0.59,0.501439,2
-3,2,Jev!,Every-turn,0.6,0.498405,2
+3,2,Jev!,Every-turn,0.6,0.498404,2
 3,2,Jev!,Every-turn,0.61,0.495491,2
 3,2,Jev!,Every-turn,0.62,0.4917,2
 3,2,Jev!,Every-turn,0.63,0.488084,2
@@ -59094,7 +59094,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Jev!,Every-turn,0.73,0.480267,2
 3,2,Jev!,Every-turn,0.74,0.47815,2
 3,2,Jev!,Every-turn,0.75,0.476646,2
-3,2,Jev!,Every-turn,0.76,0.474569,2
+3,2,Jev!,Every-turn,0.76,0.474568,2
 3,2,Jev!,Every-turn,0.77,0.471827,2
 3,2,Jev!,Every-turn,0.78,0.466302,2
 3,2,Jev!,Every-turn,0.79,0.460262,2
@@ -59163,7 +59163,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Kimi-K2.6-Simple,Every-turn,0.62,0.448746,2
 3,2,Kimi-K2.6-Simple,Every-turn,0.63,0.440744,2
 3,2,Kimi-K2.6-Simple,Every-turn,0.64,0.435681,2
-3,2,Kimi-K2.6-Simple,Every-turn,0.65,0.430608,2
+3,2,Kimi-K2.6-Simple,Every-turn,0.65,0.430607,2
 3,2,Kimi-K2.6-Simple,Every-turn,0.66,0.427303,2
 3,2,Kimi-K2.6-Simple,Every-turn,0.67,0.424262,2
 3,2,Kimi-K2.6-Simple,Every-turn,0.68,0.421807,2
@@ -59303,7 +59303,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Kimi-K2.7-Simple,Per-5,0.42,0.668122,2
 3,2,Kimi-K2.7-Simple,Per-5,0.43,0.666309,2
 3,2,Kimi-K2.7-Simple,Per-5,0.44,0.66671,2
-3,2,Kimi-K2.7-Simple,Per-5,0.45,0.668558,2
+3,2,Kimi-K2.7-Simple,Per-5,0.45,0.668557,2
 3,2,Kimi-K2.7-Simple,Per-5,0.46,0.671382,2
 3,2,Kimi-K2.7-Simple,Per-5,0.47,0.671583,2
 3,2,Kimi-K2.7-Simple,Per-5,0.48,0.671881,2
@@ -59354,7 +59354,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Kimi-K2.7-Simple,Per-5,0.93,0.724629,2
 3,2,Kimi-K2.7-Simple,Per-5,0.94,0.726758,2
 3,2,Kimi-K2.7-Simple,Per-5,0.95,0.727736,2
-3,2,Kimi-K2.7-Simple,Per-5,0.96,0.729167,2
+3,2,Kimi-K2.7-Simple,Per-5,0.96,0.729166,2
 3,2,Kimi-K2.7-Simple,Per-5,0.97,0.731866,2
 3,2,Kimi-K2.7-Simple,Per-5,0.98,0.733715,2
 3,2,Kimi-K2.7-Simple,Per-5,0.99,0.734183,2
@@ -59612,7 +59612,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Nemotron-3-Super-Simple,Every-turn,0.31,0.61928,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.32,0.617389,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.33,0.612677,2
-3,2,Nemotron-3-Super-Simple,Every-turn,0.34,0.609972,2
+3,2,Nemotron-3-Super-Simple,Every-turn,0.34,0.609971,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.35,0.607916,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.36,0.60579,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.37,0.605232,2
@@ -59652,10 +59652,10 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Nemotron-3-Super-Simple,Every-turn,0.71,0.489978,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.72,0.48995,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.73,0.489436,2
-3,2,Nemotron-3-Super-Simple,Every-turn,0.74,0.488129,2
+3,2,Nemotron-3-Super-Simple,Every-turn,0.74,0.488128,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.75,0.485581,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.76,0.483096,2
-3,2,Nemotron-3-Super-Simple,Every-turn,0.77,0.481238,2
+3,2,Nemotron-3-Super-Simple,Every-turn,0.77,0.481237,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.78,0.478992,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.79,0.477489,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.8,0.477651,2
@@ -59669,7 +59669,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Nemotron-3-Super-Simple,Every-turn,0.88,0.482056,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.89,0.481454,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.9,0.479279,2
-3,2,Nemotron-3-Super-Simple,Every-turn,0.91,0.476414,2
+3,2,Nemotron-3-Super-Simple,Every-turn,0.91,0.476413,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.92,0.473062,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.93,0.470534,2
 3,2,Nemotron-3-Super-Simple,Every-turn,0.94,0.469466,2
@@ -59839,7 +59839,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Null,Every-turn,0.98,0.171546,2
 3,2,Null,Every-turn,0.99,0.169578,2
 3,2,Null,Every-turn,1.0,0.168166,2
-3,2,Opus-5.5-Simple,Per-5,0.21,0.647073,2
+3,2,Opus-5.5-Simple,Per-5,0.21,0.647072,2
 3,2,Opus-5.5-Simple,Per-5,0.22,0.660885,2
 3,2,Opus-5.5-Simple,Per-5,0.23,0.654804,2
 3,2,Opus-5.5-Simple,Per-5,0.24,0.668255,2
@@ -60074,7 +60074,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Qwen-3.5-Simple,Per-5,0.93,0.552541,3
 3,2,Qwen-3.5-Simple,Per-5,0.94,0.548242,3
 3,2,Qwen-3.5-Simple,Per-5,0.95,0.543804,3
-3,2,Qwen-3.5-Simple,Per-5,0.96,0.540074,3
+3,2,Qwen-3.5-Simple,Per-5,0.96,0.540073,3
 3,2,Qwen-3.5-Simple,Per-5,0.97,0.537099,3
 3,2,Qwen-3.5-Simple,Per-5,0.98,0.533281,3
 3,2,Qwen-3.5-Simple,Per-5,0.99,0.529202,3
@@ -60407,7 +60407,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.26,0.632988,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.27,0.628544,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.28,0.627814,2
-3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.29,0.625865,2
+3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.29,0.625864,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.3,0.623038,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.31,0.618552,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.32,0.61365,2
@@ -60424,7 +60424,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.43,0.548178,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.44,0.542947,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.45,0.538219,2
-3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.46,0.533247,2
+3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.46,0.533246,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.47,0.527662,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.48,0.522228,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.49,0.514518,2
@@ -60433,7 +60433,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.52,0.4865,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.53,0.474225,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.54,0.462179,2
-3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.55,0.451236,2
+3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.55,0.451235,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.56,0.439028,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.57,0.426781,2
 3,2,Qwen-3.8-Flash-Next-Simple,Every-turn,0.58,0.414199,2
@@ -60501,7 +60501,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.4,0.774057,2
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.41,0.773475,2
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.42,0.772749,2
-3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.772171,2
+3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.77217,2
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.44,0.771176,2
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.45,0.770593,2
 3,2,Qwen-3.8-Flash-Next-Simple,Per-5,0.46,0.769676,2
@@ -60671,7 +60671,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,2,Vanilla,Every-turn,0.5,0.599032,227
 3,2,Vanilla,Every-turn,0.51,0.597945,227
 3,2,Vanilla,Every-turn,0.52,0.596378,227
-3,2,Vanilla,Every-turn,0.53,0.59185,227
+3,2,Vanilla,Every-turn,0.53,0.591849,227
 3,2,Vanilla,Every-turn,0.54,0.587213,227
 3,2,Vanilla,Every-turn,0.55,0.583547,227
 3,2,Vanilla,Every-turn,0.56,0.579676,227
@@ -61259,7 +61259,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GLM-5.2-Simple,Per-5,0.78,0.344514,2
 3,3,GLM-5.2-Simple,Per-5,0.79,0.342795,2
 3,3,GLM-5.2-Simple,Per-5,0.8,0.339137,2
-3,3,GLM-5.2-Simple,Per-5,0.81,0.335329,2
+3,3,GLM-5.2-Simple,Per-5,0.81,0.33533,2
 3,3,GLM-5.2-Simple,Per-5,0.82,0.333428,2
 3,3,GLM-5.2-Simple,Per-5,0.83,0.330728,2
 3,3,GLM-5.2-Simple,Per-5,0.84,0.328537,2
@@ -61319,7 +61319,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.58,0.350408,2
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.59,0.346378,2
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.6,0.340658,2
-3,3,GLM-5.3-Flash-Simple,Every-turn,0.61,0.335472,2
+3,3,GLM-5.3-Flash-Simple,Every-turn,0.61,0.335473,2
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.62,0.330041,2
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.63,0.325563,2
 3,3,GLM-5.3-Flash-Simple,Every-turn,0.64,0.320679,2
@@ -61471,7 +61471,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GLM-5.3-Simple,Per-5,0.5,0.242198,2
 3,3,GLM-5.3-Simple,Per-5,0.51,0.234717,2
 3,3,GLM-5.3-Simple,Per-5,0.52,0.226826,2
-3,3,GLM-5.3-Simple,Per-5,0.53,0.219271,2
+3,3,GLM-5.3-Simple,Per-5,0.53,0.21927,2
 3,3,GLM-5.3-Simple,Per-5,0.54,0.211668,2
 3,3,GLM-5.3-Simple,Per-5,0.55,0.203868,2
 3,3,GLM-5.3-Simple,Per-5,0.56,0.197052,2
@@ -61550,7 +61550,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GPT-6-Astra-Simple,Per-5,0.49,0.492159,3
 3,3,GPT-6-Astra-Simple,Per-5,0.5,0.493546,3
 3,3,GPT-6-Astra-Simple,Per-5,0.51,0.494799,3
-3,3,GPT-6-Astra-Simple,Per-5,0.52,0.495279,3
+3,3,GPT-6-Astra-Simple,Per-5,0.52,0.495278,3
 3,3,GPT-6-Astra-Simple,Per-5,0.53,0.494209,3
 3,3,GPT-6-Astra-Simple,Per-5,0.54,0.492552,3
 3,3,GPT-6-Astra-Simple,Per-5,0.55,0.490561,3
@@ -61755,7 +61755,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GPT-6-Luna-Simple,Per-5,0.94,0.261764,2
 3,3,GPT-6-Luna-Simple,Per-5,0.95,0.261552,2
 3,3,GPT-6-Luna-Simple,Per-5,0.96,0.260538,2
-3,3,GPT-6-Luna-Simple,Per-5,0.97,0.258956,2
+3,3,GPT-6-Luna-Simple,Per-5,0.97,0.258957,2
 3,3,GPT-6-Luna-Simple,Per-5,0.98,0.257667,2
 3,3,GPT-6-Luna-Simple,Per-5,0.99,0.256423,2
 3,3,GPT-6-Luna-Simple,Per-5,1.0,0.255736,2
@@ -61804,7 +61804,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.63,0.293138,2
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.64,0.284202,2
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.65,0.275373,2
-3,3,GPT-6.1-Sol-Simple,Every-turn,0.66,0.268005,2
+3,3,GPT-6.1-Sol-Simple,Every-turn,0.66,0.268004,2
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.67,0.263943,2
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.68,0.260085,2
 3,3,GPT-6.1-Sol-Simple,Every-turn,0.69,0.257483,2
@@ -61995,7 +61995,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,GPT-OSS-120B-Simple,Every-turn,0.94,0.554123,1
 3,3,GPT-OSS-120B-Simple,Every-turn,0.95,0.552181,1
 3,3,GPT-OSS-120B-Simple,Every-turn,0.96,0.549597,1
-3,3,GPT-OSS-120B-Simple,Every-turn,0.97,0.546768,1
+3,3,GPT-OSS-120B-Simple,Every-turn,0.97,0.546767,1
 3,3,GPT-OSS-120B-Simple,Every-turn,0.98,0.544203,1
 3,3,GPT-OSS-120B-Simple,Every-turn,0.99,0.541555,1
 3,3,GPT-OSS-120B-Simple,Every-turn,1.0,0.53951,1
@@ -62226,7 +62226,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Gemma-4-Simple,Per-5,0.85,0.468804,2
 3,3,Gemma-4-Simple,Per-5,0.86,0.464643,2
 3,3,Gemma-4-Simple,Per-5,0.87,0.462033,2
-3,3,Gemma-4-Simple,Per-5,0.88,0.459699,2
+3,3,Gemma-4-Simple,Per-5,0.88,0.459698,2
 3,3,Gemma-4-Simple,Per-5,0.89,0.458109,2
 3,3,Gemma-4-Simple,Per-5,0.9,0.455852,2
 3,3,Gemma-4-Simple,Per-5,0.91,0.453439,2
@@ -62733,7 +62733,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,MiniMax-M3-Simple,Per-5,0.32,0.461012,2
 3,3,MiniMax-M3-Simple,Per-5,0.33,0.465281,2
 3,3,MiniMax-M3-Simple,Per-5,0.34,0.466363,2
-3,3,MiniMax-M3-Simple,Per-5,0.35,0.465949,2
+3,3,MiniMax-M3-Simple,Per-5,0.35,0.46595,2
 3,3,MiniMax-M3-Simple,Per-5,0.36,0.468198,2
 3,3,MiniMax-M3-Simple,Per-5,0.37,0.472581,2
 3,3,MiniMax-M3-Simple,Per-5,0.38,0.477404,2
@@ -63162,7 +63162,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.5-Simple,Every-turn,0.61,0.113489,2
 3,3,Qwen-3.5-Simple,Every-turn,0.62,0.107927,2
 3,3,Qwen-3.5-Simple,Every-turn,0.63,0.103282,2
-3,3,Qwen-3.5-Simple,Every-turn,0.64,0.098062,2
+3,3,Qwen-3.5-Simple,Every-turn,0.64,0.098063,2
 3,3,Qwen-3.5-Simple,Every-turn,0.65,0.093234,2
 3,3,Qwen-3.5-Simple,Every-turn,0.66,0.089289,2
 3,3,Qwen-3.5-Simple,Every-turn,0.67,0.086928,2
@@ -63331,7 +63331,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.7,0.312408,2
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.71,0.310311,2
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.72,0.307093,2
-3,3,Qwen-3.6-27B-Simple,Every-turn,0.73,0.304363,2
+3,3,Qwen-3.6-27B-Simple,Every-turn,0.73,0.304362,2
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.74,0.302414,2
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.75,0.299761,2
 3,3,Qwen-3.6-27B-Simple,Every-turn,0.76,0.297332,2
@@ -63602,7 +63602,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.21,0.468508,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.22,0.464058,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.23,0.464944,2
-3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.24,0.469822,2
+3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.24,0.469823,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.25,0.47552,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.26,0.478498,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.27,0.477166,2
@@ -63621,7 +63621,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.4,0.462735,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.463235,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.42,0.460618,2
-3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.43,0.45807,2
+3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.43,0.458071,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.44,0.455158,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.45,0.451464,2
 3,3,Qwen-3.8-Flash-Next-Simple,Every-turn,0.46,0.44943,2
@@ -63699,7 +63699,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.38,0.537658,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.39,0.545538,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.4,0.551949,2
-3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.41,0.555356,2
+3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.41,0.555357,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.42,0.555348,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.43,0.557231,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.44,0.55692,2
@@ -63732,7 +63732,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.71,0.451695,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.72,0.448497,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.73,0.446003,2
-3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.74,0.445193,2
+3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.74,0.445194,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.75,0.443388,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.76,0.442226,2
 3,3,Qwen-3.8-Flash-Next-Simple,Per-5,0.77,0.439493,2
@@ -64016,7 +64016,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.35,0.499482,2
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.36,0.501398,2
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.37,0.502316,2
-3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.38,0.503164,2
+3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.38,0.503163,2
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.39,0.503926,2
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.4,0.505448,2
 3,4,DeepSeek-V4-Flash-Simple,Every-turn,0.41,0.507064,2
@@ -64400,7 +64400,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,GLM-5.2-Simple,Every-turn,0.99,0.512828,2
 3,4,GLM-5.2-Simple,Every-turn,1.0,0.512637,2
 3,4,GLM-5.2-Simple,Per-5,0.21,0.473024,2
-3,4,GLM-5.2-Simple,Per-5,0.22,0.464867,2
+3,4,GLM-5.2-Simple,Per-5,0.22,0.464866,2
 3,4,GLM-5.2-Simple,Per-5,0.23,0.463944,2
 3,4,GLM-5.2-Simple,Per-5,0.24,0.46648,2
 3,4,GLM-5.2-Simple,Per-5,0.25,0.470058,2
@@ -64489,7 +64489,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.28,0.544471,2
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.29,0.544089,2
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.3,0.542976,2
-3,4,GLM-5.3-Flash-Simple,Every-turn,0.31,0.54219,2
+3,4,GLM-5.3-Flash-Simple,Every-turn,0.31,0.542191,2
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.32,0.543574,2
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.33,0.543904,2
 3,4,GLM-5.3-Flash-Simple,Every-turn,0.34,0.542538,2
@@ -64896,7 +64896,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,GPT-6-Luna-Simple,Per-5,0.35,0.561285,2
 3,4,GPT-6-Luna-Simple,Per-5,0.36,0.56084,2
 3,4,GPT-6-Luna-Simple,Per-5,0.37,0.560134,2
-3,4,GPT-6-Luna-Simple,Per-5,0.38,0.559742,2
+3,4,GPT-6-Luna-Simple,Per-5,0.38,0.559743,2
 3,4,GPT-6-Luna-Simple,Per-5,0.39,0.558565,2
 3,4,GPT-6-Luna-Simple,Per-5,0.4,0.558089,2
 3,4,GPT-6-Luna-Simple,Per-5,0.41,0.557132,2
@@ -65831,7 +65831,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,MiniMax-M2.7-Simple,Every-turn,0.9,0.496159,2
 3,4,MiniMax-M2.7-Simple,Every-turn,0.91,0.496122,2
 3,4,MiniMax-M2.7-Simple,Every-turn,0.92,0.496055,2
-3,4,MiniMax-M2.7-Simple,Every-turn,0.93,0.496021,2
+3,4,MiniMax-M2.7-Simple,Every-turn,0.93,0.49602,2
 3,4,MiniMax-M2.7-Simple,Every-turn,0.94,0.495997,2
 3,4,MiniMax-M2.7-Simple,Every-turn,0.95,0.495988,2
 3,4,MiniMax-M2.7-Simple,Every-turn,0.96,0.495976,2
@@ -65920,7 +65920,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,MiniMax-M2.7-Simple,Per-5,0.99,0.50512,2
 3,4,MiniMax-M2.7-Simple,Per-5,1.0,0.505024,2
 3,4,MiniMax-M3-Simple,Per-5,0.21,0.511255,2
-3,4,MiniMax-M3-Simple,Per-5,0.22,0.499121,2
+3,4,MiniMax-M3-Simple,Per-5,0.22,0.49912,2
 3,4,MiniMax-M3-Simple,Per-5,0.23,0.494188,2
 3,4,MiniMax-M3-Simple,Per-5,0.24,0.492011,2
 3,4,MiniMax-M3-Simple,Per-5,0.25,0.497293,2
@@ -66324,7 +66324,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,Qwen-3.5-Simple,Every-turn,0.23,0.487137,2
 3,4,Qwen-3.5-Simple,Every-turn,0.24,0.483102,2
 3,4,Qwen-3.5-Simple,Every-turn,0.25,0.485196,2
-3,4,Qwen-3.5-Simple,Every-turn,0.26,0.490064,2
+3,4,Qwen-3.5-Simple,Every-turn,0.26,0.490063,2
 3,4,Qwen-3.5-Simple,Every-turn,0.27,0.49266,2
 3,4,Qwen-3.5-Simple,Every-turn,0.28,0.493243,2
 3,4,Qwen-3.5-Simple,Every-turn,0.29,0.494101,2
@@ -66443,7 +66443,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,Qwen-3.5-Simple,Per-5,0.62,0.558523,1
 3,4,Qwen-3.5-Simple,Per-5,0.63,0.557437,1
 3,4,Qwen-3.5-Simple,Per-5,0.64,0.556324,1
-3,4,Qwen-3.5-Simple,Per-5,0.65,0.555238,1
+3,4,Qwen-3.5-Simple,Per-5,0.65,0.555239,1
 3,4,Qwen-3.5-Simple,Per-5,0.66,0.554352,1
 3,4,Qwen-3.5-Simple,Per-5,0.67,0.553454,1
 3,4,Qwen-3.5-Simple,Per-5,0.68,0.55261,1
@@ -67034,7 +67034,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,4,Sonnet-5.5-Simple,Per-5,0.93,0.534609,2
 3,4,Sonnet-5.5-Simple,Per-5,0.94,0.534149,2
 3,4,Sonnet-5.5-Simple,Per-5,0.95,0.533754,2
-3,4,Sonnet-5.5-Simple,Per-5,0.96,0.53333,2
+3,4,Sonnet-5.5-Simple,Per-5,0.96,0.533331,2
 3,4,Sonnet-5.5-Simple,Per-5,0.97,0.532968,2
 3,4,Sonnet-5.5-Simple,Per-5,0.98,0.532645,2
 3,4,Sonnet-5.5-Simple,Per-5,0.99,0.532301,2
@@ -67613,7 +67613,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,GLM-5.2-Simple,Per-5,0.32,0.400929,2
 3,5,GLM-5.2-Simple,Per-5,0.33,0.398998,2
 3,5,GLM-5.2-Simple,Per-5,0.34,0.399027,2
-3,5,GLM-5.2-Simple,Per-5,0.35,0.40162,2
+3,5,GLM-5.2-Simple,Per-5,0.35,0.401621,2
 3,5,GLM-5.2-Simple,Per-5,0.36,0.397592,2
 3,5,GLM-5.2-Simple,Per-5,0.37,0.392705,2
 3,5,GLM-5.2-Simple,Per-5,0.38,0.386606,2
@@ -67777,7 +67777,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,GLM-5.3-Flash-Simple,Per-5,0.36,0.418661,2
 3,5,GLM-5.3-Flash-Simple,Per-5,0.37,0.417389,2
 3,5,GLM-5.3-Flash-Simple,Per-5,0.38,0.417436,2
-3,5,GLM-5.3-Flash-Simple,Per-5,0.39,0.420696,2
+3,5,GLM-5.3-Flash-Simple,Per-5,0.39,0.420695,2
 3,5,GLM-5.3-Flash-Simple,Per-5,0.4,0.419289,2
 3,5,GLM-5.3-Flash-Simple,Per-5,0.41,0.41694,2
 3,5,GLM-5.3-Flash-Simple,Per-5,0.42,0.416176,2
@@ -68387,7 +68387,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,GPT-OSS-120B-Simple,Every-turn,0.86,0.4074,3
 3,5,GPT-OSS-120B-Simple,Every-turn,0.87,0.40649,3
 3,5,GPT-OSS-120B-Simple,Every-turn,0.88,0.405412,3
-3,5,GPT-OSS-120B-Simple,Every-turn,0.89,0.404548,3
+3,5,GPT-OSS-120B-Simple,Every-turn,0.89,0.404549,3
 3,5,GPT-OSS-120B-Simple,Every-turn,0.9,0.403668,3
 3,5,GPT-OSS-120B-Simple,Every-turn,0.91,0.402944,3
 3,5,GPT-OSS-120B-Simple,Every-turn,0.92,0.40232,3
@@ -68427,7 +68427,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,GPT-OSS-120B-Simple,Per-5,0.46,0.239844,2
 3,5,GPT-OSS-120B-Simple,Per-5,0.47,0.234786,2
 3,5,GPT-OSS-120B-Simple,Per-5,0.48,0.228976,2
-3,5,GPT-OSS-120B-Simple,Per-5,0.49,0.224131,2
+3,5,GPT-OSS-120B-Simple,Per-5,0.49,0.224132,2
 3,5,GPT-OSS-120B-Simple,Per-5,0.5,0.220327,2
 3,5,GPT-OSS-120B-Simple,Per-5,0.51,0.216589,2
 3,5,GPT-OSS-120B-Simple,Per-5,0.52,0.213106,2
@@ -68483,7 +68483,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Gemma-4-Simple,Every-turn,0.22,0.435859,2
 3,5,Gemma-4-Simple,Every-turn,0.23,0.41239,2
 3,5,Gemma-4-Simple,Every-turn,0.24,0.381837,2
-3,5,Gemma-4-Simple,Every-turn,0.25,0.366599,2
+3,5,Gemma-4-Simple,Every-turn,0.25,0.3666,2
 3,5,Gemma-4-Simple,Every-turn,0.26,0.353916,2
 3,5,Gemma-4-Simple,Every-turn,0.27,0.348379,2
 3,5,Gemma-4-Simple,Every-turn,0.28,0.337227,2
@@ -68595,7 +68595,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Gemma-4-Simple,Per-5,0.54,0.227958,2
 3,5,Gemma-4-Simple,Per-5,0.55,0.224529,2
 3,5,Gemma-4-Simple,Per-5,0.56,0.221734,2
-3,5,Gemma-4-Simple,Per-5,0.57,0.218379,2
+3,5,Gemma-4-Simple,Per-5,0.57,0.21838,2
 3,5,Gemma-4-Simple,Per-5,0.58,0.214629,2
 3,5,Gemma-4-Simple,Per-5,0.59,0.210856,2
 3,5,Gemma-4-Simple,Per-5,0.6,0.206596,2
@@ -68785,7 +68785,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Kimi-K2.6-Simple,Every-turn,0.84,0.322164,2
 3,5,Kimi-K2.6-Simple,Every-turn,0.85,0.324346,2
 3,5,Kimi-K2.6-Simple,Every-turn,0.86,0.326677,2
-3,5,Kimi-K2.6-Simple,Every-turn,0.87,0.329311,2
+3,5,Kimi-K2.6-Simple,Every-turn,0.87,0.329312,2
 3,5,Kimi-K2.6-Simple,Every-turn,0.88,0.330075,2
 3,5,Kimi-K2.6-Simple,Every-turn,0.89,0.332125,2
 3,5,Kimi-K2.6-Simple,Every-turn,0.9,0.334156,2
@@ -68881,7 +68881,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Kimi-K2.7-Simple,Every-turn,1.0,0.792924,2
 3,5,Kimi-K2.7-Simple,Per-5,0.21,0.529151,2
 3,5,Kimi-K2.7-Simple,Per-5,0.22,0.523683,2
-3,5,Kimi-K2.7-Simple,Per-5,0.23,0.495294,2
+3,5,Kimi-K2.7-Simple,Per-5,0.23,0.495295,2
 3,5,Kimi-K2.7-Simple,Per-5,0.24,0.484737,2
 3,5,Kimi-K2.7-Simple,Per-5,0.25,0.480022,2
 3,5,Kimi-K2.7-Simple,Per-5,0.26,0.471285,2
@@ -69045,7 +69045,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,MiniMax-M2.7-Simple,Per-5,0.24,0.33651,2
 3,5,MiniMax-M2.7-Simple,Per-5,0.25,0.337675,2
 3,5,MiniMax-M2.7-Simple,Per-5,0.26,0.343161,2
-3,5,MiniMax-M2.7-Simple,Per-5,0.27,0.352454,2
+3,5,MiniMax-M2.7-Simple,Per-5,0.27,0.352455,2
 3,5,MiniMax-M2.7-Simple,Per-5,0.28,0.368935,2
 3,5,MiniMax-M2.7-Simple,Per-5,0.29,0.38996,2
 3,5,MiniMax-M2.7-Simple,Per-5,0.3,0.395688,2
@@ -69122,7 +69122,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,MiniMax-M3-Simple,Per-5,0.21,0.455229,2
 3,5,MiniMax-M3-Simple,Per-5,0.22,0.449816,2
 3,5,MiniMax-M3-Simple,Per-5,0.23,0.424218,2
-3,5,MiniMax-M3-Simple,Per-5,0.24,0.399664,2
+3,5,MiniMax-M3-Simple,Per-5,0.24,0.399665,2
 3,5,MiniMax-M3-Simple,Per-5,0.25,0.407344,2
 3,5,MiniMax-M3-Simple,Per-5,0.26,0.413177,2
 3,5,MiniMax-M3-Simple,Per-5,0.27,0.426285,2
@@ -69181,7 +69181,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,MiniMax-M3-Simple,Per-5,0.8,0.25449,2
 3,5,MiniMax-M3-Simple,Per-5,0.81,0.254362,2
 3,5,MiniMax-M3-Simple,Per-5,0.82,0.254757,2
-3,5,MiniMax-M3-Simple,Per-5,0.83,0.25451,2
+3,5,MiniMax-M3-Simple,Per-5,0.83,0.254511,2
 3,5,MiniMax-M3-Simple,Per-5,0.84,0.254218,2
 3,5,MiniMax-M3-Simple,Per-5,0.85,0.253993,2
 3,5,MiniMax-M3-Simple,Per-5,0.86,0.253309,2
@@ -69292,7 +69292,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Nemotron-3-Super-Simple,Per-5,0.31,0.28439,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.32,0.271313,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.33,0.263193,2
-3,5,Nemotron-3-Super-Simple,Per-5,0.34,0.254747,2
+3,5,Nemotron-3-Super-Simple,Per-5,0.34,0.254748,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.35,0.249,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.36,0.24343,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.37,0.236575,2
@@ -69353,7 +69353,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Nemotron-3-Super-Simple,Per-5,0.92,0.12788,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.93,0.128687,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.94,0.129876,2
-3,5,Nemotron-3-Super-Simple,Per-5,0.95,0.130525,2
+3,5,Nemotron-3-Super-Simple,Per-5,0.95,0.130526,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.96,0.131105,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.97,0.13101,2
 3,5,Nemotron-3-Super-Simple,Per-5,0.98,0.131055,2
@@ -69625,7 +69625,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Qwen-3.5-Simple,Per-5,0.44,0.216625,1
 3,5,Qwen-3.5-Simple,Per-5,0.45,0.216158,1
 3,5,Qwen-3.5-Simple,Per-5,0.46,0.213356,1
-3,5,Qwen-3.5-Simple,Per-5,0.47,0.209466,1
+3,5,Qwen-3.5-Simple,Per-5,0.47,0.209467,1
 3,5,Qwen-3.5-Simple,Per-5,0.48,0.206855,1
 3,5,Qwen-3.5-Simple,Per-5,0.49,0.205911,1
 3,5,Qwen-3.5-Simple,Per-5,0.5,0.204747,1
@@ -69647,7 +69647,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Qwen-3.5-Simple,Per-5,0.66,0.178464,1
 3,5,Qwen-3.5-Simple,Per-5,0.67,0.176099,1
 3,5,Qwen-3.5-Simple,Per-5,0.68,0.172819,1
-3,5,Qwen-3.5-Simple,Per-5,0.69,0.169731,1
+3,5,Qwen-3.5-Simple,Per-5,0.69,0.169732,1
 3,5,Qwen-3.5-Simple,Per-5,0.7,0.166606,1
 3,5,Qwen-3.5-Simple,Per-5,0.71,0.164211,1
 3,5,Qwen-3.5-Simple,Per-5,0.72,0.161711,1
@@ -69763,7 +69763,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Qwen-3.6-27B-Simple,Per-5,0.22,0.463717,2
 3,5,Qwen-3.6-27B-Simple,Per-5,0.23,0.436131,2
 3,5,Qwen-3.6-27B-Simple,Per-5,0.24,0.421677,2
-3,5,Qwen-3.6-27B-Simple,Per-5,0.25,0.415762,2
+3,5,Qwen-3.6-27B-Simple,Per-5,0.25,0.415763,2
 3,5,Qwen-3.6-27B-Simple,Per-5,0.26,0.415194,2
 3,5,Qwen-3.6-27B-Simple,Per-5,0.27,0.417534,2
 3,5,Qwen-3.6-27B-Simple,Per-5,0.28,0.408346,2
@@ -70019,7 +70019,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.38,0.275882,2
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.39,0.273344,2
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.4,0.269849,2
-3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.265509,2
+3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.26551,2
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.42,0.263548,2
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.43,0.26165,2
 3,5,Qwen-3.8-Flash-Next-Simple,Every-turn,0.44,0.259147,2
@@ -70172,11 +70172,11 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Sonnet-5.5-Simple,Per-5,0.31,0.353242,2
 3,5,Sonnet-5.5-Simple,Per-5,0.32,0.341429,2
 3,5,Sonnet-5.5-Simple,Per-5,0.33,0.335528,2
-3,5,Sonnet-5.5-Simple,Per-5,0.34,0.331072,2
+3,5,Sonnet-5.5-Simple,Per-5,0.34,0.331073,2
 3,5,Sonnet-5.5-Simple,Per-5,0.35,0.329165,2
 3,5,Sonnet-5.5-Simple,Per-5,0.36,0.327847,2
 3,5,Sonnet-5.5-Simple,Per-5,0.37,0.325323,2
-3,5,Sonnet-5.5-Simple,Per-5,0.38,0.322436,2
+3,5,Sonnet-5.5-Simple,Per-5,0.38,0.322437,2
 3,5,Sonnet-5.5-Simple,Per-5,0.39,0.324534,2
 3,5,Sonnet-5.5-Simple,Per-5,0.4,0.325595,2
 3,5,Sonnet-5.5-Simple,Per-5,0.41,0.322629,2
@@ -70284,7 +70284,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,5,Vanilla,Every-turn,0.63,0.359904,229
 3,5,Vanilla,Every-turn,0.64,0.360802,229
 3,5,Vanilla,Every-turn,0.65,0.361425,229
-3,5,Vanilla,Every-turn,0.66,0.362287,229
+3,5,Vanilla,Every-turn,0.66,0.362288,229
 3,5,Vanilla,Every-turn,0.67,0.362388,229
 3,5,Vanilla,Every-turn,0.68,0.361532,229
 3,5,Vanilla,Every-turn,0.69,0.361084,229
@@ -70423,7 +70423,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.42,0.372572,2
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.43,0.369997,2
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.44,0.367343,2
-3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.45,0.365096,2
+3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.45,0.365095,2
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.46,0.362904,2
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.47,0.358082,2
 3,6,DeepSeek-V4-Flash-Simple,Every-turn,0.48,0.354617,2
@@ -70500,7 +70500,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.39,0.484089,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.4,0.480688,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.41,0.476482,2
-3,6,DeepSeek-V4-Flash-Simple,Per-5,0.42,0.472883,2
+3,6,DeepSeek-V4-Flash-Simple,Per-5,0.42,0.472884,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.43,0.469571,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.44,0.466818,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.45,0.465048,2
@@ -70533,7 +70533,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.72,0.369671,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.73,0.365963,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.74,0.362539,2
-3,6,DeepSeek-V4-Flash-Simple,Per-5,0.75,0.360023,2
+3,6,DeepSeek-V4-Flash-Simple,Per-5,0.75,0.360024,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.76,0.35755,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.77,0.354349,2
 3,6,DeepSeek-V4-Flash-Simple,Per-5,0.78,0.349846,2
@@ -70730,7 +70730,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GLM-5.2-Simple,Every-turn,0.29,0.489879,2
 3,6,GLM-5.2-Simple,Every-turn,0.3,0.486043,2
 3,6,GLM-5.2-Simple,Every-turn,0.31,0.484164,2
-3,6,GLM-5.2-Simple,Every-turn,0.32,0.480063,2
+3,6,GLM-5.2-Simple,Every-turn,0.32,0.480064,2
 3,6,GLM-5.2-Simple,Every-turn,0.33,0.47577,2
 3,6,GLM-5.2-Simple,Every-turn,0.34,0.473964,2
 3,6,GLM-5.2-Simple,Every-turn,0.35,0.471703,2
@@ -70772,7 +70772,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GLM-5.2-Simple,Every-turn,0.71,0.39759,2
 3,6,GLM-5.2-Simple,Every-turn,0.72,0.393447,2
 3,6,GLM-5.2-Simple,Every-turn,0.73,0.388963,2
-3,6,GLM-5.2-Simple,Every-turn,0.74,0.385099,2
+3,6,GLM-5.2-Simple,Every-turn,0.74,0.3851,2
 3,6,GLM-5.2-Simple,Every-turn,0.75,0.381989,2
 3,6,GLM-5.2-Simple,Every-turn,0.76,0.379164,2
 3,6,GLM-5.2-Simple,Every-turn,0.77,0.375924,2
@@ -70921,7 +70921,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.6,0.473392,2
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.61,0.470974,2
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.62,0.46884,2
-3,6,GLM-5.3-Flash-Simple,Every-turn,0.63,0.465963,2
+3,6,GLM-5.3-Flash-Simple,Every-turn,0.63,0.465962,2
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.64,0.462764,2
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.65,0.459999,2
 3,6,GLM-5.3-Flash-Simple,Every-turn,0.66,0.457825,2
@@ -71095,7 +71095,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GLM-5.3-Simple,Per-5,0.74,0.542203,2
 3,6,GLM-5.3-Simple,Per-5,0.75,0.538512,2
 3,6,GLM-5.3-Simple,Per-5,0.76,0.535202,2
-3,6,GLM-5.3-Simple,Per-5,0.77,0.531389,2
+3,6,GLM-5.3-Simple,Per-5,0.77,0.531388,2
 3,6,GLM-5.3-Simple,Per-5,0.78,0.527306,2
 3,6,GLM-5.3-Simple,Per-5,0.79,0.523908,2
 3,6,GLM-5.3-Simple,Per-5,0.8,0.5215,2
@@ -71120,7 +71120,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GLM-5.3-Simple,Per-5,0.99,0.493194,2
 3,6,GLM-5.3-Simple,Per-5,1.0,0.491705,2
 3,6,GPT-6-Astra-Simple,Per-5,0.21,0.53638,1
-3,6,GPT-6-Astra-Simple,Per-5,0.22,0.528839,1
+3,6,GPT-6-Astra-Simple,Per-5,0.22,0.52884,1
 3,6,GPT-6-Astra-Simple,Per-5,0.23,0.521459,1
 3,6,GPT-6-Astra-Simple,Per-5,0.24,0.513341,1
 3,6,GPT-6-Astra-Simple,Per-5,0.25,0.510232,1
@@ -71172,7 +71172,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GPT-6-Astra-Simple,Per-5,0.71,0.527496,1
 3,6,GPT-6-Astra-Simple,Per-5,0.72,0.536147,1
 3,6,GPT-6-Astra-Simple,Per-5,0.73,0.542021,1
-3,6,GPT-6-Astra-Simple,Per-5,0.74,0.564833,1
+3,6,GPT-6-Astra-Simple,Per-5,0.74,0.564834,1
 3,6,GPT-6-Astra-Simple,Per-5,0.75,0.583927,1
 3,6,GPT-6-Astra-Simple,Per-5,0.76,0.598066,1
 3,6,GPT-6-Astra-Simple,Per-5,0.77,0.608985,1
@@ -71442,7 +71442,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GPT-6.1-Sol-Simple,Per-5,0.21,0.490657,2
 3,6,GPT-6.1-Sol-Simple,Per-5,0.22,0.492903,2
 3,6,GPT-6.1-Sol-Simple,Per-5,0.23,0.497472,2
-3,6,GPT-6.1-Sol-Simple,Per-5,0.24,0.500987,2
+3,6,GPT-6.1-Sol-Simple,Per-5,0.24,0.500988,2
 3,6,GPT-6.1-Sol-Simple,Per-5,0.25,0.498421,2
 3,6,GPT-6.1-Sol-Simple,Per-5,0.26,0.494953,2
 3,6,GPT-6.1-Sol-Simple,Per-5,0.27,0.489312,2
@@ -71602,7 +71602,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,GPT-OSS-120B-Simple,Per-5,0.21,0.452145,2
 3,6,GPT-OSS-120B-Simple,Per-5,0.22,0.452884,2
 3,6,GPT-OSS-120B-Simple,Per-5,0.23,0.446975,2
-3,6,GPT-OSS-120B-Simple,Per-5,0.24,0.448114,2
+3,6,GPT-OSS-120B-Simple,Per-5,0.24,0.448115,2
 3,6,GPT-OSS-120B-Simple,Per-5,0.25,0.445293,2
 3,6,GPT-OSS-120B-Simple,Per-5,0.26,0.444264,2
 3,6,GPT-OSS-120B-Simple,Per-5,0.27,0.450285,2
@@ -71760,7 +71760,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,Gemma-4-Simple,Every-turn,0.99,0.283074,2
 3,6,Gemma-4-Simple,Every-turn,1.0,0.281714,2
 3,6,Gemma-4-Simple,Per-5,0.21,0.47668,2
-3,6,Gemma-4-Simple,Per-5,0.22,0.46534,2
+3,6,Gemma-4-Simple,Per-5,0.22,0.465341,2
 3,6,Gemma-4-Simple,Per-5,0.23,0.459912,2
 3,6,Gemma-4-Simple,Per-5,0.24,0.455749,2
 3,6,Gemma-4-Simple,Per-5,0.25,0.455618,2
@@ -71989,7 +71989,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,Kimi-K2.6-Simple,Every-turn,0.88,0.537894,2
 3,6,Kimi-K2.6-Simple,Every-turn,0.89,0.539031,2
 3,6,Kimi-K2.6-Simple,Every-turn,0.9,0.539323,2
-3,6,Kimi-K2.6-Simple,Every-turn,0.91,0.539318,2
+3,6,Kimi-K2.6-Simple,Every-turn,0.91,0.539317,2
 3,6,Kimi-K2.6-Simple,Every-turn,0.92,0.540313,2
 3,6,Kimi-K2.6-Simple,Every-turn,0.93,0.542319,2
 3,6,Kimi-K2.6-Simple,Every-turn,0.94,0.544339,2
@@ -72130,7 +72130,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,Kimi-K2.7-Simple,Per-5,0.69,0.462676,2
 3,6,Kimi-K2.7-Simple,Per-5,0.7,0.459999,2
 3,6,Kimi-K2.7-Simple,Per-5,0.71,0.456083,2
-3,6,Kimi-K2.7-Simple,Per-5,0.72,0.453795,2
+3,6,Kimi-K2.7-Simple,Per-5,0.72,0.453796,2
 3,6,Kimi-K2.7-Simple,Per-5,0.73,0.451256,2
 3,6,Kimi-K2.7-Simple,Per-5,0.74,0.449549,2
 3,6,Kimi-K2.7-Simple,Per-5,0.75,0.4485,2
@@ -72163,7 +72163,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,MiniMax-M2.7-Simple,Every-turn,0.22,0.472641,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.23,0.473138,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.24,0.470429,2
-3,6,MiniMax-M2.7-Simple,Every-turn,0.25,0.467391,2
+3,6,MiniMax-M2.7-Simple,Every-turn,0.25,0.467392,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.26,0.467012,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.27,0.465468,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.28,0.465952,2
@@ -72236,7 +72236,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,MiniMax-M2.7-Simple,Every-turn,0.95,0.409954,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.96,0.410801,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.97,0.410912,2
-3,6,MiniMax-M2.7-Simple,Every-turn,0.98,0.411753,2
+3,6,MiniMax-M2.7-Simple,Every-turn,0.98,0.411754,2
 3,6,MiniMax-M2.7-Simple,Every-turn,0.99,0.413083,2
 3,6,MiniMax-M2.7-Simple,Every-turn,1.0,0.413445,2
 3,6,MiniMax-M2.7-Simple,Per-5,0.21,0.45171,2
@@ -72355,7 +72355,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,6,MiniMax-M3-Simple,Per-5,0.54,0.536222,2
 3,6,MiniMax-M3-Simple,Per-5,0.55,0.532164,2
 3,6,MiniMax-M3-Simple,Per-5,0.56,0.52792,2
-3,6,MiniMax-M3-Simple,Per-5,0.57,0.52418,2
+3,6,MiniMax-M3-Simple,Per-5,0.57,0.524179,2
 3,6,MiniMax-M3-Simple,Per-5,0.58,0.522057,2
 3,6,MiniMax-M3-Simple,Per-5,0.59,0.519417,2
 3,6,MiniMax-M3-Simple,Per-5,0.6,0.515815,2
@@ -73719,7 +73719,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.58,0.305968,2
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.59,0.303622,2
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.6,0.30177,2
-3,7,DeepSeek-V4-Flash-Simple,Per-5,0.61,0.299898,2
+3,7,DeepSeek-V4-Flash-Simple,Per-5,0.61,0.299899,2
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.62,0.297757,2
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.63,0.29474,2
 3,7,DeepSeek-V4-Flash-Simple,Per-5,0.64,0.290744,2
@@ -73852,7 +73852,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GLM-5.1-Simple,Every-turn,0.31,0.411037,2
 3,7,GLM-5.1-Simple,Every-turn,0.32,0.405257,2
 3,7,GLM-5.1-Simple,Every-turn,0.33,0.396044,2
-3,7,GLM-5.1-Simple,Every-turn,0.34,0.387956,2
+3,7,GLM-5.1-Simple,Every-turn,0.34,0.387957,2
 3,7,GLM-5.1-Simple,Every-turn,0.35,0.381446,2
 3,7,GLM-5.1-Simple,Every-turn,0.36,0.377335,2
 3,7,GLM-5.1-Simple,Every-turn,0.37,0.371273,2
@@ -74092,7 +74092,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.31,0.52557,2
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.32,0.529505,2
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.33,0.529585,2
-3,7,GLM-5.3-Flash-Simple,Every-turn,0.34,0.528461,2
+3,7,GLM-5.3-Flash-Simple,Every-turn,0.34,0.528462,2
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.35,0.531291,2
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.36,0.527789,2
 3,7,GLM-5.3-Flash-Simple,Every-turn,0.37,0.524226,2
@@ -74248,7 +74248,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GLM-5.3-Simple,Per-5,0.27,0.541673,2
 3,7,GLM-5.3-Simple,Per-5,0.28,0.539772,2
 3,7,GLM-5.3-Simple,Per-5,0.29,0.540107,2
-3,7,GLM-5.3-Simple,Per-5,0.3,0.545897,2
+3,7,GLM-5.3-Simple,Per-5,0.3,0.545896,2
 3,7,GLM-5.3-Simple,Per-5,0.31,0.551854,2
 3,7,GLM-5.3-Simple,Per-5,0.32,0.552253,2
 3,7,GLM-5.3-Simple,Per-5,0.33,0.552778,2
@@ -74410,7 +74410,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-6-Luna-Simple,Every-turn,0.29,0.482722,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.3,0.480992,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.31,0.476884,2
-3,7,GPT-6-Luna-Simple,Every-turn,0.32,0.479733,2
+3,7,GPT-6-Luna-Simple,Every-turn,0.32,0.479734,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.33,0.480255,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.34,0.478776,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.35,0.475483,2
@@ -74472,7 +74472,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-6-Luna-Simple,Every-turn,0.91,0.349589,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.92,0.348311,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.93,0.347087,2
-3,7,GPT-6-Luna-Simple,Every-turn,0.94,0.345188,2
+3,7,GPT-6-Luna-Simple,Every-turn,0.94,0.345189,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.95,0.343466,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.96,0.341426,2
 3,7,GPT-6-Luna-Simple,Every-turn,0.97,0.33951,2
@@ -74582,7 +74582,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.41,0.573893,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.42,0.572316,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.43,0.570308,2
-3,7,GPT-6.1-Sol-Simple,Every-turn,0.44,0.56823,2
+3,7,GPT-6.1-Sol-Simple,Every-turn,0.44,0.568231,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.45,0.56697,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.46,0.563537,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.47,0.563618,2
@@ -74591,7 +74591,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.5,0.565014,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.51,0.567126,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.52,0.568191,2
-3,7,GPT-6.1-Sol-Simple,Every-turn,0.53,0.570664,2
+3,7,GPT-6.1-Sol-Simple,Every-turn,0.53,0.570665,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.54,0.573906,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.55,0.578197,2
 3,7,GPT-6.1-Sol-Simple,Every-turn,0.56,0.581397,2
@@ -74753,7 +74753,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-OSS-120B-Simple,Every-turn,0.52,0.259272,2
 3,7,GPT-OSS-120B-Simple,Every-turn,0.53,0.255209,2
 3,7,GPT-OSS-120B-Simple,Every-turn,0.54,0.256122,2
-3,7,GPT-OSS-120B-Simple,Every-turn,0.55,0.254409,2
+3,7,GPT-OSS-120B-Simple,Every-turn,0.55,0.25441,2
 3,7,GPT-OSS-120B-Simple,Every-turn,0.56,0.252613,2
 3,7,GPT-OSS-120B-Simple,Every-turn,0.57,0.250985,2
 3,7,GPT-OSS-120B-Simple,Every-turn,0.58,0.249102,2
@@ -74800,10 +74800,10 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-OSS-120B-Simple,Every-turn,0.99,0.155075,2
 3,7,GPT-OSS-120B-Simple,Every-turn,1.0,0.153989,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.21,0.627652,2
-3,7,GPT-OSS-120B-Simple,Per-5,0.22,0.594273,2
+3,7,GPT-OSS-120B-Simple,Per-5,0.22,0.594272,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.23,0.581988,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.24,0.574462,2
-3,7,GPT-OSS-120B-Simple,Per-5,0.25,0.571433,2
+3,7,GPT-OSS-120B-Simple,Per-5,0.25,0.571432,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.26,0.567418,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.27,0.558042,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.28,0.553657,2
@@ -74857,7 +74857,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,GPT-OSS-120B-Simple,Per-5,0.76,0.385921,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.77,0.385496,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.78,0.383927,2
-3,7,GPT-OSS-120B-Simple,Per-5,0.79,0.382763,2
+3,7,GPT-OSS-120B-Simple,Per-5,0.79,0.382764,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.8,0.381694,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.81,0.380974,2
 3,7,GPT-OSS-120B-Simple,Per-5,0.82,0.381194,2
@@ -75123,7 +75123,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Kimi-K2.6-Simple,Every-turn,0.22,0.50161,2
 3,7,Kimi-K2.6-Simple,Every-turn,0.23,0.4852,2
 3,7,Kimi-K2.6-Simple,Every-turn,0.24,0.487372,2
-3,7,Kimi-K2.6-Simple,Every-turn,0.25,0.494151,2
+3,7,Kimi-K2.6-Simple,Every-turn,0.25,0.49415,2
 3,7,Kimi-K2.6-Simple,Every-turn,0.26,0.49621,2
 3,7,Kimi-K2.6-Simple,Every-turn,0.27,0.491268,2
 3,7,Kimi-K2.6-Simple,Every-turn,0.28,0.486333,2
@@ -75202,7 +75202,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Kimi-K2.7-Simple,Every-turn,0.21,0.569479,2
 3,7,Kimi-K2.7-Simple,Every-turn,0.22,0.544954,2
 3,7,Kimi-K2.7-Simple,Every-turn,0.23,0.539209,2
-3,7,Kimi-K2.7-Simple,Every-turn,0.24,0.537239,2
+3,7,Kimi-K2.7-Simple,Every-turn,0.24,0.53724,2
 3,7,Kimi-K2.7-Simple,Every-turn,0.25,0.545426,2
 3,7,Kimi-K2.7-Simple,Every-turn,0.26,0.549879,2
 3,7,Kimi-K2.7-Simple,Every-turn,0.27,0.547245,2
@@ -75359,7 +75359,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Kimi-K2.7-Simple,Per-5,0.98,0.209599,2
 3,7,Kimi-K2.7-Simple,Per-5,0.99,0.208391,2
 3,7,Kimi-K2.7-Simple,Per-5,1.0,0.207245,2
-3,7,MiniMax-M2.7-Simple,Every-turn,0.21,0.614765,2
+3,7,MiniMax-M2.7-Simple,Every-turn,0.21,0.614764,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.22,0.5743,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.23,0.560291,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.24,0.556638,2
@@ -75393,7 +75393,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,MiniMax-M2.7-Simple,Every-turn,0.52,0.437269,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.53,0.435475,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.54,0.435155,2
-3,7,MiniMax-M2.7-Simple,Every-turn,0.55,0.434745,2
+3,7,MiniMax-M2.7-Simple,Every-turn,0.55,0.434746,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.56,0.43459,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.57,0.434672,2
 3,7,MiniMax-M2.7-Simple,Every-turn,0.58,0.436175,2
@@ -75528,7 +75528,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,MiniMax-M3-Simple,Per-5,0.27,0.543322,2
 3,7,MiniMax-M3-Simple,Per-5,0.28,0.541429,2
 3,7,MiniMax-M3-Simple,Per-5,0.29,0.540182,2
-3,7,MiniMax-M3-Simple,Per-5,0.3,0.545489,2
+3,7,MiniMax-M3-Simple,Per-5,0.3,0.54549,2
 3,7,MiniMax-M3-Simple,Per-5,0.31,0.5532,2
 3,7,MiniMax-M3-Simple,Per-5,0.32,0.552903,2
 3,7,MiniMax-M3-Simple,Per-5,0.33,0.549644,2
@@ -75857,7 +75857,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Opus-5.5-Simple,Per-5,0.36,0.406852,2
 3,7,Opus-5.5-Simple,Per-5,0.37,0.399157,2
 3,7,Opus-5.5-Simple,Per-5,0.38,0.390295,2
-3,7,Opus-5.5-Simple,Per-5,0.39,0.377783,2
+3,7,Opus-5.5-Simple,Per-5,0.39,0.377784,2
 3,7,Opus-5.5-Simple,Per-5,0.4,0.363541,2
 3,7,Opus-5.5-Simple,Per-5,0.41,0.349088,2
 3,7,Opus-5.5-Simple,Per-5,0.42,0.330694,2
@@ -76044,7 +76044,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Qwen-3.5-Simple,Per-5,0.63,0.271491,2
 3,7,Qwen-3.5-Simple,Per-5,0.64,0.267628,2
 3,7,Qwen-3.5-Simple,Per-5,0.65,0.263366,2
-3,7,Qwen-3.5-Simple,Per-5,0.66,0.258726,2
+3,7,Qwen-3.5-Simple,Per-5,0.66,0.258727,2
 3,7,Qwen-3.5-Simple,Per-5,0.67,0.254531,2
 3,7,Qwen-3.5-Simple,Per-5,0.68,0.251976,2
 3,7,Qwen-3.5-Simple,Per-5,0.69,0.250011,2
@@ -76416,7 +76416,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.35,0.205511,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.36,0.199744,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.37,0.19361,2
-3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.38,0.188102,2
+3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.38,0.188103,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.39,0.181073,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.4,0.174037,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.41,0.165358,2
@@ -76453,7 +76453,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.72,0.106533,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.73,0.105079,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.74,0.103406,2
-3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.75,0.101931,2
+3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.75,0.101932,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.76,0.100692,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.77,0.099589,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.78,0.098391,2
@@ -76471,7 +76471,7 @@ seed,player_id,strategist,condition,turn_progress,mean_adjusted_strength,n_runs
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.9,0.087256,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.91,0.08649,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.92,0.085698,2
-3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.93,0.084951,2
+3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.93,0.084952,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.94,0.08423,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.95,0.08351,2
 3,7,Qwen-3.8-Flash-Next-Simple,Every-turn,0.96,0.082779,2
