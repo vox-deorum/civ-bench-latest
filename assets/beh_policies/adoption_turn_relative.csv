@@ -1,16 +1,16 @@
 row_kind,player_type,strategist,condition,row_label,metric,metric_group,mean,sd,n_players,n_games,color_position,median,ci_lower,ci_upper
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_tradition,Ancient,21.428571428571427,5.69133098591607,112,24,0.373739,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_authority,Ancient,27.333333333333332,6.004693000326412,72,24,0.362055,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_progress,Ancient,18.0,0.0,8,8,0.296543,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_fealty,Medieval,159.57894736842104,28.501055951833447,95,24,0.368176,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_statecraft,Medieval,150.9,52.733127715134536,30,23,0.314554,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_artistry,Medieval,145.85507246376812,19.352211731265516,69,24,0.387716,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_industry,Industrial,250.13636363636363,28.462666365317506,22,21,0.228134,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_imperialism,Industrial,281.258064516129,30.78691199667241,62,24,0.451964,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_rationalism,Industrial,237.1326530612245,20.382243007139916,98,24,0.371857,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_freedom,Ideology,329.728813559322,34.62002136918132,59,22,0.457213,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_autocracy,Ideology,341.3939393939394,24.310413655904995,33,16,0.547925,,,
-baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_order,Ideology,327.14102564102564,33.358627599138956,78,24,0.601711,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_tradition,Ancient,21.428571428571427,5.69133098591607,112,24,0.375126,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_authority,Ancient,27.333333333333332,6.004693000326412,72,24,0.363649,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_progress,Ancient,18.0,0.0,8,8,0.297214,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_fealty,Medieval,159.57894736842104,28.501055951833447,95,24,0.369424,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_statecraft,Medieval,150.9,52.733127715134536,30,23,0.316519,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_artistry,Medieval,145.85507246376812,19.352211731265516,69,24,0.390238,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_industry,Industrial,250.13636363636363,28.462666365317506,22,21,0.228987,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_imperialism,Industrial,281.258064516129,30.78691199667241,62,24,0.454178,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_rationalism,Industrial,237.1326530612245,20.382243007139916,98,24,0.374437,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_freedom,Ideology,329.728813559322,34.62002136918132,59,22,0.460692,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_autocracy,Ideology,341.3939393939394,24.310413655904995,33,16,0.552671,,,
+baseline,Matched in-game AI,Matched in-game AI,,Matched in-game AI,adoption_turn_order,Ideology,327.14102564102564,33.358627599138956,78,24,0.604814,,,
 group,Null,Null,,Null,adoption_turn_tradition,Ancient,31.04,,25,18,1.0,1.0,12.958000000000002,50.03958333333333
 group,Null,Null,,Null,adoption_turn_authority,Ancient,30.352941176470587,,17,14,1.0,0.0,0.3109375000000014,70.5315476190476
 group,Null,Null,,Null,adoption_turn_fealty,Medieval,60.80764411027569,,19,16,1.0,38.428571428571416,29.9193972120098,91.34485745614035
@@ -47,6 +47,18 @@ group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,adoption_turn_autocracy,Ideology,12.180952380952387,,7,7,0.625265,18.666666666666686,-5.73404761904761,26.42285714285714
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,adoption_turn_order,Ideology,-25.43126293995859,,23,17,0.30941,-28.333333333333314,-43.34405745341614,-8.117937843406596
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,adoption_turn_progress,Ancient,0.0,,2,2,0.5,0.0,0.0,0.0
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_tradition,Ancient,-0.3684210526315789,,19,16,0.483817,0.0,-2.045508658008658,1.8421052631578947
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_authority,Ancient,-0.9333333333333333,,15,13,0.461142,0.0,-4.1875,2.2945772058823524
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_fealty,Medieval,3.897727272727273,,11,9,0.534189,-11.25,-10.800833333333333,17.28846153846154
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_statecraft,Medieval,-12.434523809523812,,7,6,0.44105,-2.75,-27.437500000000004,6.708333333333333
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_artistry,Medieval,-9.8984375,,16,14,0.372128,-10.625,-18.42907037815126,-1.5460416666666703
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_industry,Industrial,7.5,,2,2,0.565876,7.5,0.0,15.0
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_imperialism,Industrial,-22.9,,5,5,0.314044,-19.375,-29.275,-18.575
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_rationalism,Industrial,-15.192546583850932,,23,18,0.313655,-15.75,-23.65044029911736,-7.059268707482996
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_freedom,Ideology,-12.946666666666669,,5,4,0.406509,-34.666666666666686,-47.13333333333334,32.499999999999986
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_autocracy,Ideology,-25.43333333333333,,8,8,0.238452,-25.866666666666646,-42.335,-6.413750000000007
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_order,Ideology,-37.9485119047619,,16,13,0.215602,-41.29166666666666,-50.36230835667601,-26.140551835317464
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,adoption_turn_progress,Ancient,2.0,,2,2,0.5,2.0,1.0,3.0
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,adoption_turn_tradition,Ancient,1.0,,19,14,0.543926,0.0,0.10526315789473684,2.6671874999999994
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,adoption_turn_authority,Ancient,0.0,,15,13,0.5,0.0,-1.0556372549019608,1.6428571428571428
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,adoption_turn_fealty,Medieval,-8.928030303030305,,11,10,0.421687,-6.375,-13.097569444444446,-3.8445833333333352

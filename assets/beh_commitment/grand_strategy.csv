@@ -139,6 +139,13 @@ group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,grand_strategy_share_spaceship,Spaceship,,,0.30505857032104744,30.505857032104746,,,
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,gs_switches,,,,,0.12035079640929587,,,
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,gs_pivot,,,,,259.1764705882353,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,gs_main,Culture,Culture,Culture 35%,0.34506298653370515,34.506298653370514,88.75232955525802,0.15683885636768544,197.8695652173913
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_conquest,Conquest,,,0.17309415943999906,17.309415943999905,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_culture,Culture,,,0.34506298653370515,34.506298653370514,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.16255143641355574,16.255143641355573,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_spaceship,Spaceship,,,0.31929141761274016,31.929141761274014,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,gs_switches,,,,,0.15683885636768544,,,
+group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,gs_pivot,,,,,197.8695652173913,,,
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,48,24,gs_main,Culture,Culture,Culture 37%,0.36672957596041805,36.672957596041805,91.27364712836993,0.12714741388533832,220.9
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.21848161664997423,21.848161664997424,,,
 group,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.36672957596041805,36.672957596041805,,,

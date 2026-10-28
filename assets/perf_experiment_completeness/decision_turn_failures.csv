@@ -1,6 +1,9 @@
 experiment,game_id,player_id,player_type,valid_turn_count,failed_turn_count,failure_pct,failed_turns,excluded_game
 claude-opus-5.5-standard-fixed-per-5,d9c10933-49a0-4024-9dda-6ac9a13f8251,6,Opus-5.5-Simple-Per-5,431,1,0.0023,430,False
+claude-sonnet-5.5-standard-fixed,eae3a765-da92-4544-b3d4-05fb951b20b8,2,Sonnet-5.5-Simple,374,48,0.1283,"326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373",False
+claude-sonnet-5.5-standard-fixed,eae3a765-da92-4544-b3d4-05fb951b20b8,5,Sonnet-5.5-Simple,355,29,0.0817,"326,327,328,329,330,331,332,333,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372",False
 deepseek-v4-flash-standard-fixed,06e0af08-c8e1-4d29-85de-86905fa60bba,4,DeepSeek-V4-Flash-Simple,378,1,0.0026,2,False
+deepseek-v4.1-flash-standard-fixed,e035d9d9-bfa4-43fa-a70d-27879fdfcbce,0,DeepSeek-V4.1-Flash-Simple,403,1,0.0025,402,False
 gemma-4-standard-fixed,62b7fc17-8534-42cf-86e8-9f7203bc6e31,0,Gemma-4-Simple,333,1,0.003,0,False
 gemma-4-standard-fixed-per-5,49edb947-f249-4166-9cd5-8e275d03d48e,7,Gemma-4-Simple-Per-5,471,8,0.017,"385,386,387,388,389,390,391,392",False
 gemma-4-standard-fixed-per-5,610e1ec5-92ff-4bf7-be11-418ac59f2380,7,Gemma-4-Simple-Per-5,434,5,0.0115,"420,421,422,432,433",False
@@ -30,6 +33,9 @@ gpt-6-luna-standard-fixed,2b638673-1787-4158-94cc-be82efacb992,6,GPT-6-Luna-Simp
 gpt-6-luna-standard-fixed,2c5b664b-18c5-4033-8900-9c1166a7c627,7,GPT-6-Luna-Simple,418,1,0.0024,417,False
 gpt-6-luna-standard-fixed-per-5,0632c8cf-46de-4e81-9280-191adbd86095,3,GPT-6-Luna-Simple-Per-5,492,1,0.002,416,False
 gpt-6-luna-standard-fixed-per-5,ed013f54-bfea-4abc-8ac3-1e687e234343,1,GPT-6-Luna-Simple-Per-5,496,9,0.0181,"462,464,468,479,480,484,491,493,494",False
+gpt-6.1-sol-standard-fixed-files-per-5,462d1b6c-5b0d-4d24-8e13-2cbfcbb510ef,0,GPT-6.1-Sol-Simple-Agentic,266,1,0.0038,265,False
+gpt-6.1-sol-standard-fixed-files-per-5,b39625eb-47aa-4451-8979-55a50c176920,0,GPT-6.1-Sol-Simple-Agentic,394,3,0.0076,"0,1,2",False
+gpt-6.1-sol-standard-fixed-files-per-5,b39625eb-47aa-4451-8979-55a50c176920,6,GPT-6.1-Sol-Simple-Agentic,392,3,0.0077,"0,1,2",False
 jev-1.13-standard-fixed,2607873a-1a7c-4a3c-9ab1-d9833388eadc,7,Jev!,393,1,0.0025,191,False
 jev-1.13-standard-fixed,298db992-421d-40f1-967c-e025e22c960d,0,Jev!,386,1,0.0026,363,False
 jev-1.13-standard-fixed,3970fb28-c8c5-4721-807b-260b4408c9fe,4,Jev!,421,1,0.0024,253,False

@@ -19,6 +19,7 @@ group,1,0,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,0,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 95%,0.9495412844036697,94.95412844036697,94.95412844036697,0.11467889908256881,44.0
 group,1,0,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,1,0,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 59%,0.5949073394225969,59.49073394225969,81.64850656406944,0.36917383770448475,157.0
 group,1,0,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,0,gs_main,UnitedNations,United Nations,United Nations 50%,0.5,50.0,80.02364066193853,0.1182033096926714,254.0
 group,1,0,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 58%,0.5823244552058111,58.232445520581116,90.55690072639226,0.847457627118644,209.0
 group,1,0,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 68%,0.6828769965282336,68.28769965282336,68.28769965282336,0.6633647245434444,244.0
@@ -58,6 +59,7 @@ group,1,1,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,1,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 93%,0.9256015839171491,92.56015839171491,92.56015839171491,0.5006853487663722,368.0
 group,1,1,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 88%,0.8766375545851528,87.66375545851528,87.66375545851528,0.10917030567685589,345.0
 group,1,1,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,1,1,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 85%,0.8536299765807962,85.36299765807962,85.36299765807962,0.117096018735363,302.0
 group,1,1,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,0.9978494623655914,99.78494623655914,99.78494623655914,0.21505376344086022,376.0
 group,1,1,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 77%,0.7735724820901813,77.35724820901812,77.35724820901812,0.4806679308891698,266.0
 group,1,1,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,0.9967672413793103,99.67672413793103,99.67672413793103,0.10775862068965517,461.0
@@ -97,6 +99,7 @@ group,1,2,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,2,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 87%,0.8739612188365651,87.3961218836565,87.3961218836565,0.13850415512465375,270.0
 group,1,2,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 63%,0.6288515406162465,62.88515406162465,87.11484593837535,0.1400560224089636,265.0
+group,1,2,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 96%,0.9565217391304347,95.65217391304347,95.65217391304347,0.1278772378516624,357.0
 group,1,2,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,2,gs_main,UnitedNations,United Nations,United Nations 40%,0.40467988009485034,40.46798800948503,59.53201199051497,0.23656659657286028,251.0
 group,1,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 72%,0.7181711997330218,71.81711997330218,71.81711997330218,0.8372671342372554,281.0
@@ -136,6 +139,7 @@ group,1,3,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,3,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,0.9976019184652278,99.76019184652279,99.76019184652279,0.2398081534772182,297.0
 group,1,3,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,3,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 85%,0.8528472276993455,85.28472276993455,85.28472276993455,0.23745676202494564,359.5
 group,1,3,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -175,6 +179,7 @@ group,1,4,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,4,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,4,gs_main,UnitedNations,United Nations,United Nations 57%,0.56515731292517,56.515731292517,56.515731292517,0.6457270408163265,224.5
 group,1,4,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,4,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 96%,0.9642857142857143,96.42857142857143,96.42857142857143,0.2976190476190476,235.0
 group,1,4,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 74%,0.7389791183294663,73.89791183294663,76.10208816705337,0.11600928074245939,206.0
@@ -214,6 +219,7 @@ group,1,5,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,5,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 91%,0.9082998143564356,90.82998143564356,90.82998143564356,0.8921204620462045,301.5
 group,1,5,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 67%,0.6738191632928476,67.38191632928476,67.38191632928476,0.2597840755735492,260.0
 group,1,5,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,5,gs_main,Conquest,Conquest,Conquest 88%,0.8753315649867375,87.53315649867375,87.53315649867375,0.1326259946949602,283.0
+group,1,5,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 79%,0.79126213592233,79.126213592233,79.126213592233,0.12135922330097086,240.0
 group,1,5,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,5,gs_main,Conquest,Conquest,Conquest 65%,0.6508951406649617,65.08951406649616,84.91048593350384,0.1278772378516624,118.0
 group,1,5,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 69%,0.6879194630872483,68.79194630872483,78.41163310961969,0.22371364653243847,168.0
 group,1,5,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,5,gs_main,Conquest,Conquest,Conquest 69%,0.6931724189788706,69.31724189788706,69.31724189788706,0.4887585532746823,251.5
@@ -253,6 +259,7 @@ group,1,6,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,6,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 90%,0.9025229357798165,90.25229357798165,90.25229357798165,0.22935779816513763,1.0
 group,1,6,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,1,6,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 91%,0.9059523809523811,90.5952380952381,90.5952380952381,0.4761904761904762,217.0
 group,1,6,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
@@ -292,6 +299,7 @@ group,1,7,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,1,7,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 72%,0.7219430060581447,72.19430060581446,72.19430060581446,1.0644058618472265,45.0
 group,1,7,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,7,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,7,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 96%,0.9608801955990219,96.0880195599022,96.0880195599022,0.24449877750611246,371.0
 group,1,7,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,7,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 44%,0.4380530973451327,43.80530973451327,73.68626211546565,0.22966708807416775,323.5
 group,1,7,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 54%,0.5380790402991275,53.80790402991275,54.023421271292065,0.22824054840049857,235.5
@@ -331,6 +339,7 @@ group,2,0,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,0,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 93%,0.9333578864986091,93.3357886498609,93.3357886498609,0.25649288725493424,26.5
 group,2,0,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,0,gs_main,UnitedNations,United Nations,United Nations 50%,0.5,50.0,100.0,0.0,
 group,2,0,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
+group,2,0,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,0,gs_main,UnitedNations,United Nations,United Nations 88%,0.8811983471074378,88.11983471074379,88.11983471074379,0.3945297127115309,27.0
 group,2,0,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 50%,0.5040983606557377,50.40983606557377,99.59016393442623,0.1366120218579235,363.0
 group,2,0,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 77%,0.7696804718387452,76.96804718387452,76.96804718387452,0.3749432886123534,306.0
 group,2,0,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
@@ -370,6 +379,7 @@ group,2,1,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,1,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 84%,0.8402173913043478,84.02173913043478,84.02173913043478,0.21739130434782608,302.0
 group,2,1,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,2,1,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 94%,0.9424657534246574,94.24657534246575,94.24657534246575,0.273972602739726,323.0
 group,2,1,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,1,gs_main,UnitedNations,United Nations,United Nations 53%,0.5330557624050832,53.30557624050832,65.4195904922898,0.4707110127896422,156.5
 group,2,1,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,1,gs_main,Culture,Culture,Culture 99%,0.9929906542056075,99.29906542056075,99.29906542056075,0.11682242990654204,6.0
@@ -409,6 +419,7 @@ group,2,2,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,2,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 50%,0.5008652958670905,50.086529586709055,58.00110245103066,1.144113424264178,44.5
 group,2,2,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 53%,0.5289915966386555,52.89915966386555,59.95798319327731,0.2769289533995416,168.5
 group,2,2,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,2,gs_main,Conquest,Conquest,Conquest 68%,0.675,67.5,82.5,0.125,140.0
+group,2,2,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,86.42297650130548,0.13054830287206268,104.0
 group,2,2,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,2,gs_main,Conquest,Conquest,Conquest 57%,0.5729185384845762,57.29185384845762,75.48592392932015,0.27365977837675953,210.5
 group,2,2,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,2,gs_main,Conquest,Conquest,Conquest 45%,0.4464285714285714,44.64285714285714,55.61224489795919,0.5102040816326531,166.0
 group,2,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,2,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
@@ -448,6 +459,7 @@ group,2,3,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,3,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 91%,0.9132973541175263,91.32973541175264,91.32973541175264,0.6300635832222335,15.0
 group,2,3,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9896103896103895,98.96103896103895,98.96103896103895,0.2597402597402597,314.0
 group,2,3,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 46%,0.45890410958904115,45.89041095890411,74.51541095890411,0.3641552511415525,240.0
+group,2,3,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,0.997425317709193,99.7425317709193,99.7425317709193,0.2574682290807064,1.0
 group,2,3,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,3,gs_main,UnitedNations,United Nations,United Nations 49%,0.48655256723716384,48.655256723716384,84.10000065902636,0.2570202782409269,59.5
 group,2,3,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 77%,0.7692855919346157,76.92855919346157,76.92855919346157,0.6071673273625997,297.0
 group,2,3,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,3,gs_main,Conquest,Conquest,Conquest 83%,0.8277805500924649,82.77805500924649,82.77805500924649,0.7852173657791999,296.0
@@ -487,6 +499,7 @@ group,2,4,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,4,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 57%,0.5736057987439203,57.36057987439203,77.16114967496182,0.42302183186161085,149.5
 group,2,4,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,2,4,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 58%,0.5796344647519582,57.96344647519582,57.96344647519582,0.26109660574412535,222.5
+group,2,4,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 41%,0.40639832667399645,40.639832667399645,61.045560591027325,0.23169129280523454,177.0
 group,2,4,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 60%,0.6033931664304835,60.33931664304834,60.33931664304834,0.2806644622894032,215.5
 group,2,4,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 63%,0.6250350384531097,62.503503845310966,64.50795818829538,0.45155010116557004,276.0
 group,2,4,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 57%,0.5661768167800559,56.617681678005596,56.617681678005596,0.24276701428941358,233.5
@@ -526,6 +539,7 @@ group,2,5,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,5,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 86%,0.864321608040201,86.4321608040201,86.4321608040201,0.12562814070351758,108.0
 group,2,5,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 89%,0.8926470588235295,89.26470588235294,89.26470588235294,0.14705882352941177,267.0
 group,2,5,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 89%,0.8851990861618799,88.51990861618799,88.51990861618799,0.37093291825667807,212.0
+group,2,5,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,5,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,5,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 47%,0.4710467706013363,47.10467706013363,90.21692195809283,0.35026816962865326,295.5
 group,2,5,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 79%,0.7912234042553191,79.12234042553192,79.12234042553192,0.13297872340425532,219.0
@@ -565,6 +579,7 @@ group,2,6,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,6,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9937562453663411,99.3756245366341,99.3756245366341,0.25400509299551943,2.5
 group,2,6,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,6,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 92%,0.9228552165852014,92.28552165852014,92.28552165852014,0.37856059329175795,314.5
+group,2,6,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9916864608076008,99.16864608076008,99.16864608076008,0.11876484560570072,414.0
 group,2,6,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 98%,0.9795081967213115,97.95081967213115,97.95081967213115,0.1366120218579235,15.0
 group,2,6,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 50%,0.5,50.0,93.64864864864865,0.13513513513513514,323.0
 group,2,6,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -604,6 +619,7 @@ group,2,7,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,2,7,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 97%,0.9675925925925927,96.75925925925927,96.75925925925927,0.34084809447128284,13.0
 group,2,7,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,7,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
+group,2,7,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 50%,0.5,50.0,93.5114503816794,0.5089058524173028,330.0
 group,2,7,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 53%,0.5284360189573459,52.843601895734594,97.1563981042654,0.11848341232227488,398.0
 group,2,7,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 67%,0.6670886075949367,66.70886075949367,83.29113924050633,0.12658227848101267,132.0
 group,2,7,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,7,gs_main,Culture,Culture,Culture 99%,0.9931506849315067,99.31506849315068,99.31506849315068,0.228310502283105,394.0
@@ -643,6 +659,7 @@ group,3,0,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,0,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 39%,0.39461363952530254,39.461363952530256,57.49205448961465,0.9066442658562424,48.5
 group,3,0,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 55%,0.5461637824981547,54.61637824981547,61.07705240711884,0.26210393941879223,171.0
 group,3,0,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,0,gs_main,Conquest,Conquest,Conquest 38%,0.37971014492753624,37.971014492753625,74.90921673994464,0.5752320468978993,262.0
+group,3,0,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 97%,0.9702233250620347,97.02233250620347,97.02233250620347,0.12406947890818859,379.0
 group,3,0,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 90%,0.9049479166666667,90.49479166666667,90.49479166666667,0.13020833333333331,311.0
 group,3,0,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,0,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,0,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,0,gs_main,Conquest,Conquest,Conquest 60%,0.5985402978707909,59.854029787079085,59.854029787079085,0.47703023965957625,262.0
@@ -682,6 +699,7 @@ group,3,1,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,1,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 96%,0.961734693877551,96.17346938775509,96.17346938775509,0.12755102040816327,362.0
 group,3,1,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,1,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,3,1,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,1,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,1,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 81%,0.8102440191387559,81.0244019138756,81.0244019138756,0.4196172248803828,267.0
 group,3,1,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
@@ -721,6 +739,7 @@ group,3,2,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,2,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 78%,0.7796420581655481,77.96420581655481,77.96420581655481,0.44742729306487694,250.0
 group,3,2,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 87%,0.8742603550295859,87.42603550295858,87.42603550295858,0.14792899408284024,253.0
 group,3,2,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9878854625550662,98.78854625550662,98.78854625550662,0.11013215859030838,443.0
+group,3,2,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 72%,0.7214758112880656,72.14758112880656,72.14758112880656,0.28861531285400144,250.0
 group,3,2,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 64%,0.6436950146627567,64.36950146627566,85.63049853372434,0.1466275659824047,243.0
 group,3,2,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 96%,0.9590163934426229,95.90163934426229,95.90163934426229,0.3073770491803279,438.0
 group,3,2,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,3,3,2,gs_main,Spaceship,Spaceship,Spaceship 37%,0.37357723577235774,37.357723577235774,56.13166993738903,0.5497990841977385,251.33333333333334
@@ -760,6 +779,7 @@ group,3,3,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,3,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,3,3,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 82%,0.8199513381995134,81.99513381995133,81.99513381995133,0.12165450121654502,263.0
 group,3,3,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 66%,0.657142857142857,65.71428571428571,84.28571428571428,0.14285714285714285,240.0
+group,3,3,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 90%,0.9011627906976745,90.11627906976744,90.11627906976744,0.14534883720930233,276.0
 group,3,3,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 80%,0.8040712468193385,80.40712468193385,80.40712468193385,0.1272264631043257,239.0
 group,3,3,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 64%,0.6429449648711945,64.29449648711945,64.29449648711945,0.6143358982937437,314.5
 group,3,3,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,3,3,3,gs_main,Culture,Culture,Culture 92%,0.9189378057302586,91.89378057302586,91.89378057302586,0.06988120195667366,361.0
@@ -799,6 +819,7 @@ group,3,4,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,4,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 52%,0.5199962421229115,51.99962421229115,56.67384517546395,2.1394606001040644,105.5
 group,3,4,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 71%,0.7135397239835882,71.35397239835882,71.35397239835882,0.2653191923599333,269.0
 group,3,4,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 77%,0.7668107588856868,76.68107588856869,76.68107588856869,0.2877703799397131,266.5
+group,3,4,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 59%,0.5927532596259154,59.275325962591545,66.07878168613365,0.24963442018122972,233.0
 group,3,4,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 95%,0.95372460496614,95.372460496614,95.372460496614,0.33860045146726864,175.0
 group,3,4,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 76%,0.7580645161290324,75.80645161290323,75.80645161290323,0.4032258064516129,256.0
 group,3,4,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,1,1,4,gs_main,Conquest,Conquest,Conquest 98%,0.975609756097561,97.5609756097561,97.5609756097561,0.4434589800443459,188.0
@@ -838,6 +859,7 @@ group,3,5,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,5,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 90%,0.8957545107135388,89.57545107135388,89.57545107135388,1.4018543516423625,264.0
 group,3,5,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,3,5,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,1,1,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
@@ -877,6 +899,7 @@ group,3,6,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,6,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 47%,0.4705882352941176,47.05882352941176,86.97817836812143,0.5545766693774284,43.5
 group,3,6,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 59%,0.5912921348314607,59.12921348314607,90.87078651685394,0.1404494382022472,291.0
 group,3,6,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,3,6,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 70%,0.7009925558312655,70.09925558312655,79.90074441687345,0.12406947890818859,162.0
 group,3,6,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,3,6,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 71%,0.7100546551074255,71.00546551074255,71.13739163211459,0.2509737404196507,111.5
 group,3,6,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -916,6 +939,7 @@ group,3,7,Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,Kimi-K2.7-Simple | Per-5
 group,3,7,Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,Kimi-K2.6-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 63%,0.6344086021505376,63.44086021505376,86.55913978494624,0.13440860215053765,100.0
 group,3,7,DeepSeek-V4-Flash-Simple,DeepSeek-V4-Flash-Simple,Every-turn,DeepSeek-V4-Flash-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
 group,3,7,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,2,2,7,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
+group,3,7,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 48%,0.479144489583107,47.9144489583107,54.5534531076883,0.33835893202407075,141.5
 group,3,7,DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,DeepSeek-V4.1-Flash-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 69%,0.6942221067221067,69.42221067221067,69.42221067221067,0.24283899283899285,137.5
 group,3,7,Qwen-3.5-Simple,Qwen-3.5-Simple,Every-turn,Qwen-3.5-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 98%,0.976,97.6,97.6,0.2,474.0
 group,3,7,Qwen-3.5-Simple-Per-5,Qwen-3.5-Simple,Per-5,Qwen-3.5-Simple | Per-5,2,2,7,gs_main,Conquest,Conquest,Conquest 83%,0.8311345646437995,83.11345646437995,83.11345646437995,0.13192612137203166,252.0

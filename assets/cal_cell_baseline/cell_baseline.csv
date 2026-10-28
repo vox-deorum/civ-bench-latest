@@ -1,961 +1,985 @@
 experiment,pathway,seed,player_id,civilization,cell_baseline,n_vanilla,win_rate,n_games,n_models,has_vanilla_baseline,vanilla_connected
-claude-opus-5.5-standard-fixed-per-5,implicit,1,0,Arabia,-5.878531001234888,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,1,The Zulus,-4.083901014874271,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,2,China,-4.850485211022651,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.52500788839398,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1317499244824634,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-3.545107982436944,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,6,Austria,-2.647711390832279,6,0.1666666666666666,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.7591208388579311,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.311378545794585,6,0.3333333333333333,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.4418755880479653,6,0.1666666666666666,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,2,France,-5.289454712587243,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,3,Spain,-5.019015075052381,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.626536751397052,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-2.524846710475887,6,0.3333333333333333,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.42615464841492,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.2595819940967323,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,0,France,-4.834879416337638,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.558996278199713,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,2,China,0.4072322679760665,6,0.8333333333333334,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,3,Egypt,-4.139632889281676,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.499743760750175,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,5,Austria,-1.6585431533397414,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.0793167675839968,6,0.0,8,3,True,True
-claude-opus-5.5-standard-fixed-per-5,implicit,3,7,Songhai,-3.592533722393312,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,0,Arabia,-4.199919714038489,6,0.1666666666666666,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,1,The Zulus,-3.3021355457480435,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,2,China,-5.23054360227548,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.630609161398551,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-0.1246368486269318,6,0.5,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-3.9826836149682783,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,6,Austria,-1.0313892284991784,6,0.5,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.5029012880643875,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.1687992104928497,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,0.7079393995584713,6,0.5,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,2,France,-5.861323848103182,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,3,Spain,-4.083003459301384,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.300216740863259,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-4.029614009437463,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-3.895414266050981,6,0.1666666666666666,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.2749828186087846,6,0.1666666666666666,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,0,France,-5.074793484394977,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.0933849785377974,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,2,China,0.0688208156123303,6,0.8333333333333334,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,3,Egypt,-4.7347990838415095,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,4,Mongolia,-6.01327295492052,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,5,Austria,-2.206607588164997,6,0.1666666666666666,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.14922448874867,6,0.0,8,3,True,True
-claude-sonnet-5.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.806238170140136,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,0,Arabia,-5.608634178110235,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,1,The Zulus,-3.393916094466052,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,2,China,-4.780112450863207,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,3,Brazil,-2.252436855261447,6,0.3333333333333333,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,4,Polynesia,-1.258377767095767,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,5,Denmark,-1.7699682295001449,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,6,Austria,-1.8509533446300328,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,1,7,Ethiopia,-1.547255542020238,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,0,The Netherlands,-0.1267819897906984,6,0.6666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,1,The Ottomans,-1.1916871273304646,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,2,France,-5.037025949842515,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,3,Spain,-5.395569628873748,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,4,The Aztecs,-3.947170457511806,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,5,Brazil,-2.4920328965165743,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,6,Arabia,-3.584735141088967,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,2,7,Poland,-2.2958530892217155,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,0,France,-4.211934477145844,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,1,The Zulus,-2.631110374362199,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,2,China,0.6532314013487643,6,1.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,3,Egypt,-3.7569152803021866,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,4,Mongolia,-5.123579777271295,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,5,Austria,-2.4926484159284814,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,6,Morocco,-3.401973400972423,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed,implicit,3,7,Songhai,-2.6187327231161994,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,0,Arabia,-4.568669047925001,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-5.086854482810961,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,2,China,-3.771655274232775,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,3,Brazil,-2.474808239926881,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.374258182070217,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.485232978586908,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,6,Austria,-2.357845322059669,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.1285764406057623,6,0.3333333333333333,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.9142598675843232,6,0.3333333333333333,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.967132457967852,6,0.3333333333333333,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,2,France,-5.398969224228377,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.606215952674883,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.884938878003211,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,5,Brazil,-3.669229065265504,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.328657338750036,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,2,7,Poland,-0.7427458162856073,6,0.3333333333333333,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,0,France,-4.446024359792492,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-2.781130215992057,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,2,China,0.8694748156872375,6,1.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,3,Egypt,-4.123419141037939,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-5.697219129303651,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,5,Austria,-1.8735181823766829,6,0.1666666666666666,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,6,Morocco,-3.646954019457038,6,0.0,8,3,True,True
-deepseek-v4-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.71041357663345,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,0,Arabia,-4.863026452171407,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-3.44771025608978,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,2,China,-4.273669530456515,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,3,Brazil,-2.0995947112540887,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1915315454761666,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.8571410887386186,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,6,Austria,-2.166935862809354,6,0.3333333333333333,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.280241238189668,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.5013690888129834,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.2475584329362106,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,2,France,-4.903428055991961,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.200264975125113,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.522622171580605,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,5,Brazil,-2.600128192787397,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.83451791018298,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,7,Poland,-2.06086089195891,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,0,France,-3.990698270227369,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-2.122141246995443,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,2,China,-2.942757632949148,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,3,Egypt,-3.121783390066214,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-4.95695646040194,6,0.0,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,5,Austria,-0.6898433319914822,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,6,Morocco,-3.612024248525172,6,0.1666666666666666,8,3,True,True
-deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.513476823061539,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,0,Arabia,-5.765773323694025,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,1,The Zulus,-3.940769870523835,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,2,China,-4.532111799778273,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,3,Brazil,-3.695249557513681,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,4,Polynesia,-0.4025456678211203,6,0.5,8,3,True,True
-gemma-4-standard-fixed,implicit,1,5,Denmark,-2.3412876953153607,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,1,6,Austria,-1.0334747443412446,6,0.5,8,3,True,True
-gemma-4-standard-fixed,implicit,1,7,Ethiopia,-1.3035846836464444,6,0.3333333333333333,8,3,True,True
-gemma-4-standard-fixed,implicit,2,0,The Netherlands,-0.6841866406260907,6,0.5,8,3,True,True
-gemma-4-standard-fixed,implicit,2,1,The Ottomans,-0.2977868743236922,6,0.3333333333333333,8,3,True,True
-gemma-4-standard-fixed,implicit,2,2,France,-5.470861377446197,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,2,3,Spain,-5.278654220682187,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,2,4,The Aztecs,-4.402892975207737,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,2,5,Brazil,-2.7057980181478505,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,2,6,Arabia,-3.175447332248801,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,2,7,Poland,-1.99825272892424,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,3,0,France,-4.506077684573267,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,3,1,The Zulus,-1.5111131362606924,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,3,2,China,-0.0524363493605069,6,0.6666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,3,3,Egypt,-3.5991882377899063,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,3,4,Mongolia,-5.427176228102273,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,3,5,Austria,-3.0214637401353355,6,0.0,8,3,True,True
-gemma-4-standard-fixed,implicit,3,6,Morocco,-3.1061234923780976,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed,implicit,3,7,Songhai,-1.3661586362177938,6,0.3333333333333333,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,0,Arabia,-5.737565634344972,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,1,The Zulus,-3.388431139352939,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,2,China,-4.848934472334363,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,3,Brazil,-0.5466048716528581,6,0.6666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,4,Polynesia,-1.8991392182132971,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,5,Denmark,-1.7739554952163514,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,6,Austria,-1.6395007078451342,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.0398909140769064,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.3127485617924451,6,0.6666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.6085990936030127,6,0.3333333333333333,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,2,France,-4.423503087852079,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,3,Spain,-5.319560696972829,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.585224805792884,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,5,Brazil,-4.121588364695369,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,6,Arabia,-3.5411516784513557,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,2,7,Poland,-1.8153743351718907,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,0,France,-4.593356917098653,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,1,The Zulus,-2.435882008504232,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,2,China,0.1119306756543395,6,0.6666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,3,Egypt,-3.4002540931060525,6,0.1666666666666666,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,4,Mongolia,-5.016147656531588,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,5,Austria,-3.195611218595309,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,6,Morocco,-3.720672587560137,6,0.0,8,3,True,True
-gemma-4-standard-fixed-per-5,implicit,3,7,Songhai,-2.087028449454285,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,0,Arabia,-6.044614592814877,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,1,The Zulus,-3.705800264636956,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,2,China,-3.37896137344077,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,3,Brazil,-2.6357008938202644,6,0.3333333333333333,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,4,Polynesia,-2.192701417986984,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,5,Denmark,-2.547869661098087,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,6,Austria,-2.447545827297537,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,1,7,Ethiopia,-1.0599477779922386,6,0.3333333333333333,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,0,The Netherlands,-0.8471033245516685,6,0.3333333333333333,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,1,The Ottomans,-1.8746297117795137,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,2,France,-5.865701124650529,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,3,Spain,-5.9583676254607285,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,4,The Aztecs,-4.863606414687831,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,5,Brazil,-3.579974919938472,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,6,Arabia,-3.968566542745621,6,0.1666666666666666,8,3,True,True
-glm-5.1-standard-fixed,implicit,2,7,Poland,-1.3729324733046129,6,0.3333333333333333,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,0,France,-4.159168952566448,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,1,The Zulus,-2.217822661607036,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,2,China,0.3215327317513741,6,0.8333333333333334,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,3,Egypt,-3.712388109387535,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,4,Mongolia,-5.977490444663168,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,5,Austria,-2.7389304664487297,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,6,Morocco,-2.976505373632861,6,0.0,8,3,True,True
-glm-5.1-standard-fixed,implicit,3,7,Songhai,-1.5400816467500975,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,0,Arabia,-5.564907971282968,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,1,The Zulus,-3.4591529412073663,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,2,China,-4.370508855102163,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,3,Brazil,-3.3518937581080315,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,4,Polynesia,-1.9420240783943572,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,5,Denmark,-2.698673719284159,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,6,Austria,-1.9798258329386471,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,1,7,Ethiopia,-1.3374067094863031,6,0.3333333333333333,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,0,The Netherlands,-1.579652334969042,6,0.5,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,1,The Ottomans,-1.120620598305283,6,0.3333333333333333,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,2,France,-5.506420680343903,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,3,Spain,-5.609989166966199,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,4,The Aztecs,-4.992354082281216,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,5,Brazil,-3.2651886219010557,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,6,Arabia,-4.243148205255149,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,2,7,Poland,-1.418974671650021,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,0,France,-5.071689773553719,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,1,The Zulus,-3.0489090448213134,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,2,China,-0.1507167673927188,6,0.8333333333333334,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,3,Egypt,-3.849356179825715,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,4,Mongolia,-5.644388304415187,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,5,Austria,-2.0483307968954736,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,6,Morocco,-4.731049699635488,6,0.0,8,3,True,True
-glm-5.2-standard-fixed,implicit,3,7,Songhai,-2.5212970583925465,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,0,Arabia,-3.7549455977422537,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,1,The Zulus,-2.567132419863493,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,2,China,-4.4084045280038415,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,3,Brazil,-2.736838027973507,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,4,Polynesia,-2.252381167538989,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,5,Denmark,-3.318752766327552,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,6,Austria,-2.79387739811723,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.6590707909593447,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.0927287442842628,6,0.5,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.1201215483824,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,2,France,-4.183734123498806,6,0.1666666666666666,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,3,Spain,-4.874131287563299,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.216768187934867,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,5,Brazil,-2.1053337822325697,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,6,Arabia,-3.905101595819012,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,2,7,Poland,-0.9066053508168824,6,0.5,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,0,France,-4.496888334336289,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,1,The Zulus,-3.050806857791726,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,2,China,0.2879195799046044,6,0.8333333333333334,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,3,Egypt,-4.008065671550713,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,4,Mongolia,-5.893328300348689,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,5,Austria,-1.8151630256645,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,6,Morocco,-3.824995959884901,6,0.0,8,3,True,True
-glm-5.2-standard-fixed-per-5,implicit,3,7,Songhai,-2.52609375706531,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,0,Arabia,-5.8054882065422575,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,1,The Zulus,-2.627257145653445,6,0.3333333333333333,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,2,China,-4.325229988373928,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,3,Brazil,-2.794454310660278,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,4,Polynesia,-1.581593809366195,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,5,Denmark,-2.7434894802551586,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,6,Austria,-1.6911159314830682,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,1,7,Ethiopia,-1.1861833987031145,6,0.3333333333333333,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,0,The Netherlands,-1.7407711160286994,5,0.2,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,1,The Ottomans,-0.5993923594646567,6,0.5,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,2,France,-5.656353797357906,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,3,Spain,-5.4412492468767,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,4,The Aztecs,-4.520318619203565,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,5,Brazil,-3.464936207001809,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,6,Arabia,-4.646428410638407,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,2,7,Poland,-1.312117924902801,7,0.1428571428571428,8,2,True,True
-glm-5.3-flash-standard-fixed,implicit,3,0,France,-4.734721731957417,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,1,The Zulus,-2.108039501289903,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,2,China,-0.2843093003538027,6,0.6666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,3,Egypt,-3.34101424586405,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,4,Mongolia,-5.364651810306543,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,5,Austria,-1.925307907848432,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,6,Morocco,-3.195601466718207,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed,implicit,3,7,Songhai,-2.0741812723654216,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,0,Arabia,-5.52998385325072,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-3.101600432790868,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,2,China,-3.7038687364845697,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,3,Brazil,-3.33713066329765,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.936520644209286,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.32954341061722,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,6,Austria,-1.1743871424264445,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-0.7740756623239934,6,0.5,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.8748315195053066,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.7307211316202045,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,2,France,-5.036492787447656,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.715825178460187,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.266623083059476,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,5,Brazil,-2.1639781123351187,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.4831448051854834,6,0.1666666666666666,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,2,7,Poland,-1.6138165627479355,6,0.3333333333333333,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,0,France,-5.094019938675081,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-3.208038147537977,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,2,China,0.9453035793014056,6,1.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,3,Egypt,-4.664829005497928,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-6.077103208933487,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,5,Austria,-1.9149841922531496,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,6,Morocco,-4.004037429644728,6,0.0,8,3,True,True
-glm-5.3-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.291541317280194,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,0,Arabia,-5.791103640143813,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,1,The Zulus,-4.147609013872043,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,2,China,-3.8533330833941264,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,3,Brazil,-3.3661574082030428,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.3856107811272569,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,5,Denmark,-3.0762923210584217,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,6,Austria,-2.078121951906021,6,0.3333333333333333,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.5751184544879255,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.1879864602279286,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.010776569810161,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,2,France,-6.106884820784356,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,3,Spain,-5.723506414807823,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.06742970255514,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,5,Brazil,-3.0835419219029645,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,6,Arabia,-5.285273724608891,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,2,7,Poland,-1.3729718519736105,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,0,France,-4.523054438946971,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,1,The Zulus,-2.1834292678625853,6,0.3333333333333333,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,2,China,-0.4911297446738527,6,0.6666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,3,Egypt,-2.964512525414719,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,4,Mongolia,-5.489475972504778,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,5,Austria,-2.449629333132149,6,0.1666666666666666,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,6,Morocco,-4.353886091065366,6,0.0,8,3,True,True
-glm-5.3-standard-fixed-per-5,implicit,3,7,Songhai,-2.6223822938362624,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,0,Arabia,-4.301656042236238,5,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,1,The Zulus,-3.92863082403958,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,2,China,-4.938462881142796,5,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,3,Brazil,-3.124252942863617,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,4,Polynesia,0.0686071703307991,7,0.4285714285714285,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,5,Denmark,-3.979654019704351,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,6,Austria,-2.1135426420186034,7,0.2857142857142857,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.945140371201864,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.3815501751263626,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.3239680195199148,6,0.5,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,2,France,-5.958743769608994,6,0.0,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,3,Spain,-4.398603543401952,5,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.645709427545416,6,0.0,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,5,Brazil,-3.5390026164651167,7,0.0,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,6,Arabia,-2.767075654606566,6,0.3333333333333333,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,2,7,Poland,-2.175063141051268,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,0,France,-5.326666977191175,6,0.0,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,1,The Zulus,-2.8131349981644203,6,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,2,China,-0.7256787138890618,7,0.5714285714285714,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,3,Egypt,-3.251588025975226,5,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,4,Mongolia,-6.035033157046784,5,0.0,8,3,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,5,Austria,-2.195322191161629,7,0.0,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,6,Morocco,-3.3578079928986497,7,0.1428571428571428,8,2,True,True
-gpt-6-astra-standard-fixed-per-5,implicit,3,7,Songhai,-2.890233930667708,5,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,0,Arabia,-4.320324774500725,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,1,The Zulus,-3.25153351635128,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,2,China,-4.452567078911491,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,3,Brazil,-4.205516628241681,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,4,Polynesia,-0.2654545777225578,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,5,Denmark,-3.4510690942795144,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,6,Austria,-1.1190343507294829,6,0.5,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,1,7,Ethiopia,-0.7034343857376131,6,0.5,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,0,The Netherlands,-2.341946418351633,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,1,The Ottomans,0.5667650030726906,6,0.5,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,2,France,-5.477448882287319,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,3,Spain,-3.84544977296688,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,4,The Aztecs,-5.933040399932779,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,5,Brazil,-3.728798696835387,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,6,Arabia,-3.3057076973934296,6,0.3333333333333333,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,2,7,Poland,-2.2224108149073065,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,0,France,-4.918661300357435,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,1,The Zulus,-2.413853593700538,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,2,China,0.2792057793501155,6,0.8333333333333334,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,3,Egypt,-4.603907395141071,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,4,Mongolia,-5.717528061972104,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,5,Austria,-2.444665061698517,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,6,Morocco,-3.743717905205895,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed,implicit,3,7,Songhai,-2.818030130808744,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,0,Arabia,-4.428828730790792,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,1,The Zulus,-3.620942982404897,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,2,China,-4.7930463078966286,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,3,Brazil,-2.3769036915520574,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,4,Polynesia,-1.234263326818042,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,5,Denmark,-3.4219598608818256,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,6,Austria,-1.3227119827896612,6,0.5,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3553130019285848,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.2598806573265869,6,0.6666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.259838156255907,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,2,France,-5.268960452307506,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,3,Spain,-5.398074438703393,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.667308467971281,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,5,Brazil,-3.399711271504188,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,6,Arabia,-3.337748387688084,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,2,7,Poland,-1.5272904184958314,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,0,France,-4.056204890762365,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,1,The Zulus,-1.8381608243560243,6,0.1666666666666666,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,2,China,-1.4294647910079614,6,0.5,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,3,Egypt,-2.8107147278099087,6,0.3333333333333333,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,4,Mongolia,-4.958104355710255,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,5,Austria,-1.9398565827069885,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,6,Morocco,-3.131354689145546,6,0.0,8,3,True,True
-gpt-6-luna-standard-fixed-per-5,implicit,3,7,Songhai,-1.9547256511500213,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,0,Arabia,-3.827278866524388,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,1,The Zulus,-3.381763376782076,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,2,China,-4.850425351647828,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,3,Brazil,-3.188676186961349,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,4,Polynesia,-0.5966069102867546,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,5,Denmark,-4.269501698106672,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,6,Austria,-1.8130049048264776,6,0.5,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,1,7,Ethiopia,-1.1837148328653304,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,0,The Netherlands,-3.523987959148997,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,1,The Ottomans,-0.619929816510421,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,2,France,-5.738514575436902,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,3,Spain,-3.947725367451801,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,4,The Aztecs,-5.317894106136663,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,5,Brazil,-3.619885522358525,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,6,Arabia,-4.711001717086488,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,2,7,Poland,-1.3128562347726398,6,0.5,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,0,France,-4.70985185868354,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,1,The Zulus,-2.6450722094244843,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,2,China,0.0016955917220214,6,0.8333333333333334,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,3,Egypt,-3.5072049285596893,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,4,Mongolia,-5.750196818030659,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,5,Austria,-3.1989800640317205,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,6,Morocco,-3.257812314231348,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed,implicit,3,7,Songhai,-2.232882667659814,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,0,Arabia,-4.158961659504624,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,1,The Zulus,-3.0881875973789565,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,2,China,-4.953226488043722,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,3,Brazil,-3.254348102531676,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,4,Polynesia,-0.8213485353236183,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,5,Denmark,-4.415825346052227,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,6,Austria,-2.2380015717228137,6,0.5,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.7466487763081318,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.0546606162057084,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.1902691645774704,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,2,France,-6.218777336437728,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,3,Spain,-3.5315348435392564,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.816415006431863,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,5,Brazil,-3.93274426709536,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,6,Arabia,-4.033782159716808,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,2,7,Poland,-2.06843149599622,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,0,France,-4.55081205478995,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,1,The Zulus,-2.404517710328395,6,0.1666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,2,China,-0.0915483992915752,6,0.6666666666666666,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,3,Egypt,-3.525206254971053,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,4,Mongolia,-5.582170448783785,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,5,Austria,-3.492847130770875,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,6,Morocco,-3.670684297851107,6,0.0,8,3,True,True
-gpt-6.1-sol-standard-fixed-per-5,implicit,3,7,Songhai,-3.469766646636,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,0,Arabia,-4.443515517294082,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,1,The Zulus,-2.9097067239817034,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,2,China,-4.774668769424888,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,3,Brazil,-2.8092388048739743,6,0.1666666666666666,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,4,Polynesia,0.1356194533616581,6,0.5,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,5,Denmark,-4.705535797790847,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,6,Austria,-0.6800770011282408,6,0.3333333333333333,8,3,True,True
-jev-1.13-standard-fixed,implicit,1,7,Ethiopia,-1.5416836267189524,6,0.3333333333333333,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,0,The Netherlands,-2.7811714875801257,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,1,The Ottomans,0.6159844425299545,6,0.6666666666666666,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,2,France,-6.329043773080922,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,3,Spain,-2.9527392432767527,6,0.1666666666666666,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,4,The Aztecs,-5.279257192179634,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,5,Brazil,-4.258861361901488,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,6,Arabia,-2.901404214478779,6,0.3333333333333333,8,3,True,True
-jev-1.13-standard-fixed,implicit,2,7,Poland,-1.484219541033896,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,0,France,-4.813224876834351,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,1,The Zulus,-1.5735562945498185,6,0.3333333333333333,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,2,China,-0.4570467064433121,6,0.5,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,3,Egypt,-3.441585951438672,6,0.1666666666666666,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,4,Mongolia,-5.508458496505984,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,5,Austria,-2.841197990190324,6,0.0,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,6,Morocco,-2.2624211047599108,6,0.1666666666666666,8,3,True,True
-jev-1.13-standard-fixed,implicit,3,7,Songhai,-1.927042317979312,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,0,Arabia,-5.4293768397040845,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,1,The Zulus,-4.457341855608511,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,2,China,-4.246989625831426,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,3,Brazil,-3.007489357361348,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,4,Polynesia,-0.4672751470427911,6,0.5,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,5,Denmark,-3.495362017959366,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,6,Austria,-2.3328670727167635,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,1,7,Ethiopia,-1.9224078556496655,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,0,The Netherlands,-0.8490055398872904,6,0.3333333333333333,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,1,The Ottomans,-1.0182096571951862,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,2,France,-5.69175256256981,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,3,Spain,-5.468851939870972,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,4,The Aztecs,-5.250322223153542,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,5,Brazil,-2.3185552641748526,6,0.3333333333333333,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,6,Arabia,-4.199791784148671,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,2,7,Poland,-1.4872910951528049,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,0,France,-4.327362233790176,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,1,The Zulus,-2.456739906878516,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,2,China,-0.0880609424212591,6,0.6666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,3,Egypt,-3.898984428539823,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,4,Mongolia,-5.0091571803979145,6,0.0,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,5,Austria,-1.8251909944055875,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,6,Morocco,-3.02765508300918,6,0.1666666666666666,8,3,True,True
-kimi-k2.6-standard-fixed,implicit,3,7,Songhai,-2.408236247978273,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,0,Arabia,-5.402673794298221,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,1,The Zulus,-3.5257583270278907,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,2,China,-4.087999882204692,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,3,Brazil,-3.3638168468697685,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,4,Polynesia,-1.420477693218465,6,0.5,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,5,Denmark,-2.0223459453664687,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,6,Austria,-1.0448345307636588,6,0.5,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,1,7,Ethiopia,-1.267967040851605,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,0,The Netherlands,-1.5844287582851486,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,1,The Ottomans,-0.5923840950838476,6,0.5,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,2,France,-5.938641078792202,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,3,Spain,-5.3982528951689766,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,4,The Aztecs,-4.012874193751954,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,5,Brazil,-3.4309854463948617,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,6,Arabia,-4.798794299157914,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,2,7,Poland,-1.596097687946996,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,0,France,-3.910982537752981,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,1,The Zulus,-2.7785583049512748,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,2,China,-1.2846996042369796,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,3,Egypt,-4.080436067586034,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,4,Mongolia,-5.590251732380978,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,5,Austria,-2.8270124321694663,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,6,Morocco,-3.198435057497308,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed,implicit,3,7,Songhai,-2.530643455528105,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,0,Arabia,-5.651356574659055,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,1,The Zulus,-2.546710822646007,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,2,China,-3.9076425813060105,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,3,Brazil,-3.7627257369318943,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,4,Polynesia,-1.3929846818654312,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,5,Denmark,-2.735248527245931,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,6,Austria,-1.357896933114188,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.2838020125152592,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.594864141239424,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.4074310912202186,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,2,France,-5.434640607296735,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,3,Spain,-5.438596655582695,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.113504320916541,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,5,Brazil,-2.7848646687085794,6,0.3333333333333333,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,6,Arabia,-4.446575033375999,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,2,7,Poland,-1.67217587098993,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,0,France,-4.962137574217206,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,1,The Zulus,-2.7106966308947715,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,2,China,0.2649973407525861,6,0.8333333333333334,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,3,Egypt,-4.309061202025954,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,4,Mongolia,-5.674183256384922,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,5,Austria,-2.4511507703988493,6,0.0,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,6,Morocco,-2.6744433257955404,6,0.1666666666666666,8,3,True,True
-kimi-k2.7-standard-fixed-per-5,implicit,3,7,Songhai,-2.34950201825658,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,0,Arabia,-5.770255817125978,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,1,The Zulus,-3.370498780412321,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,2,China,-4.12789059691552,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,3,Brazil,-2.4113424795353318,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,4,Polynesia,-1.2150069463578872,6,0.3333333333333333,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,5,Denmark,-3.653278513191333,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,6,Austria,-2.16777653660958,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,1,7,Ethiopia,-1.178598941451771,6,0.5,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,0,The Netherlands,-1.3484958301499013,6,0.3333333333333333,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,1,The Ottomans,-2.5078137510457528,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,2,France,-3.3735031367416943,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,3,Spain,-5.309642213065624,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,4,The Aztecs,-5.459465412448324,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,5,Brazil,-2.4695786050743784,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,6,Arabia,-3.525433865756657,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,2,7,Poland,-1.768719681071948,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,0,France,-4.534019189054841,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,1,The Zulus,-1.246707036647628,6,0.5,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,2,China,0.0010401500538565,6,0.5,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,3,Egypt,-3.309971611823576,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,4,Mongolia,-5.080257603350765,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,5,Austria,-3.1970111408617394,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,6,Morocco,-3.99206847990507,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed,implicit,3,7,Songhai,-2.9885358928646166,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,0,Arabia,-5.474823659328369,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,1,The Zulus,-3.2444447646959005,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,2,China,-4.292547689224198,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,3,Brazil,-2.6785474437129984,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,4,Polynesia,-1.5648497499042484,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,5,Denmark,-2.7560687291316026,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,6,Austria,-1.4767883972503355,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.074886634790265,6,0.3333333333333333,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.7971101197661156,6,0.5,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.9533981108703712,6,0.3333333333333333,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,2,France,-5.412188715168047,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,3,Spain,-5.912240134682018,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.7488604062273545,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,5,Brazil,-4.667070921929874,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,6,Arabia,-3.689037380830083,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,2,7,Poland,-0.9043989480106336,6,0.3333333333333333,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,0,France,-4.421284123730043,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,1,The Zulus,-2.021461049747923,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,2,China,0.0497555321029181,6,0.8333333333333334,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,3,Egypt,-3.46717353043074,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,4,Mongolia,-4.860701362581843,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,5,Austria,-2.606553238835016,6,0.0,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,6,Morocco,-2.6716621947434174,6,0.1666666666666666,8,3,True,True
-minimax-m2.7-standard-fixed-per-5,implicit,3,7,Songhai,-2.769908335395968,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,0,Arabia,-5.357638675026814,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,1,The Zulus,-3.921166196867372,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,2,China,-4.218277905134529,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,3,Brazil,-2.619872654459333,6,0.1666666666666666,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.416784201526051,6,0.1666666666666666,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,5,Denmark,-2.496977827915724,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,6,Austria,-1.0961114654187052,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.311227420550759,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.865940621120466,6,0.5,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.0271246831864624,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,2,France,-5.672200417568805,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,3,Spain,-5.565324269305363,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.018502804257474,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,5,Brazil,-2.8682062705453486,6,0.1666666666666666,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,6,Arabia,-3.494887838746689,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,2,7,Poland,-0.7440095898464603,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,0,France,-4.654797256445229,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,1,The Zulus,-1.7434572452839727,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,2,China,0.0090076361473686,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,3,Egypt,-4.387256355325427,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,4,Mongolia,-5.3650619361813305,6,0.0,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,5,Austria,-2.051853008623528,6,0.1666666666666666,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,6,Morocco,-2.273622824638289,6,0.3333333333333333,8,3,True,True
-minimax-m3-standard-fixed-per-5,implicit,3,7,Songhai,-2.3029348571482324,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,0,Arabia,-5.139599401576943,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,1,The Zulus,-2.7839754037979016,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,2,China,-4.284602880221098,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,3,Brazil,-2.9969978476168624,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,4,Polynesia,-0.9183297456074978,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,5,Denmark,-3.0003512992236803,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,6,Austria,-1.8229643113400544,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed,implicit,1,7,Ethiopia,-0.9013700949137664,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,0,The Netherlands,-0.6831151822422181,6,0.5,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,1,The Ottomans,-0.5087278311379211,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,2,France,-5.019833307069608,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,3,Spain,-4.641864720542965,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,4,The Aztecs,-4.531543363199286,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,5,Brazil,-3.249588194495064,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,6,Arabia,-4.952015680571923,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,2,7,Poland,-1.612671083315243,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,0,France,-4.336988980444128,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,1,The Zulus,-2.4602078601023347,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,2,China,0.7378554782574461,6,1.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,3,Egypt,-4.303936354740011,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,4,Mongolia,-5.594219874399194,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,5,Austria,-1.924306439014376,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,6,Morocco,-3.3912195563843546,6,0.0,8,3,True,True
-nemotron-3-standard-fixed,implicit,3,7,Songhai,-2.1040846139056,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,0,Arabia,-4.509624092142168,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,1,The Zulus,-2.1598219605611373,6,0.5,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,2,China,-3.945480084728812,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,3,Brazil,-2.6849409411678007,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.2464986097817432,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,5,Denmark,-4.664537882697447,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,6,Austria,-2.203241729314989,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.3380736718203474,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.977538800778679,6,0.5,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.8354609862534756,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,2,France,-2.219864301608286,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,3,Spain,-4.913111650120432,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.163372059834438,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,5,Brazil,-2.585574915004938,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,6,Arabia,-4.267037073319817,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,2,7,Poland,-3.2419606661099,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,0,France,-3.5860383052438625,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,1,The Zulus,-1.5229708759927476,6,0.1666666666666666,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,2,China,-1.696281716673291,6,0.5,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,3,Egypt,-1.060974091545047,6,0.3333333333333333,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,4,Mongolia,-4.090184379471924,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,5,Austria,-1.716841378669308,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,6,Morocco,-4.02366942651209,6,0.0,8,3,True,True
-nemotron-3-standard-fixed-per-5,implicit,3,7,Songhai,-2.620036377688348,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,1,0,Arabia,-5.795795644623493,6,0.0,8,3,True,True
-null-standard-fixed,implicit,1,1,The Zulus,-2.5049439970702454,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,1,2,China,-4.089406406859454,6,0.0,8,3,True,True
-null-standard-fixed,implicit,1,3,Brazil,-3.256498493642155,6,0.0,8,3,True,True
-null-standard-fixed,implicit,1,4,Polynesia,-1.274311423877767,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,1,5,Denmark,-2.1953725293796,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,1,6,Austria,-1.1792917254003432,6,0.3333333333333333,8,3,True,True
-null-standard-fixed,implicit,1,7,Ethiopia,-0.9389882858152712,6,0.5,8,3,True,True
-null-standard-fixed,implicit,2,0,The Netherlands,-0.5458001374467266,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,2,1,The Ottomans,-0.6908748247540856,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,2,2,France,-5.418140096973521,6,0.0,8,3,True,True
-null-standard-fixed,implicit,2,3,Spain,-5.428695524743312,6,0.0,8,3,True,True
-null-standard-fixed,implicit,2,4,The Aztecs,-4.575445513324024,6,0.0,8,3,True,True
-null-standard-fixed,implicit,2,5,Brazil,-2.1750460747656355,6,0.3333333333333333,8,3,True,True
-null-standard-fixed,implicit,2,6,Arabia,-3.250174318389887,6,0.3333333333333333,8,3,True,True
-null-standard-fixed,implicit,2,7,Poland,-1.042854592990618,6,0.3333333333333333,8,3,True,True
-null-standard-fixed,implicit,3,0,France,-4.278797629600875,6,0.0,8,3,True,True
-null-standard-fixed,implicit,3,1,The Zulus,-2.618086608578895,6,0.0,8,3,True,True
-null-standard-fixed,implicit,3,2,China,0.1636945225401883,6,0.8333333333333334,8,3,True,True
-null-standard-fixed,implicit,3,3,Egypt,-3.800004968061908,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,3,4,Mongolia,-4.876268535372904,6,0.0,8,3,True,True
-null-standard-fixed,implicit,3,5,Austria,-1.6566741478366085,6,0.1666666666666666,8,3,True,True
-null-standard-fixed,implicit,3,6,Morocco,-4.2070396249155655,6,0.0,8,3,True,True
-null-standard-fixed,implicit,3,7,Songhai,-1.8934574664921997,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed,implicit,1,0,Arabia,-4.444728727259184,7,0.1428571428571428,8,2,True,True
-oss-120b-standard-fixed,implicit,1,1,The Zulus,-4.023822859320146,6,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,1,2,China,-4.034643339544645,7,0.0,8,2,True,True
-oss-120b-standard-fixed,implicit,1,3,Brazil,-2.1971233967957544,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed,implicit,1,4,Polynesia,-0.9892593653613528,5,0.4,8,3,True,True
-oss-120b-standard-fixed,implicit,1,5,Denmark,-2.9847379569229973,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed,implicit,1,6,Austria,-2.655685097720429,5,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,1,7,Ethiopia,-1.3531143722703414,6,0.5,8,3,True,True
-oss-120b-standard-fixed,implicit,2,0,The Netherlands,-0.3366108874074227,6,0.3333333333333333,8,3,True,True
-oss-120b-standard-fixed,implicit,2,1,The Ottomans,-1.5471679502729456,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed,implicit,2,2,France,-3.798759228338856,6,0.3333333333333333,8,2,True,True
-oss-120b-standard-fixed,implicit,2,3,Spain,-5.34204343135879,7,0.0,8,2,True,True
-oss-120b-standard-fixed,implicit,2,4,The Aztecs,-5.417740086844031,6,0.0,8,2,True,True
-oss-120b-standard-fixed,implicit,2,5,Brazil,-4.199287216688866,5,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,2,6,Arabia,-2.7784819317662888,6,0.3333333333333333,8,3,True,True
-oss-120b-standard-fixed,implicit,2,7,Poland,-2.792557986342388,6,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,3,0,France,-4.538870681128569,7,0.0,8,2,True,True
-oss-120b-standard-fixed,implicit,3,1,The Zulus,-2.193430199933733,6,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,3,2,China,-0.3325920430285903,5,0.8,8,3,True,True
-oss-120b-standard-fixed,implicit,3,3,Egypt,-3.292471938873169,7,0.1428571428571428,8,2,True,True
-oss-120b-standard-fixed,implicit,3,4,Mongolia,-5.781087112282523,7,0.0,8,2,True,True
-oss-120b-standard-fixed,implicit,3,5,Austria,-3.010307127353356,5,0.0,8,3,True,True
-oss-120b-standard-fixed,implicit,3,6,Morocco,-1.628386792448516,5,0.4,8,3,True,True
-oss-120b-standard-fixed,implicit,3,7,Songhai,-1.5169295542523864,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,0,Arabia,-5.596994465756654,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,1,The Zulus,-2.5334498244917563,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,2,China,-3.64989622742646,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,3,Brazil,-1.7093125252900947,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,4,Polynesia,-0.5809126141248412,6,0.5,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,5,Denmark,-2.840365162770254,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,6,Austria,-2.445297733330556,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.8348778258697864,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.5441916659518536,6,0.3333333333333333,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.769575090080708,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,2,France,-4.371492747871385,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,3,Spain,-5.4513413525037215,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,4,The Aztecs,-3.9067821267643263,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,5,Brazil,-2.602839542548185,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,6,Arabia,-3.834726917915511,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,2,7,Poland,-0.9708233849193754,6,0.5,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,0,France,-4.643317856028525,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,1,The Zulus,-2.9597534690973304,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,2,China,0.0652539500195761,6,0.6666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,3,Egypt,-2.1777226140069685,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,4,Mongolia,-6.032182184642932,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,5,Austria,-2.278183274843032,6,0.0,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,6,Morocco,-3.680686980251268,6,0.1666666666666666,8,3,True,True
-oss-120b-standard-fixed-per-5,implicit,3,7,Songhai,-2.2552777459130886,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,0,Arabia,-5.329391847359218,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,1,The Zulus,-4.2033007472718085,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,2,China,-4.228395292168951,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,3,Brazil,-2.1001174180762576,6,0.5,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,4,Polynesia,-1.2843380218716762,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,5,Denmark,-2.651474070583298,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,6,Austria,-1.6711607351463933,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed,implicit,1,7,Ethiopia,-1.4708879234295111,6,0.1666666666666666,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,0,The Netherlands,-1.2675601500544993,6,0.1666666666666666,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,1,The Ottomans,-1.0943295625303664,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,2,France,-4.767970918331895,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,3,Spain,-5.405930731010539,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,4,The Aztecs,-4.731416119418274,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,5,Brazil,-2.1799777871983856,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,6,Arabia,-3.954240239707637,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,2,7,Poland,-1.438687239006527,6,0.5,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,0,France,-4.19100397878,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,1,The Zulus,-1.3588471316695323,6,0.1666666666666666,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,2,China,-1.2809853764007408,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,3,Egypt,-2.7694405644878035,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,4,Mongolia,-4.869844327661153,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,5,Austria,-2.236611118327669,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,6,Morocco,-2.064270757497501,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed,implicit,3,7,Songhai,-1.6963851190750618,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,0,Arabia,-5.768254212993938,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,1,The Zulus,-3.317049620956807,6,0.1666666666666666,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,2,China,-4.762248856616796,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.5225417021506766,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,4,Polynesia,-1.442270893737243,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,5,Denmark,-1.3094100491352902,6,0.1666666666666666,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,6,Austria,-1.233418147435413,6,0.5,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3532669741547143,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.8624914127147095,6,0.6666666666666666,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.7435788238061392,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,2,France,-4.943706037977644,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,3,Spain,-5.846816680580797,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.558138012035013,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,5,Brazil,-3.152447717860238,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.344847652058275,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,2,7,Poland,-0.119297116127477,6,0.6666666666666666,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,0,France,-4.531073903938406,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,1,The Zulus,-1.6421457710326404,6,0.3333333333333333,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,2,China,-0.586575435345617,5,0.6,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,3,Egypt,-3.639763453309066,5,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.272019460907869,7,0.0,8,2,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,5,Austria,-2.627506318598777,7,0.0,8,2,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.747537522454977,6,0.0,8,3,True,True
-qwen-3.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.518499569579246,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,0,Arabia,-5.062838453226332,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,1,The Zulus,-2.926783417098728,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,2,China,-4.649755391283637,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,3,Brazil,-2.909597303597242,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,4,Polynesia,-1.351704734909694,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,5,Denmark,-2.542843755693244,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,6,Austria,-1.6283386052206257,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,1,7,Ethiopia,-1.2480396527746758,6,0.5,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,0,The Netherlands,-0.6295973979527484,6,0.5,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,1,The Ottomans,-0.9964487004607258,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,2,France,-4.39961272027751,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,3,Spain,-5.761052498930398,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,4,The Aztecs,-5.126533579119397,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,5,Brazil,-1.7610474090126444,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,6,Arabia,-3.506036625997689,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,2,7,Poland,-1.5675822526895449,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,0,France,-3.8820846646779863,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,1,The Zulus,-1.8757010908711689,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,2,China,-0.6881964352471274,6,0.6666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,3,Egypt,-2.668836214907284,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,4,Mongolia,-5.880627437517286,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,5,Austria,-1.605835062436464,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,6,Morocco,-3.86804652249369,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed,implicit,3,7,Songhai,-1.827213045040229,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,0,Arabia,-4.259730810711239,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,1,The Zulus,-3.0680776227017863,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,2,China,-3.715668356128761,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,3,Brazil,-2.4287738239582546,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,4,Polynesia,-0.8317837293116761,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,5,Denmark,-2.5320168800469385,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,6,Austria,-1.553122003072556,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.4963008885834184,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.6851564024419533,6,0.6666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.3158433469355362,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,2,France,-3.665092969773097,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,3,Spain,-5.519062695919087,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,4,The Aztecs,-3.509322940339169,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,5,Brazil,-3.939323085081104,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,6,Arabia,-4.250403820944449,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,2,7,Poland,-1.2751776556501049,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,0,France,-4.474642479928607,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,1,The Zulus,-1.9627094590704823,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,2,China,-0.6532160623455353,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,3,Egypt,-3.091374602247484,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,4,Mongolia,-5.634578240516806,6,0.0,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,5,Austria,-1.3432039518368264,6,0.3333333333333333,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,6,Morocco,-2.17795657503506,6,0.1666666666666666,8,3,True,True
-qwen-3.6-27b-standard-fixed-per-5,implicit,3,7,Songhai,-1.6964922243265572,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,0,Arabia,-5.44457571504362,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,1,The Zulus,-3.3310191517056893,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,2,China,-4.510454069696084,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,3,Brazil,-2.338022268938814,6,0.5,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,4,Polynesia,-1.370370408771074,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,5,Denmark,-3.2506793202203053,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,6,Austria,-3.04810364231358,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,1,7,Ethiopia,-0.9629579099145884,6,0.5,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,0,The Netherlands,-0.4573754599365465,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,1,The Ottomans,-2.7575747788635057,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,2,France,-1.7901239923867245,6,0.6666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,3,Spain,-5.592859634556603,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,4,The Aztecs,-4.94205837515871,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,5,Brazil,-2.4827914087026315,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,6,Arabia,-4.295076661749663,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,2,7,Poland,-1.948998396035168,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,0,France,-3.733403027748721,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,1,The Zulus,-2.093626012523182,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,2,China,-0.8871298529644432,6,0.5,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,3,Egypt,-2.51435335438694,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,4,Mongolia,-4.789527104063094,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,5,Austria,-3.425900027669648,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,6,Morocco,-3.1802908984013496,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed,implicit,3,7,Songhai,-1.7969019756096287,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,0,Arabia,-3.8289802945638782,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,1,The Zulus,-3.3291072790725385,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,2,China,-4.763839192102076,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,3,Brazil,-2.243676439154775,6,0.5,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,4,Polynesia,-1.301542847832682,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,5,Denmark,-3.935634733564592,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,6,Austria,-2.437988716814281,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.0721051744716692,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.436595432761248,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.8985529130849248,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,2,France,-2.318416255801256,6,0.5,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,3,Spain,-5.320380482301458,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.907193043984679,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,5,Brazil,-2.178261499803298,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,6,Arabia,-4.100645926068234,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,2,7,Poland,-2.086361628645101,6,0.3333333333333333,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,0,France,-3.993687275953698,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,1,The Zulus,-0.4316175059726042,6,0.6666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,2,China,-2.441476009222215,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,3,Egypt,-3.217916035517322,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,4,Mongolia,-4.322043253272474,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,5,Austria,-2.7354663338233585,6,0.0,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,6,Morocco,-2.872754970327968,6,0.1666666666666666,8,3,True,True
-qwen-3.8-27b-standard-fixed-per-5,implicit,3,7,Songhai,-3.224569655800132,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,0,Arabia,-3.15359722974424,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,1,The Zulus,-3.346090112240482,6,0.3333333333333333,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,2,China,-4.742177267227188,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,3,Brazil,-2.41101852179855,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,4,Polynesia,-0.6073131756688115,6,0.3333333333333333,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,5,Denmark,-6.065262194045178,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,6,Austria,-2.6282809631861874,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,1,7,Ethiopia,-2.947607355467874,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,0,The Netherlands,-3.316686636026319,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,1,The Ottomans,-0.2447969342962635,6,0.3333333333333333,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,2,France,-5.501205302909153,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,3,Spain,-3.531887424665735,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,4,The Aztecs,-4.461948209184257,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,5,Brazil,-3.410925220589975,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,6,Arabia,-3.1879903872531314,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,2,7,Poland,-0.7375086374770286,6,0.5,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,0,France,-4.458485825708194,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,1,The Zulus,-1.5146421488115618,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,2,China,0.2776445397172143,6,0.8333333333333334,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,3,Egypt,-3.637745704034135,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,4,Mongolia,-5.10400388989815,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,5,Austria,-2.1194302404292817,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,6,Morocco,-3.548259422334656,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed,implicit,3,7,Songhai,-3.008635797252039,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,0,Arabia,-5.329560037533359,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,1,The Zulus,-2.4798896737472744,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,2,China,-4.816285483142085,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,3,Brazil,-2.217268154144928,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1395960633654267,6,0.3333333333333333,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,5,Denmark,-3.571714855969706,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,6,Austria,-2.221779782902604,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3757962080000008,6,0.3333333333333333,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.6629085006866322,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.1295704011406826,6,0.6666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,2,France,-4.412767174300233,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,3,Spain,-2.657014285469677,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.343457200275627,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,5,Brazil,-2.354076976574692,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,6,Arabia,-3.550370211091566,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,7,Poland,-2.5715217774121277,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,0,France,-3.8461026416385713,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,1,The Zulus,-2.133421378081357,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,2,China,-1.0576547269154457,6,0.5,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,3,Egypt,-2.9700177336361304,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,4,Mongolia,-4.663052332808832,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,5,Austria,-2.2404244000934805,6,0.1666666666666666,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,6,Morocco,-4.141559330879485,6,0.0,8,3,True,True
-qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,7,Songhai,-4.323305442937438,6,0.0,8,3,True,True
-vanilla-standard-fixed,implicit,1,0,Arabia,-6.1261319441870095,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,1,1,The Zulus,-3.9244002563560856,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,1,2,China,-4.406919286836192,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,1,3,Brazil,-2.466479626848137,8,0.125,8,2,True,True
-vanilla-standard-fixed,implicit,1,4,Polynesia,-1.3837174214829902,8,0.25,8,2,True,True
-vanilla-standard-fixed,implicit,1,5,Denmark,-1.5676378762139476,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,1,6,Austria,-1.454336257982254,8,0.375,8,2,True,True
-vanilla-standard-fixed,implicit,1,7,Ethiopia,-0.911256280549278,8,0.25,8,2,True,True
-vanilla-standard-fixed,implicit,2,0,The Netherlands,0.5429741699292028,8,0.75,8,2,True,True
-vanilla-standard-fixed,implicit,2,1,The Ottomans,-2.3853471520187477,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,2,2,France,-5.761834355216212,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,2,3,Spain,-5.34006584218939,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,2,4,The Aztecs,-4.415445828350869,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,2,5,Brazil,-2.668564912897901,8,0.125,8,2,True,True
-vanilla-standard-fixed,implicit,2,6,Arabia,-5.239636425413269,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,2,7,Poland,-1.67923972147504,8,0.125,8,2,True,True
-vanilla-standard-fixed,implicit,3,0,France,-4.4992721525908586,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,1,The Zulus,-2.8029935883632198,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,2,China,-0.6335359888166492,8,0.75,8,2,True,True
-vanilla-standard-fixed,implicit,3,3,Egypt,-2.435351816275756,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,4,Mongolia,-6.181931283182204,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,5,Austria,-1.6303015724448573,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,6,Morocco,-3.1234255008560297,8,0.0,8,2,True,True
-vanilla-standard-fixed,implicit,3,7,Songhai,-1.6418299281573248,8,0.25,8,2,True,True
-vanilla-standard-fixed,explicit,1,0,Arabia,-6.1261319441870095,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,1,1,The Zulus,-3.9244002563560856,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,1,2,China,-4.406919286836192,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,1,3,Brazil,-2.466479626848137,8,0.125,8,2,True,True
-vanilla-standard-fixed,explicit,1,4,Polynesia,-1.3837174214829902,8,0.25,8,2,True,True
-vanilla-standard-fixed,explicit,1,5,Denmark,-1.5676378762139476,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,1,6,Austria,-1.454336257982254,8,0.375,8,2,True,True
-vanilla-standard-fixed,explicit,1,7,Ethiopia,-0.911256280549278,8,0.25,8,2,True,True
-vanilla-standard-fixed,explicit,2,0,The Netherlands,0.5429741699292028,8,0.75,8,2,True,True
-vanilla-standard-fixed,explicit,2,1,The Ottomans,-2.3853471520187477,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,2,2,France,-5.761834355216212,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,2,3,Spain,-5.34006584218939,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,2,4,The Aztecs,-4.415445828350869,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,2,5,Brazil,-2.668564912897901,8,0.125,8,2,True,True
-vanilla-standard-fixed,explicit,2,6,Arabia,-5.239636425413269,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,2,7,Poland,-1.67923972147504,8,0.125,8,2,True,True
-vanilla-standard-fixed,explicit,3,0,France,-4.4992721525908586,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,1,The Zulus,-2.8029935883632198,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,2,China,-0.6335359888166492,8,0.75,8,2,True,True
-vanilla-standard-fixed,explicit,3,3,Egypt,-2.435351816275756,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,4,Mongolia,-6.181931283182204,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,5,Austria,-1.6303015724448573,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,6,Morocco,-3.1234255008560297,8,0.0,8,2,True,True
-vanilla-standard-fixed,explicit,3,7,Songhai,-1.6418299281573248,8,0.25,8,2,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,0,Arabia,-5.88201260555048,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,1,The Zulus,-4.111158867489045,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,2,China,-4.872271779685239,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.5768605780863143,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1483380089229225,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-3.554951180375896,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,6,Austria,-2.658587830494753,6,0.1666666666666666,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.7574534520303229,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.315308796570593,6,0.3333333333333333,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.4478082259980492,6,0.1666666666666666,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,2,France,-5.275191786921003,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,3,Spain,-5.024650695618624,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.620772379872225,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-2.549843356855974,6,0.3333333333333333,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.421593826126386,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.2618699787662162,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,0,France,-4.833375899027606,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.574982851129637,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,2,China,0.4127647632566376,6,0.8333333333333334,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,3,Egypt,-4.142472256963592,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.496443139734391,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,5,Austria,-1.6603477034674932,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.105925889495612,6,0.0,8,3,True,True
+claude-opus-5.5-standard-fixed-per-5,implicit,3,7,Songhai,-3.593386378243778,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,0,Arabia,-4.21428409963617,6,0.1666666666666666,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,1,The Zulus,-3.336872733101568,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,2,China,-5.247556062880955,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.683173302756664,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,4,Polynesia,-0.1110510511964848,6,0.5,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,5,Denmark,-4.000916923154247,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,6,Austria,-1.0245962106365318,6,0.5,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.4906861659932618,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.164316698179757,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,1,The Ottomans,0.7369233900649258,6,0.5,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,2,France,-5.851982872979028,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,3,Spain,-4.07757072648635,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.299983328423696,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,5,Brazil,-4.044334805342607,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,6,Arabia,-3.884133914663874,6,0.1666666666666666,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,2,7,Poland,-1.27601409793387,6,0.1666666666666666,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,0,France,-5.074187856911951,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,1,The Zulus,-3.1043491489918176,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,2,China,0.0846055528096815,6,0.8333333333333334,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,3,Egypt,-4.736456404033972,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,4,Mongolia,-6.000599383866458,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,5,Austria,-2.199666135127161,6,0.1666666666666666,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.158205249618532,6,0.0,8,3,True,True
+claude-sonnet-5.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.81459639349671,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,0,Arabia,-5.637325215633314,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,1,The Zulus,-3.4312882384146146,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,2,China,-4.807352331821186,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,3,Brazil,-2.2816328055993758,6,0.3333333333333333,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,4,Polynesia,-1.2555275900052127,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,5,Denmark,-1.7924352497310163,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,6,Austria,-1.8302223960086004,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,1,7,Ethiopia,-1.5266813486007536,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,0,The Netherlands,-0.0953474322576102,6,0.6666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,1,The Ottomans,-1.2058428378362274,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,2,France,-5.069733117648459,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,3,Spain,-5.3982467228350925,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,4,The Aztecs,-3.997482342821579,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,5,Brazil,-2.494225876383058,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,6,Arabia,-3.597452021379753,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,2,7,Poland,-2.296909259379709,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,0,France,-4.213125052506981,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,1,The Zulus,-2.647618621126431,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,2,China,0.7017510214534742,6,1.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,3,Egypt,-3.770207067710088,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,4,Mongolia,-5.104098533050517,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,5,Austria,-2.4911267482633668,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,6,Morocco,-3.428181282040172,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed,implicit,3,7,Songhai,-2.6100075868650485,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,0,Arabia,-4.58362742148018,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-5.1019347366309695,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,2,China,-3.7962356015596384,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,3,Brazil,-2.482155829270192,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.3968593124401971,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.4995382153349808,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,6,Austria,-2.3769280708575105,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.108107668125112,6,0.3333333333333333,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.9036801399528728,6,0.3333333333333333,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.968473774918772,6,0.3333333333333333,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,2,France,-5.39756581399748,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.609964605097584,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.890569483626266,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,5,Brazil,-3.7100100751236376,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.3336270567766104,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,2,7,Poland,-0.7314599761343107,6,0.3333333333333333,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,0,France,-4.4384731823593855,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-2.791998053000766,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,2,China,0.8616434649108453,6,1.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,3,Egypt,-4.122548096555152,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-5.69589531768468,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,5,Austria,-1.8619550118737105,6,0.1666666666666666,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,6,Morocco,-3.666006228896341,6,0.0,8,3,True,True
+deepseek-v4-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.7047716549102616,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,0,Arabia,-4.569122734833965,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,1,The Zulus,-3.5077387573548635,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,2,China,-4.573391475365646,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,3,Brazil,-4.293038872267503,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,4,Polynesia,0.5092385229359023,6,0.6666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,5,Denmark,-4.178192610718987,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,6,Austria,-2.481673941909078,6,0.3333333333333333,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,1,7,Ethiopia,-2.0874428542905057,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,0,The Netherlands,-1.6089271742068725,6,0.3333333333333333,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,1,The Ottomans,-0.4946299915155617,6,0.3333333333333333,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,2,France,-5.6864416304176535,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,3,Spain,-3.3991541441602258,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,4,The Aztecs,-4.456686907477658,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,5,Brazil,-2.1905814860106325,6,0.3333333333333333,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,6,Arabia,-4.56783759134239,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,2,7,Poland,-2.322570048534974,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,0,France,-4.413425472500098,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,1,The Zulus,-1.6263016064956206,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,2,China,-2.0527360357730915,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,3,Egypt,-3.168840697943036,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,4,Mongolia,-4.477575428842949,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,5,Austria,-1.908253465692433,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,6,Morocco,-4.386206351476629,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed,implicit,3,7,Songhai,-2.923060036868835,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,0,Arabia,-4.881912116289754,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-3.455114923201233,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,2,China,-4.296362663243792,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,3,Brazil,-2.129353139932228,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.202818574011301,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.8679732023541646,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,6,Austria,-2.2168798561072447,6,0.3333333333333333,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.2751473081914946,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.501518856023874,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.264364860058979,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,2,France,-4.919266619371097,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.198373447380198,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.532303685779921,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,5,Brazil,-2.6134535667124,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.837680948734025,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,2,7,Poland,-2.0541142641255843,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,0,France,-3.996509247792529,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-2.1436968543048267,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,2,China,-2.944226941314217,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,3,Egypt,-3.124099506327163,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-4.9614676793312045,6,0.0,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,5,Austria,-0.6865789040037334,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,6,Morocco,-3.612570371731709,6,0.1666666666666666,8,3,True,True
+deepseek-v4.1-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.5240124545930143,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,0,Arabia,-5.785732171759064,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,1,The Zulus,-3.960334483176077,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,2,China,-4.568132684922479,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,3,Brazil,-3.725064505080189,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,4,Polynesia,-0.4104334747373832,6,0.5,8,3,True,True
+gemma-4-standard-fixed,implicit,1,5,Denmark,-2.387777171059609,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,1,6,Austria,-1.02040451413203,6,0.5,8,3,True,True
+gemma-4-standard-fixed,implicit,1,7,Ethiopia,-1.2688064267567172,6,0.3333333333333333,8,3,True,True
+gemma-4-standard-fixed,implicit,2,0,The Netherlands,-0.6783050471865572,6,0.5,8,3,True,True
+gemma-4-standard-fixed,implicit,2,1,The Ottomans,-0.3084819355254201,6,0.3333333333333333,8,3,True,True
+gemma-4-standard-fixed,implicit,2,2,France,-5.481580882607403,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,2,3,Spain,-5.305436268204068,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,2,4,The Aztecs,-4.420846149865638,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,2,5,Brazil,-2.7157744422458325,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,2,6,Arabia,-3.198004625955496,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,2,7,Poland,-2.0064973487945306,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,3,0,France,-4.504205263735209,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,3,1,The Zulus,-1.5344962838617748,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,3,2,China,-0.0452814354616941,6,0.6666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,3,3,Egypt,-3.58419869665986,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,3,4,Mongolia,-5.433275800624114,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,3,5,Austria,-3.028126106172061,6,0.0,8,3,True,True
+gemma-4-standard-fixed,implicit,3,6,Morocco,-3.1053803651358742,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed,implicit,3,7,Songhai,-1.365213177422066,6,0.3333333333333333,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,0,Arabia,-5.750280612017328,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,1,The Zulus,-3.406015115308044,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,2,China,-4.871020041388031,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,3,Brazil,-0.558871165945177,6,0.6666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,4,Polynesia,-1.9213782323255544,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,5,Denmark,-1.798918385250274,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,6,Austria,-1.6314900331008964,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.025934418186604,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.3065369037123998,6,0.6666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.6122851390500103,6,0.3333333333333333,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,2,France,-4.445216467870108,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,3,Spain,-5.333343151578244,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.600756707211488,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,5,Brazil,-4.135289856575485,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,6,Arabia,-3.556672993903005,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,2,7,Poland,-1.8164016550295023,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,0,France,-4.593314833199257,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,1,The Zulus,-2.4483317412882304,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,2,China,0.123925125030314,6,0.6666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,3,Egypt,-3.400894315037461,6,0.1666666666666666,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,4,Mongolia,-5.060587443860364,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,5,Austria,-3.2050246929681125,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,6,Morocco,-3.7346545412077137,6,0.0,8,3,True,True
+gemma-4-standard-fixed-per-5,implicit,3,7,Songhai,-2.090276830940489,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,0,Arabia,-6.038940684877897,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,1,The Zulus,-3.7161596887730375,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,2,China,-3.377478765133642,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,3,Brazil,-2.6334002158029026,6,0.3333333333333333,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,4,Polynesia,-2.209623765879233,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,5,Denmark,-2.5562304861384364,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,6,Austria,-2.477528473460064,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,1,7,Ethiopia,-1.047213296552168,6,0.3333333333333333,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,0,The Netherlands,-0.8456568956792537,6,0.3333333333333333,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,1,The Ottomans,-1.8934908195822584,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,2,France,-5.859821894259025,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,3,Spain,-5.9578105567893,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,4,The Aztecs,-4.872824789572939,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,5,Brazil,-3.580244843190913,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,6,Arabia,-3.9876599007615297,6,0.1666666666666666,8,3,True,True
+glm-5.1-standard-fixed,implicit,2,7,Poland,-1.3859430528051784,6,0.3333333333333333,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,0,France,-4.15978812406765,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,1,The Zulus,-2.2187605596276305,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,2,China,0.3371095209726429,6,0.8333333333333334,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,3,Egypt,-3.734503262191193,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,4,Mongolia,-5.966276973332768,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,5,Austria,-2.758481187789259,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,6,Morocco,-2.992294343474628,6,0.0,8,3,True,True
+glm-5.1-standard-fixed,implicit,3,7,Songhai,-1.5519878489057568,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,0,Arabia,-5.586464443378483,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,1,The Zulus,-3.464361675806343,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,2,China,-4.407443024012291,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,3,Brazil,-3.3721664119132337,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,4,Polynesia,-1.963610284872458,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,5,Denmark,-2.732595723449121,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,6,Austria,-1.9931659798501773,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,1,7,Ethiopia,-1.3195486108827057,6,0.3333333333333333,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,0,The Netherlands,-1.580743633865079,6,0.5,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,1,The Ottomans,-1.118632857905708,6,0.3333333333333333,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,2,France,-5.505557069828099,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,3,Spain,-5.609913824488494,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,4,The Aztecs,-4.998012409197769,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,5,Brazil,-3.2751249867613503,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,6,Arabia,-4.246723364527457,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,2,7,Poland,-1.4303359241812086,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,0,France,-5.068327502609365,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,1,The Zulus,-3.071056198041253,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,2,China,-0.1424487353597103,6,0.8333333333333334,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,3,Egypt,-3.851305260512504,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,4,Mongolia,-5.636773369366119,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,5,Austria,-2.034916972806259,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,6,Morocco,-4.751692186545767,6,0.0,8,3,True,True
+glm-5.2-standard-fixed,implicit,3,7,Songhai,-2.531643381924512,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,0,Arabia,-3.759375060257004,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,1,The Zulus,-2.589229274845886,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,2,China,-4.4173543780401685,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,3,Brazil,-2.7491626246905,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,4,Polynesia,-2.260489956435627,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,5,Denmark,-3.3251171122572654,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,6,Austria,-2.8061934186903383,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.6482805017452251,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.077440704497611,6,0.5,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.1311958977089667,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,2,France,-4.210235816177597,6,0.1666666666666666,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,3,Spain,-4.894729722812644,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.228760077159105,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,5,Brazil,-2.111134739116109,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,6,Arabia,-3.89857064764736,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,2,7,Poland,-0.8911547680497494,6,0.5,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,0,France,-4.5026912635144924,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,1,The Zulus,-3.077968968849893,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,2,China,0.3055476463793056,6,0.8333333333333334,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,3,Egypt,-4.008726102429062,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,4,Mongolia,-5.887371938936646,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,5,Austria,-1.8393080929536236,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,6,Morocco,-3.8690360805845887,6,0.0,8,3,True,True
+glm-5.2-standard-fixed-per-5,implicit,3,7,Songhai,-2.530714480048061,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,0,Arabia,-5.790931601244044,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,1,The Zulus,-2.636677962132405,6,0.3333333333333333,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,2,China,-4.350505749308979,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,3,Brazil,-2.829095687216682,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,4,Polynesia,-1.5944344770217824,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,5,Denmark,-2.741472784485916,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,6,Austria,-1.6610218580237068,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,1,7,Ethiopia,-1.1545813669654907,6,0.3333333333333333,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,0,The Netherlands,-1.7464540701950493,5,0.2,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,1,The Ottomans,-0.5894911966782753,6,0.5,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,2,France,-5.657353752418763,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,3,Spain,-5.445220942604493,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,4,The Aztecs,-4.528068333479328,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,5,Brazil,-3.4825756272231505,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,6,Arabia,-4.661153518126142,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,2,7,Poland,-1.3187161763574835,7,0.1428571428571428,8,2,True,True
+glm-5.3-flash-standard-fixed,implicit,3,0,France,-4.732948408443067,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,1,The Zulus,-2.1371366724788534,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,2,China,-0.2678502307225935,6,0.6666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,3,Egypt,-3.3589369087205068,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,4,Mongolia,-5.364711211495627,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,5,Austria,-1.9211939842948376,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,6,Morocco,-3.2281543145568534,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed,implicit,3,7,Songhai,-2.073009753085992,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,0,Arabia,-5.5461196378862,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,1,The Zulus,-3.1138796342910364,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,2,China,-3.730893903429243,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,3,Brazil,-3.370538281746066,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,4,Polynesia,-1.945672409043179,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,5,Denmark,-2.344322403280965,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,6,Austria,-1.174840763513175,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,1,7,Ethiopia,-0.7591388227966136,6,0.5,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.8710713759482789,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.7338722496474342,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,2,France,-5.0544630112218885,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,3,Spain,-5.711575880671407,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.274977404801407,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,5,Brazil,-2.169746247481879,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,6,Arabia,-3.494449430793518,6,0.1666666666666666,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,2,7,Poland,-1.614746396092953,6,0.3333333333333333,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,0,France,-5.089858971156274,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,1,The Zulus,-3.2096367440215325,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,2,China,0.9432106478907676,6,1.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,3,Egypt,-4.67164826963493,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,4,Mongolia,-6.068758008397292,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,5,Austria,-1.9115696666763136,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,6,Morocco,-4.028099538967212,6,0.0,8,3,True,True
+glm-5.3-flash-standard-fixed-per-5,implicit,3,7,Songhai,-2.299292354169697,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,0,Arabia,-5.806367626643355,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,1,The Zulus,-4.160226420753258,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,2,China,-3.8789307199438254,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,3,Brazil,-3.38023631451516,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.4043206975740217,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,5,Denmark,-3.085113984376854,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,6,Austria,-2.077390638854291,6,0.3333333333333333,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.5702929223872175,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,0,The Netherlands,-2.1885427970968583,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,1,The Ottomans,-2.0307723030043143,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,2,France,-6.102699343870885,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,3,Spain,-5.721678059482696,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.0842559058010055,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,5,Brazil,-3.1055332693926707,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,6,Arabia,-5.291742699719322,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,2,7,Poland,-1.3668485048874588,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,0,France,-4.529379166280752,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,1,The Zulus,-2.205352550804711,6,0.3333333333333333,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,2,China,-0.4593368106902525,6,0.6666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,3,Egypt,-2.96157381424571,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,4,Mongolia,-5.488642722638534,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,5,Austria,-2.45732210772482,6,0.1666666666666666,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,6,Morocco,-4.372164372364234,6,0.0,8,3,True,True
+glm-5.3-standard-fixed-per-5,implicit,3,7,Songhai,-2.632098189214185,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,0,Arabia,-4.302518403255887,5,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,1,The Zulus,-3.961919074846889,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,2,China,-4.976031977111431,5,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,3,Brazil,-3.163968823674896,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,4,Polynesia,0.0844298171262643,7,0.4285714285714285,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,5,Denmark,-3.990053863933319,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,6,Austria,-2.1034694587469103,7,0.2857142857142857,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.9368126190396115,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.3838094557834237,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.340296688663427,6,0.5,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,2,France,-5.955058549960664,6,0.0,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,3,Spain,-4.399136864790336,5,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.647018163749756,6,0.0,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,5,Brazil,-3.551801295458986,7,0.0,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,6,Arabia,-2.754241751922004,6,0.3333333333333333,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,2,7,Poland,-2.193527227393906,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,0,France,-5.323155533235993,6,0.0,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,1,The Zulus,-2.83251847306134,6,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,2,China,-0.7238450821718334,7,0.5714285714285714,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,3,Egypt,-3.2570529735849982,5,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,4,Mongolia,-6.024761357491281,5,0.0,8,3,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,5,Austria,-2.215529150677838,7,0.0,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,6,Morocco,-3.371141293604534,7,0.1428571428571428,8,2,True,True
+gpt-6-astra-standard-fixed-per-5,implicit,3,7,Songhai,-2.886649653432258,5,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,0,Arabia,-4.326620739843894,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,1,The Zulus,-3.2774622196075267,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,2,China,-4.489465137355212,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,3,Brazil,-4.240456784296986,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,4,Polynesia,-0.2650551371426282,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,5,Denmark,-3.474922263254546,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,6,Austria,-1.1200260115547922,6,0.5,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,1,7,Ethiopia,-0.6778244927551146,6,0.5,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,0,The Netherlands,-2.356113248892674,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,1,The Ottomans,0.5801938273412185,6,0.5,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,2,France,-5.484370828563587,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,3,Spain,-3.851375952753725,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,4,The Aztecs,-5.930944150959792,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,5,Brazil,-3.758872158294508,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,6,Arabia,-3.3137217038818227,6,0.3333333333333333,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,2,7,Poland,-2.257451207867537,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,0,France,-4.9129661833269935,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,1,The Zulus,-2.421033126733363,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,2,China,0.2989487862863664,6,0.8333333333333334,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,3,Egypt,-4.603684160724616,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,4,Mongolia,-5.711391124198862,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,5,Austria,-2.4579551080192767,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,6,Morocco,-3.790917394114716,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed,implicit,3,7,Songhai,-2.8183912530299207,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,0,Arabia,-4.4255598141823205,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,1,The Zulus,-3.642718911179861,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,2,China,-4.8085311244349525,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,3,Brazil,-2.389742469106182,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,4,Polynesia,-1.2501767546956677,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,5,Denmark,-3.4398074155480263,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,6,Austria,-1.3204731673804844,6,0.5,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3377853272790008,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.2500483474893094,6,0.6666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.274193882204204,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,2,France,-5.286484672775734,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,3,Spain,-5.404259873521711,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.678966438966459,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,5,Brazil,-3.407568146363733,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,6,Arabia,-3.34584928382474,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,2,7,Poland,-1.537563436475459,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,0,France,-4.05916738902324,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,1,The Zulus,-1.87727676796106,6,0.1666666666666666,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,2,China,-1.4103738753871342,6,0.5,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,3,Egypt,-2.827467065024229,6,0.3333333333333333,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,4,Mongolia,-4.978748801713887,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,5,Austria,-1.9557796382644488,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,6,Morocco,-3.172475846732391,6,0.0,8,3,True,True
+gpt-6-luna-standard-fixed-per-5,implicit,3,7,Songhai,-1.9626051704835132,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,0,Arabia,-3.82977422274294,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,1,The Zulus,-3.410234697429057,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,2,China,-4.886132911038959,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,3,Brazil,-3.2140150333229838,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,4,Polynesia,-0.5980274892012859,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,5,Denmark,-4.283635524207303,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,6,Austria,-1.8234763611799405,6,0.5,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,1,7,Ethiopia,-1.1783607091846393,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,0,The Netherlands,-3.5286901494871685,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,1,The Ottomans,-0.6169017120110064,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,2,France,-5.7345904614766425,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,3,Spain,-3.956596399061698,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,4,The Aztecs,-5.320713632776728,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,5,Brazil,-3.634123862852744,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,6,Arabia,-4.722199945296277,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,2,7,Poland,-1.304994262848847,6,0.5,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,0,France,-4.723107493299735,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,1,The Zulus,-2.667381949723847,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,2,China,0.0515077008117688,6,0.8333333333333334,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,3,Egypt,-3.536431810714906,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,4,Mongolia,-5.7532978727373205,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,5,Austria,-3.210416301650664,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,6,Morocco,-3.284083614055844,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed,implicit,3,7,Songhai,-2.246347269604496,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,0,Arabia,-4.161008071335734,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,1,The Zulus,-3.098916131852478,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,2,China,-4.964878137025767,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,3,Brazil,-3.2658204340024786,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,4,Polynesia,-0.836993552186143,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,5,Denmark,-4.430650377655672,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,6,Austria,-2.2394815589665216,6,0.5,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.7348897951338296,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,0,The Netherlands,-3.057934453800188,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.2021828077480719,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,2,France,-6.205834628974846,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,3,Spain,-3.540328208186638,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.816537575323271,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,5,Brazil,-3.96900922475715,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,6,Arabia,-4.07564215767345,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,2,7,Poland,-2.0758861694942854,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,0,France,-4.541496534620626,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,1,The Zulus,-2.430441990322351,6,0.1666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,2,China,-0.0751314392822595,6,0.6666666666666666,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,3,Egypt,-3.5213245204111545,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,4,Mongolia,-5.57011651529069,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,5,Austria,-3.5150086710664947,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,6,Morocco,-3.6978960156797616,6,0.0,8,3,True,True
+gpt-6.1-sol-standard-fixed-per-5,implicit,3,7,Songhai,-3.4708364391424,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,0,Arabia,-4.474635180748656,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,1,The Zulus,-2.929151862015529,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,2,China,-4.831094478611333,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,3,Brazil,-2.857786302396041,6,0.1666666666666666,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,4,Polynesia,0.1412150410047129,6,0.5,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,5,Denmark,-4.72364730767674,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,6,Austria,-0.6557437869897883,6,0.3333333333333333,8,3,True,True
+jev-1.13-standard-fixed,implicit,1,7,Ethiopia,-1.529933841716737,6,0.3333333333333333,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,0,The Netherlands,-2.8028223281105262,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,1,The Ottomans,0.6129687170141825,6,0.6666666666666666,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,2,France,-6.330054176534401,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,3,Spain,-2.968803683179948,6,0.1666666666666666,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,4,The Aztecs,-5.290337477109543,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,5,Brazil,-4.280088241226585,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,6,Arabia,-2.916518798883988,6,0.3333333333333333,8,3,True,True
+jev-1.13-standard-fixed,implicit,2,7,Poland,-1.4871304084580794,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,0,France,-4.811534598693593,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,1,The Zulus,-1.5968728338397666,6,0.3333333333333333,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,2,China,-0.4378933175106532,6,0.5,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,3,Egypt,-3.4334540145032677,6,0.1666666666666666,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,4,Mongolia,-5.503489602590267,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,5,Austria,-2.8426472598949672,6,0.0,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,6,Morocco,-2.2608145068441217,6,0.1666666666666666,8,3,True,True
+jev-1.13-standard-fixed,implicit,3,7,Songhai,-1.9400635285702077,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,0,Arabia,-5.46187723481361,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,1,The Zulus,-4.47111000944061,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,2,China,-4.266997322422304,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,3,Brazil,-3.024220704320636,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,4,Polynesia,-0.467041540653748,6,0.5,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,5,Denmark,-3.518085591759229,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,6,Austria,-2.338364227334285,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,1,7,Ethiopia,-1.934241630057877,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,0,The Netherlands,-0.8469260816686912,6,0.3333333333333333,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,1,The Ottomans,-1.0277604959231688,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,2,France,-5.692399885832312,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,3,Spain,-5.472721048980642,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,4,The Aztecs,-5.260508369412635,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,5,Brazil,-2.317682583314129,6,0.3333333333333333,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,6,Arabia,-4.204180510303496,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,2,7,Poland,-1.5046395905605123,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,0,France,-4.3215942772714655,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,1,The Zulus,-2.4798562302370235,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,2,China,-0.0817091880751711,6,0.6666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,3,Egypt,-3.901500869509032,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,4,Mongolia,-5.0182550965270165,6,0.0,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,5,Austria,-1.8078196789714087,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,6,Morocco,-3.0274047985863533,6,0.1666666666666666,8,3,True,True
+kimi-k2.6-standard-fixed,implicit,3,7,Songhai,-2.430277087990792,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,0,Arabia,-5.420407860085715,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,1,The Zulus,-3.5455618927167003,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,2,China,-4.100162944241377,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,3,Brazil,-3.38731119375273,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,4,Polynesia,-1.418083085963471,6,0.5,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,5,Denmark,-2.0246634731973416,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,6,Austria,-1.0594791228790903,6,0.5,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,1,7,Ethiopia,-1.2553952788783052,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,0,The Netherlands,-1.576733772853741,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,1,The Ottomans,-0.6248747223617646,6,0.5,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,2,France,-5.94380935846408,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,3,Spain,-5.399248824292215,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,4,The Aztecs,-4.026948767908196,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,5,Brazil,-3.4504338656183653,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,6,Arabia,-4.808756479790858,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,2,7,Poland,-1.583433004596771,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,0,France,-3.923235566457892,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,1,The Zulus,-2.7930693068763577,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,2,China,-1.2574523471901502,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,3,Egypt,-4.092386726581669,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,4,Mongolia,-5.587618336450036,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,5,Austria,-2.838852358744782,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,6,Morocco,-3.220311530443676,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed,implicit,3,7,Songhai,-2.542981018110349,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,0,Arabia,-5.659641211959312,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,1,The Zulus,-2.563183913399428,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,2,China,-3.923762054682979,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,3,Brazil,-3.775427491079756,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,4,Polynesia,-1.426530674328119,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,5,Denmark,-2.7399202694211877,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,6,Austria,-1.3326335775110731,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.2667067253466433,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.5763388698758585,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.435098913602176,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,2,France,-5.436473715614871,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,3,Spain,-5.436852989760728,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.122345641128537,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,5,Brazil,-2.8015436794576227,6,0.3333333333333333,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,6,Arabia,-4.466754180535099,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,2,7,Poland,-1.6721724715740969,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,0,France,-4.959568730434072,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,1,The Zulus,-2.742405369277084,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,2,China,0.2752461819392077,6,0.8333333333333334,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,3,Egypt,-4.317974166469714,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,4,Mongolia,-5.672098358825898,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,5,Austria,-2.470462818522901,6,0.0,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,6,Morocco,-2.686914659755787,6,0.1666666666666666,8,3,True,True
+kimi-k2.7-standard-fixed-per-5,implicit,3,7,Songhai,-2.3710450394593923,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,0,Arabia,-5.783216620671859,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,1,The Zulus,-3.427205564497323,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,2,China,-4.163069956535284,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,3,Brazil,-2.423169423807709,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,4,Polynesia,-1.2140555743106178,6,0.3333333333333333,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,5,Denmark,-3.670710237948253,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,6,Austria,-2.189008396226433,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,1,7,Ethiopia,-1.161002927421633,6,0.5,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,0,The Netherlands,-1.3417761161918198,6,0.3333333333333333,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,1,The Ottomans,-2.52679832307604,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,2,France,-3.4018552754671028,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,3,Spain,-5.317042784891301,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,4,The Aztecs,-5.463708904321849,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,5,Brazil,-2.510953248796358,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,6,Arabia,-3.534802058439276,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,2,7,Poland,-1.7687561263142648,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,0,France,-4.53329064306578,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,1,The Zulus,-1.238033093644795,6,0.5,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,2,China,0.0281905704372151,6,0.5,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,3,Egypt,-3.317487537430124,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,4,Mongolia,-5.06678575328177,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,5,Austria,-3.1747922771784123,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,6,Morocco,-4.014037683103241,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed,implicit,3,7,Songhai,-2.999156256731499,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,0,Arabia,-5.49340883165139,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,1,The Zulus,-3.271474823079231,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,2,China,-4.329322996506472,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,3,Brazil,-2.718024367697661,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,4,Polynesia,-1.575824079201898,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,5,Denmark,-2.7693664606904824,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,6,Austria,-1.4680368878588446,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.0540150608413936,6,0.3333333333333333,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.7894395319709848,6,0.5,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,1,The Ottomans,-0.9716141592988076,6,0.3333333333333333,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,2,France,-5.422902670320035,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,3,Spain,-5.910806501651218,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.757309568842206,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,5,Brazil,-4.68384395722816,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,6,Arabia,-3.7050507602045455,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,2,7,Poland,-0.9012942755345184,6,0.3333333333333333,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,0,France,-4.420230580679276,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,1,The Zulus,-2.0280479936028706,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,2,China,0.0495525260620462,6,0.8333333333333334,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,3,Egypt,-3.470586226524724,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,4,Mongolia,-4.852926722819138,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,5,Austria,-2.609315397863728,6,0.0,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,6,Morocco,-2.6732083338194763,6,0.1666666666666666,8,3,True,True
+minimax-m2.7-standard-fixed-per-5,implicit,3,7,Songhai,-2.7724240901893533,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,0,Arabia,-5.4132096594131385,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,1,The Zulus,-3.940706153407497,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,2,China,-4.239659983553827,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,3,Brazil,-2.6421394291503755,6,0.1666666666666666,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.4303561679530865,6,0.1666666666666666,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,5,Denmark,-2.526278387226801,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,6,Austria,-1.0805803231200557,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3084703351337394,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.8624204473469309,6,0.5,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.0453073054262818,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,2,France,-5.683155414953233,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,3,Spain,-5.571388463013768,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.0318213990535225,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,5,Brazil,-2.879833209705101,6,0.1666666666666666,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,6,Arabia,-3.4962262608116923,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,2,7,Poland,-0.7315322872337839,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,0,France,-4.664109380397895,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,1,The Zulus,-1.7673501215578502,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,2,China,0.0378355913721779,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,3,Egypt,-4.403183924325884,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,4,Mongolia,-5.395357003717055,6,0.0,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,5,Austria,-2.0649815189236183,6,0.1666666666666666,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,6,Morocco,-2.2671602673196958,6,0.3333333333333333,8,3,True,True
+minimax-m3-standard-fixed-per-5,implicit,3,7,Songhai,-2.31629843817698,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,0,Arabia,-5.166240674018606,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,1,The Zulus,-2.818648672778909,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,2,China,-4.289794657130412,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,3,Brazil,-3.000699356549981,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,4,Polynesia,-0.9190363232552902,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,5,Denmark,-3.0111297936814814,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,6,Austria,-1.8324796985635088,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed,implicit,1,7,Ethiopia,-0.8814581812588571,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,0,The Netherlands,-0.6777458803817321,6,0.5,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,1,The Ottomans,-0.515614406312368,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,2,France,-5.005279879881535,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,3,Spain,-4.642740229475144,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,4,The Aztecs,-4.525939821594823,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,5,Brazil,-3.247505935813338,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,6,Arabia,-4.960993055423875,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,2,7,Poland,-1.6021188155359265,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,0,France,-4.345519965282627,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,1,The Zulus,-2.4755519466072324,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,2,China,0.7183200214384032,6,1.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,3,Egypt,-4.3021050304035215,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,4,Mongolia,-5.595997647884842,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,5,Austria,-1.9158132338258185,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,6,Morocco,-3.435700014677986,6,0.0,8,3,True,True
+nemotron-3-standard-fixed,implicit,3,7,Songhai,-2.1299187014537773,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,0,Arabia,-4.509552598438125,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,1,The Zulus,-2.1518469548733368,6,0.5,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,2,China,-3.978086286243416,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,3,Brazil,-2.6888408225740346,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,4,Polynesia,-1.2452473793372192,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,5,Denmark,-4.681352765610563,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,6,Austria,-2.211610131532304,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,1,7,Ethiopia,-2.3407172980032693,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.9566427303251048,6,0.5,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.8486633243478388,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,2,France,-2.2214889416521904,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,3,Spain,-4.914047666210508,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.162680576146323,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,5,Brazil,-2.5886585707666483,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,6,Arabia,-4.274346210272568,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,2,7,Poland,-3.24652086017491,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,0,France,-3.596191084372615,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,1,The Zulus,-1.5485468302528471,6,0.1666666666666666,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,2,China,-1.655144050838926,6,0.5,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,3,Egypt,-1.077620153437097,6,0.3333333333333333,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,4,Mongolia,-4.122651043259272,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,5,Austria,-1.747750358160429,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,6,Morocco,-4.046708978069504,6,0.0,8,3,True,True
+nemotron-3-standard-fixed-per-5,implicit,3,7,Songhai,-2.6516783719967445,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,1,0,Arabia,-5.802946854963342,6,0.0,8,3,True,True
+null-standard-fixed,implicit,1,1,The Zulus,-2.5344109509834163,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,1,2,China,-4.135598754526247,6,0.0,8,3,True,True
+null-standard-fixed,implicit,1,3,Brazil,-3.260960051230812,6,0.0,8,3,True,True
+null-standard-fixed,implicit,1,4,Polynesia,-1.2790617643448403,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,1,5,Denmark,-2.222539825135869,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,1,6,Austria,-1.168081732556961,6,0.3333333333333333,8,3,True,True
+null-standard-fixed,implicit,1,7,Ethiopia,-0.9247190403522264,6,0.5,8,3,True,True
+null-standard-fixed,implicit,2,0,The Netherlands,-0.5376965615175299,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,2,1,The Ottomans,-0.7103271959437206,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,2,2,France,-5.434875427598127,6,0.0,8,3,True,True
+null-standard-fixed,implicit,2,3,Spain,-5.4384784750731,6,0.0,8,3,True,True
+null-standard-fixed,implicit,2,4,The Aztecs,-4.599826260594839,6,0.0,8,3,True,True
+null-standard-fixed,implicit,2,5,Brazil,-2.17357651475001,6,0.3333333333333333,8,3,True,True
+null-standard-fixed,implicit,2,6,Arabia,-3.278852508673195,6,0.3333333333333333,8,3,True,True
+null-standard-fixed,implicit,2,7,Poland,-1.025922313291246,6,0.3333333333333333,8,3,True,True
+null-standard-fixed,implicit,3,0,France,-4.28981872704452,6,0.0,8,3,True,True
+null-standard-fixed,implicit,3,1,The Zulus,-2.6496134342619766,6,0.0,8,3,True,True
+null-standard-fixed,implicit,3,2,China,0.1732376334764704,6,0.8333333333333334,8,3,True,True
+null-standard-fixed,implicit,3,3,Egypt,-3.81785312207044,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,3,4,Mongolia,-4.886877792429889,6,0.0,8,3,True,True
+null-standard-fixed,implicit,3,5,Austria,-1.6543048558530966,6,0.1666666666666666,8,3,True,True
+null-standard-fixed,implicit,3,6,Morocco,-4.230403482460013,6,0.0,8,3,True,True
+null-standard-fixed,implicit,3,7,Songhai,-1.914966157880756,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed,implicit,1,0,Arabia,-4.4678496672239785,7,0.1428571428571428,8,2,True,True
+oss-120b-standard-fixed,implicit,1,1,The Zulus,-4.052658185603028,6,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,1,2,China,-4.03758237994082,7,0.0,8,2,True,True
+oss-120b-standard-fixed,implicit,1,3,Brazil,-2.204434305326789,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed,implicit,1,4,Polynesia,-0.9794047001613868,5,0.4,8,3,True,True
+oss-120b-standard-fixed,implicit,1,5,Denmark,-2.9997283066843337,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed,implicit,1,6,Austria,-2.682456154539321,5,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,1,7,Ethiopia,-1.366171189798828,6,0.5,8,3,True,True
+oss-120b-standard-fixed,implicit,2,0,The Netherlands,-0.3254972028161751,6,0.3333333333333333,8,3,True,True
+oss-120b-standard-fixed,implicit,2,1,The Ottomans,-1.5823932832947072,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed,implicit,2,2,France,-3.800982717965922,6,0.3333333333333333,8,2,True,True
+oss-120b-standard-fixed,implicit,2,3,Spain,-5.354906200139359,7,0.0,8,2,True,True
+oss-120b-standard-fixed,implicit,2,4,The Aztecs,-5.4262719083742015,6,0.0,8,2,True,True
+oss-120b-standard-fixed,implicit,2,5,Brazil,-4.213964418222525,5,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,2,6,Arabia,-2.801407471409751,6,0.3333333333333333,8,3,True,True
+oss-120b-standard-fixed,implicit,2,7,Poland,-2.804087301996624,6,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,3,0,France,-4.543832712870416,7,0.0,8,2,True,True
+oss-120b-standard-fixed,implicit,3,1,The Zulus,-2.1996960098673357,6,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,3,2,China,-0.3288347671553909,5,0.8,8,3,True,True
+oss-120b-standard-fixed,implicit,3,3,Egypt,-3.317287867192789,7,0.1428571428571428,8,2,True,True
+oss-120b-standard-fixed,implicit,3,4,Mongolia,-5.78712278814641,7,0.0,8,2,True,True
+oss-120b-standard-fixed,implicit,3,5,Austria,-3.0143705005814145,5,0.0,8,3,True,True
+oss-120b-standard-fixed,implicit,3,6,Morocco,-1.6105154281581062,5,0.4,8,3,True,True
+oss-120b-standard-fixed,implicit,3,7,Songhai,-1.5239276030648714,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,0,Arabia,-5.606663996533594,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,1,The Zulus,-2.5630586542515634,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,2,China,-3.659976998832775,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,3,Brazil,-1.7299818357180212,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,4,Polynesia,-0.57163081198675,6,0.5,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,5,Denmark,-2.862962454218154,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,6,Austria,-2.442456645564938,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.8175774085418412,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.544465553083105,6,0.3333333333333333,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.7893832498438302,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,2,France,-4.38588088966546,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,3,Spain,-5.456270108778855,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,4,The Aztecs,-3.908168583545903,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,5,Brazil,-2.598465482579295,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,6,Arabia,-3.853039083970861,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,2,7,Poland,-0.9668087691868849,6,0.5,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,0,France,-4.652709954179572,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,1,The Zulus,-2.9789008071555645,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,2,China,0.0671530566724498,6,0.6666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,3,Egypt,-2.1899238085181563,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,4,Mongolia,-6.030864402013084,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,5,Austria,-2.2965238084616533,6,0.0,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,6,Morocco,-3.696297492732068,6,0.1666666666666666,8,3,True,True
+oss-120b-standard-fixed-per-5,implicit,3,7,Songhai,-2.262084018731736,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,0,Arabia,-5.346310557778654,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,1,The Zulus,-4.230182272524788,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,2,China,-4.255511232029991,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,3,Brazil,-2.096738311390145,6,0.5,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,4,Polynesia,-1.308925314306686,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,5,Denmark,-2.6684330480939558,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,6,Austria,-1.6594599282117777,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed,implicit,1,7,Ethiopia,-1.4598016499142143,6,0.1666666666666666,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,0,The Netherlands,-1.2646352771551963,6,0.1666666666666666,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,1,The Ottomans,-1.1076515647329577,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,2,France,-4.783890845686296,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,3,Spain,-5.410247029600957,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,4,The Aztecs,-4.743433083733535,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,5,Brazil,-2.1763054619284734,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,6,Arabia,-3.988209470329745,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,2,7,Poland,-1.4185932828081729,6,0.5,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,0,France,-4.213992842161757,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,1,The Zulus,-1.3695566263330357,6,0.1666666666666666,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,2,China,-1.2717988188760785,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,3,Egypt,-2.790205724677198,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,4,Mongolia,-4.927095137145972,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,5,Austria,-2.250994212240692,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,6,Morocco,-2.0743656334791347,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed,implicit,3,7,Songhai,-1.6984901639952783,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,0,Arabia,-5.79100625556264,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,1,The Zulus,-3.3309618176829,6,0.1666666666666666,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,2,China,-4.78734154898771,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,3,Brazil,-2.530151035865928,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,4,Polynesia,-1.4621577893444788,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,5,Denmark,-1.3292149417700811,6,0.1666666666666666,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,6,Austria,-1.22604752063799,6,0.5,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3452566267563544,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.8483377921358479,6,0.6666666666666666,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.7690555992626813,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,2,France,-4.969958402149731,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,3,Spain,-5.85249100914402,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.565847215418109,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,5,Brazil,-3.1637452051540573,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,6,Arabia,-4.356857114994913,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,2,7,Poland,-0.1057543799375082,6,0.6666666666666666,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,0,France,-4.532596557345449,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,1,The Zulus,-1.668227665671559,6,0.3333333333333333,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,2,China,-0.5501210515226317,5,0.6,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,3,Egypt,-3.641450665403943,5,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,4,Mongolia,-5.272008780311133,7,0.0,8,2,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,5,Austria,-2.6460735233088704,7,0.0,8,2,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,6,Morocco,-3.749521295868105,6,0.0,8,3,True,True
+qwen-3.5-standard-fixed-per-5,implicit,3,7,Songhai,-2.5286799791083325,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,0,Arabia,-5.067960274018256,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,1,The Zulus,-2.9413709596238395,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,2,China,-4.665689494461032,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,3,Brazil,-2.933699049980161,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,4,Polynesia,-1.3627406898548349,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,5,Denmark,-2.5455620176488725,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,6,Austria,-1.6319745630475533,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,1,7,Ethiopia,-1.231022693542924,6,0.5,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,0,The Netherlands,-0.6378367400759105,6,0.5,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,1,The Ottomans,-1.0290462411443837,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,2,France,-4.400645890817597,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,3,Spain,-5.764368276506549,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,4,The Aztecs,-5.154941709110431,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,5,Brazil,-1.8004215866065272,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,6,Arabia,-3.534716052517546,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,2,7,Poland,-1.537441746095827,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,0,France,-3.889605809710284,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,1,The Zulus,-1.882194232546452,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,2,China,-0.6810428999638831,6,0.6666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,3,Egypt,-2.6707000630441464,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,4,Mongolia,-5.870318750958988,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,5,Austria,-1.625141204162534,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,6,Morocco,-3.8825709528827113,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed,implicit,3,7,Songhai,-1.8306333807410904,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,0,Arabia,-4.275663637829335,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,1,The Zulus,-3.084284268994923,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,2,China,-3.744375139410279,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,3,Brazil,-2.473028789757412,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,4,Polynesia,-0.8263733066660818,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,5,Denmark,-2.536002000183877,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,6,Austria,-1.555605292299438,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.485686417975744,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,0,The Netherlands,-0.6810257959781115,6,0.6666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.324628941477381,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,2,France,-3.69018540407586,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,3,Spain,-5.518357327782886,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,4,The Aztecs,-3.534588229780194,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,5,Brazil,-3.9293157189919374,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,6,Arabia,-4.262068612945797,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,2,7,Poland,-1.283244421414866,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,0,France,-4.48176713445077,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,1,The Zulus,-1.9731881089961767,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,2,China,-0.6462109843095648,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,3,Egypt,-3.11239995581592,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,4,Mongolia,-5.630688239570847,6,0.0,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,5,Austria,-1.3424604578224135,6,0.3333333333333333,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,6,Morocco,-2.167146794141641,6,0.1666666666666666,8,3,True,True
+qwen-3.6-27b-standard-fixed-per-5,implicit,3,7,Songhai,-1.6661138842399008,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,0,Arabia,-5.449330747849456,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,1,The Zulus,-3.3562364796382678,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,2,China,-4.521388913393127,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,3,Brazil,-2.3615964626002937,6,0.5,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,4,Polynesia,-1.3724565949284264,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,5,Denmark,-3.272317169212192,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,6,Austria,-3.087336677390528,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,1,7,Ethiopia,-0.9348124246070274,6,0.5,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,0,The Netherlands,-0.4167731072723308,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,1,The Ottomans,-2.8011799026810222,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,2,France,-1.804716029327868,6,0.6666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,3,Spain,-5.597915187113028,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,4,The Aztecs,-4.972490334824506,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,5,Brazil,-2.50688792966243,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,6,Arabia,-4.313828420108203,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,2,7,Poland,-1.9457647340217497,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,0,France,-3.743685052388883,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,1,The Zulus,-2.110702410074795,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,2,China,-0.8901091140333611,6,0.5,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,3,Egypt,-2.5214215500670987,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,4,Mongolia,-4.813582109046437,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,5,Austria,-3.4329646191340317,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,6,Morocco,-3.2112384940516865,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed,implicit,3,7,Songhai,-1.7978073910477546,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,0,Arabia,-3.841836388040452,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,1,The Zulus,-3.361242794855675,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,2,China,-4.777230296996091,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,3,Brazil,-2.2354032712573098,6,0.5,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,4,Polynesia,-1.335294136295266,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,5,Denmark,-3.9599839342791214,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,6,Austria,-2.4469012268628845,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.059382117587799,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.4210968933522894,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.918599768693012,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,2,France,-2.32125485535265,6,0.5,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,3,Spain,-5.319828838812692,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,4,The Aztecs,-4.9226628692012815,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,5,Brazil,-2.1975039852842686,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,6,Arabia,-4.106778215548201,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,2,7,Poland,-2.083746600759089,6,0.3333333333333333,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,0,France,-3.991537431408657,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,1,The Zulus,-0.4348441246867727,6,0.6666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,2,China,-2.470792416019798,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,3,Egypt,-3.2214654135220844,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,4,Mongolia,-4.320681364822263,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,5,Austria,-2.7266227187498724,6,0.0,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,6,Morocco,-2.876497883595006,6,0.1666666666666666,8,3,True,True
+qwen-3.8-27b-standard-fixed-per-5,implicit,3,7,Songhai,-3.2405376432270927,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,0,Arabia,-3.1528510744883653,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,1,The Zulus,-3.348058998517588,6,0.3333333333333333,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,2,China,-4.757529327282886,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,3,Brazil,-2.4573234263722994,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,4,Polynesia,-0.6031799411473142,6,0.3333333333333333,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,5,Denmark,-6.066171398458562,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,6,Austria,-2.655184096205129,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,1,7,Ethiopia,-2.9747459890623738,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,0,The Netherlands,-3.3417490089400435,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,1,The Ottomans,-0.2504661259305393,6,0.3333333333333333,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,2,France,-5.520784095850825,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,3,Spain,-3.56548174445563,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,4,The Aztecs,-4.458754668714248,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,5,Brazil,-3.440956098719713,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,6,Arabia,-3.2562549758689863,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,2,7,Poland,-0.7194838530748612,6,0.5,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,0,France,-4.458482889926658,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,1,The Zulus,-1.5266201969535829,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,2,China,0.2851192255979064,6,0.8333333333333334,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,3,Egypt,-3.6405211539790496,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,4,Mongolia,-5.097850167517663,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,5,Austria,-2.122427823258629,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,6,Morocco,-3.558105582053104,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed,implicit,3,7,Songhai,-3.0050170649724586,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,0,Arabia,-5.353762845473498,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,1,The Zulus,-2.498663439183822,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,2,China,-4.847838985317563,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,3,Brazil,-2.215432296628546,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,4,Polynesia,-1.1392050301946623,6,0.3333333333333333,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,5,Denmark,-3.5867885084483784,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,6,Austria,-2.255036866993441,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,1,7,Ethiopia,-1.3671032712893894,6,0.3333333333333333,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,0,The Netherlands,-1.6620180567531917,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,1,The Ottomans,-1.130109702134176,6,0.6666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,2,France,-4.428777186094071,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,3,Spain,-2.6670867686223207,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,4,The Aztecs,-5.355300160332571,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,5,Brazil,-2.345049384365051,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,6,Arabia,-3.560301157207119,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,2,7,Poland,-2.6000329893531733,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,0,France,-3.84698806449765,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,1,The Zulus,-2.1620377319615334,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,2,China,-1.0567968292962544,6,0.5,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,3,Egypt,-2.9690702070233983,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,4,Mongolia,-4.67582632539445,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,5,Austria,-2.2340476712660955,6,0.1666666666666666,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,6,Morocco,-4.1682837820244485,6,0.0,8,3,True,True
+qwen-3.8-flash-next-standard-fixed-per-5,implicit,3,7,Songhai,-4.3284843487238,6,0.0,8,3,True,True
+vanilla-standard-fixed,implicit,1,0,Arabia,-6.1328425430079605,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,1,1,The Zulus,-3.930372401148942,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,1,2,China,-4.418673202517828,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,1,3,Brazil,-2.4858654785910934,8,0.125,8,2,True,True
+vanilla-standard-fixed,implicit,1,4,Polynesia,-1.3783890772623126,8,0.25,8,2,True,True
+vanilla-standard-fixed,implicit,1,5,Denmark,-1.5799747999186364,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,1,6,Austria,-1.451836638010454,8,0.375,8,2,True,True
+vanilla-standard-fixed,implicit,1,7,Ethiopia,-0.9017482736791228,8,0.25,8,2,True,True
+vanilla-standard-fixed,implicit,2,0,The Netherlands,0.5639453225983928,8,0.75,8,2,True,True
+vanilla-standard-fixed,implicit,2,1,The Ottomans,-2.4059259698382363,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,2,2,France,-5.762587120544173,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,2,3,Spain,-5.344421520115106,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,2,4,The Aztecs,-4.425057868501164,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,2,5,Brazil,-2.6825508845450647,8,0.125,8,2,True,True
+vanilla-standard-fixed,implicit,2,6,Arabia,-5.23988254469884,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,2,7,Poland,-1.6835911310039458,8,0.125,8,2,True,True
+vanilla-standard-fixed,implicit,3,0,France,-4.4983203407261305,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,1,The Zulus,-2.811898501207892,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,2,China,-0.6337292614990917,8,0.75,8,2,True,True
+vanilla-standard-fixed,implicit,3,3,Egypt,-2.4659518445362485,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,4,Mongolia,-6.170209898539302,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,5,Austria,-1.6360222695766666,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,6,Morocco,-3.1269619922499308,8,0.0,8,2,True,True
+vanilla-standard-fixed,implicit,3,7,Songhai,-1.642144211847319,8,0.25,8,2,True,True
+vanilla-standard-fixed,explicit,1,0,Arabia,-6.1328425430079605,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,1,1,The Zulus,-3.930372401148942,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,1,2,China,-4.418673202517828,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,1,3,Brazil,-2.4858654785910934,8,0.125,8,2,True,True
+vanilla-standard-fixed,explicit,1,4,Polynesia,-1.3783890772623126,8,0.25,8,2,True,True
+vanilla-standard-fixed,explicit,1,5,Denmark,-1.5799747999186364,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,1,6,Austria,-1.451836638010454,8,0.375,8,2,True,True
+vanilla-standard-fixed,explicit,1,7,Ethiopia,-0.9017482736791228,8,0.25,8,2,True,True
+vanilla-standard-fixed,explicit,2,0,The Netherlands,0.5639453225983928,8,0.75,8,2,True,True
+vanilla-standard-fixed,explicit,2,1,The Ottomans,-2.4059259698382363,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,2,2,France,-5.762587120544173,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,2,3,Spain,-5.344421520115106,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,2,4,The Aztecs,-4.425057868501164,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,2,5,Brazil,-2.6825508845450647,8,0.125,8,2,True,True
+vanilla-standard-fixed,explicit,2,6,Arabia,-5.23988254469884,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,2,7,Poland,-1.6835911310039458,8,0.125,8,2,True,True
+vanilla-standard-fixed,explicit,3,0,France,-4.4983203407261305,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,1,The Zulus,-2.811898501207892,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,2,China,-0.6337292614990917,8,0.75,8,2,True,True
+vanilla-standard-fixed,explicit,3,3,Egypt,-2.4659518445362485,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,4,Mongolia,-6.170209898539302,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,5,Austria,-1.6360222695766666,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,6,Morocco,-3.1269619922499308,8,0.0,8,2,True,True
+vanilla-standard-fixed,explicit,3,7,Songhai,-1.642144211847319,8,0.25,8,2,True,True
