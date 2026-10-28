@@ -6,13 +6,14 @@ Opus-5.5-Simple-Per-5,Opus-5.5-Simple,Per-5,0.14876742993742115,18400,24
 GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,0.14092993168447704,18678,24
 GLM-5.2-Simple,GLM-5.2-Simple,Every-turn,0.14048915705801113,18726,24
 Kimi-K2.7-Simple-Per-5,Kimi-K2.7-Simple,Per-5,0.1390651587673359,19416,24
+GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,0.13547691513070162,17766,24
 GLM-5.2-Simple-Per-5,GLM-5.2-Simple,Per-5,0.1350252345931334,19280,24
 GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,0.12847823474620196,18356,24
 Kimi-K2.6-Simple,Kimi-K2.6-Simple,Every-turn,0.1277150616051569,19460,24
 GPT-OSS-120B-Simple,GPT-OSS-120B-Simple,Every-turn,0.12749699343914606,20212,24
 Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,0.1274331657439432,18610,24
 Qwen-3.8-Flash-Next-Simple-Per-5,Qwen-3.8-Flash-Next-Simple,Per-5,0.12734415243867692,20248,24
-Vanilla,Vanilla,Every-turn,0.127184947769655,2298744,936
+Vanilla,Vanilla,Every-turn,0.12705629946582972,2352042,960
 DeepSeek-V4.1-Flash-Simple-Per-5,DeepSeek-V4.1-Flash-Simple,Per-5,0.12632256495815303,19056,24
 Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,0.12501680878678978,20302,24
 Vanilla,Vanilla,Vanilla,0.12500000007530288,79168,24

@@ -1,6 +1,7 @@
 experiment,file,total_cells,completed_cells,open_cells
 claude-opus-5.5-standard-fixed,seating/claude-opus-5.5-standard-fixed.seating.json,24,12,12
-claude-sonnet-5.5-standard-fixed,seating/claude-sonnet-5.5-standard-fixed.seating.json,24,18,6
-glm-5.3-standard-fixed,seating/glm-5.3-standard-fixed.seating.json,24,11,13
-gpt-6.1-sol-standard-fixed-files-per-5,seating/gpt-6.1-sol-standard-fixed-files-per-5.seating.json,24,21,3
-minimax-m3.1-flash-standard-fixed-per-5,seating/minimax-m3.1-flash-standard-fixed-per-5.seating.json,24,4,20
+claude-sonnet-5.5-standard-fixed,seating/claude-sonnet-5.5-standard-fixed.seating.json,24,21,3
+glm-5.3-standard-fixed,seating/glm-5.3-standard-fixed.seating.json,24,12,12
+gpt-6-astra-standard-fixed-files-per-5,seating/gpt-6-astra-standard-fixed-files-per-5.seating.json,24,2,22
+minimax-m3.1-flash-standard-fixed-per-5,seating/minimax-m3.1-flash-standard-fixed-per-5.seating.json,24,7,17
+qwen-3.8-27b-standard-fixed-files-per-5,seating/qwen-3.8-27b-standard-fixed-files-per-5.seating.json,24,1,23

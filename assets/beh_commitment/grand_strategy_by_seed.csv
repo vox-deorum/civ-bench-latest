@@ -34,6 +34,7 @@ group,1,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0
 group,1,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,0,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 62%,0.6217269289849935,62.17269289849935,62.17269289849935,0.48121233605104574,256.0
+group,1,0,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,0,gs_main,Culture,Culture,Culture 89%,0.8948087431693988,89.48087431693989,89.48087431693989,0.1366120218579235,289.0
 group,1,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,0,gs_main,Culture,Culture,Culture 62%,0.6235266895165372,62.352668951653726,62.352668951653726,0.26935369574963486,232.5
 group,1,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,0,gs_main,Culture,Culture,Culture 72%,0.7152871527006424,71.52871527006424,71.52871527006424,0.15911261489620654,240.0
 group,1,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 75%,0.752,75.2,75.2,0.3,249.0
@@ -74,6 +75,7 @@ group,1,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1
 group,1,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 56%,0.5603683699478093,56.03683699478092,56.03683699478092,1.1080430472953837,172.0
 group,1,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 52%,0.5240865381818605,52.408653818186046,52.755074141511685,0.24141802549141655,217.0
 group,1,1,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 55%,0.547612895472163,54.76128954721629,55.24321725805967,0.49034041402517803,223.0
+group,1,1,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,1,gs_main,Conquest,Conquest,Conquest 56%,0.5625686768793225,56.25686768793226,56.25686768793226,0.6778811970784048,197.0
 group,1,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 71%,0.7140950949069723,71.40950949069723,71.40950949069723,0.3950385265927457,252.5
 group,1,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 53%,0.5344494711354657,53.444947113546576,53.444947113546576,0.2526443226710845,184.5
 group,1,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 81%,0.8062752325785502,80.62752325785502,80.62752325785502,0.8492773974606518,270.0
@@ -114,6 +116,7 @@ group,1,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2
 group,1,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,1,2,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,92.65593561368209,0.30181086519114686,346.0
@@ -154,6 +157,7 @@ group,1,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3
 group,1,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 98%,0.9822616407982261,98.22616407982261,98.22616407982261,0.11086474501108648,435.0
 group,1,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,3,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,3,gs_main,Culture,Culture,Culture 99%,0.9892601431980907,98.92601431980907,98.92601431980907,0.11933174224343676,410.0
 group,1,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 97%,0.9660421545667447,96.60421545667447,96.60421545667447,0.234192037470726,371.0
 group,1,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 70%,0.6951710261569417,69.51710261569417,79.47686116700201,1.0060362173038229,194.0
@@ -194,6 +198,7 @@ group,1,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4
 group,1,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 53%,0.5266862529073326,52.66862529073326,52.66862529073326,0.23675981259528817,201.5
 group,1,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,4,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,1,4,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,1,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
@@ -234,6 +239,7 @@ group,1,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5
 group,1,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 75%,0.7457627118644068,74.57627118644068,75.42372881355932,0.12106537530266344,203.0
 group,1,5,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 84%,0.8391192086008472,83.91192086008472,83.91192086008472,0.2512578675908916,64.0
+group,1,5,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 82%,0.8165137614678899,81.65137614678899,81.65137614678899,0.1529051987767584,120.0
 group,1,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 78%,0.7753807106598986,77.53807106598985,77.53807106598985,0.12690355329949238,177.0
 group,1,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,5,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,Conquest,Conquest,Conquest 51%,0.5131401617250674,51.31401617250674,51.31401617250674,0.7364266461301502,187.0
@@ -274,6 +280,7 @@ group,1,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6
 group,1,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 51%,0.5135135135135136,51.351351351351354,98.64864864864865,0.11261261261261261,432.0
 group,1,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 77%,0.7687532804181797,76.87532804181797,76.87532804181797,0.23163769187098987,335.0
 group,1,6,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,1,6,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,1,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,6,gs_main,UnitedNations,United Nations,United Nations 86%,0.8567961165048543,85.67961165048543,85.67961165048543,0.24271844660194172,353.0
 group,1,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 99%,0.9881209503239741,98.81209503239741,98.81209503239741,0.21598272138228944,347.0
@@ -314,6 +321,7 @@ group,1,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7
 group,1,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 64%,0.6404605540119559,64.04605540119559,64.04605540119559,0.45466026774437984,279.0
 group,1,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,7,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 94%,0.943499095398758,94.3499095398758,94.3499095398758,0.3719255782113344,370.5
+group,1,7,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 92%,0.9240837696335078,92.40837696335078,92.40837696335078,0.13089005235602094,324.0
 group,1,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 86%,0.8628645758057523,86.28645758057523,86.28645758057523,0.71108541696777,348.5
 group,1,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,1,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 64%,0.6414994453967935,64.14994453967935,64.14994453967935,1.1828734048155245,271.0
@@ -354,6 +362,7 @@ group,2,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0
 group,2,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8907035175879398,89.07035175879398,89.07035175879398,0.12562814070351758,311.0
 group,2,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 92%,0.92,92.0,92.0,0.15384615384615385,273.0
 group,2,0,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,0,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,2,0,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,0,gs_main,UnitedNations,United Nations,United Nations 96%,0.9553571428571428,95.53571428571428,95.53571428571428,0.12755102040816327,360.0
 group,2,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,0,gs_main,UnitedNations,United Nations,United Nations 93%,0.9274809160305344,92.74809160305344,92.74809160305344,0.1272264631043257,336.0
 group,2,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,0,gs_main,UnitedNations,United Nations,United Nations 93%,0.9318181818181819,93.18181818181819,93.18181818181819,0.14204545454545456,304.0
 group,2,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 68%,0.6781952169487024,67.81952169487025,70.30399374455969,0.6303388855283929,254.0
@@ -394,6 +403,7 @@ group,2,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1
 group,2,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,1,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
+group,2,1,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 94%,0.9365558912386706,93.65558912386706,93.65558912386706,0.4531722054380665,289.0
 group,2,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 90%,0.9011618939900262,90.11618939900262,90.11618939900262,0.2934724864188645,309.0
 group,2,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,1,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9853333333333333,98.53333333333333,98.53333333333333,0.13333333333333333,364.0
 group,2,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Culture,Culture,Culture 94%,0.9403380643475989,94.0338064347599,94.0338064347599,1.0552266097783969,139.5
@@ -434,6 +444,7 @@ group,2,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2
 group,2,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,2,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,81.19777158774373,0.2785515320334262,124.0
+group,2,2,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 60%,0.6036760641238254,60.367606412382536,77.78054173576561,0.2478348995761931,159.5
 group,2,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,2,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Conquest,Conquest,Conquest 33%,0.3288813339808969,32.88813339808969,48.29552024792433,1.6721015749670436,67.0
@@ -474,6 +485,7 @@ group,2,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3
 group,2,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 88%,0.8819095477386935,88.19095477386935,88.19095477386935,0.12562814070351758,304.0
 group,2,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,3,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 97%,0.9731457800511509,97.3145780051151,97.3145780051151,0.1278772378516624,370.0
+group,2,3,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 93%,0.9307793798887947,93.07793798887947,93.07793798887947,0.4975968334746961,365.5
 group,2,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,3,gs_main,Spaceship,Spaceship,Spaceship 95%,0.9539094650205762,95.39094650205762,95.39094650205762,0.1646090534979424,349.0
 group,2,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 31%,0.30801800806496166,30.801800806496164,54.871568248356624,0.7026459702811689,192.5
@@ -514,6 +526,7 @@ group,2,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4
 group,2,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 81%,0.805950973532463,80.5950973532463,80.5950973532463,0.24609742562791034,78.5
 group,2,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 80%,0.8012621255158368,80.12621255158368,80.12621255158368,0.25892330778712686,77.0
 group,2,4,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 72%,0.720736370588878,72.0736370588878,72.0736370588878,0.2709494154921883,98.5
+group,2,4,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 74%,0.7432634575031681,74.32634575031682,74.32634575031682,0.39439331297308156,95.5
 group,2,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 75%,0.7467052215981761,74.67052215981761,74.67052215981761,0.4000305844408608,67.5
 group,2,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 80%,0.803604938271605,80.3604938271605,80.3604938271605,0.39012345679012345,75.0
 group,2,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 92%,0.9198645598194131,91.9864559819413,91.9864559819413,0.5643340857787811,309.0
@@ -554,6 +567,7 @@ group,2,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5
 group,2,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 65%,0.6505821004123211,65.05821004123212,65.05821004123212,0.3783652680087315,268.0
 group,2,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,2,5,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,2,5,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,5,gs_main,Culture,Culture,Culture 96%,0.9586466165413533,95.86466165413533,95.86466165413533,0.12531328320802004,366.0
 group,2,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,5,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,Culture,Culture,Culture 100%,0.998780487804878,99.8780487804878,99.8780487804878,0.24390243902439024,402.0
@@ -594,6 +608,7 @@ group,2,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6
 group,2,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 80%,0.8004750593824228,80.04750593824228,80.04750593824228,0.11876484560570072,253.0
 group,2,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,6,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
+group,2,6,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,6,gs_main,Culture,Culture,Culture 100%,1.0,100.0,100.0,0.0,
 group,2,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,Culture,Culture,Culture 52%,0.523219814241486,52.3219814241486,77.39938080495355,0.6191950464396285,101.0
@@ -634,6 +649,7 @@ group,2,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7
 group,2,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,2,7,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 94%,0.9378531073446328,93.78531073446328,93.78531073446328,0.423728813559322,310.0
+group,2,7,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 88%,0.8827428945292205,88.27428945292205,88.27428945292205,0.46952873939230666,284.5
 group,2,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 88%,0.8765327992691755,87.65327992691755,87.65327992691755,0.29689750887178945,296.0
 group,2,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 96%,0.9593752264985141,95.93752264985142,95.93752264985142,0.40153656592012754,346.5
 group,2,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Culture,Culture,Culture 100%,0.998780487804878,99.8780487804878,99.8780487804878,0.12195121951219512,3.0
@@ -674,6 +690,7 @@ group,3,0,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,0
 group,3,0,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 90%,0.8977505112474438,89.77505112474438,89.77505112474438,0.9202453987730062,340.0
 group,3,0,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 99%,0.9940119760479041,99.40119760479041,99.40119760479041,0.09980039920159679,495.0
 group,3,0,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,0,gs_main,Conquest,Conquest,Conquest 46%,0.45733568075117376,45.733568075117375,56.70579029733959,0.39514866979655716,183.0
+group,3,0,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,0,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,3,0,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 41%,0.4144887916894478,41.44887916894478,47.663568434481505,0.3900127574266448,170.5
 group,3,0,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,0,gs_main,Spaceship,Spaceship,Spaceship 78%,0.7824427480916032,78.24427480916032,78.24427480916032,0.2544529262086514,100.0
 group,3,0,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,0,gs_main,Culture,Culture,Culture 53%,0.5280130920292645,52.801309202926454,64.28090103966115,0.7364266461301502,168.0
@@ -714,6 +731,7 @@ group,3,1,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,1
 group,3,1,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 65%,0.6469508448540708,64.69508448540708,64.69508448540708,0.27726574500768053,233.5
 group,3,1,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 59%,0.5850732906436831,58.50732906436831,58.50732906436831,0.22634619080857432,263.0
 group,3,1,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 56%,0.5581340956340957,55.813409563409564,55.813409563409564,0.3755197505197505,220.0
+group,3,1,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,1,gs_main,Conquest,Conquest,Conquest 61%,0.605477623178502,60.5477623178502,60.5477623178502,0.2518301981106408,239.5
 group,3,1,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 56%,0.5576517139807212,55.76517139807213,66.22362412013516,0.2833224980536627,197.5
 group,3,1,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,2,2,1,gs_main,Conquest,Conquest,Conquest 77%,0.7692940177482239,76.9294017748224,76.9294017748224,0.36088454086636207,314.0
 group,3,1,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,1,gs_main,Conquest,Conquest,Conquest 100%,1.0,100.0,100.0,0.0,
@@ -754,6 +772,7 @@ group,3,2,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,2
 group,3,2,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 81%,0.8112035646171243,81.12035646171243,81.12035646171243,0.29072220628196255,280.5
 group,3,2,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8912175648702595,89.12175648702595,89.12175648702595,0.09980039920159679,392.0
 group,3,2,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 69%,0.6862362596815903,68.62362596815903,68.62362596815903,0.3654459467263872,242.0
+group,3,2,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 69%,0.6916627339940223,69.16627339940223,69.16627339940223,0.28157936133396255,251.0
 group,3,2,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,2,gs_main,Spaceship,Spaceship,Spaceship 68%,0.6797968897005922,67.97968897005921,67.97968897005921,0.30392753703396236,223.5
 group,3,2,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,2,gs_main,Spaceship,Spaceship,Spaceship 70%,0.7,70.0,70.0,0.3225806451612903,217.0
 group,3,2,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,2,gs_main,Culture,Culture,Culture 53%,0.5264595837940294,52.645958379402934,66.34788145632601,0.2228617122097615,208.0
@@ -794,6 +813,7 @@ group,3,3,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,3
 group,3,3,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,3,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,3,3,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 50%,0.5,50.0,100.0,0.0,
 group,3,3,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 70%,0.7005905832518735,70.05905832518735,70.05905832518735,0.2855164548712936,246.0
+group,3,3,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,3,gs_main,Culture,Culture,Culture 88%,0.8806366047745358,88.06366047745358,88.06366047745358,0.1326259946949602,287.0
 group,3,3,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,3,gs_main,Culture,Culture,Culture 89%,0.8895899053627762,88.95899053627761,88.95899053627761,0.15772870662460567,247.0
 group,3,3,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,3,gs_main,Culture,Culture,Culture 87%,0.8655575516155067,86.55575516155068,86.55575516155068,0.18823713192220573,292.5
 group,3,3,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,3,gs_main,Culture,Culture,Culture 99%,0.9903614457831325,99.03614457831324,99.03614457831324,0.24096385542168677,393.0
@@ -834,6 +854,7 @@ group,3,4,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,4
 group,3,4,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 60%,0.6048111103751297,60.481111037512974,62.637168532379505,0.23707800666799145,177.0
 group,3,4,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,4,gs_main,Conquest,Conquest,Conquest 68%,0.6790045713219517,67.90045713219517,67.90045713219517,0.2582197166580038,262.0
 group,3,4,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 71%,0.7073293632615666,70.73293632615666,70.73293632615666,0.27637807298824246,107.0
+group,3,4,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 72%,0.7169608959132512,71.69608959132512,71.69608959132512,0.7553675178807598,107.0
 group,3,4,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,4,gs_main,Spaceship,Spaceship,Spaceship 84%,0.8359904058139618,83.59904058139618,83.59904058139618,0.2685797588527192,61.5
 group,3,4,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,4,gs_main,Spaceship,Spaceship,Spaceship 71%,0.7052879235425848,70.52879235425848,70.52879235425848,0.26663001580956464,113.0
 group,3,4,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,4,gs_main,Conquest,Conquest,Conquest 83%,0.8273121387283237,82.73121387283237,82.73121387283237,0.710365655647204,212.5
@@ -874,6 +895,7 @@ group,3,5,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,5
 group,3,5,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 50%,0.5,50.0,100.0,0.0,
 group,3,5,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,3,5,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,5,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,5,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,5,gs_main,UnitedNations,United Nations,United Nations 55%,0.5533161930069769,55.33161930069769,92.86663330629993,0.6255068762617984,253.0
@@ -914,6 +936,7 @@ group,3,6,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,6
 group,3,6,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 100%,1.0,100.0,100.0,0.0,
 group,3,6,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,6,gs_main,Spaceship,Spaceship,Spaceship 98%,0.9768722466960352,97.68722466960352,97.68722466960352,0.22026431718061676,342.0
 group,3,6,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
+group,3,6,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,6,gs_main,Culture,Culture,Culture 48%,0.4785100286532951,47.85100286532951,93.07488346234445,0.29252020698798276,318.5
 group,3,6,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,6,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,1,1,6,gs_main,UnitedNations,United Nations,United Nations 100%,1.0,100.0,100.0,0.0,
 group,3,6,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,6,gs_main,UnitedNations,United Nations,United Nations 50%,0.5042930141183417,50.42930141183417,93.6607424598691,0.7789517614845125,263.0
@@ -954,6 +977,7 @@ group,3,7,Gemma-4-Simple-Per-5,Gemma-4-Simple,Per-5,Gemma-4-Simple | Per-5,2,2,7
 group,3,7,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 89%,0.8940298507462687,89.40298507462687,89.40298507462687,0.44776119402985076,237.0
 group,3,7,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 90%,0.9030837004405287,90.30837004405286,90.30837004405286,0.11013215859030838,366.0
 group,3,7,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 54%,0.5449387348935354,54.49387348935354,55.69579656627661,0.365072894686361,176.5
+group,3,7,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 63%,0.6340520706643854,63.40520706643854,63.40520706643854,0.2631705523833082,137.5
 group,3,7,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,2,2,7,gs_main,Spaceship,Spaceship,Spaceship 68%,0.6776610644257702,67.76610644257703,67.76610644257703,0.6162464985994398,111.5
 group,3,7,GPT-6-Astra-Simple-Per-5,GPT-6-Astra-Simple,Per-5,GPT-6-Astra-Simple | Per-5,3,3,7,gs_main,Spaceship,Spaceship,Spaceship 66%,0.6612588362120116,66.12588362120117,67.56778353638352,0.26596639022860785,129.33333333333334
 group,3,7,Nemotron-3-Super-Simple,Nemotron-3-Super-Simple,Every-turn,Nemotron-3-Super-Simple | Every-turn,2,2,7,gs_main,Conquest,Conquest,Conquest 39%,0.3947634724439976,39.47634724439976,60.373502605450085,0.7100097909725919,143.0

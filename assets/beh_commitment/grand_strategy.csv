@@ -244,6 +244,13 @@ group,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Ever
 group,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,48,24,grand_strategy_share_spaceship,Spaceship,,,0.4337479749459006,43.37479749459006,,,
 group,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,48,24,gs_switches,,,,,0.19828854101681836,,,
 group,GPT-6.1-Sol-Simple,GPT-6.1-Sol-Simple,Every-turn,GPT-6.1-Sol-Simple | Every-turn,48,24,gs_pivot,,,,,207.08,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,gs_main,Spaceship,Spaceship,Spaceship 46%,0.4561681159539512,45.61681159539512,88.01391608402461,0.19852802521349155,237.75
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,grand_strategy_share_conquest,Conquest,,,0.09496153476547402,9.496153476547402,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,grand_strategy_share_culture,Culture,,,0.3027416934819478,30.27416934819478,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.14612865579862697,14.612865579862698,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,grand_strategy_share_spaceship,Spaceship,,,0.4561681159539512,45.61681159539512,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,gs_switches,,,,,0.19852802521349155,,,
+group,GPT-6.1-Sol-Simple-Agentic,GPT-6.1-Sol-Simple,Agentic,GPT-6.1-Sol-Simple | Agentic,48,24,gs_pivot,,,,,237.75,,,
 group,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,48,24,gs_main,Spaceship,Spaceship,Spaceship 44%,0.43821737523930837,43.821737523930835,84.68452101849806,0.23414374010658887,224.06666666666666
 group,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.10863921389497663,10.863921389497664,,,
 group,GPT-6.1-Sol-Simple-Per-5,GPT-6.1-Sol-Simple,Per-5,GPT-6.1-Sol-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.28390980291100837,28.390980291100835,,,

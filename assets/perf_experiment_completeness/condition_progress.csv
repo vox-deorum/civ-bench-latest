@@ -1,7 +1,7 @@
 experiment,player_type,completed_games,required_games,completed_at
 claude-opus-5.5-standard-fixed,Opus-5.5-Simple,12,24,
 claude-opus-5.5-standard-fixed-per-5,Opus-5.5-Simple-Per-5,24,24,2026-10-04T11:01:52.522000Z
-claude-sonnet-5.5-standard-fixed,Sonnet-5.5-Simple,18,24,
+claude-sonnet-5.5-standard-fixed,Sonnet-5.5-Simple,21,24,
 claude-sonnet-5.5-standard-fixed-per-5,Sonnet-5.5-Simple-Per-5,24,24,2026-10-12T07:45:31.897000Z
 deepseek-v4-flash-standard-fixed,DeepSeek-V4-Flash-Simple,24,24,2026-08-19T17:17:44.232000Z
 deepseek-v4-flash-standard-fixed-per-5,DeepSeek-V4-Flash-Simple-Per-5,24,24,2026-08-11T13:08:00.480000Z
@@ -14,13 +14,14 @@ glm-5.2-standard-fixed,GLM-5.2-Simple,24,24,2026-08-18T11:25:27.346000Z
 glm-5.2-standard-fixed-per-5,GLM-5.2-Simple-Per-5,24,24,2026-07-10T12:35:47.815000Z
 glm-5.3-flash-standard-fixed,GLM-5.3-Flash-Simple,24,24,2026-09-21T09:05:07.797000Z
 glm-5.3-flash-standard-fixed-per-5,GLM-5.3-Flash-Simple-Per-5,24,24,2026-09-06T17:21:52.560000Z
-glm-5.3-standard-fixed,GLM-5.3-Simple,11,24,
+glm-5.3-standard-fixed,GLM-5.3-Simple,12,24,
 glm-5.3-standard-fixed-per-5,GLM-5.3-Simple-Per-5,24,24,2026-10-02T12:26:26.169000Z
+gpt-6-astra-standard-fixed-files-per-5,GPT-6-Astra-Simple-Agentic,2,24,
 gpt-6-astra-standard-fixed-per-5,GPT-6-Astra-Simple-Per-5,24,24,2026-10-17T03:36:46.927000Z
 gpt-6-luna-standard-fixed,GPT-6-Luna-Simple,24,24,2026-10-07T03:17:50.711000Z
 gpt-6-luna-standard-fixed-per-5,GPT-6-Luna-Simple-Per-5,24,24,2026-09-30T12:28:15.905000Z
 gpt-6.1-sol-standard-fixed,GPT-6.1-Sol-Simple,24,24,2026-10-11T22:43:51.924000Z
-gpt-6.1-sol-standard-fixed-files-per-5,GPT-6.1-Sol-Simple-Agentic,21,24,
+gpt-6.1-sol-standard-fixed-files-per-5,GPT-6.1-Sol-Simple-Agentic,24,24,2026-10-28T08:25:22.126000Z
 gpt-6.1-sol-standard-fixed-per-5,GPT-6.1-Sol-Simple-Per-5,24,24,2026-10-08T19:48:31.896000Z
 jev-1.13-standard-fixed,Jev!,24,24,2026-10-17T17:22:35.357000Z
 kimi-k2.6-standard-fixed,Kimi-K2.6-Simple,24,24,2026-06-19T18:50:14.885000Z
@@ -29,7 +30,7 @@ kimi-k2.7-standard-fixed-per-5,Kimi-K2.7-Simple-Per-5,24,24,2026-06-25T08:08:39.
 minimax-m2.7-standard-fixed,MiniMax-M2.7-Simple,24,24,2026-06-13T15:23:23.558000Z
 minimax-m2.7-standard-fixed-per-5,MiniMax-M2.7-Simple-Per-5,24,24,2026-06-18T02:05:06.309000Z
 minimax-m3-standard-fixed-per-5,MiniMax-M3-Simple-Per-5,24,24,2026-07-19T00:02:17.467000Z
-minimax-m3.1-flash-standard-fixed-per-5,MiniMax-M3.1-Flash-Simple-Per-5,4,24,
+minimax-m3.1-flash-standard-fixed-per-5,MiniMax-M3.1-Flash-Simple-Per-5,7,24,
 nemotron-3-standard-fixed,Nemotron-3-Super-Simple,24,24,2026-06-01T06:49:17.714000Z
 nemotron-3-standard-fixed-per-5,Nemotron-3-Super-Simple-Per-5,24,24,2026-09-01T00:07:31.285000Z
 oss-120b-standard-fixed,GPT-OSS-120B-Simple,24,24,2026-09-22T15:46:08.859000Z
@@ -39,6 +40,7 @@ qwen-3.5-standard-fixed-per-5,Qwen-3.5-Simple-Per-5,24,24,2026-10-01T14:21:34.50
 qwen-3.6-27b-standard-fixed,Qwen-3.6-27B-Simple,24,24,2026-07-07T07:34:42.216000Z
 qwen-3.6-27b-standard-fixed-per-5,Qwen-3.6-27B-Simple-Per-5,24,24,2026-07-02T19:11:21.086000Z
 qwen-3.8-27b-standard-fixed,Qwen-3.8-27B-Simple,24,24,2026-09-08T11:29:06.023000Z
+qwen-3.8-27b-standard-fixed-files-per-5,Qwen-3.8-27B-Simple-Agentic,1,24,
 qwen-3.8-27b-standard-fixed-per-5,Qwen-3.8-27B-Simple-Per-5,24,24,2026-09-16T17:40:37.901000Z
 qwen-3.8-flash-next-standard-fixed,Qwen-3.8-Flash-Next-Simple,24,24,2026-10-08T14:21:09.828000Z
 qwen-3.8-flash-next-standard-fixed-per-5,Qwen-3.8-Flash-Next-Simple-Per-5,24,24,2026-10-01T10:56:07.194000Z

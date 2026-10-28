@@ -1,5 +1,6 @@
 experiment,game_id,player_id,player_type,valid_turn_count,failed_turn_count,failure_pct,failed_turns,excluded_game
 claude-opus-5.5-standard-fixed-per-5,d9c10933-49a0-4024-9dda-6ac9a13f8251,6,Opus-5.5-Simple-Per-5,431,1,0.0023,430,False
+claude-sonnet-5.5-standard-fixed,75ccc385-65ed-4e92-8db2-b4259ae352f3,1,Sonnet-5.5-Simple,428,1,0.0023,428,False
 claude-sonnet-5.5-standard-fixed,eae3a765-da92-4544-b3d4-05fb951b20b8,2,Sonnet-5.5-Simple,374,48,0.1283,"326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373",False
 claude-sonnet-5.5-standard-fixed,eae3a765-da92-4544-b3d4-05fb951b20b8,5,Sonnet-5.5-Simple,355,29,0.0817,"326,327,328,329,330,331,332,333,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372",False
 deepseek-v4-flash-standard-fixed,06e0af08-c8e1-4d29-85de-86905fa60bba,4,DeepSeek-V4-Flash-Simple,378,1,0.0026,2,False
