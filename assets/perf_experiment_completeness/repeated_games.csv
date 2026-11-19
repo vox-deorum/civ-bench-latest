@@ -1,1 +1,2 @@
 experiment,seed,seating_rotation,n_games,game_ids,keep_candidate_game_id,extra_game_ids
+claude-sonnet-5.5-standard-fixed-files-per-5,3,7,2,"87c1cdc6-decc-44c4-a49f-cbe59ebda883,d28caa3c-8b95-449a-8167-01b191a9ff61",87c1cdc6-decc-44c4-a49f-cbe59ebda883,d28caa3c-8b95-449a-8167-01b191a9ff61

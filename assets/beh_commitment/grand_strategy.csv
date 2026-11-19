@@ -41,6 +41,13 @@ group,Sonnet-5.5-Simple,Sonnet-5.5-Simple,Every-turn,Sonnet-5.5-Simple | Every-t
 group,Sonnet-5.5-Simple,Sonnet-5.5-Simple,Every-turn,Sonnet-5.5-Simple | Every-turn,48,24,grand_strategy_share_spaceship,Spaceship,,,0.16218775621677317,16.218775621677317,,,
 group,Sonnet-5.5-Simple,Sonnet-5.5-Simple,Every-turn,Sonnet-5.5-Simple | Every-turn,48,24,gs_switches,,,,,0.1183536606081831,,,
 group,Sonnet-5.5-Simple,Sonnet-5.5-Simple,Every-turn,Sonnet-5.5-Simple | Every-turn,48,24,gs_pivot,,,,,230.5909090909091,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,gs_main,Culture,Culture,Culture 78%,0.7788685590957084,77.88685590957084,92.2689381614378,0.10642607071005843,255.42857142857142
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,grand_strategy_share_conquest,Conquest,,,0.13342871416108182,13.342871416108183,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,grand_strategy_share_culture,Culture,,,0.7788685590957084,77.88685590957084,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.03137490007993605,3.137490007993605,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,grand_strategy_share_spaceship,Spaceship,,,0.05632782666327369,5.632782666327369,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,gs_switches,,,,,0.10642607071005843,,,
+group,Sonnet-5.5-Simple-Agentic,Sonnet-5.5-Simple,Agentic,Sonnet-5.5-Simple | Agentic,48,24,gs_pivot,,,,,255.42857142857142,,,
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,48,24,gs_main,Culture,Culture,Culture 59%,0.5937760723551403,59.37760723551403,84.27728709820782,0.1792363651453596,208.83333333333334
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.10715867836184811,10.715867836184811,,,
 group,Sonnet-5.5-Simple-Per-5,Sonnet-5.5-Simple,Per-5,Sonnet-5.5-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.5937760723551403,59.37760723551403,,,
@@ -153,6 +160,13 @@ group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,grand_strategy_share_spaceship,Spaceship,,,0.30505857032104744,30.505857032104746,,,
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,gs_switches,,,,,0.12035079640929587,,,
 group,DeepSeek-V4-Flash-Simple-Per-5,DeepSeek-V4-Flash-Simple,Per-5,DeepSeek-V4-Flash-Simple | Per-5,48,24,gs_pivot,,,,,259.1764705882353,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,gs_main,Spaceship,Spaceship,Spaceship 35%,0.3532331578695912,35.32331578695912,83.80026229060218,0.21426902777228932,203.97058823529412
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.1471078510668214,14.71078510668214,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.29711594390719026,29.71159439071903,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.2025430471563971,20.25430471563971,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,grand_strategy_share_spaceship,Spaceship,,,0.3532331578695912,35.32331578695912,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,gs_switches,,,,,0.21426902777228932,,,
+group,DeepSeek-V4.1-Flash-1017-Simple-Per-5,DeepSeek-V4.1-Flash-1017-Simple,Per-5,DeepSeek-V4.1-Flash-1017-Simple | Per-5,48,24,gs_pivot,,,,,203.97058823529412,,,
 group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,gs_main,Culture,Culture,Culture 35%,0.34506298653370515,34.506298653370514,88.75232955525802,0.15683885636768544,197.8695652173913
 group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_conquest,Conquest,,,0.17309415943999906,17.309415943999905,,,
 group,DeepSeek-V4.1-Flash-Simple,DeepSeek-V4.1-Flash-Simple,Every-turn,DeepSeek-V4.1-Flash-Simple | Every-turn,48,24,grand_strategy_share_culture,Culture,,,0.34506298653370515,34.506298653370514,,,
@@ -202,6 +216,13 @@ group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | E
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,48,24,grand_strategy_share_spaceship,Spaceship,,,0.2183613577860466,21.83613577860466,,,
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,48,24,gs_switches,,,,,0.8403777114900217,,,
 group,Qwen-3.8-27B-Simple,Qwen-3.8-27B-Simple,Every-turn,Qwen-3.8-27B-Simple | Every-turn,48,24,gs_pivot,,,,,165.475,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,gs_main,Culture,Culture,Culture 42%,0.42160295269286235,42.16029526928624,79.39442968238292,0.2818738807234425,173.5151515151515
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,grand_strategy_share_conquest,Conquest,,,0.15509450617969678,15.509450617969677,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,grand_strategy_share_culture,Culture,,,0.42160295269286235,42.16029526928624,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.14189805755078067,14.189805755078067,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,grand_strategy_share_spaceship,Spaceship,,,0.2814044835766602,28.14044835766602,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,gs_switches,,,,,0.2818738807234425,,,
+group,Qwen-3.8-27B-Simple-Agentic,Qwen-3.8-27B-Simple,Agentic,Qwen-3.8-27B-Simple | Agentic,48,24,gs_pivot,,,,,173.5151515151515,,,
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,48,24,gs_main,Culture,Culture,Culture 31%,0.314180277322301,31.418027732230104,67.60323486682434,0.6332697173883168,190.47727272727272
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.15749012012991184,15.749012012991185,,,
 group,Qwen-3.8-27B-Simple-Per-5,Qwen-3.8-27B-Simple,Per-5,Qwen-3.8-27B-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.314180277322301,31.418027732230104,,,
@@ -244,13 +265,13 @@ group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-t
 group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,48,24,grand_strategy_share_spaceship,Spaceship,,,0.7199490467876491,71.99490467876491,,,
 group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,48,24,gs_switches,,,,,0.2162707023611925,,,
 group,GPT-6-Luna-Simple,GPT-6-Luna-Simple,Every-turn,GPT-6-Luna-Simple | Every-turn,48,24,gs_pivot,,,,,247.47826086956522,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,gs_main,Spaceship,Spaceship,Spaceship 64%,0.6449359718797574,64.49359718797574,81.85455864543997,0.20875869304599837,240.92592592592592
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,grand_strategy_share_conquest,Conquest,,,0.07688059189020018,7.688059189020017,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,grand_strategy_share_culture,Culture,,,0.17260436571231005,17.260436571231004,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,grand_strategy_share_unitednations,UnitedNations,,,0.10557907051773244,10.557907051773244,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,grand_strategy_share_spaceship,Spaceship,,,0.6449359718797574,64.49359718797574,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,gs_switches,,,,,0.20875869304599837,,,
-group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,44,22,gs_pivot,,,,,240.92592592592592,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,gs_main,Spaceship,Spaceship,Spaceship 66%,0.660603311861088,66.0603311861088,81.97454585545101,0.20595393562723796,250.66666666666666
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,grand_strategy_share_conquest,Conquest,,,0.07047387589935016,7.047387589935016,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,grand_strategy_share_culture,Culture,,,0.16320154516983076,16.320154516983077,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,grand_strategy_share_unitednations,UnitedNations,,,0.1057212670697311,10.57212670697311,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,grand_strategy_share_spaceship,Spaceship,,,0.660603311861088,66.0603311861088,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,gs_switches,,,,,0.20595393562723796,,,
+group,GPT-6-Luna-Simple-Agentic,GPT-6-Luna-Simple,Agentic,GPT-6-Luna-Simple | Agentic,48,24,gs_pivot,,,,,250.66666666666666,,,
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,48,24,gs_main,Spaceship,Spaceship,Spaceship 76%,0.758866633571069,75.8866633571069,90.83777827293788,0.0842272389974603,273.6875
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,48,24,grand_strategy_share_conquest,Conquest,,,0.0827875947763191,8.27875947763191,,,
 group,GPT-6-Luna-Simple-Per-5,GPT-6-Luna-Simple,Per-5,GPT-6-Luna-Simple | Per-5,48,24,grand_strategy_share_culture,Culture,,,0.10894876912840985,10.894876912840985,,,

@@ -8,13 +8,13 @@
   "seedCount": 3,
   "seatingSeed": 0,
   "basePerm": [
-    0,
+    6,
     1,
     4,
     5,
     2,
     3,
-    6,
+    0,
     7
   ],
   "consumeOrder": [
@@ -120,6 +120,26 @@
       "0": {
         "status": "completed",
         "gameID": "5c5a2b9c-9586-4e1d-a4a9-e0da8703dbb8"
+      }
+    },
+    "5": {
+      "0": {
+        "status": "completed",
+        "gameID": "c3a422ac-5695-4a3d-b339-fbf1b518df53"
+      },
+      "2": {
+        "status": "completed",
+        "gameID": "00a7a0ee-d06d-4eaa-ba6e-e3cf255bc02b"
+      }
+    },
+    "1": {
+      "1": {
+        "status": "completed",
+        "gameID": "974c4eac-7775-4e0c-acf1-f0b788a78ed5"
+      },
+      "2": {
+        "status": "completed",
+        "gameID": "9d2d2cf7-9c11-4afe-bce1-3d3ba1283589"
       }
     },
     "4": {

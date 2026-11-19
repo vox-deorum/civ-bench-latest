@@ -1,13 +1,13 @@
 experiment,required_games,present_games,missing_games,completeness_pct,repeated_slots,off_cycle_games,excluded_games,failed_turn_count,avg_failure_count,failure_pct,warning
-claude-opus-5.5-standard-fixed,24,16,8,0.6667,0,0,0,0.0,0.0,0.0,8 missing slot(s)
+claude-opus-5.5-standard-fixed,24,19,5,0.7917,0,0,0,0.0,0.0,0.0,5 missing slot(s)
 claude-opus-5.5-standard-fixed-per-5,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 claude-sonnet-5.5-standard-fixed,24,24,0,1.0,0,0,0,78.0,1.625,0.0042,78 failed decision turn(s)
-claude-sonnet-5.5-standard-fixed-files-per-5,24,18,6,0.75,0,0,0,2.0,0.0556,0.0001,6 missing slot(s); 2 failed decision turn(s)
+claude-sonnet-5.5-standard-fixed-files-per-5,24,24,1,0.9583,1,0,0,2.0,0.0417,0.0001,1 missing slot(s); 1 repeated slot(s); treatment seat counts differ from expected 2; 2 failed decision turn(s)
 claude-sonnet-5.5-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 deepseek-v4-flash-standard-fixed,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 deepseek-v4-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
-deepseek-v4.1-flash-1017-standard-fixed-files-per-5,24,2,22,0.0833,0,0,0,0.0,0.0,0.0,22 missing slot(s)
-deepseek-v4.1-flash-1017-standard-fixed-per-5,24,21,3,0.875,0,0,0,0.0,0.0,0.0,3 missing slot(s)
+deepseek-v4.1-flash-1017-standard-fixed-files-per-5,24,6,18,0.25,0,0,0,0.0,0.0,0.0,18 missing slot(s)
+deepseek-v4.1-flash-1017-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 deepseek-v4.1-flash-standard-fixed,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 deepseek-v4.1-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 gemma-4-standard-fixed,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
@@ -17,12 +17,12 @@ glm-5.2-standard-fixed,24,24,0,1.0,0,0,0,60.0,1.25,0.0033,60 failed decision tur
 glm-5.2-standard-fixed-per-5,24,24,0,1.0,0,0,0,8.0,0.1667,0.0005,8 failed decision turn(s)
 glm-5.3-flash-standard-fixed,24,24,0,1.0,0,0,1,824.0,16.48,0.0441,1 game(s) excluded by decision failure cutoff; 824 failed decision turn(s)
 glm-5.3-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
-glm-5.3-standard-fixed,24,17,7,0.7083,0,0,0,2.0,0.0588,0.0002,7 missing slot(s); 2 failed decision turn(s)
+glm-5.3-standard-fixed,24,19,5,0.7917,0,0,0,2.0,0.0526,0.0001,5 missing slot(s); 2 failed decision turn(s)
 glm-5.3-standard-fixed-per-5,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)
 gpt-6-astra-standard-fixed-files-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 gpt-6-astra-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 gpt-6-luna-standard-fixed,24,24,0,1.0,0,0,0,3.0,0.0625,0.0002,3 failed decision turn(s)
-gpt-6-luna-standard-fixed-files-per-5,24,22,2,0.9167,0,0,0,0.0,0.0,0.0,2 missing slot(s)
+gpt-6-luna-standard-fixed-files-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 gpt-6-luna-standard-fixed-per-5,24,24,0,1.0,0,0,0,10.0,0.2083,0.0005,10 failed decision turn(s)
 gpt-6.1-sol-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 gpt-6.1-sol-standard-fixed-files-per-5,24,24,0,1.0,0,0,0,7.0,0.1458,0.0004,7 failed decision turn(s)
@@ -34,7 +34,7 @@ kimi-k2.7-standard-fixed-per-5,24,24,0,1.0,0,0,0,9.0,0.1875,0.0005,9 failed deci
 minimax-m2.7-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 minimax-m2.7-standard-fixed-per-5,24,24,0,1.0,0,0,0,3.0,0.0625,0.0002,3 failed decision turn(s)
 minimax-m3-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
-minimax-m3.1-flash-standard-fixed-files-per-5,24,7,17,0.2917,0,0,0,0.0,0.0,0.0,17 missing slot(s)
+minimax-m3.1-flash-standard-fixed-files-per-5,24,11,13,0.4583,0,0,0,0.0,0.0,0.0,13 missing slot(s)
 minimax-m3.1-flash-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 nemotron-3-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 nemotron-3-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
@@ -46,7 +46,7 @@ qwen-3.5-standard-fixed-per-5,24,23,1,0.9583,0,0,0,7.0,0.1522,0.0004,1 missing s
 qwen-3.6-27b-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 qwen-3.6-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
-qwen-3.8-27b-standard-fixed-files-per-5,24,20,4,0.8333,0,0,0,0.0,0.0,0.0,4 missing slot(s)
+qwen-3.8-27b-standard-fixed-files-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-27b-standard-fixed-per-5,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-flash-next-standard-fixed,24,24,0,1.0,0,0,0,0.0,0.0,0.0,ok
 qwen-3.8-flash-next-standard-fixed-per-5,24,24,0,1.0,0,0,0,1.0,0.0208,0.0001,1 failed decision turn(s)

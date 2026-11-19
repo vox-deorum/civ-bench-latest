@@ -50,7 +50,7 @@
 <p>Compare how well win-probability estimators predict game outcomes, since these estimates underpin the strength scores used to evaluate strategists.</p>
 <section aria-labelledby="section-pred-metrics">
 <h2 id="section-pred-metrics">Prediction quality<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-pred-metrics" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-pred-metrics">Measures how well each estimator identifies likely winners and matches observed outcomes (discrimination and calibration).</span></span></h2>
-<p>attention performs best on roc auc at <strong>0.8583</strong> using <strong>1077</strong> games; scores range from <strong>0.8103</strong> to <strong>0.8583</strong>.</p>
+<p>attention performs best on roc auc at <strong>0.8581</strong> using <strong>1151</strong> games; scores range from <strong>0.8105</strong> to <strong>0.8581</strong>.</p>
 <p><strong>metrics</strong></p>
 <div class="table-scroll" role="region" tabindex="0">
 <table class="dataframe">
@@ -68,30 +68,30 @@
   <tbody>
     <tr>
       <td>score</td>
-      <td>3510744</td>
-      <td>1077</td>
-      <td>0.810267</td>
-      <td>0.0908339</td>
-      <td>0.301903</td>
-      <td>0.660493</td>
+      <td>3748880</td>
+      <td>1151</td>
+      <td>0.810545</td>
+      <td>0.0907852</td>
+      <td>0.301712</td>
+      <td>0.660516</td>
     </tr>
     <tr>
       <td>attention</td>
-      <td>3510744</td>
-      <td>1077</td>
-      <td>0.858294</td>
-      <td>0.0805379</td>
-      <td>0.264812</td>
-      <td>0.690905</td>
+      <td>3748880</td>
+      <td>1151</td>
+      <td>0.858067</td>
+      <td>0.0804958</td>
+      <td>0.26479</td>
+      <td>0.691223</td>
     </tr>
     <tr>
       <td>xgboost</td>
-      <td>3510744</td>
-      <td>1077</td>
-      <td>0.848778</td>
-      <td>0.0849514</td>
-      <td>0.276814</td>
-      <td>0.684964</td>
+      <td>3748880</td>
+      <td>1151</td>
+      <td>0.848578</td>
+      <td>0.0848964</td>
+      <td>0.276867</td>
+      <td>0.6853</td>
     </tr>
   </tbody>
 </table>
@@ -107,11 +107,11 @@
 </section>
 <section aria-labelledby="section-pred-compare">
 <h2 id="section-pred-compare">Estimator agreement<span class="report-help"><button type="button" class="help-toggle" aria-label="Details" aria-describedby="help-section-pred-compare" aria-expanded="false">?</button><span class="help-text" role="tooltip" id="help-section-pred-compare">Shows how closely estimators agree on win probabilities and on the within-turn ranking of players.</span></span></h2>
-<p>attention and xgboost agree most on player rank (Spearman <strong>0.894</strong>); agreement ranges from <strong>0.854</strong> to <strong>0.894</strong> across <strong>3,510,744</strong> shared predictions.</p>
+<p>attention and xgboost agree most on player rank (Spearman <strong>0.894</strong>); agreement ranges from <strong>0.854</strong> to <strong>0.894</strong> across <strong>3,748,880</strong> shared predictions.</p>
 <figure><img src="assets/pred_compare/rank_agreement.png" alt="pred_compare: rank_agreement"><figcaption class="caption">pred_compare: rank_agreement</figcaption></figure>
 <details class="downloads">
 <summary>Downloads and supporting files (3)</summary>
-<p class="provenance"><strong>Provenance:</strong> Module: prediction.compare; n_models: 3; n_rows: 3510744</p>
+<p class="provenance"><strong>Provenance:</strong> Module: prediction.compare; n_models: 3; n_rows: 3748880</p>
 <ul>
 <li><a href="assets/pred_compare/pairs.csv">Table: pairs (CSV)</a></li>
 <li><a href="assets/pred_compare/prob_correlation.csv">Table: prob_correlation (CSV)</a></li>
